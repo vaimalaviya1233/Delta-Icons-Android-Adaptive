@@ -6,11 +6,11 @@ android {
 	namespace 'website.leifs.delta'
 
 	defaultConfig {
-		applicationId "website.leifs.delta"
+		applicationId "website.leifs.delta.adaptive"
 		minSdkVersion rootProject.ext.MinSdk
 		targetSdkVersion rootProject.ext.TargetSdk
 		versionCode 180001
-		versionName "1.8.0-beta1"
+		versionName "0.0.1"
 		multiDexEnabled true
 
 		// Naming app bundles
