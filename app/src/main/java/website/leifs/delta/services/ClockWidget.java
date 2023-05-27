@@ -1,4 +1,4 @@
-package website.leifs.delta.services;
+package website.leifs.delta.adaptive.services;
 
 import candybar.lib.services.CandyBarWidgetService;
 

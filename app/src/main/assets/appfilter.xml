@@ -11694,9 +11694,9 @@
 	<item component="ComponentInfo{wb.mobile.cx.client.droid/crc6482ea12e3f319a2d7.SplashScreen}" drawable="whataburger" />
 	<item component="ComponentInfo{web.tradenewton.com/web.tradenewton.com.LauncherActivity}" drawable="newton" />
 	<item component="ComponentInfo{web.tradenewton.com/web.tradenewton.com.MainActivity}" drawable="newton" />
-	<item component="ComponentInfo{website.leifs.delta.foss/website.leifs.delta.activities.SplashActivity}" drawable="delta_alt_2" />
-	<item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.SplashActivity}" drawable="delta" />
-	<item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.StartActivity}" drawable="delta" />
+	<item component="ComponentInfo{website.leifs.delta.adaptive.foss/website.leifs.delta.adaptive.activities.SplashActivity}" drawable="delta_alt_2" />
+	<item component="ComponentInfo{website.leifs.delta.adaptive/website.leifs.delta.adaptive.activities.SplashActivity}" drawable="delta" />
+	<item component="ComponentInfo{website.leifs.delta.adaptive/website.leifs.delta.adaptive.activities.StartActivity}" drawable="delta" />
 	<item component="ComponentInfo{widget.dd.com.overdrop.free/widget.dd.com.overdrop.activity.SplashScreenActivity}" drawable="overdrop" />
 	<item component="ComponentInfo{widget.dd.com.overdrop.free/widget.dd.com.overdrop.free.alias.DefaultIconAlias}" drawable="overdrop" />
 	<item component="ComponentInfo{wiktoria.goroch.bible_kjva.AOUSFCKLLRSGYXYC/king.james.bible.android.activity.LaunchActivity}" drawable="bible" />

@@ -44,7 +44,7 @@
         CONFIG: HOME
     -->
     <!-- Home title. This will be shown in the home page -->
-    <string name="home_title">Delta</string>
+    <string name="home_title">Delta Adaptive</string>
 
     <!-- Home image
         If you want to use an image from url, just put the url here
@@ -54,7 +54,7 @@
         If you want to use a solid color, you can put the hex color code here
         ex: <string name="home_image">#000000</string>
         -->
-    <string name="home_image">ic_home_header</string>
+    <string name="home_image">#000000</string>
 
     <!-- Home image style
         Available choices:
@@ -74,7 +74,7 @@
         -->
     <string name="home_description">
         <![CDATA[
-            <p>Delta is an <a href="https://github.com/Delta-Icons/android">open source</a> pastel icon pack created by <a href="https://leifs.website">Leif Niemczik</a> and maintained by <a href="https://github.com/Delta-Icons/android/graphs/contributors">awesome people</a>.</p>
+            <p>Delta Adaptive is an <a href="https://github.com/Delta-Icons/android-adaptive">open source</a> pastel icon pack maintained by <a href="https://github.com/Delta-Icons/android/graphs/contributors">awesome people</a>, forked from the original <a href="https://github.com/Delta-Icons/android">Delta icon pack</a>.</p>
             <br>
             <p>Feel free to <a href="https://discord.gg/F9RFqHN">join our Discord server</a> if you need help contributing or just want to chat with other contributors. The server is <b>not</b> intended for icon requests.</p>
         ]]>
@@ -83,12 +83,12 @@
     <!-- Link to your app's Rate and Review page.
         Leave this empty to disable the "Rate and Review" button.
         You can use special keyword `{{packageName}}`, `{{packageName}}` will be replaced with your app's package name -->
-    <string name="rate_and_review_link">https://play.google.com/store/apps/details?id=website.leifs.delta</string>
+    <string name="rate_and_review_link">https://play.google.com/store/apps/details?id=website.leifs.delta.adaptive</string>
 
     <!-- Link to your app's main page. It will be used when your user shares your app using "Share" button.
         Leave this empty to disable the "Share" button.
         You can use special keyword `{{packageName}}`, `{{packageName}}` will be replaced with your app's package name -->
-    <string name="share_link">https://play.google.com/store/apps/details?id=website.leifs.delta</string>
+    <string name="share_link">https://play.google.com/store/apps/details?id=website.leifs.delta.adaptive</string>
 
     <!-- Enable "Check for update" button.
         It needs the option "config_json" to be configured in order to work -->
@@ -97,7 +97,7 @@
     <!-- More apps at Google Play Store
         Link to Google Play Store developer page.
         If you don't want to show this, just leave this empty -->
-    <string name="google_play_dev"></string>
+    <string name="google_play_dev">https://play.google.com/store/apps/developer?id=Leif+Niemczik</string>
 
     <!-- Enables the new flat and outline styled cards everywhere -->
     <!-- Crashes Delta when true so disabling this for now -wokija -->
@@ -116,7 +116,7 @@
         If you want to use a solid color, you can put the hex color code here
         ex: <string name="navigation_view_header">#000000</string>
         -->
-    <string name="navigation_view_header">ic_nav_header</string>
+    <string name="navigation_view_header">#000000</string>
 
     <!-- Navigation view header text
         Leave empty if you don't want to show any text -->
@@ -144,7 +144,7 @@
 
     <!-- Enable if your icon pack includes adaptive icons.
         When enabled, the dashboard shows an Icon Shape changer button -->
-    <bool name="includes_adaptive_icons">false</bool>
+    <bool name="includes_adaptive_icons">true</bool>
 
     <!-- Icons section will read icons from drawable.xml same as Nova Launcher
         Put drawable.xml inside the "xml" folder -->
@@ -212,7 +212,7 @@
     <string name="premium_request_email"></string>
 
     <!-- Icon request email subjects. Leave empty to use default Subject. -->
-    <string name="regular_request_email_subject"></string>
+    <string name="regular_request_email_subject">Delta Adaptive Icon request</string>
     <string name="premium_request_email_subject"></string>
 
     <!-- API keys for Pacific Manager.
@@ -265,7 +265,7 @@
 
         If you want to use a solid color, you can put the hex color code here
         ex: <string name="about_image">#000000</string> -->
-    <string name="about_image">home</string>
+    <string name="about_image">#000000</string>
 
     <!-- About profile image
         If you want to use an image from url, just put the url here
@@ -281,7 +281,7 @@
         ex: `<![CDATA[ There are - <b>Bold</b> <i>Italic</i> <u>Underline</u> <a href="url">Link</a> ]]>` -->
     <string name="about_desc">
         <![CDATA[
-            Delta is a passion project by me, <a href="https://leifs.website">Leif Niemczik</a>, <a href="https://github.com/Delta-Icons/android">open sourced</a> and helped by <a href="https://github.com/Delta-Icons/android/graphs/contributors">awesome people</a>. Starting off as a beautification for my homescreen it has since become a top-ranking app in Google Play and was featured in the #myandroid-campaign as well as quite a few places on the internet. With over a million downloads and 7000+ icons I want to open it up to other platforms like iOS and macOS with the help of the community that built around it.
+            Delta is a passion project maintained by <a href="https://github.com/Delta-Icons/android/graphs/contributors">awesome people</a>. Starting off as a beautification for it's creators homescreen it has since become a top-ranking app on the Google Play Store and was featured in the #myandroid-campaign as well as quite a few places on the internet. With over a million downloads and 7000+ icons I want to open it up to other platforms like iOS, macOS and Linux with the help of the community that built around it.
         ]]>
     </string>
 

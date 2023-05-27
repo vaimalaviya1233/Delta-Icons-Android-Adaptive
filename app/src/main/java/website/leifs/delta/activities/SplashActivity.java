@@ -1,4 +1,4 @@
-package website.leifs.delta.activities;
+package website.leifs.delta.adaptive.activities;
 
 import androidx.annotation.NonNull;
 

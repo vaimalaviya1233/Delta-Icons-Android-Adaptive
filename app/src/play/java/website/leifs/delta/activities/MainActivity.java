@@ -1,9 +1,9 @@
-package website.leifs.delta.activities;
+package website.leifs.delta.adaptive.activities;
 
 import androidx.annotation.NonNull;
 
 import candybar.lib.activities.CandyBarMainActivity;
-import website.leifs.delta.licenses.License;
+import website.leifs.delta.adaptive.licenses.License;
 
 public class MainActivity extends CandyBarMainActivity {
 

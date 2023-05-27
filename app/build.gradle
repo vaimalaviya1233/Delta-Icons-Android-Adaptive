@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
 	compileSdkVersion rootProject.ext.CompileSdk
 
-	namespace 'website.leifs.delta'
+	namespace 'website.leifs.delta.adaptive'
 
 	defaultConfig {
 		applicationId "website.leifs.delta.adaptive"
@@ -34,13 +34,13 @@ android {
 	productFlavors {
 		play {
 			dimension "variant"
-			resValue "string", "app_name", "Delta"
+			resValue "string", "app_name", "Delta Adaptive"
 			matchingFallbacks = ["play"]
 		}
 		foss {
 			dimension "variant"
 			applicationIdSuffix '.foss'
-			resValue "string", "app_name", "Delta"
+			resValue "string", "app_name", "Delta Adaptive"
 			matchingFallbacks = ["foss"]
 		}
 	}

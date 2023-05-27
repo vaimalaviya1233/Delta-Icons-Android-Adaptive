@@ -1,4 +1,4 @@
-package website.leifs.delta.applications;
+package website.leifs.delta.adaptive.applications;
 
 import androidx.annotation.NonNull;
 import candybar.lib.applications.CandyBarApplication;

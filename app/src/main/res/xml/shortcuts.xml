@@ -10,8 +10,8 @@
         android:shortcutShortLabel="@string/navigation_view_apply">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="website.leifs.delta"
-            android:targetClass="website.leifs.delta.activities.MainActivity">
+            android:targetPackage="website.leifs.delta.adaptive"
+            android:targetClass="website.leifs.delta.adaptive.activities.MainActivity">
             <extra
                 android:name="position"
                 android:value="1" />
@@ -27,8 +27,8 @@
         android:shortcutShortLabel="@string/navigation_view_request">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="website.leifs.delta"
-            android:targetClass="website.leifs.delta.activities.MainActivity">
+            android:targetPackage="website.leifs.delta.adaptive"
+            android:targetClass="website.leifs.delta.adaptive.activities.MainActivity">
             <extra
                 android:name="position"
                 android:value="3" />
@@ -44,8 +44,8 @@
         android:shortcutShortLabel="@string/navigation_view_wallpapers">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="website.leifs.delta"
-            android:targetClass="website.leifs.delta.activities.MainActivity">
+            android:targetPackage="website.leifs.delta.adaptive"
+            android:targetClass="website.leifs.delta.adaptive.activities.MainActivity">
             <extra
                 android:name="position"
                 android:value="4" />

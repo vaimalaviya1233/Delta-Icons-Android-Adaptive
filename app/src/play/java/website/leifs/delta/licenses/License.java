@@ -1,4 +1,4 @@
-package website.leifs.delta.licenses;
+package website.leifs.delta.adaptive.licenses;
 
 import candybar.lib.items.InAppBilling;
 

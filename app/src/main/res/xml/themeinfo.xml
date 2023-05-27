@@ -3,7 +3,7 @@
 
     <!-- FOR ATOM LAUNCHER -->
 
-    <packageName>website.leifs.delta</packageName>
+    <packageName>website.leifs.delta.adaptive</packageName>
     <versionName>1.1.2</versionName>
     <versionCode>112</versionCode>
     <themeName>Delta</themeName>
