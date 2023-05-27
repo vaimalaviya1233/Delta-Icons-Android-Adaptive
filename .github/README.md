@@ -2,14 +2,14 @@
   <img width="200" src="https://github.com/Delta-Icons/android/raw/master/resources/branding/logo.svg"/>
 </p>
 
-<h2 align="center" padding="100">Delta Icons</h2>
+<h2 align="center" padding="100">Delta Icons - Adaptive</h2>
 
 <p align="center">Minimalistic pastel icon pack for Android</p>
 
 
 ## Installation
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Delta-Icons/android/releases/latest">
     <img src="https://img.shields.io/github/v/release/Delta-Icons/android?labelColor=56595b&color=a6c6ff&logo=github&logoColor=ffffff&label=release&style=for-the-badge"/>
   </a>
@@ -25,7 +25,7 @@
   <a href="https://f-droid.org/packages/website.leifs.delta.foss">
     <img src="https://img.shields.io/static/v1?labelColor=56595b&color=f9de81&logo=f-droid&logoColor=ffffff&label=f-droid&style=for-the-badge&message=get"/>
   </a>
-</p>
+</p> -->
 
 ## Contributing
 
