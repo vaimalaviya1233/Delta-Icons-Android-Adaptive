@@ -27,6 +27,51 @@
     <color name="darkColorPrimary">#222222</color>
     <color name="darkColorPrimaryDark">#111111</color>
     <color name="darkColorAccent">#ff837d</color>
+	
+	<!-- Delta Colors -->
+	<!-- Greys -->
+	<color name="delta_white">#FFF</color>
+    <color name="delta_isabelline">#ECECEC</color>
+    <color name="delta_timberwolf">#D8D8D8</color>
+	<color name="delta_lightgray">#D2D2D2</color>
+	<color name="delta_pastelgray">#CCC</color>
+	<color name="delta_ashgray">#B1B5BD</color>
+	<color name="delta_darkgray">#A0A5AF</color>
+	<color name="delta_manatee">#979797</color>
+	<color name="delta_taupegray">#83868c</color>
+	<color name="delta_davysgray">#56595b</color>
+	<color name="delta_quartz">#4A4A4A</color>
+	<color name="delta_black">#000</color>
+	<!-- Basic -->
+	<color name="delta_pastelpink">#FFD6D4</color>
+	<color name="delta_coralpink">#FF837D</color>
+	<color name="delta_fuzzywuzzy">#BA6561</color>
+	<color name="delta_tan">#FFD6D4</color>
+	<color name="delta_shadow">#8E6F60</color>
+	<color name="delta_antiquewhite">#FCECDC</color>
+	<color name="delta_palegold">#F8C18C</color>
+	<color name="delta_cornsilk">#FDF5D9</color>
+	<color name="delta_jasmine">#F9DE81</color>
+	<color name="delta_camel">#C39A54</color>
+	<color name="delta_grannysmithapple">#98DC9A</color>
+	<color name="delta_asparagus">#71A372</color>
+	<color name="delta_palerobineggblue">#96DFD3</color>
+	<color name="delta_cadetblue">#73ADA4</color>
+	<color name="delta_babyblueeyes">#9ABEFF</color>
+	<color name="delta_darkpastelblue">#728DBE</color>
+	<color name="delta_uclablue">#54688C</color>
+	<color name="delta_babyblueeyes_alt">#ABABFF</color>
+	<color name="delta_brightlavender">#BD9AFF</color>
+	<color name="delta_ube">#8C72BD</color>
+	<!-- Reds -->
+	<color name="delta_melon">#FFB0AC</color>
+	<color name="delta_lightcoral">#F58F8A</color>
+	<color name="delta_coralpink_alt">#F4806D</color>
+	<color name="delta_terracotta">#E85E5C</color>
+	<color name="delta_darkterracotta">#DC505E</color>
+	<color name="delta_deepcarmine">#B02A3C</color>
+	<color name="delta_falured">#7A1B1C</color>
+	<color name="delta_darkscarlet">#511119</color>
 
     <!-- Shortcut Icon -->
     <color name="shortcutIconBackground">#1A73E9</color>
