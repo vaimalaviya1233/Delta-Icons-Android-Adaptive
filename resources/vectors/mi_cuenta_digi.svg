@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><defs><linearGradient id="a" x1="35.017" x2="133.24" y1="33.83" y2="125.53" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#9abeff"/><stop offset="1" stop-color="#728dbe"/></linearGradient></defs><rect width="152" height="152" x="20" y="20" fill="url(#a)" rx="9.935"/><text xml:space="preserve" x="71.28" y="120" font-family="Now" font-size="64" font-weight="bold" style="line-height:1.25"><tspan x="71.28" y="120" fill="#fff" font-weight="900">D</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <defs>
+    <linearGradient id="a" x1="35.017" x2="133.24" y1="33.83" y2="125.53" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9abeff" />
+      <stop offset="1" stop-color="#728dbe" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill=url(#a)" /><text xml:space="preserve" x="71.28" y="120" font-family="Now"
+    font-size="64" font-weight="bold" style="line-height:1.25">
+    <tspan x="71.28" y="120" fill="#fff" font-weight="900">D</tspan>
+  </text>
+</svg>

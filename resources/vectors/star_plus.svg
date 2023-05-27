@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clip-path-2"><path id="path918" fill="none" d="M739.86 208.18a5 5 0 0 1-4.76 3.45H537.92l159.74 116.06a5 5 0 0 0 5.57.2c44.19-27.46 82.82-46.51 165-68 0 0-126 94.41-208.58 200.19a25.14 25.14 0 0 0-4.11 7.71l-17.19 52.91 159.52-115.9a5 5 0 0 1 5.88 0l159.52 115.9-60.95-187.58a5 5 0 0 1 1.81-5.59l159.52-115.9H866.48a5 5 0 0 1-4.76-3.45L800.79 20.65Z"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1020" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><g id="g1008" clip-path="url(#clip-path-2)" style="fill:#ff837d;fill-opacity:1" transform="translate(38.74 938.892) scale(.06454)"><path id="rect1006" fill="url(#linear-gradient)" d="M438.13-91.99h725.3v725.3h-725.3z" style="fill:#ff837d;fill-opacity:1" transform="rotate(-45 800.78 270.656)"/></g><path id="path1010" d="M48.273 970.403c4.801 0 8.873-2.829 8.873-7.63 0-9.516-11.83-7.158-11.83-11.616 0-1.458 1.114-2.144 2.486-2.144 1.457 0 2.915.815 4.2 2.23l3.773-3.601c-1.886-2.186-4.758-3.644-7.93-3.644-4.073 0-8.23 2.444-8.23 7.587 0 8.745 11.873 6.645 11.873 11.145 0 1.415-1.2 2.358-3.172 2.358-2.357 0-4.2-1.329-5.144-3.343l-4.672 2.914c1.672 3.215 5.272 5.744 9.773 5.744z" style="font-weight:700;font-size:233.81px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.857311"/><path id="path1012" d="M76.522 944.341H57.918v5.015h6.516v20.704h5.615v-20.704h6.473z" style="font-weight:700;font-size:233.81px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.857311"/><path id="path1014" d="M122.208 959.473c3.044-.9 5.187-3.73 5.187-7.245 0-4.372-3.258-7.887-7.673-7.887h-10.93v25.72h5.658v-9.945h2.271l6.345 9.944h6.344zm-3.343-4.03h-4.415v-6.087h4.415c1.8 0 3.129 1.286 3.129 3.044 0 1.8-1.329 3.043-3.13 3.043z" style="font-weight:700;font-size:233.81px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.857311"/><path id="path1016" d="M140.812 967.831h4.158v-8.53h8.53v-4.2h-8.53v-8.53h-4.158v8.53h-8.573v4.2h8.573z" style="font-weight:700;font-size:233.81px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.857311"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clip-path-2">
+      <path id="path918" fill="none"
+        d="M739.86 208.18a5 5 0 0 1-4.76 3.45H537.92l159.74 116.06a5 5 0 0 0 5.57.2c44.19-27.46 82.82-46.51 165-68 0 0-126 94.41-208.58 200.19a25.14 25.14 0 0 0-4.11 7.71l-17.19 52.91 159.52-115.9a5 5 0 0 1 5.88 0l159.52 115.9-60.95-187.58a5 5 0 0 1 1.81-5.59l159.52-115.9H866.48a5 5 0 0 1-4.76-3.45L800.79 20.65Z" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1020" width="100%" height="100%"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <g id="g1008" clip-path="url(#clip-path-2)" style="fill:#ff837d;fill-opacity:1"
+      transform="translate(38.74 938.892) scale(.06454)">
+      <path id="rect1006" fill="url(#linear-gradient)" d="M438.13-91.99h725.3v725.3h-725.3z"
+        style="fill:#ff837d;fill-opacity:1" transform="rotate(-45 800.78 270.656)" />
+    </g>
+    <path id="path1010"
+      d="M48.273 970.403c4.801 0 8.873-2.829 8.873-7.63 0-9.516-11.83-7.158-11.83-11.616 0-1.458 1.114-2.144 2.486-2.144 1.457 0 2.915.815 4.2 2.23l3.773-3.601c-1.886-2.186-4.758-3.644-7.93-3.644-4.073 0-8.23 2.444-8.23 7.587 0 8.745 11.873 6.645 11.873 11.145 0 1.415-1.2 2.358-3.172 2.358-2.357 0-4.2-1.329-5.144-3.343l-4.672 2.914c1.672 3.215 5.272 5.744 9.773 5.744z"
+      style="font-weight:700;font-size:233.81px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.857311" />
+    <path id="path1012" d="M76.522 944.341H57.918v5.015h6.516v20.704h5.615v-20.704h6.473z"
+      style="font-weight:700;font-size:233.81px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.857311" />
+    <path id="path1014"
+      d="M122.208 959.473c3.044-.9 5.187-3.73 5.187-7.245 0-4.372-3.258-7.887-7.673-7.887h-10.93v25.72h5.658v-9.945h2.271l6.345 9.944h6.344zm-3.343-4.03h-4.415v-6.087h4.415c1.8 0 3.129 1.286 3.129 3.044 0 1.8-1.329 3.043-3.13 3.043z"
+      style="font-weight:700;font-size:233.81px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.857311" />
+    <path id="path1016" d="M140.812 967.831h4.158v-8.53h8.53v-4.2h-8.53v-8.53h-4.158v8.53h-8.573v4.2h8.573z"
+      style="font-weight:700;font-size:233.81px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.857311" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

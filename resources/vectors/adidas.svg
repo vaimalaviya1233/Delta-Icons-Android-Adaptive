@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect842-3-3" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#575a5c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g1027" transform="matrix(.99953 0 0 .99953 -.67 -.381)"><path id="path881-6" d="m61.214 972.984 11.245-6.53a2.003 2.003 14.808 0 1 2.737.723l6.88 11.803h-17.82a3.398 3.398 30.483 0 1-2.971-1.748l-.83-1.495a2.04 2.04 105.41 0 1 .759-2.753z" style="fill:#fff;fill-opacity:1;stroke-width:7.33016"/><path id="path897-7" d="m114.257 978.977-19.464-33.949a2.02 2.02 104.875 0 1 .73-2.747l11.255-6.61a1.985 1.985 14.794 0 1 2.725.72l23.575 40.853a1.155 1.155 120.006 0 1-1 1.733z" style="fill:#fff;fill-opacity:1;stroke-width:7.33016"/><path id="path909-5" d="m89.926 951.285-11.437 6.467a1.995 1.995 105.443 0 0-.752 2.723l10.52 18.5v.004l19.82-.005-15.417-26.937a2.01 2.01 15.364 0 0-2.734-.752z" style="fill:#fff;fill-opacity:1;stroke-width:7.33016"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect842-3-3" y="860,362"
+      style="fill:#575a5c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g1027" transform="matrix(.99953 0 0 .99953 -.67 -.381)">
+      <path id="path881-6"
+        d="m61.214 972.984 11.245-6.53a2.003 2.003 14.808 0 1 2.737.723l6.88 11.803h-17.82a3.398 3.398 30.483 0 1-2.971-1.748l-.83-1.495a2.04 2.04 105.41 0 1 .759-2.753z"
+        style="fill:#fff;fill-opacity:1;stroke-width:7.33016" />
+      <path id="path897-7"
+        d="m114.257 978.977-19.464-33.949a2.02 2.02 104.875 0 1 .73-2.747l11.255-6.61a1.985 1.985 14.794 0 1 2.725.72l23.575 40.853a1.155 1.155 120.006 0 1-1 1.733z"
+        style="fill:#fff;fill-opacity:1;stroke-width:7.33016" />
+      <path id="path909-5"
+        d="m89.926 951.285-11.437 6.467a1.995 1.995 105.443 0 0-.752 2.723l10.52 18.5v.004l19.82-.005-15.417-26.937a2.01 2.01 15.364 0 0-2.734-.752z"
+        style="fill:#fff;fill-opacity:1;stroke-width:7.33016" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

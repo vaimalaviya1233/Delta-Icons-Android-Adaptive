@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><circle cx="96" cy="96" r="88" opacity=".63" style="fill:#56595b;opacity:1"/><path d="M56 76c-13.333 0-24 14.667-24 28 0 48 44 56 64 56s64-8 64-56c0-13.333-10.667-28-24-28-20 0-40 28-40 28S76 76 56 76z" style="fill:#ececec"/><ellipse cx="128" cy="112" rx="8" ry="16" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;paint-order:stroke fill markers"/><ellipse cx="128" cy="112" rx="6.516" ry="13.032" style="opacity:1;vector-effect:none;fill:#f9de81;fill-opacity:1;stroke-width:.81452858;paint-order:stroke fill markers"/><ellipse cx="-63.9" cy="112" rx="8" ry="16" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;paint-order:stroke fill markers" transform="scale(-1 1)"/><ellipse cx="-63.9" cy="112" rx="6.516" ry="13.032" style="opacity:1;vector-effect:none;fill:#f9de81;fill-opacity:1;stroke-width:.81452858;paint-order:stroke fill markers" transform="scale(-1 1)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" opacity=".63" style="fill:#56595b;opacity:1" />
+  <path
+    d="M56 76c-13.333 0-24 14.667-24 28 0 48 44 56 64 56s64-8 64-56c0-13.333-10.667-28-24-28-20 0-40 28-40 28S76 76 56 76z"
+    style="fill:#ececec" />
+  <ellipse cx="128" cy="112" rx="8" ry="16"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;paint-order:stroke fill markers" />
+  <ellipse cx="128" cy="112" rx="6.516" ry="13.032"
+    style="opacity:1;vector-effect:none;fill:#f9de81;fill-opacity:1;stroke-width:.81452858;paint-order:stroke fill markers" />
+  <ellipse cx="-63.9" cy="112" rx="8" ry="16"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;paint-order:stroke fill markers"
+    transform="scale(-1 1)" />
+  <ellipse cx="-63.9" cy="112" rx="6.516" ry="13.032"
+    style="opacity:1;vector-effect:none;fill:#f9de81;fill-opacity:1;stroke-width:.81452858;paint-order:stroke fill markers"
+    transform="scale(-1 1)" />
+</svg>

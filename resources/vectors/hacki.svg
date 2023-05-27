@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#f8c18c"/><rect width="66.477" height="66.477" x="62.761" y="62.761" fill="#fff" fill-opacity=".997" ry="12.296"/><g fill="#f8c18c" fill-opacity=".997" stroke-linecap="round" stroke-linejoin="round"><rect width="4.931" height="33.469" x="81.967" y="79.266" ry="2.466"/><rect width="4.931" height="33.469" x="105.1" y="79.266" ry="2.466"/><rect width="4.931" height="23.135" x="93.534" y="-107.57" ry="1.704" transform="rotate(90)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#f8c18c" />
+  <rect width="66.477" height="66.477" x="62.761" y="62.761" fill="#fff" fill-opacity=".997" ry="12.296" />
+  <g fill="#f8c18c" fill-opacity=".997" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="4.931" height="33.469" x="81.967" y="79.266" ry="2.466" />
+    <rect width="4.931" height="33.469" x="105.1" y="79.266" ry="2.466" />
+    <rect width="4.931" height="23.135" x="93.534" y="-107.57" ry="1.704" transform="rotate(90)" />
+  </g>
+</svg>

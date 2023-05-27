@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><circle cx="96" cy="96" r="88" style="fill:#54688c;fill-rule:evenodd;stroke:none;fill-opacity:1"/><path d="M121.877 33.613a67.562 67.562 0 0 1 8.894 33.336 67.562 67.562 0 0 1-67.562 67.56 67.562 67.562 0 0 1-25.879-5.175A67.562 67.562 0 0 0 96 163.562 67.562 67.562 0 0 0 163.563 96a67.562 67.562 0 0 0-41.686-62.387z" style="fill:#fdf5d9;fill-rule:evenodd;stroke:none;stroke-width:1.8767122;fill-opacity:1"/><path d="m38.113 114.626-1.671-3.386-3.737-.543 2.704-2.636-.638-3.721 3.342 1.757 3.342-1.757-.638 3.721 2.704 2.636-3.737.543z" style="opacity:1;fill:#fdf5d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.57634115;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/><path d="m51.87 84.59-3.342-6.773-7.475-1.086 5.409-5.272-1.277-7.445 6.686 3.515 6.686-3.515-1.277 7.445 5.409 5.272-7.475 1.086z" style="opacity:1;fill:#fdf5d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.15389681;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" style="fill:#54688c;fill-rule:evenodd;stroke:none;fill-opacity:1" />
+  <path
+    d="M121.877 33.613a67.562 67.562 0 0 1 8.894 33.336 67.562 67.562 0 0 1-67.562 67.56 67.562 67.562 0 0 1-25.879-5.175A67.562 67.562 0 0 0 96 163.562 67.562 67.562 0 0 0 163.563 96a67.562 67.562 0 0 0-41.686-62.387z"
+    style="fill:#fdf5d9;fill-rule:evenodd;stroke:none;stroke-width:1.8767122;fill-opacity:1" />
+  <path
+    d="m38.113 114.626-1.671-3.386-3.737-.543 2.704-2.636-.638-3.721 3.342 1.757 3.342-1.757-.638 3.721 2.704 2.636-3.737.543z"
+    style="opacity:1;fill:#fdf5d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.57634115;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+    d="m51.87 84.59-3.342-6.773-7.475-1.086 5.409-5.272-1.277-7.445 6.686 3.515 6.686-3.515-1.277 7.445 5.409 5.272-7.475 1.086z"
+    style="opacity:1;fill:#fdf5d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.15389681;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+</svg>

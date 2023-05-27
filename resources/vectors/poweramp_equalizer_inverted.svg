@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle929" cx="96" cy="956.362" r="88" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><rect id="rect931" width="21.628" height="57.646" x="85.186" y="927.539" rx="2" ry="2" style="fill:#56595b;fill-opacity:1;stroke-width:24.1032;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><rect id="rect933" width="21.628" height="46.573" x="110.872" y="938.612" rx="2" ry="2" style="fill:#56595b;fill-opacity:1;stroke-width:21.6648;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><rect id="rect935" width="21.628" height="18.944" x="59.5" y="966.242" rx="2" ry="2" style="fill:#56595b;fill-opacity:1;stroke-width:13.8172;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle929" y="860,362"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <rect id="rect931" width="21.628" height="57.646" x="85.186" y="927.539" rx="2" ry="2"
+      style="fill:#56595b;fill-opacity:1;stroke-width:24.1032;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <rect id="rect933" width="21.628" height="46.573" x="110.872" y="938.612" rx="2" ry="2"
+      style="fill:#56595b;fill-opacity:1;stroke-width:21.6648;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <rect id="rect935" width="21.628" height="18.944" x="59.5" y="966.242" rx="2" ry="2"
+      style="fill:#56595b;fill-opacity:1;stroke-width:13.8172;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

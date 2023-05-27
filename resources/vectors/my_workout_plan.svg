@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="128" height="176" x="32" y="8" fill="#fff" rx="10.079"/><path fill="#56595b" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M95.998 70.948h35.432M95.998 45.277h35.432M95.998 96.619h35.432"/><path fill="none" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.933" d="M92 48 57.3 80 40 64M92 112l-34.7 32L40 128M92 176l-34.7 32L40 192" transform="matrix(.4025 0 0 .4011 44.479 19.608)"/><rect width="11.114" height="39.475" x="75.99" y="114.66" fill="#98dc9a" stroke="#98dc9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" rx="2.223"/><rect width="11.114" height="39.475" x="104.89" y="114.66" fill="#98dc9a" stroke="#98dc9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" rx="2.223"/><path fill="#98dc9a" stroke="#98dc9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M116.01 121.23h6.668a2.223 2.193 0 0 1 2.223 2.193v21.931a2.223 2.193 0 0 1-2.222 2.193h-6.669M75.99 147.55h-6.668a2.223 2.193 0 0 1-2.223-2.193v-21.931a2.223 2.193 0 0 1 2.222-2.193h6.669M87.104 134.4h17.786M124.89 134.4h4.45M62.653 134.4h4.446"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" />
+  <path fill="#56595b" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M95.998 70.948h35.432M95.998 45.277h35.432M95.998 96.619h35.432" />
+  <path fill="none" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.933"
+    d="M92 48 57.3 80 40 64M92 112l-34.7 32L40 128M92 176l-34.7 32L40 192"
+    transform="matrix(.4025 0 0 .4011 44.479 19.608)" />
+  <rect width="11.114" height="39.475" x="75.99" y="114.66" fill="#98dc9a" stroke="#98dc9a" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="4" rx="2.223" />
+  <rect width="11.114" height="39.475" x="104.89" y="114.66" fill="#98dc9a" stroke="#98dc9a" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="4" rx="2.223" />
+  <path fill="#98dc9a" stroke="#98dc9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"
+    d="M116.01 121.23h6.668a2.223 2.193 0 0 1 2.223 2.193v21.931a2.223 2.193 0 0 1-2.222 2.193h-6.669M75.99 147.55h-6.668a2.223 2.193 0 0 1-2.223-2.193v-21.931a2.223 2.193 0 0 1 2.222-2.193h6.669M87.104 134.4h17.786M124.89 134.4h4.45M62.653 134.4h4.446" />
+</svg>

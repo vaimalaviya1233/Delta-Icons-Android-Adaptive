@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" fill="#9abeff" class="a" rx="10"/><rect width="60.649" height="27.68" x="75.498" y="84.559" fill="#fff" ry="2.288" transform="skewX(-13.175) scale(1 .97368)"/><rect width="11.377" height="27.683" x="138.25" y="84.568" fill="#fff" ry="2.288" transform="matrix(1 0 -.2284 .97357 0 0)"/><rect width="9.216" height="27.683" x="152.19" y="84.568" fill="#fff" ry="2.288" transform="matrix(1 0 -.2284 .97357 0 0)"/><text xml:space="preserve" x="83.157" y="109.667" fill="#9abeff" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.346" font-family="Now" font-size="23.517" font-weight="bold" transform="skewX(-15.473)"><tspan x="83.157" y="109.667">xHP</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" class="a" %%" fill="#9abeff" />
+  <rect width="60.649" height="27.68" x="75.498" y="84.559" fill="#fff" ry="2.288"
+    transform="skewX(-13.175) scale(1 .97368)" />
+  <rect width="11.377" height="27.683" x="138.25" y="84.568" fill="#fff" ry="2.288"
+    transform="matrix(1 0 -.2284 .97357 0 0)" />
+  <rect width="9.216" height="27.683" x="152.19" y="84.568" fill="#fff" ry="2.288"
+    transform="matrix(1 0 -.2284 .97357 0 0)" /><text xml:space="preserve" x="83.157" y="109.667" fill="#9abeff"
+    stroke-linecap="round" stroke-linejoin="round" stroke-width="12.346" font-family="Now" font-size="23.517"
+    font-weight="bold" transform="skewX(-15.473)">
+    <tspan x="83.157" y="109.667">xHP</tspan>
+  </text>
+</svg>

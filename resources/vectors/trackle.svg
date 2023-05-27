@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" fill="#fff" class="a" rx="10"/><rect width="30.147" height="75.313" x="80.926" y="58.344" fill="none" stroke="#d2d2d2" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.906" rx="15.074"/><path fill="none" stroke="#ff837d" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.906" d="M83.538 64.913A15.035 15.035 0 0 1 96 58.343v0c8.35 0 15.074 6.723 15.074 15.074v7.724"/><path fill="none" stroke="#9abeff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.906" d="M100.19 133.07c-1.33.382-2.737.586-4.194.586a15.041 15.041 0 0 1-15.073-15.074v-11.995"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" class="a" %%" fill="#fff" />
+  <rect width="30.147" height="75.313" x="80.926" y="58.344" fill="none" stroke="#d2d2d2" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="4.906" rx="15.074" />
+  <path fill="none" stroke="#ff837d" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.906"
+    d="M83.538 64.913A15.035 15.035 0 0 1 96 58.343v0c8.35 0 15.074 6.723 15.074 15.074v7.724" />
+  <path fill="none" stroke="#9abeff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.906"
+    d="M100.19 133.07c-1.33.382-2.737.586-4.194.586a15.041 15.041 0 0 1-15.073-15.074v-11.995" />
+</svg>

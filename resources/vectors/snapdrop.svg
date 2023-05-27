@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><defs><clipPath id="a"><path fill="#fff" stroke-width="0" d="M31.118 32.172h133.84v120.26H31.118z"/></clipPath><clipPath id="b"><path fill="red" stroke-width="0" d="M11.62 63.747h186.55v120.08H11.62z"/></clipPath></defs><circle cx="96" cy="96" r="88" fill="#9abeff"/><g stroke-width="0" clip-path="url(#a)" transform="translate(43.53 45.253) scale(.54657)"><circle cx="96" cy="96" r="62.741" fill="#fff"/><circle cx="96" cy="96" r="50" fill="#9abeff"/><circle cx="96" cy="96" r="37.5" fill="#fff"/><circle cx="96" cy="96" r="25" fill="#9abeff"/><path fill="#9abeff" d="m152.13 283.28-97.645.101-30.27-92.835 78.937-57.476 79.056 57.312z" clip-path="url(#b)" transform="matrix(.58296 0 0 1.5291 35.83 -114.26)"/><circle cx="96" cy="96" r="12.5" fill="#fff"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" stroke-width="0" d="M31.118 32.172h133.84v120.26H31.118z" />
+    </clipPath>
+    <clipPath id="b">
+      <path fill="red" stroke-width="0" d="M11.62 63.747h186.55v120.08H11.62z" />
+    </clipPath>
+  </defs>
+  <rect width="100%" height="100%" fill="#9abeff" />
+  <g stroke-width="0" clip-path="url(#a)" transform="translate(43.53 45.253) scale(.54657)">
+    <circle cx="96" cy="96" r="62.741" fill="#fff" />
+    <circle cx="96" cy="96" r="50" fill="#9abeff" />
+    <circle cx="96" cy="96" r="37.5" fill="#fff" />
+    <circle cx="96" cy="96" r="25" fill="#9abeff" />
+    <path fill="#9abeff" d="m152.13 283.28-97.645.101-30.27-92.835 78.937-57.476 79.056 57.312z" clip-path="url(#b)"
+      transform="matrix(.58296 0 0 1.5291 35.83 -114.26)" />
+    <circle cx="96" cy="96" r="12.5" fill="#fff" />
+  </g>
+</svg>

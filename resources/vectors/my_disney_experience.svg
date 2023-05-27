@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="fill:#728dbe;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><rect width="47.458" height="47.458" x="72.271" y="80.271" ry="23.729" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20.33898354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><rect width="29.694" height="26.395" x=".933" y="95.895" rx="14.847" ry="13.197" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.79592896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" transform="rotate(-33.94)"/><rect width="29.273" height="26.021" x="-158.144" y="-11.117" rx="14.637" ry="13.01" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.51565742;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" transform="scale(-1 1) rotate(-33.94)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#728dbe;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <rect width="47.458" height="47.458" x="72.271" y="80.271" ry="23.729"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20.33898354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <rect width="29.694" height="26.395" x=".933" y="95.895" rx="14.847" ry="13.197"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.79592896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+    transform="rotate(-33.94)" />
+  <rect width="29.273" height="26.021" x="-158.144" y="-11.117" rx="14.637" ry="13.01"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.51565742;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+    transform="scale(-1 1) rotate(-33.94)" />
+</svg>

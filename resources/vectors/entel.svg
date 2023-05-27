@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1007" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path993" d="m122.644 931.065-6.314 5.11c-.772.623-.674 1.49.15 2.042 5.346 3.583 8.74 10.522 8.74 18.145 0 7.623-3.394 14.562-8.74 18.145-.825.552-.922 1.419-.15 2.043l6.314 5.109c.771.624 2.106.748 2.938.208 7.94-5.152 12.918-14.883 12.918-25.505 0-10.623-4.979-20.353-12.918-25.505-.832-.54-2.167-.416-2.938.208z" style="fill:#f8c18c;fill-opacity:1;stroke:none;stroke-width:8.9808;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"/><text xml:space="preserve" id="text997" x="49.202" y="984.161" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:110.918px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.77294"><tspan id="tspan995" x="49.202" y="984.161" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;fill-opacity:1;stroke-width:2.77294">e</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1007" width="100%" height="100%"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path993"
+      d="m122.644 931.065-6.314 5.11c-.772.623-.674 1.49.15 2.042 5.346 3.583 8.74 10.522 8.74 18.145 0 7.623-3.394 14.562-8.74 18.145-.825.552-.922 1.419-.15 2.043l6.314 5.109c.771.624 2.106.748 2.938.208 7.94-5.152 12.918-14.883 12.918-25.505 0-10.623-4.979-20.353-12.918-25.505-.832-.54-2.167-.416-2.938.208z"
+      style="fill:#f8c18c;fill-opacity:1;stroke:none;stroke-width:8.9808;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" />
+    <text xml:space="preserve" id="text997" x="49.202" y="984.161"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:110.918px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.77294">
+      <tspan id="tspan995" x="49.202" y="984.161"
+        style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;fill-opacity:1;stroke-width:2.77294">
+        e</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><style id="style905">.cls-1{fill:#602d35}.st0{fill:#fff}</style></defs><g id="layer1" transform="translate(0 -860.362)"><circle id="circle1011" cx="96" cy="956.362" r="88" style="fill:#b96460;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path1046" d="M107.388 919.865c-11.52.013-20.856 9.349-20.87 20.87v30.804a2 2 45 0 0 2 2h3.717a2 2 135 0 0 2-2v-30.805c-.001-11.534 13.787-17.483 22.177-9.569 8.39 7.914 3.257 22.026-8.258 22.698v7.733c11.493-.264 20.609-9.773 20.387-21.267-.222-11.495-9.698-20.645-21.193-20.464z" style="fill:#fefefe;fill-opacity:1;stroke-width:.8064"/><path id="path977" d="M97.477 971.999c.002 11.534-13.786 17.483-22.176 9.569-8.39-7.914-3.257-22.026 8.258-22.698v-7.733c-18.396.676-26.97 23.102-13.72 35.878 13.25 12.776 35.35 3.392 35.355-15.016v-30.78a2 2 45 0 0-2-2H99.47a2 2 134.993 0 0-2 2z" style="fill:#fefefe;fill-opacity:1;stroke-width:.8064"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <style id="style905">
+      .cls-1 {
+        fill: #602d35
+      }
+
+      .st0 {
+        fill: #fff
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle1011" y="860,362"
+      style="fill:#b96460;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path1046"
+      d="M107.388 919.865c-11.52.013-20.856 9.349-20.87 20.87v30.804a2 2 45 0 0 2 2h3.717a2 2 135 0 0 2-2v-30.805c-.001-11.534 13.787-17.483 22.177-9.569 8.39 7.914 3.257 22.026-8.258 22.698v7.733c11.493-.264 20.609-9.773 20.387-21.267-.222-11.495-9.698-20.645-21.193-20.464z"
+      style="fill:#fefefe;fill-opacity:1;stroke-width:.8064" />
+    <path id="path977"
+      d="M97.477 971.999c.002 11.534-13.786 17.483-22.176 9.569-8.39-7.914-3.257-22.026 8.258-22.698v-7.733c-18.396.676-26.97 23.102-13.72 35.878 13.25 12.776 35.35 3.392 35.355-15.016v-30.78a2 2 45 0 0-2-2H99.47a2 2 134.993 0 0-2 2z"
+      style="fill:#fefefe;fill-opacity:1;stroke-width:.8064" />
+  </g>
+</svg>

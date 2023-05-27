@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#56595b" rx="9.935" style="stroke-width:.993464"/><rect width="52.743" height="52.743" x="69.624" y="69.624" fill="none" stroke="#98dc9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.967" rx="6.597"/><path fill="none" stroke="#98dc9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.967" d="M86.115 59.739v9.885M105.885 59.739v9.885M86.115 122.376v9.885M105.885 122.376v9.885M122.376 86.115h9.885M122.376 102.597h9.885M59.739 86.115h9.885M59.739 102.597h9.885"/><circle cx="96" cy="96" r="9.885" fill="none" stroke="#98dc9a" stroke-miterlimit="10" stroke-width="4.967"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#56595b" />
+  <rect width="52.743" height="52.743" x="69.624" y="69.624" fill="none" stroke="#98dc9a" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="4.967" rx="6.597" />
+  <path fill="none" stroke="#98dc9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.967"
+    d="M86.115 59.739v9.885M105.885 59.739v9.885M86.115 122.376v9.885M105.885 122.376v9.885M122.376 86.115h9.885M122.376 102.597h9.885M59.739 86.115h9.885M59.739 102.597h9.885" />
+  <circle cx="96" cy="96" r="9.885" fill="none" stroke="#98dc9a" stroke-miterlimit="10" stroke-width="4.967" />
+</svg>

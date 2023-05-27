@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:#f9de81;opacity:1"/><path d="M20 64v64h88c17.728 0 32-14.272 32-32s-14.272-32-32-32H20z" style="fill:#fdf5d9;paint-order:stroke fill markers"/><rect width="28" height="40" x="64" y="76" ry="4" style="fill:#4a4a4a;paint-order:stroke fill markers"/><rect width="12" height="48" x="60" y="72" ry="4" style="fill:#56595b;paint-order:stroke fill markers"/><rect width="56" height="48" x="76" y="72" ry="23.475" style="fill:#56595b;paint-order:stroke fill markers"/><rect width="28" height="48" x="76" y="72" ry="4" style="fill:#56595b;paint-order:stroke fill markers"/><rect width="28" height="4" x="80" y="76" ry="2" style="fill:#83868c;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" style="fill:#f9de81;opacity:1" />
+  <path d="M20 64v64h88c17.728 0 32-14.272 32-32s-14.272-32-32-32H20z"
+    style="fill:#fdf5d9;paint-order:stroke fill markers" />
+  <rect width="28" height="40" x="64" y="76" ry="4" style="fill:#4a4a4a;paint-order:stroke fill markers" />
+  <rect width="12" height="48" x="60" y="72" ry="4" style="fill:#56595b;paint-order:stroke fill markers" />
+  <rect width="56" height="48" x="76" y="72" ry="23.475" style="fill:#56595b;paint-order:stroke fill markers" />
+  <rect width="28" height="48" x="76" y="72" ry="4" style="fill:#56595b;paint-order:stroke fill markers" />
+  <rect width="28" height="4" x="80" y="76" ry="2" style="fill:#83868c;paint-order:stroke fill markers" />
+</svg>

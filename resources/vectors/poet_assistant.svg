@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><rect id="rect84" width="152" height="152" x="20" y="20" fill="#8e6f60" rx="10" ry="10" style="fill:#56595b;fill-opacity:1"/><rect id="rect86" width="146" height="146" x="23" y="23" fill="#fff" rx="10" ry="10"/><path id="path88" fill="#d3b69a" fill-rule="evenodd" d="M20 29.955C20 24.432 24.477 20 30 20h132c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H37.102S20 151 20 163V29.955z" clip-rule="evenodd" style="fill:#a0a5af;fill-opacity:1"/><text xml:space="preserve" id="text968" x="64.132" y="109.026" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:46.7355px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.16838"><tspan id="tspan966" x="64.132" y="109.026" style="fill:#f9de81;fill-opacity:1;stroke-width:1.16838">PA</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect id="rect84" width"100%" height="100%" fill=" #8e6f60" style="fill:#56595b;fill-opacity:1" />
+  <rect id="rect86" width="146" height="146" x="23" y="23" fill="#fff" rx="10" ry="10" />
+  <path id="path88" fill="#d3b69a" fill-rule="evenodd"
+    d="M20 29.955C20 24.432 24.477 20 30 20h132c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H37.102S20 151 20 163V29.955z"
+    clip-rule="evenodd" style="fill:#a0a5af;fill-opacity:1" /><text xml:space="preserve" id="text968" x="64.132"
+    y="109.026"
+    style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:46.7355px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.16838">
+    <tspan id="tspan966" x="64.132" y="109.026" style="fill:#f9de81;fill-opacity:1;stroke-width:1.16838">PA</tspan>
+  </text>
+</svg>

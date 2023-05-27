@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><g transform="translate(0 -860.362)"><circle cx="96" cy="956.362" r="88" style="fill:#98db9a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999998;stroke-opacity:1"/><text xml:space="preserve" x="76.104" y="985.803" style="font-weight:700;font-size:74.5712px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.86428"><tspan x="76.104" y="985.803" style="fill:#fff;fill-opacity:1;stroke-width:1.86428">T</tspan></text><rect width="6.372" height="73" x="109.99" y="919.862" rx="1.432" ry="1.432" style="fill:#96ded3;fill-opacity:1;stroke:none;stroke-width:2.33549;stroke-linecap:round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <g transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" y="860.362"
+      style="fill:#98db9a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999998;stroke-opacity:1" /><text
+      xml:space="preserve" x="76.104" y="985.803"
+      style="font-weight:700;font-size:74.5712px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.86428">
+      <tspan x="76.104" y="985.803" style="fill:#fff;fill-opacity:1;stroke-width:1.86428">T</tspan>
+    </text>
+    <rect width="6.372" height="73" x="109.99" y="919.862" rx="1.432" ry="1.432"
+      style="fill:#96ded3;fill-opacity:1;stroke:none;stroke-width:2.33549;stroke-linecap:round" />
+  </g>
+</svg>

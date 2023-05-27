@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="fill:#ff837d;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><text xml:space="preserve" x="46.2" y="139.505" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:74.23229218px;line-height:1.25;font-family:Aleo;-inkscape-font-specification:Aleo;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.8558073" transform="scale(1.16306 .8598)"><tspan x="46.2" y="139.505" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;stroke-width:1.8558073">M</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#ff837d;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" /><text
+    xml:space="preserve" x="46.2" y="139.505"
+    style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:74.23229218px;line-height:1.25;font-family:Aleo;-inkscape-font-specification:Aleo;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.8558073"
+    transform="scale(1.16306 .8598)">
+    <tspan x="46.2" y="139.505"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;stroke-width:1.8558073">
+      M</tspan>
+  </text>
+</svg>

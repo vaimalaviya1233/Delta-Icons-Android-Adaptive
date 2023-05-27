@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#56595b" rx="9.935"/><g stroke-linecap="round" stroke-linejoin="round"><rect width="42.25" height="13.947" x="83.295" y="53.334" fill="#728dbe" rx="3.851" ry="3.554"/><rect width="30.529" height="13.947" x="83.295" y="72.178" fill="#9abeff" rx="3.851" ry="3.554"/><rect width="13.614" height="13.947" x="83.295" y="91.096" fill="#fff" rx="3.851" ry="3.554"/><rect width="13.614" height="13.947" x="66.454" y="72.178" fill="#9abeff" rx="3.851" ry="3.554"/></g><text xml:space="preserve" x="64.338" y="138.372" font-family="Now" font-size="29.333" font-weight="500" style="line-height:1.25"><tspan x="64.338" y="138.372" fill="#fff">PRO</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#56595b" />
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect width="42.25" height="13.947" x="83.295" y="53.334" fill="#728dbe" rx="3.851" ry="3.554" />
+    <rect width="30.529" height="13.947" x="83.295" y="72.178" fill="#9abeff" rx="3.851" ry="3.554" />
+    <rect width="13.614" height="13.947" x="83.295" y="91.096" fill="#fff" rx="3.851" ry="3.554" />
+    <rect width="13.614" height="13.947" x="66.454" y="72.178" fill="#9abeff" rx="3.851" ry="3.554" />
+  </g><text xml:space="preserve" x="64.338" y="138.372" font-family="Now" font-size="29.333" font-weight="500"
+    style="line-height:1.25">
+    <tspan x="64.338" y="138.372" fill="#fff">PRO</tspan>
+  </text>
+</svg>

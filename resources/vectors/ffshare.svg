@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#56595b" rx="9.935"/><g transform="translate(45.632 45.632) scale(2.0987)"><path fill="none" stroke="#96dfd3" d="M39 35.5v-23M35.5 9h-23M9 12.5v23m3.385 2.423 15.27-4.859m.182-2.751-8.71-4.645m-.005-3.333 8.742-4.662" class="b"/><circle cx="9" cy="9" r="3.5" fill="#96dfd3" class="b"/><circle cx="9" cy="9" r="3.5" fill="#96dfd3" class="b"/><circle cx="9" cy="39" r="3.5" fill="#96dfd3" class="b"/><circle cx="39" cy="39" r="3.5" fill="#96dfd3" class="b"/><circle cx="39" cy="9" r="3.5" fill="#96dfd3" class="b"/><circle cx="16" cy="24" r="3.5" fill="#96dfd3" class="b"/><circle cx="31" cy="32" r="3.5" fill="#96dfd3" class="b"/><circle cx="31" cy="16" r="3.5" fill="#96dfd3" class="b"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#56595b" />
+  <g transform="translate(45.632 45.632) scale(2.0987)">
+    <path fill="none" stroke="#96dfd3"
+      d="M39 35.5v-23M35.5 9h-23M9 12.5v23m3.385 2.423 15.27-4.859m.182-2.751-8.71-4.645m-.005-3.333 8.742-4.662"
+      class="b" />
+    <circle cx="9" cy="9" r="3.5" fill="#96dfd3" class="b" />
+    <circle cx="9" cy="9" r="3.5" fill="#96dfd3" class="b" />
+    <circle cx="9" cy="39" r="3.5" fill="#96dfd3" class="b" />
+    <circle cx="39" cy="39" r="3.5" fill="#96dfd3" class="b" />
+    <circle cx="39" cy="9" r="3.5" fill="#96dfd3" class="b" />
+    <circle cx="16" cy="24" r="3.5" fill="#96dfd3" class="b" />
+    <circle cx="31" cy="32" r="3.5" fill="#96dfd3" class="b" />
+    <circle cx="31" cy="16" r="3.5" fill="#96dfd3" class="b" />
+  </g>
+</svg>

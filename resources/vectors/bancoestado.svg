@@ -1,1 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect394" width="152" height="152" x="20" y="880.362" rx="10" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:34.5455;stroke-linecap:square;stroke-dashoffset:6;stop-color:#000"/><path id="path1261" d="M29.936 880.362a9.905 9.905 0 0 0-9.844 8.653c-.045.462-.074.903-.074 1.298v66.473l54.173-23.545v-17.404a71.919 71.919 0 0 0 43.582-24.346l54.21 44.252v-45.799a9.906 9.906 0 0 0-9.919-9.582z" style="fill:#ff837d;fill-opacity:1;stroke-width:3.52232"/><path id="path1259" fill="#004e9c" d="M172 1032.308H20v.036h152Z" style="stroke-width:3.52232"/><path id="path1265" fill="#ee8600" d="m74.227 966.683.035-16.614h-.071L20 973.84v16.612z" style="fill:#f8c18c;fill-opacity:1;stroke-width:3.52232"/><path id="path1267" fill="#ee8600" d="M74.262 983.224 20 1006.994v.035h54.262z" style="fill:#f8c18c;fill-opacity:1;stroke-width:3.52232"/><path id="path1269" fill="#ee8600" d="M91.595 942.41v-16.83l-17.404 7.66v16.83z" style="fill:#f8c18c;fill-opacity:1;stroke-width:3.90747"/><path id="path1271" fill="#ee8600" d="m74.262 983.224 17.369-7.552V959.06l-17.404 7.624z" style="fill:#f8c18c;fill-opacity:1;stroke-width:3.52232"/><path id="path1273" fill="#ee8600" d="M117.845 1006.993H172V935.72l-54.226-44.23z" style="fill:#f8c18c;fill-opacity:1;stroke-width:3.52232"/><path id="path1275" fill="#ff6b00" d="M117.774 1006.993h.071l-.071-115.501z" style="stroke-width:3.52232"/><path id="path1277" d="M20.018 1006.993v15.787a9.906 9.906 0 0 0 9.918 9.582h132.128a9.906 9.906 0 0 0 9.918-9.582v-15.787H74.264z" style="fill:#99bdfe;fill-opacity:1;stroke-width:3.52232"/></g><style id="style853" type="text/css">.st0{fill:#343e46}.st1{fill:#bb0034}.st2{fill:#fff}.st3{fill:#ea8215}.st4{fill:#ec6b00}.st5{fill:#d57e2a}.st6{fill:#0f4d95}.st7{fill:#0056b4}.st8{fill:none}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect394" width="100%" height="100%"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:34.5455;stroke-linecap:square;stroke-dashoffset:6;stop-color:#000" />
+    <path id="path1261"
+      d="M29.936 880.362a9.905 9.905 0 0 0-9.844 8.653c-.045.462-.074.903-.074 1.298v66.473l54.173-23.545v-17.404a71.919 71.919 0 0 0 43.582-24.346l54.21 44.252v-45.799a9.906 9.906 0 0 0-9.919-9.582z"
+      style="fill:#ff837d;fill-opacity:1;stroke-width:3.52232" />
+    <path id="path1259" fill="#004e9c" d="M172 1032.308H20v.036h152Z" style="stroke-width:3.52232" />
+    <path id="path1265" fill="#ee8600" d="m74.227 966.683.035-16.614h-.071L20 973.84v16.612z"
+      style="fill:#f8c18c;fill-opacity:1;stroke-width:3.52232" />
+    <path id="path1267" fill="#ee8600" d="M74.262 983.224 20 1006.994v.035h54.262z"
+      style="fill:#f8c18c;fill-opacity:1;stroke-width:3.52232" />
+    <path id="path1269" fill="#ee8600" d="M91.595 942.41v-16.83l-17.404 7.66v16.83z"
+      style="fill:#f8c18c;fill-opacity:1;stroke-width:3.90747" />
+    <path id="path1271" fill="#ee8600" d="m74.262 983.224 17.369-7.552V959.06l-17.404 7.624z"
+      style="fill:#f8c18c;fill-opacity:1;stroke-width:3.52232" />
+    <path id="path1273" fill="#ee8600" d="M117.845 1006.993H172V935.72l-54.226-44.23z"
+      style="fill:#f8c18c;fill-opacity:1;stroke-width:3.52232" />
+    <path id="path1275" fill="#ff6b00" d="M117.774 1006.993h.071l-.071-115.501z" style="stroke-width:3.52232" />
+    <path id="path1277"
+      d="M20.018 1006.993v15.787a9.906 9.906 0 0 0 9.918 9.582h132.128a9.906 9.906 0 0 0 9.918-9.582v-15.787H74.264z"
+      style="fill:#99bdfe;fill-opacity:1;stroke-width:3.52232" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #343e46
+    }
+
+    .st1 {
+      fill: #bb0034
+    }
+
+    .st2 {
+      fill: #fff
+    }
+
+    .st3 {
+      fill: #ea8215
+    }
+
+    .st4 {
+      fill: #ec6b00
+    }
+
+    .st5 {
+      fill: #d57e2a
+    }
+
+    .st6 {
+      fill: #0f4d95
+    }
+
+    .st7 {
+      fill: #0056b4
+    }
+
+    .st8 {
+      fill: none
+    }
+  </style>
+</svg>

@@ -1,1 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><linearGradient id="linearGradient898"><stop id="stop894" offset="0" style="stop-color:#bd9aff;stop-opacity:1"/><stop id="stop896" offset="1" style="stop-color:#bd9aff;stop-opacity:0"/></linearGradient><linearGradient id="linearGradient866"><stop id="stop862" offset="0" style="stop-color:#f9de81;stop-opacity:1"/><stop id="stop864" offset="1" style="stop-color:#f9de81;stop-opacity:0"/></linearGradient><linearGradient id="linearGradient834"><stop id="stop830" offset="0" style="stop-color:#ababff;stop-opacity:1"/><stop id="stop832" offset="1" style="stop-color:#ff837d;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#linearGradient834" id="linearGradient836" x1="92" x2="92" y1="36" y2="156" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#linearGradient866" id="linearGradient868" x1="32" x2="80" y1="160" y2="108" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#linearGradient898" id="linearGradient868-0" x1="20" x2="76" y1="172" y2="108" gradientTransform="translate(-192 -192)" gradientUnits="userSpaceOnUse"/><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><rect id="rect6" width="152" height="152" x="20" y="20" class="a" rx="10" style="fill-opacity:1;fill:url(#linearGradient836);stroke:none;opacity:1"/><rect id="rect6-8-0" width="152" height="152" x="-172" y="-172" class="a" rx="10" style="opacity:1;isolation:isolate;fill:url(#linearGradient868-0);fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round" transform="scale(-1)"/><rect id="rect6-8" width="152" height="152" x="20" y="20" class="a" rx="10" style="opacity:1;isolation:isolate;fill:url(#linearGradient868);fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"/><path id="path818" d="M56 96h16l12-32 24 64 12-32h16" style="fill:none;stroke:#fff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><rect id="rect820" width="8" height="8" x="132" y="92" ry="4" style="opacity:1;vector-effect:none;fill:#ffd6d4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg16" version="1.1"
+  viewBox="0 0 192 192">
+  <defs id="defs4">
+    <linearGradient id="linearGradient898">
+      <stop id="stop894" offset="0" style="stop-color:#bd9aff;stop-opacity:1" />
+      <stop id="stop896" offset="1" style="stop-color:#bd9aff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="linearGradient866">
+      <stop id="stop862" offset="0" style="stop-color:#f9de81;stop-opacity:1" />
+      <stop id="stop864" offset="1" style="stop-color:#f9de81;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="linearGradient834">
+      <stop id="stop830" offset="0" style="stop-color:#ababff;stop-opacity:1" />
+      <stop id="stop832" offset="1" style="stop-color:#ff837d;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient xlink:href="#linearGradient834" id="linearGradient836" x1="92" x2="92" y1="36" y2="156"
+      gradientUnits="userSpaceOnUse" />
+    <linearGradient xlink:href="#linearGradient866" id="linearGradient868" x1="32" x2="80" y1="160" y2="108"
+      gradientUnits="userSpaceOnUse" />
+    <linearGradient xlink:href="#linearGradient898" id="linearGradient868-0" x1="20" x2="76" y1="172" y2="108"
+      gradientTransform="translate(-192 -192)" gradientUnits="userSpaceOnUse" />
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect id="rect6" width="100%" height="100%" class=" a"
+    style="fill-opacity:1;fill:url(#linearGradient836);stroke:none;opacity:1" />
+  <rect id="rect6-8-0" width="152" height="152" x="-172" y="-172" class="a" rx="10"
+    style="opacity:1;isolation:isolate;fill:url(#linearGradient868-0);fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+    transform="scale(-1)" />
+  <rect id="rect6-8" width="100%" height="100%" class=" a"
+    style="opacity:1;isolation:isolate;fill:url(#linearGradient868);fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round" />
+  <path id="path818" d="M56 96h16l12-32 24 64 12-32h16"
+    style="fill:none;stroke:#fff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect id="rect820" width="8" height="8" x="132" y="92" ry="4"
+    style="opacity:1;vector-effect:none;fill:#ffd6d4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+</svg>

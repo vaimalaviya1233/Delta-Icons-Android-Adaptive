@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" fill="#bd9aff" class="a"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.848" d="M87.44 51.51a45.306 45.306 0 0 1 8.56-.816A45.306 45.306 0 0 1 141.306 96v0A45.306 45.306 0 0 1 96 141.306 45.306 45.306 0 0 1 50.694 96a45.306 45.306 0 0 1 .418-6.142"/><rect width="31.561" height="9.785" x="-16.651" y="86.677" fill="#fff" ry="4.893" transform="rotate(-45)"/><path fill="#fff" d="M115.41 72.138H75.068c1.24 9.189 1.546 18.703 13.617 24.116-10.252 6.331-14.044 14.713-13.617 24.435h40.661v-8.717H86.395c2.772-8.43 10.667-11.053 18.39-13.872v-2.928c-8.44-2.124-14.845-6.555-18.199-14.444h28.762z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" fill="#bd9aff" class="a" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.848"
+    d="M87.44 51.51a45.306 45.306 0 0 1 8.56-.816A45.306 45.306 0 0 1 141.306 96v0A45.306 45.306 0 0 1 96 141.306 45.306 45.306 0 0 1 50.694 96a45.306 45.306 0 0 1 .418-6.142" />
+  <rect width="31.561" height="9.785" x="-16.651" y="86.677" fill="#fff" ry="4.893" transform="rotate(-45)" />
+  <path fill="#fff"
+    d="M115.41 72.138H75.068c1.24 9.189 1.546 18.703 13.617 24.116-10.252 6.331-14.044 14.713-13.617 24.435h40.661v-8.717H86.395c2.772-8.43 10.667-11.053 18.39-13.872v-2.928c-8.44-2.124-14.845-6.555-18.199-14.444h28.762z" />
+</svg>

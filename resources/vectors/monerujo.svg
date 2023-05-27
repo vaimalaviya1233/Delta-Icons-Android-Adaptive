@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><defs><linearGradient id="a" x1="96" x2="96" y1="20" y2="172" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f8c18c"/><stop offset="1" stop-color="#ff837d"/></linearGradient></defs><rect width="152" height="152" x="20" y="20" fill="url(#a)" class="a" rx="10"/><g fill="#fff" stroke-width=".488"><path d="M108.62 73.844a15.935 15.935 0 0 0-12.684 6.285 15.935 15.935 0 0 0-22.077-3.221v-2.162h-6.572v39.901h6.572V89.822a9.406 9.406 0 1 1 18.798 0v24.825h6.572V89.822a9.406 9.406 0 1 1 18.798 0v24.825a9.406 9.406 0 0 1-9.407 9.392v6.543a15.992 15.992 0 0 0 15.978-15.935V88.032h-.1a15.992 15.992 0 0 0-15.878-14.188zM117.89800000000001 64.824a3.407 3.407 0 1 1 6.815 0 3.407 3.407 0 1 1-6.815 0"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="a" x1="96" x2="96" y1="20" y2="172" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8c18c" />
+      <stop offset="1" stop-color="#ff837d" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" class="a" %%" fill="url(#a)" />
+  <g fill="#fff" stroke-width=".488">
+    <path
+      d="M108.62 73.844a15.935 15.935 0 0 0-12.684 6.285 15.935 15.935 0 0 0-22.077-3.221v-2.162h-6.572v39.901h6.572V89.822a9.406 9.406 0 1 1 18.798 0v24.825h6.572V89.822a9.406 9.406 0 1 1 18.798 0v24.825a9.406 9.406 0 0 1-9.407 9.392v6.543a15.992 15.992 0 0 0 15.978-15.935V88.032h-.1a15.992 15.992 0 0 0-15.878-14.188zM117.89800000000001 64.824a3.407 3.407 0 1 1 6.815 0 3.407 3.407 0 1 1-6.815 0" />
+  </g>
+</svg>

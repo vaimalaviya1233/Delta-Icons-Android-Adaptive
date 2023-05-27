@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192"><defs><linearGradient id="a"><stop offset="0" style="stop-color:#9abeff;stop-opacity:1"/><stop offset="1" style="stop-color:#ff837d;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="128" x2="128" y1="132" y2="60" gradientUnits="userSpaceOnUse"/></defs><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#56595b;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M108 60c-16 0-16 16-16 16v21.04A18.021 18.021 0 0 0 86 96c-9.972 0-18 8.028-18 18s8.028 18 18 18c9.803 0 17.71-7.763 17.975-17.5H104V92h6c3.324 0 6-2.676 6-6s-2.676-6-6-6h-6v-4s0-4 4-4h10c3.324 0 6-2.676 6-6s-2.676-6-6-6h-10zm-22 48a6 6 0 1 1 0 12 6 6 0 0 1 0-12z" style="opacity:1;vector-effect:none;fill:url(#b);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" style="stop-color:#9abeff;stop-opacity:1" />
+      <stop offset="1" style="stop-color:#ff837d;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="b" x1="128" x2="128" y1="132" y2="60" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect width="100%" height="100%"
+    style="fill:#56595b;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path
+    d="M108 60c-16 0-16 16-16 16v21.04A18.021 18.021 0 0 0 86 96c-9.972 0-18 8.028-18 18s8.028 18 18 18c9.803 0 17.71-7.763 17.975-17.5H104V92h6c3.324 0 6-2.676 6-6s-2.676-6-6-6h-6v-4s0-4 4-4h10c3.324 0 6-2.676 6-6s-2.676-6-6-6h-10zm-22 48a6 6 0 1 1 0 12 6 6 0 0 1 0-12z"
+    style="opacity:1;vector-effect:none;fill:url(#b);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+</svg>

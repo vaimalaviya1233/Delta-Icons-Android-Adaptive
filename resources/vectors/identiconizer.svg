@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="fill:#fff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M76 62.667V76h13.333v13.333H76V76H62.667v26.667H76V116h13.333v13.333h13.334V116H116v-13.333h13.333V76H116v13.333h-13.333V76H116V62.667H89.333ZM116 116v13.333h13.333V116Zm-40 0H62.667v13.333H76Z" style="opacity:1;vector-effect:none;fill:#96dfd3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.33333302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#fff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path
+    d="M76 62.667V76h13.333v13.333H76V76H62.667v26.667H76V116h13.333v13.333h13.334V116H116v-13.333h13.333V76H116v13.333h-13.333V76H116V62.667H89.333ZM116 116v13.333h13.333V116Zm-40 0H62.667v13.333H76Z"
+    style="opacity:1;vector-effect:none;fill:#96dfd3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.33333302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+</svg>

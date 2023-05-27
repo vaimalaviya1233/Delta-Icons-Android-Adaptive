@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><style id="style215">.cls-1{fill:#fab625}.cls-2{fill:#fff}.cls-3{fill:#d3d3d3}.st0{fill:#fff}</style></defs><g id="layer1" transform="translate(0 -860.362)"><circle id="circle917" cx="96" cy="956.362" r="88" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path2111" d="M54.201 951.999c10.244 12.75 25.544 20.252 41.805 20.282 16.256-.033 31.55-7.533 41.793-20.277 1.73-2.152 1.204-2.63-1.074-1.07-12.031 8.24-26.186 12.698-40.72 12.759-14.537-.06-28.696-4.52-40.73-12.764-2.278-1.56-2.803-1.082-1.074 1.07z" style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:281.228;stroke-linecap:square;stroke-dashoffset:6;stop-color:#000"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <style id="style215">
+      .cls-1 {
+        fill: #fab625
+      }
+
+      .cls-2 {
+        fill: #fff
+      }
+
+      .cls-3 {
+        fill: #d3d3d3
+      }
+
+      .st0 {
+        fill: #fff
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle917" y="860,362"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path2111"
+      d="M54.201 951.999c10.244 12.75 25.544 20.252 41.805 20.282 16.256-.033 31.55-7.533 41.793-20.277 1.73-2.152 1.204-2.63-1.074-1.07-12.031 8.24-26.186 12.698-40.72 12.759-14.537-.06-28.696-4.52-40.73-12.764-2.278-1.56-2.803-1.082-1.074 1.07z"
+      style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:281.228;stroke-linecap:square;stroke-dashoffset:6;stop-color:#000" />
+  </g>
+</svg>

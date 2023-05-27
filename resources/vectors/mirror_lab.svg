@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:#ececec;opacity:1"/><path d="M132 60v72h-20v-32l-16 16-4-20 4-16 20-20z" style="fill:#ba6561"/><path d="M60 60v72h20v-32l16 16V80L76 60z" style="fill:#728dbe"/><path d="M96 116V96L60 60v20z" style="fill:#9abeff"/><path d="M60 80v20h20z" style="fill:#54688c"/><path d="M96 116V96l36-36v20zM112 112v20h20z" style="fill:#ff837d"/><path d="M80 112v20H60z" style="fill:#9abeff"/><path d="M132 80v20h-20z" style="opacity:.25"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" style="fill:#ececec;opacity:1" />
+  <path d="M132 60v72h-20v-32l-16 16-4-20 4-16 20-20z" style="fill:#ba6561" />
+  <path d="M60 60v72h20v-32l16 16V80L76 60z" style="fill:#728dbe" />
+  <path d="M96 116V96L60 60v20z" style="fill:#9abeff" />
+  <path d="M60 80v20h20z" style="fill:#54688c" />
+  <path d="M96 116V96l36-36v20zM112 112v20h20z" style="fill:#ff837d" />
+  <path d="M80 112v20H60z" style="fill:#9abeff" />
+  <path d="M132 80v20h-20z" style="opacity:.25" />
+</svg>

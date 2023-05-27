@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect3939" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path2138" d="M91.94 919.862a8.955 8.955 0 0 0-8.955 8.955c.009 2.372.695 4.447 2.357 6.109 1.662 1.662 1.3 4.174-.634 4.174h-16.84a2.33 2.33 0 0 0-2.337 2.336v14.267c0 1.935 2.513 2.296 4.175.634s3.736-2.348 6.108-2.356a8.955 8.955 0 0 1 8.955 8.955 8.955 8.955 0 0 1-8.955 8.955c-2.372-.008-4.446-.694-6.108-2.356s-4.175-1.301-4.175.634v12.808a2.33 2.33 0 0 0 2.336 2.335h44.716a2.33 2.33 0 0 0 2.336-2.335v-41.541a2.33 2.33 0 0 0-2.336-2.336h-13.41c-1.934 0-2.296-2.512-.634-4.174 1.662-1.662 2.348-3.737 2.357-6.109a8.955 8.955 0 0 0-8.955-8.955z" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.314922;stroke-opacity:1"/><path id="path1076" d="M93.692 967.428c0 4.931-5.14 7.173-5.14 7.173l4.647 8.05s4.512-3.33 8.783-.865c4.27 2.466 3.642 8.039 3.642 8.039h9.296s-.63-5.573 3.641-8.039c4.271-2.466 8.783.866 8.783.866l4.648-8.05s-5.141-2.243-5.141-7.174c0-4.932 5.14-7.173 5.14-7.173l-4.647-8.05s-4.513 3.33-8.783.865c-4.271-2.466-3.642-8.039-3.642-8.039h-9.296s.63 5.573-3.642 8.039c-4.27 2.465-8.782-.866-8.782-.866l-4.648 8.05s5.141 2.242 5.141 7.174z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#708cbd;stroke-width:3.64635;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000"/><circle id="path1276" cx="579.212" cy="782.682" r="8.723" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.33356;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000" transform="rotate(30)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect3939" width="100%" height="100%"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path2138"
+      d="M91.94 919.862a8.955 8.955 0 0 0-8.955 8.955c.009 2.372.695 4.447 2.357 6.109 1.662 1.662 1.3 4.174-.634 4.174h-16.84a2.33 2.33 0 0 0-2.337 2.336v14.267c0 1.935 2.513 2.296 4.175.634s3.736-2.348 6.108-2.356a8.955 8.955 0 0 1 8.955 8.955 8.955 8.955 0 0 1-8.955 8.955c-2.372-.008-4.446-.694-6.108-2.356s-4.175-1.301-4.175.634v12.808a2.33 2.33 0 0 0 2.336 2.335h44.716a2.33 2.33 0 0 0 2.336-2.335v-41.541a2.33 2.33 0 0 0-2.336-2.336h-13.41c-1.934 0-2.296-2.512-.634-4.174 1.662-1.662 2.348-3.737 2.357-6.109a8.955 8.955 0 0 0-8.955-8.955z"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.314922;stroke-opacity:1" />
+    <path id="path1076"
+      d="M93.692 967.428c0 4.931-5.14 7.173-5.14 7.173l4.647 8.05s4.512-3.33 8.783-.865c4.27 2.466 3.642 8.039 3.642 8.039h9.296s-.63-5.573 3.641-8.039c4.271-2.466 8.783.866 8.783.866l4.648-8.05s-5.141-2.243-5.141-7.174c0-4.932 5.14-7.173 5.14-7.173l-4.647-8.05s-4.513 3.33-8.783.865c-4.271-2.466-3.642-8.039-3.642-8.039h-9.296s.63 5.573-3.642 8.039c-4.27 2.465-8.782-.866-8.782-.866l-4.648 8.05s5.141 2.242 5.141 7.174z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#708cbd;stroke-width:3.64635;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000" />
+    <circle id="path1276" cx="579.212" cy="782.682" r="8.723"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.33356;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000"
+      transform="rotate(30)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><defs><linearGradient id="a" x1="48.027" x2="143.97" y1="98.5" y2="98.5" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8c72bd"/><stop offset="1" stop-color="#bd9aff"/></linearGradient></defs><rect width="152" height="152" x="20" y="20" fill="#56595b" rx="9.935"/><text xml:space="preserve" x="44.88" y="114.053" fill="url(#a)" stroke-linecap="square" stroke-width="5" font-family="Now" font-size="42.667" font-weight="bold"><tspan x="44.88" y="114.053">Hobi</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <defs>
+    <linearGradient id="a" x1="48.027" x2="143.97" y1="98.5" y2="98.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8c72bd" />
+      <stop offset="1" stop-color="#bd9aff" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#56595b" /><text xml:space="preserve" x="44.88" y="114.053" fill="url(#a)"
+    stroke-linecap="square" stroke-width="5" font-family="Now" font-size="42.667" font-weight="bold">
+    <tspan x="44.88" y="114.053">Hobi</tspan>
+  </text>
+</svg>

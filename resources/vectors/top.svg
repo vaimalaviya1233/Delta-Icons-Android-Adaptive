@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#73ada4" rx="9.935"/><path fill="#fff" fill-rule="evenodd" d="M138.11 96V59.09a5.199 5.199 0 0 0-5.199-5.199h-38.47c-.285 0-.564.023-.837.067C71.463 55.201 53.892 73.548 53.892 96c0 23.256 18.853 42.11 42.109 42.11 22.989 0 41.675-18.423 42.102-41.309.005-.093.007-.186.007-.28z" clip-rule="evenodd"/><circle cx="95.744" cy="95.227" r="27.348" fill="#73ada4"/><circle cx="95.744" cy="95.227" r="11.832" fill="#96dfd3"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#73ada4" />
+  <path fill="#fff" fill-rule="evenodd"
+    d="M138.11 96V59.09a5.199 5.199 0 0 0-5.199-5.199h-38.47c-.285 0-.564.023-.837.067C71.463 55.201 53.892 73.548 53.892 96c0 23.256 18.853 42.11 42.109 42.11 22.989 0 41.675-18.423 42.102-41.309.005-.093.007-.186.007-.28z"
+    clip-rule="evenodd" />
+  <circle cx="95.744" cy="95.227" r="27.348" fill="#73ada4" />
+  <circle cx="95.744" cy="95.227" r="11.832" fill="#96dfd3" />
+</svg>

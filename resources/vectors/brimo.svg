@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect921" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g959" transform="matrix(.7197 0 0 .7197 26.91 268.077)"><text xml:space="preserve" id="text937" x="40.625" y="960.919" style="font-weight:700;font-size:63.1756px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.57938"><tspan id="tspan935" x="40.625" y="960.919" style="fill:#fff;fill-opacity:1;stroke-width:1.57938">BRI</tspan></text><text xml:space="preserve" id="text941" x="61.881" y="998.622" style="font-weight:700;font-size:56.5569px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f8c18c;fill-opacity:1;stroke-width:1.41392"><tspan id="tspan939" x="61.881" y="998.622" style="fill:#f8c18c;fill-opacity:1;stroke-width:1.41392">mo</tspan></text></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect921" y="860,362"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g959" transform="matrix(.7197 0 0 .7197 26.91 268.077)"><text xml:space="preserve" id="text937" x="40.625"
+        y="960.919"
+        style="font-weight:700;font-size:63.1756px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.57938">
+        <tspan id="tspan935" x="40.625" y="960.919" style="fill:#fff;fill-opacity:1;stroke-width:1.57938">BRI</tspan>
+      </text><text xml:space="preserve" id="text941" x="61.881" y="998.622"
+        style="font-weight:700;font-size:56.5569px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f8c18c;fill-opacity:1;stroke-width:1.41392">
+        <tspan id="tspan939" x="61.881" y="998.622" style="fill:#f8c18c;fill-opacity:1;stroke-width:1.41392">mo</tspan>
+      </text></g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><defs><path id="a" d="M333.443 760.289h161.058v128.637H333.443z"/></defs><g transform="translate(0 -860.362)"><rect width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40px;line-height:1.25;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;letter-spacing:0;word-spacing:0;white-space:pre;shape-inside:url(#a);fill:#585b5d;fill-opacity:1" transform="matrix(.8118 0 0 .8118 -210.47 340.827)"><tspan x="333.443" y="794.911"><tspan style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;fill:#585b5d;fill-opacity:1">NTC</tspan></tspan></text><path d="M67.924 951.86c-2.147-.085-3.903-.67-5.276-1.759a10.524 10.524 0 0 1-1.097-1.093c-.556-.699-.935-1.378-1.188-2.132-.777-2.322-.377-5.367 1.144-8.71 1.303-2.862 3.312-5.7 6.818-9.631.517-.579 2.055-2.27 2.065-2.27a6.4 6.4 0 0 1-.186.32c-.912 1.523-1.692 3.317-2.117 4.87-.682 2.491-.6 4.63.242 6.287.58 1.143 1.575 2.132 2.694 2.679 1.959.957 4.827 1.036 8.33.232.24-.056 12.189-3.22 26.552-7.03s26.117-6.926 26.118-6.923c.004.003-33.369 14.244-50.694 21.632-2.743 1.17-3.477 1.466-4.767 1.917-3.297 1.155-6.25 1.706-8.638 1.611z" style="fill:#575a5c;fill-opacity:1;stroke-width:.367077"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <defs>
+    <path id="a" d="M333.443 760.289h161.058v128.637H333.443z" />
+  </defs>
+  <g transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" x="19.5" y="879.862" rx="10"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40px;line-height:1.25;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;letter-spacing:0;word-spacing:0;white-space:pre;shape-inside:url(#a);fill:#585b5d;fill-opacity:1"
+      transform="matrix(.8118 0 0 .8118 -210.47 340.827)">
+      <tspan x="333.443" y="794.911">
+        <tspan
+          style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;fill:#585b5d;fill-opacity:1">
+          NTC</tspan>
+      </tspan>
+    </text>
+    <path
+      d="M67.924 951.86c-2.147-.085-3.903-.67-5.276-1.759a10.524 10.524 0 0 1-1.097-1.093c-.556-.699-.935-1.378-1.188-2.132-.777-2.322-.377-5.367 1.144-8.71 1.303-2.862 3.312-5.7 6.818-9.631.517-.579 2.055-2.27 2.065-2.27a6.4 6.4 0 0 1-.186.32c-.912 1.523-1.692 3.317-2.117 4.87-.682 2.491-.6 4.63.242 6.287.58 1.143 1.575 2.132 2.694 2.679 1.959.957 4.827 1.036 8.33.232.24-.056 12.189-3.22 26.552-7.03s26.117-6.926 26.118-6.923c.004.003-33.369 14.244-50.694 21.632-2.743 1.17-3.477 1.466-4.767 1.917-3.297 1.155-6.25 1.706-8.638 1.611z"
+      style="fill:#575a5c;fill-opacity:1;stroke-width:.367077" />
+  </g>
+</svg>

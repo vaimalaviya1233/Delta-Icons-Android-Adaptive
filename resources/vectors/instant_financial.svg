@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect385" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path640" d="M115.181 919.862c-4.765 0-8.91 2.28-11.81 5.905v-5.076h-13.26v41.44h13.26v-24.035c0-3.73 3.108-6.527 6.941-6.527 3.833 0 6.527 2.797 6.527 6.527v31.067h13.157V935.92c0-9.117-6.63-16.058-14.815-16.058z" style="font-weight:700;font-size:202.109px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:-12px;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.072"/><path id="path642" d="M104.86 970.157a18.558 16.947 0 0 1-9.278 14.676 18.558 16.947 0 0 1-18.558 0 18.558 16.947 0 0 1-9.28-14.676" style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fff;stroke-width:11.4821;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000"/><path id="path644" d="M69.338 962.131h13.158v-41.44H69.338Z" style="font-weight:700;font-size:202.109px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:-12px;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.072"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect385" width="100%" height="100%"
+      style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path640"
+      d="M115.181 919.862c-4.765 0-8.91 2.28-11.81 5.905v-5.076h-13.26v41.44h13.26v-24.035c0-3.73 3.108-6.527 6.941-6.527 3.833 0 6.527 2.797 6.527 6.527v31.067h13.157V935.92c0-9.117-6.63-16.058-14.815-16.058z"
+      style="font-weight:700;font-size:202.109px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:-12px;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.072" />
+    <path id="path642"
+      d="M104.86 970.157a18.558 16.947 0 0 1-9.278 14.676 18.558 16.947 0 0 1-18.558 0 18.558 16.947 0 0 1-9.28-14.676"
+      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fff;stroke-width:11.4821;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000" />
+    <path id="path644" d="M69.338 962.131h13.158v-41.44H69.338Z"
+      style="font-weight:700;font-size:202.109px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:-12px;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.072" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

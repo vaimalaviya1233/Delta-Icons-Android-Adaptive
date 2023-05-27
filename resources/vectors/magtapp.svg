@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><defs><linearGradient id="a" x1="20" x2="172" y1="172" y2="20" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#728dbe"/><stop offset="1" stop-color="#9abeff"/></linearGradient></defs><rect width="152" height="152" x="20" y="20" fill="url(#a)" rx="9.935"/><path fill="#fff" d="M47.917 124.65V67.347h18.44v6.642s5.044-6.642 17.25-6.642c12.463 0 18.242 9.914 18.242 9.914s7.347-9.914 19.729-9.914c19.782 0 22.505 16.801 22.505 19.233v38.07H127.13V91.339c0-1.519-.813-9.022-10.608-9.022-10.388 0-11.302 6.613-11.302 8.526v33.807H87.276V90.744c0-2.274-1.498-8.625-9.418-8.625-9.831 0-11.5 6.189-11.5 8.03v34.502z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <defs>
+    <linearGradient id="a" x1="20" x2="172" y1="172" y2="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#728dbe" />
+      <stop offset="1" stop-color="#9abeff" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill=url(#a)" />
+  <path fill="#fff"
+    d="M47.917 124.65V67.347h18.44v6.642s5.044-6.642 17.25-6.642c12.463 0 18.242 9.914 18.242 9.914s7.347-9.914 19.729-9.914c19.782 0 22.505 16.801 22.505 19.233v38.07H127.13V91.339c0-1.519-.813-9.022-10.608-9.022-10.388 0-11.302 6.613-11.302 8.526v33.807H87.276V90.744c0-2.274-1.498-8.625-9.418-8.625-9.831 0-11.5 6.189-11.5 8.03v34.502z" />
+</svg>

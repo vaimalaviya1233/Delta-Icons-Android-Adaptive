@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#9abeff" rx="9.935"/><text xml:space="preserve" x="65.88" y="119.68" font-family="'Noto Sans'" font-size="64" style="line-height:1.25"><tspan x="65.88" y="119.68" fill="#fff" font-family="now" font-style="italic">IJ</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#9abeff" /><text xml:space="preserve" x="65.88" y="119.68"
+    font-family="'Noto Sans'" font-size="64" style="line-height:1.25">
+    <tspan x="65.88" y="119.68" fill="#fff" font-family="now" font-style="italic">IJ</tspan>
+  </text>
+</svg>

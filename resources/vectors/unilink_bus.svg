@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#73ada4" rx="9.935"/><text xml:space="preserve" x="65.851" y="124.881" fill="#fff" stroke-width="1.22" font-family="Now" font-size="78.057" font-weight="900" style="line-height:1.25"><tspan x="65.851" y="124.881">U</tspan></text><g fill="#fff" aria-label="U"><path d="M70.92 79.554v26.688c0 10.928 11.026 19.416 25.077 19.416s25.076-8.488 25.076-19.416V66.336h-14.928v37.076c0 5.17-4.489 9.268-10.148 9.268s-10.147-4.097-10.147-9.268V66.336z"/><path fill="#96dfd3" d="m70.92 79.554 14.928-13.218H70.92z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#73ada4" /><text xml:space="preserve" x="65.851" y="124.881" fill="#fff"
+    stroke-width="1.22" font-family="Now" font-size="78.057" font-weight="900" style="line-height:1.25">
+    <tspan x="65.851" y="124.881">U</tspan>
+  </text>
+  <g fill="#fff" aria-label="U">
+    <path
+      d="M70.92 79.554v26.688c0 10.928 11.026 19.416 25.077 19.416s25.076-8.488 25.076-19.416V66.336h-14.928v37.076c0 5.17-4.489 9.268-10.148 9.268s-10.147-4.097-10.147-9.268V66.336z" />
+    <path fill="#96dfd3" d="m70.92 79.554 14.928-13.218H70.92z" />
+  </g>
+</svg>

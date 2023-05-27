@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 50.8 50.8"><g transform="translate(-84.7 -58.885)"><rect width="40.217" height="40.217" x="89.991" y="64.176" rx="2.629" ry="2.629" style="opacity:1;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.262854;stroke-opacity:1"/><g transform="scale(.8343) rotate(-45 23.312 -18.773)"><rect width="12.153" height="12.153" x="11.73" y="139.066" rx=".794" ry=".794" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0794311;stroke-opacity:1"/><rect width="12.153" height="12.153" x="9.356" y="136.691" rx=".794" ry=".794" style="opacity:1;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><rect width="12.153" height="12.153" x="6.982" y="134.317" rx=".794" ry=".794" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 50.8 50.8">
+  <g transform="translate(-84.7 -58.885)">
+    <rect width="100%" height="100%"
+      style="opacity:1;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.262854;stroke-opacity:1" />
+    <g transform="scale(.8343) rotate(-45 23.312 -18.773)">
+      <rect width="12.153" height="12.153" x="11.73" y="139.066" rx=".794" ry=".794"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0794311;stroke-opacity:1" />
+      <rect width="12.153" height="12.153" x="9.356" y="136.691" rx=".794" ry=".794"
+        style="opacity:1;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect width="12.153" height="12.153" x="6.982" y="134.317" rx=".794" ry=".794"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

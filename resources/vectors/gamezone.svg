@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#9abeff" rx="9.935"/><path fill="#fff" d="m115.635 60.222-39.271.134a23.25 23.25 0 0 0-22.85 19.19l-7.318 37.531A12.496 12.496 0 0 0 67.349 128.1l19.279-21.332 29.007-.134a23.206 23.206 0 1 0 0-46.412z"/><path fill="#fff" d="m138.484 79.412 7.32 37.665A12.496 12.496 0 0 1 124.65 128.1l-19.279-21.421"/><g fill="#9abeff" transform="translate(38.877 35.365) scale(.44627)"><path stroke="#9abeff" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M88 92v32M72 108h32"/><circle cx="156.21" cy="92.143" r="8.464"/><circle cx="177.84" cy="123.88" r="8.464"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#9abeff" />
+  <path fill="#fff"
+    d="m115.635 60.222-39.271.134a23.25 23.25 0 0 0-22.85 19.19l-7.318 37.531A12.496 12.496 0 0 0 67.349 128.1l19.279-21.332 29.007-.134a23.206 23.206 0 1 0 0-46.412z" />
+  <path fill="#fff" d="m138.484 79.412 7.32 37.665A12.496 12.496 0 0 1 124.65 128.1l-19.279-21.421" />
+  <g fill="#9abeff" transform="translate(38.877 35.365) scale(.44627)">
+    <path stroke="#9abeff" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" d="M88 92v32M72 108h32" />
+    <circle cx="156.21" cy="92.143" r="8.464" />
+    <circle cx="177.84" cy="123.88" r="8.464" />
+  </g>
+</svg>

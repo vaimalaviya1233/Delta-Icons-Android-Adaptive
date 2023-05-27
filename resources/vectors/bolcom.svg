@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><rect id="rect14" width="176" height="128" x="8" y="32" class="a" rx="10" style="opacity:1;fill:#708cbd;stroke:none;fill-opacity:1"/><text xml:space="preserve" id="text910" x="25.439" y="129.41" style="font-size:83.0152px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;stroke-width:2.07538;fill:#fff"><tspan id="tspan908" x="25.439" y="129.41" style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;;stroke-width:2.07538;fill:#fff">bol.</tspan></text><g id="g3216" transform="translate(-.838 -203.85)"><rect id="rect14-3" width="176" height="128" x="8" y="32" class="a" rx="10" style="opacity:1;fill:#54688c;stroke:none"/><text xml:space="preserve" id="text910-5" x="25.439" y="129.41" style="font-size:83.0152px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;fill:#fff;stroke-width:2.07538"><tspan id="tspan908-6" x="25.439" y="129.41" style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;;fill:#fff;stroke-width:2.07538">bol.</tspan></text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect id="rect14" rect height="100%" width="100%" class="a"
+    style="opacity:1;fill:#708cbd;stroke:none;fill-opacity:1" /><text xml:space="preserve" id="text910" x="25.439"
+    y="129.41"
+    style="font-size:83.0152px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;stroke-width:2.07538;fill:#fff">
+    <tspan id="tspan908" x="25.439" y="129.41"
+      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;;stroke-width:2.07538;fill:#fff">
+      bol.</tspan>
+  </text>
+  <g id="g3216" transform="translate(-.838 -203.85)">
+    <rect id="rect14-3" rect height="100%" width="100%" class="a" style="opacity:1;fill:#54688c;stroke:none" /><text
+      xml:space="preserve" id="text910-5" x="25.439" y="129.41"
+      style="font-size:83.0152px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;fill:#fff;stroke-width:2.07538">
+      <tspan id="tspan908-6" x="25.439" y="129.41"
+        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;;fill:#fff;stroke-width:2.07538">
+        bol.</tspan>
+    </text>
+  </g>
+</svg>

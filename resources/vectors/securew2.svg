@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#fff"/><path fill="#ff837d" d="M120.67 81.517a24.314 24.314 0 0 1 24.314 24.314 24.314 24.314 0 0 1-24.314 24.314 24.314 24.314 0 0 1-21.36-12.828 24.314 24.314 0 0 0 2.954-11.486 24.314 24.314 0 0 0-2.988-11.549 24.314 24.314 0 0 1 21.394-12.765zM95.642 105.83a24.314 24.314 0 0 1-24.314 24.314 24.314 24.314 0 0 1-24.314-24.314 24.314 24.314 0 0 1 24.314-24.314 24.314 24.314 0 0 1 24.314 24.314z"/><text xml:space="preserve" x="56.846" y="116.518" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.413" font-family="Now" font-size="28.501" font-weight="500"><tspan x="56.846" y="116.518">W</tspan></text><text xml:space="preserve" x="114.498" y="116.519" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.318" font-family="Now" font-size="28.08" font-weight="500"><tspan x="114.498" y="116.519">2</tspan></text><text xml:space="preserve" x="46.004" y="77.705" fill="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.992" font-family="Now" font-size="31.078" font-weight="500"><tspan x="46.004" y="77.705">secure</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" />
+  <path fill="#ff837d"
+    d="M120.67 81.517a24.314 24.314 0 0 1 24.314 24.314 24.314 24.314 0 0 1-24.314 24.314 24.314 24.314 0 0 1-21.36-12.828 24.314 24.314 0 0 0 2.954-11.486 24.314 24.314 0 0 0-2.988-11.549 24.314 24.314 0 0 1 21.394-12.765zM95.642 105.83a24.314 24.314 0 0 1-24.314 24.314 24.314 24.314 0 0 1-24.314-24.314 24.314 24.314 0 0 1 24.314-24.314 24.314 24.314 0 0 1 24.314 24.314z" />
+  <text xml:space="preserve" x="56.846" y="116.518" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="6.413" font-family="Now" font-size="28.501" font-weight="500">
+    <tspan x="56.846" y="116.518">W</tspan>
+  </text><text xml:space="preserve" x="114.498" y="116.519" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="6.318" font-family="Now" font-size="28.08" font-weight="500">
+    <tspan x="114.498" y="116.519">2</tspan>
+  </text><text xml:space="preserve" x="46.004" y="77.705" fill="#56595b" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="6.992" font-family="Now" font-size="31.078" font-weight="500">
+    <tspan x="46.004" y="77.705">secure</tspan>
+  </text>
+</svg>

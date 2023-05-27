@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><circle id="circle8" cx="96" cy="96" r="88" class="a" style="display:inline;opacity:1;fill:#56595b;stroke:none"/><rect id="rect6-3" width="52" height="52" x="99" y="99" class="a" rx="8.525" ry="8.525" style="opacity:1;isolation:isolate;fill:#728dbe;fill-opacity:1;stroke:none;stroke-width:.999997;stroke-linecap:round;stroke-linejoin:round"/><g id="g8433" style="fill:#000;stroke-width:.666667" transform="matrix(1.5 0 0 1.5 107 107)"><path id="path8421" fill="none" d="M0 0h24v24H0Z" style="stroke-width:.444444"/><path id="path8423" d="M12.09 2.91C10.08.9 7.07.49 4.65 1.67L8.28 5.3c.39.39.39 1.02 0 1.41L6.69 8.3c-.39.4-1.02.4-1.41 0L1.65 4.67C.48 7.1.89 10.09 2.9 12.1a6.507 6.507 0 0 0 6.89 1.48l7.96 7.96a2.613 2.613 0 0 0 3.71 0 2.613 2.613 0 0 0 0-3.71L13.54 9.9c.92-2.34.44-5.1-1.45-6.99Z" style="fill:#fff;stroke-width:.666667"/></g><g id="g8418" style="fill:#000;stroke-width:.666667" transform="matrix(1.5 0 0 1.5 48.985 107)"><path id="path8406" fill="none" d="M.01 0h24v24h-24z" style="stroke-width:.390244"/><path id="path8408" d="M12 4V2.21c0-.45-.54-.67-.85-.35l-2.8 2.79c-.2.2-.2.51 0 .71l2.79 2.79c.32.31.86.09.86-.36V6c3.31 0 6 2.69 6 6 0 .79-.15 1.56-.44 2.25-.15.36-.04.77.23 1.04.51.51 1.37.33 1.64-.34.37-.91.57-1.91.57-2.95 0-4.42-3.58-8-8-8Zm0 14c-3.31 0-6-2.69-6-6 0-.79.15-1.56.44-2.25.15-.36.04-.77-.23-1.04-.51-.51-1.37-.33-1.64.34C4.2 9.96 4 10.96 4 12c0 4.42 3.58 8 8 8v1.79c0 .45.54.67.85.35l2.79-2.79c.2-.2.2-.51 0-.71l-2.79-2.79a.5.5 0 0 0-.85.36Z" style="fill:#d8d8d8;stroke-width:.666667"/></g><g id="g8404" style="fill:#000;stroke-width:.666667" transform="matrix(1.5 0 0 1.5 107 48.25)"><g id="g8387" style="stroke-width:.666667"><path id="rect8383" fill="none" d="M0 0h24v24H0z" style="stroke-width:.390244"/><path id="rect8385" fill="none" d="M0 0h24v24H0z" style="stroke-width:.390244"/></g><g id="g8391" style="fill:#d8d8d8;stroke-width:.666667"><path id="path8389" d="M17 5v16c0 .55-.45 1-1 1H8c-.55 0-1-.45-1-1V5c0-.55.45-1 1-1h2V3c0-.55.45-1 1-1h2c.55 0 1 .45 1 1v1h2c.55 0 1 .45 1 1zm-2 1H9v4h6z" style="fill:#d8d8d8;stroke-width:.666667"/></g></g><g id="g8381" style="fill:#000;stroke-width:.666667" transform="matrix(1.5 0 0 1.5 49 49)"><path id="path8369" fill="none" d="M0 0h24v24H0Z" style="stroke-width:.390244"/><path id="path8371" d="M12 13c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm6-5h-1V6c0-2.76-2.24-5-5-5-2.28 0-4.27 1.54-4.84 3.75-.14.54.18 1.08.72 1.22a1 1 0 0 0 1.22-.72A2.996 2.996 0 0 1 12 3c1.65 0 3 1.35 3 3v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2Zm0 11c0 .55-.45 1-1 1H7c-.55 0-1-.45-1-1v-8c0-.55.45-1 1-1h10c.55 0 1 .45 1 1z" style="fill:#d8d8d8;stroke-width:.666667"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" id="circle8" class="a" style="display:inline;opacity:1;fill:#56595b;stroke:none" />
+  <rect id="rect6-3" width="52" height="52" x="99" y="99" class="a" rx="8.525" ry="8.525"
+    style="opacity:1;isolation:isolate;fill:#728dbe;fill-opacity:1;stroke:none;stroke-width:.999997;stroke-linecap:round;stroke-linejoin:round" />
+  <g id="g8433" style="fill:#000;stroke-width:.666667" transform="matrix(1.5 0 0 1.5 107 107)">
+    <path id="path8421" fill="none" d="M0 0h24v24H0Z" style="stroke-width:.444444" />
+    <path id="path8423"
+      d="M12.09 2.91C10.08.9 7.07.49 4.65 1.67L8.28 5.3c.39.39.39 1.02 0 1.41L6.69 8.3c-.39.4-1.02.4-1.41 0L1.65 4.67C.48 7.1.89 10.09 2.9 12.1a6.507 6.507 0 0 0 6.89 1.48l7.96 7.96a2.613 2.613 0 0 0 3.71 0 2.613 2.613 0 0 0 0-3.71L13.54 9.9c.92-2.34.44-5.1-1.45-6.99Z"
+      style="fill:#fff;stroke-width:.666667" />
+  </g>
+  <g id="g8418" style="fill:#000;stroke-width:.666667" transform="matrix(1.5 0 0 1.5 48.985 107)">
+    <path id="path8406" fill="none" d="M.01 0h24v24h-24z" style="stroke-width:.390244" />
+    <path id="path8408"
+      d="M12 4V2.21c0-.45-.54-.67-.85-.35l-2.8 2.79c-.2.2-.2.51 0 .71l2.79 2.79c.32.31.86.09.86-.36V6c3.31 0 6 2.69 6 6 0 .79-.15 1.56-.44 2.25-.15.36-.04.77.23 1.04.51.51 1.37.33 1.64-.34.37-.91.57-1.91.57-2.95 0-4.42-3.58-8-8-8Zm0 14c-3.31 0-6-2.69-6-6 0-.79.15-1.56.44-2.25.15-.36.04-.77-.23-1.04-.51-.51-1.37-.33-1.64.34C4.2 9.96 4 10.96 4 12c0 4.42 3.58 8 8 8v1.79c0 .45.54.67.85.35l2.79-2.79c.2-.2.2-.51 0-.71l-2.79-2.79a.5.5 0 0 0-.85.36Z"
+      style="fill:#d8d8d8;stroke-width:.666667" />
+  </g>
+  <g id="g8404" style="fill:#000;stroke-width:.666667" transform="matrix(1.5 0 0 1.5 107 48.25)">
+    <g id="g8387" style="stroke-width:.666667">
+      <path id="rect8383" fill="none" d="M0 0h24v24H0z" style="stroke-width:.390244" />
+      <path id="rect8385" fill="none" d="M0 0h24v24H0z" style="stroke-width:.390244" />
+    </g>
+    <g id="g8391" style="fill:#d8d8d8;stroke-width:.666667">
+      <path id="path8389"
+        d="M17 5v16c0 .55-.45 1-1 1H8c-.55 0-1-.45-1-1V5c0-.55.45-1 1-1h2V3c0-.55.45-1 1-1h2c.55 0 1 .45 1 1v1h2c.55 0 1 .45 1 1zm-2 1H9v4h6z"
+        style="fill:#d8d8d8;stroke-width:.666667" />
+    </g>
+  </g>
+  <g id="g8381" style="fill:#000;stroke-width:.666667" transform="matrix(1.5 0 0 1.5 49 49)">
+    <path id="path8369" fill="none" d="M0 0h24v24H0Z" style="stroke-width:.390244" />
+    <path id="path8371"
+      d="M12 13c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm6-5h-1V6c0-2.76-2.24-5-5-5-2.28 0-4.27 1.54-4.84 3.75-.14.54.18 1.08.72 1.22a1 1 0 0 0 1.22-.72A2.996 2.996 0 0 1 12 3c1.65 0 3 1.35 3 3v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2Zm0 11c0 .55-.45 1-1 1H7c-.55 0-1-.45-1-1v-8c0-.55.45-1 1-1h10c.55 0 1 .45 1 1z"
+      style="fill:#d8d8d8;stroke-width:.666667" />
+  </g>
+</svg>

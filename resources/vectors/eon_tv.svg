@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153 153"><defs><linearGradient id="a" x2="153" y1="77" y2="77" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#bd9aff"/><stop offset=".33" stop-color="#9abeff"/><stop offset=".66" stop-color="#96dfd3"/><stop offset="1" stop-color="#98dc9a"/></linearGradient></defs><rect width="153" height="153" fill="#56595b" rx="10"/><path fill="url(#a)" d="M0 69.5h153v15H0z"/><path fill="#fff" d="M40.99 29.42V58.2h12.53V41.95h58.49V29.42H40.99zM40.99 124.58V95.8h12.53v16.25h58.49v12.53H40.99z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153 153">
+  <defs>
+    <linearGradient id="a" x2="153" y1="77" y2="77" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bd9aff" />
+      <stop offset=".33" stop-color="#9abeff" />
+      <stop offset=".66" stop-color="#96dfd3" />
+      <stop offset="1" stop-color="#98dc9a" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#56595b" />
+  <path fill="url(#a)" d="M0 69.5h153v15H0z" />
+  <path fill="#fff"
+    d="M40.99 29.42V58.2h12.53V41.95h58.49V29.42H40.99zM40.99 124.58V95.8h12.53v16.25h58.49v12.53H40.99z" />
+</svg>

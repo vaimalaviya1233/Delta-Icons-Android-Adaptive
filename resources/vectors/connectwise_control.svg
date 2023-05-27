@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 50.8 50.8"><rect width="40.217" height="40.217" x="5.292" y="5.292" rx="2.629" ry="2.629" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.262854;stroke-opacity:1"/><g transform="rotate(-90 -.773 .773)"><rect width="10.139" height="13.229" x="-28.489" y="22.311" rx="0" ry=".865" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0756963;stroke-opacity:1"/><rect width="10.139" height="13.229" x="-30.47" y="20.33" rx="0" ry=".865" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><rect width="10.139" height="13.229" x="-32.45" y="18.35" rx="0" ry=".865" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><rect width="6.512" height="8.497" x="-30.637" y="20.716" rx=".613" ry="0" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 50.8 50.8">
+  <rect width="100%" height="100%"
+    style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.262854;stroke-opacity:1" />
+  <g transform="rotate(-90 -.773 .773)">
+    <rect width="10.139" height="13.229" x="-28.489" y="22.311" rx="0" ry=".865"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0756963;stroke-opacity:1" />
+    <rect width="10.139" height="13.229" x="-30.47" y="20.33" rx="0" ry=".865"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect width="10.139" height="13.229" x="-32.45" y="18.35" rx="0" ry=".865"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect width="6.512" height="8.497" x="-30.637" y="20.716" rx=".613" ry="0"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:#ff837d;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

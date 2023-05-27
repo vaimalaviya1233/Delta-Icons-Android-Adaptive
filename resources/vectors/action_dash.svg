@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5" viewBox="0 0 192 192"><circle cx="88" cy="88" r="88" style="fill:#9abeff" transform="translate(8 8)"/><path d="M76.651 86.804a7.01 7.01 0 0 1-2.025-4.928v-10.86a9.157 9.157 0 0 1 9.157-9.157h25.184a9.153 9.153 0 0 1 9.157 9.157v10.788a7.007 7.007 0 0 1-2.025 4.929l-9.35 9.456 9.348 9.447a7.007 7.007 0 0 1 2.027 4.93v10.789a9.153 9.153 0 0 1-9.157 9.157H83.783a9.156 9.156 0 0 1-9.157-9.157v-10.86c0-1.846.729-3.618 2.027-4.931l9.278-9.375-9.28-9.385Zm19.724 15.118 9.723 9.451v7.154H86.653v-7.154l9.722-9.451Zm0-11.288-9.722-9.452v-7.153h19.445v7.153l-9.723 9.452Z" style="fill:#fff"/><path d="M19.891 96c0 42.034 34.075 76.109 76.109 76.109a76.075 76.075 0 0 0 0 0c-42.034 0-76.109-34.075-76.109-76.109Z" style="fill:none;stroke:#ff837d;stroke-width:21.19px" transform="translate(-1.42 -1.42) scale(1.0148)"/><path d="M19.891 96c0 42.034 34.075 76.109 76.109 76.109a76.075 76.075 0 0 0 0 0c-42.034 0-76.109-34.075-76.109-76.109Z" style="fill:none;stroke:#98dc9a;stroke-width:21.19px" transform="rotate(-90.028 96 97.42) scale(1.0148)"/><path d="M19.891 96c0 42.034 34.075 76.109 76.109 76.109a76.075 76.075 0 0 0 0 0c-42.034 0-76.109-34.075-76.109-76.109Z" style="fill:none;stroke:#9abeff;stroke-width:21.19px" transform="rotate(180 96.71 96.71) scale(1.0148)"/><path d="M19.891 96c0 42.034 34.075 76.109 76.109 76.109a76.075 76.075 0 0 0 0 0c-42.034 0-76.109-34.075-76.109-76.109Z" style="fill:none;stroke:#f9de81;stroke-width:21.19px" transform="rotate(89.978 97.421 96) scale(1.0148)"/><path d="M19.891 96a76.112 76.112 0 0 0 0 0Z" style="fill:none;stroke:#ff837d;stroke-width:21.19px" transform="translate(-1.42 -1.42) scale(1.0148)"/><circle cx="88" cy="88" r="88" style="fill:none;stroke:#fff;stroke-width:12.32px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4" transform="matrix(.7063 0 0 .7063 33.846 33.846)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+  viewBox="0 0 192 192">
+  <rect width="100%" height="100%" style="fill:#9abeff" />
+  <path
+    d="M76.651 86.804a7.01 7.01 0 0 1-2.025-4.928v-10.86a9.157 9.157 0 0 1 9.157-9.157h25.184a9.153 9.153 0 0 1 9.157 9.157v10.788a7.007 7.007 0 0 1-2.025 4.929l-9.35 9.456 9.348 9.447a7.007 7.007 0 0 1 2.027 4.93v10.789a9.153 9.153 0 0 1-9.157 9.157H83.783a9.156 9.156 0 0 1-9.157-9.157v-10.86c0-1.846.729-3.618 2.027-4.931l9.278-9.375-9.28-9.385Zm19.724 15.118 9.723 9.451v7.154H86.653v-7.154l9.722-9.451Zm0-11.288-9.722-9.452v-7.153h19.445v7.153l-9.723 9.452Z"
+    style="fill:#fff" />
+  <path
+    d="M19.891 96c0 42.034 34.075 76.109 76.109 76.109a76.075 76.075 0 0 0 0 0c-42.034 0-76.109-34.075-76.109-76.109Z"
+    style="fill:none;stroke:#ff837d;stroke-width:21.19px" transform="translate(-1.42 -1.42) scale(1.0148)" />
+  <path
+    d="M19.891 96c0 42.034 34.075 76.109 76.109 76.109a76.075 76.075 0 0 0 0 0c-42.034 0-76.109-34.075-76.109-76.109Z"
+    style="fill:none;stroke:#98dc9a;stroke-width:21.19px" transform="rotate(-90.028 96 97.42) scale(1.0148)" />
+  <path
+    d="M19.891 96c0 42.034 34.075 76.109 76.109 76.109a76.075 76.075 0 0 0 0 0c-42.034 0-76.109-34.075-76.109-76.109Z"
+    style="fill:none;stroke:#9abeff;stroke-width:21.19px" transform="rotate(180 96.71 96.71) scale(1.0148)" />
+  <path
+    d="M19.891 96c0 42.034 34.075 76.109 76.109 76.109a76.075 76.075 0 0 0 0 0c-42.034 0-76.109-34.075-76.109-76.109Z"
+    style="fill:none;stroke:#f9de81;stroke-width:21.19px" transform="rotate(89.978 97.421 96) scale(1.0148)" />
+  <path d="M19.891 96a76.112 76.112 0 0 0 0 0Z" style="fill:none;stroke:#ff837d;stroke-width:21.19px"
+    transform="translate(-1.42 -1.42) scale(1.0148)" />
+  <rect width="100%" height="100%"
+    style="fill:none;stroke:#fff;stroke-width:12.32px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4"
+    transform="matrix(.7063 0 0 .7063 33.846 33.846)" />
+</svg>

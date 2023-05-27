@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect946" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993463;stroke-opacity:1"/><path id="path948" d="m172 940.49-91.871 91.872h81.936a9.914 9.914 0 0 0 9.935-9.935z" style="fill:#8e6f60;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="path950" d="M80.129 1032.362 172 940.49H90.064a9.914 9.914 0 0 0-9.935 9.936z" style="fill:#f8c18c;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect946" width="100%" height="100%"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993463;stroke-opacity:1" />
+    <path id="path948" d="m172 940.49-91.871 91.872h81.936a9.914 9.914 0 0 0 9.935-9.935z"
+      style="fill:#8e6f60;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="path950" d="M80.129 1032.362 172 940.49H90.064a9.914 9.914 0 0 0-9.935 9.936z"
+      style="fill:#f8c18c;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#fff" rx="9.935"/><path fill="none" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M105.39 138.57c-3.049 3.247-6.386 6.677-11.121 9.443-33.326-19.631-43.517-50.554-43.729-86.348l43.729-17.68 44.407 17.68c-.35 23.704-1.398 24.349-5.86 38.43v0"/><text xml:space="preserve" x="91.433" y="129.758" fill="#56595b" font-family="Now" font-size="29.333" font-weight="300" style="line-height:1.25"><tspan x="91.433" y="129.758" font-weight="500">DNS</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" />
+  <path fill="none" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"
+    d="M105.39 138.57c-3.049 3.247-6.386 6.677-11.121 9.443-33.326-19.631-43.517-50.554-43.729-86.348l43.729-17.68 44.407 17.68c-.35 23.704-1.398 24.349-5.86 38.43v0" />
+  <text xml:space="preserve" x="91.433" y="129.758" fill="#56595b" font-family="Now" font-size="29.333"
+    font-weight="300" style="line-height:1.25">
+    <tspan x="91.433" y="129.758" font-weight="500">DNS</tspan>
+  </text>
+</svg>

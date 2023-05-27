@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#9abeff" rx="9.935" style="fill:#708cbd;fill-opacity:1"/><text xml:space="preserve" x="56.368" y="98.454" style="font-weight:700;font-size:40.8581px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.999998"><tspan x="56.368" y="98.454" style="fill:#fff;stroke-width:.999998">Pay</tspan></text><text xml:space="preserve" x="64.317" y="136.57" style="font-weight:700;font-size:29.4211px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#96dfd3;fill-opacity:1;stroke-width:.720077"><tspan x="64.317" y="136.57" style="fill:#96dfd3;fill-opacity:1;stroke-width:.720077">mini</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#9abeff" style="fill:#708cbd;fill-opacity:1" /><text xml:space="preserve"
+    x="56.368" y="98.454"
+    style="font-weight:700;font-size:40.8581px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:.999998">
+    <tspan x="56.368" y="98.454" style="fill:#fff;stroke-width:.999998">Pay</tspan>
+  </text><text xml:space="preserve" x="64.317" y="136.57"
+    style="font-weight:700;font-size:29.4211px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#96dfd3;fill-opacity:1;stroke-width:.720077">
+    <tspan x="64.317" y="136.57" style="fill:#96dfd3;fill-opacity:1;stroke-width:.720077">mini</tspan>
+  </text>
+</svg>

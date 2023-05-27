@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath2325" clipPathUnits="userSpaceOnUse"><rect id="rect2327" width="240" height="240" x="-24" y="836.362" rx="15.686" ry="15.686" style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.56863;stroke-opacity:1"/></clipPath><clipPath id="clipPath2331" clipPathUnits="userSpaceOnUse"><rect id="rect2333" width="240" height="240" x="-24" y="836.362" rx="15.686" ry="15.686" style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.56863;stroke-opacity:1"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1199" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993466;stroke-opacity:1"/><circle id="path994" cx="96" cy="980.097" r="26.185" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke-width:5.29011;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><path id="path1197" d="M245.844 993.839a41.344 41.344 0 0 1-41.344 41.344 41.344 41.344 0 0 1-41.344-41.344 41.344 41.344 0 0 1 41.344-41.344 41.344 41.344 0 0 1 41.344 41.344z" clip-path="url(#clipPath2325)" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke-width:11.4722;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="matrix(.63333 0 0 .63333 35.2 350.666)"/><path id="rect1113" d="M96 763.634c22.905 0 41.344 18.44 41.344 41.344v80.478c0 22.905-18.44 41.345-41.344 41.345-22.905 0-41.344-18.44-41.344-41.345v-80.478c0-22.904 18.44-41.344 41.344-41.344z" clip-path="url(#clipPath2331)" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:11.4722;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="matrix(.63333 0 0 .63333 35.2 350.666)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath2325" clipPathUnits="userSpaceOnUse">
+      <rect id="rect2327" width="240" height="240" x="-24" y="836.362" rx="15.686" ry="15.686"
+        style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.56863;stroke-opacity:1" />
+    </clipPath>
+    <clipPath id="clipPath2331" clipPathUnits="userSpaceOnUse">
+      <rect id="rect2333" width="240" height="240" x="-24" y="836.362" rx="15.686" ry="15.686"
+        style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.56863;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1199" width="100%" height="100%"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993466;stroke-opacity:1" />
+    <circle id="path994" cx="96" cy="980.097" r="26.185"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke-width:5.29011;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+    <path id="path1197"
+      d="M245.844 993.839a41.344 41.344 0 0 1-41.344 41.344 41.344 41.344 0 0 1-41.344-41.344 41.344 41.344 0 0 1 41.344-41.344 41.344 41.344 0 0 1 41.344 41.344z"
+      clip-path="url(#clipPath2325)"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke-width:11.4722;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+      transform="matrix(.63333 0 0 .63333 35.2 350.666)" />
+    <path id="rect1113"
+      d="M96 763.634c22.905 0 41.344 18.44 41.344 41.344v80.478c0 22.905-18.44 41.345-41.344 41.345-22.905 0-41.344-18.44-41.344-41.345v-80.478c0-22.904 18.44-41.344 41.344-41.344z"
+      clip-path="url(#clipPath2331)"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:11.4722;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+      transform="matrix(.63333 0 0 .63333 35.2 350.666)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

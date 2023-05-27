@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect929" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#545859;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" id="text937" x="62.603" y="992.862" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:97.3333px;line-height:1.25;font-family:now;-inkscape-font-specification:now;letter-spacing:0;word-spacing:0;fill:#fefefe;fill-opacity:1;stroke-width:2.43333"><tspan id="tspan935" x="62.603" y="992.862" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:now;-inkscape-font-specification:now;fill:#fefefe;fill-opacity:1;stroke-width:2.43333">B</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect929" y="860,362"
+      style="fill:#545859;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      id="text937" x="62.603" y="992.862"
+      style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:97.3333px;line-height:1.25;font-family:now;-inkscape-font-specification:now;letter-spacing:0;word-spacing:0;fill:#fefefe;fill-opacity:1;stroke-width:2.43333">
+      <tspan id="tspan935" x="62.603" y="992.862"
+        style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:now;-inkscape-font-specification:now;fill:#fefefe;fill-opacity:1;stroke-width:2.43333">
+        B</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

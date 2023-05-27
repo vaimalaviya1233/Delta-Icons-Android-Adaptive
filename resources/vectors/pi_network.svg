@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><style id="style909">.cls-1{fill:#fbb44a}.cls-2,.st0{fill:#fff}</style></defs><g id="layer1" transform="translate(0 -860.362)"><circle id="circle1121" cx="96" cy="956.362" r="88" style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><circle id="path1083" cx="96" cy="956.362" r="75.386" style="fill:#8c72bd;fill-opacity:1;stroke:none;stroke-width:3.32055;stop-color:#000"/><path id="path1069" d="M86.185 923.62H74.746a1.663 1.663 0 0 1-1.658-1.659v-8.355c0-.929.763-1.658 1.658-1.658h11.44c.928 0 1.657.762 1.657 1.658v8.355c.033.896-.73 1.658-1.658 1.658zm27.024 0h-11.44a1.663 1.663 0 0 1-1.657-1.659v-8.355c0-.929.762-1.658 1.657-1.658h11.44c.928 0 1.658.762 1.658 1.658v8.355c0 .896-.73 1.658-1.658 1.658zm-50.731 33.057H47.424v-10.71s.597-14.788 14.49-14.987h63.464v-8.72h15.12v8.422s-.399 15.219-14.391 15.418l-11.207.298.166 51.792s.165.862-.863 1.426l-11.671 4.145s-2.586 1.06-2.686-1.559v-56.036H88.175v51.494s.331 1.525-1.36 2.255l-10.71 3.78s-3.348 1.26-3.315-2.09v-55.538H62.544Z" style="fill:#f8c18c;fill-opacity:1;stroke-width:.331574"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <style id="style909">
+      .cls-1 {
+        fill: #fbb44a
+      }
+
+      .cls-2,
+      .st0 {
+        fill: #fff
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle1121" y="860,362"
+      style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <circle id="path1083" cx="96" cy="956.362" r="75.386"
+      style="fill:#8c72bd;fill-opacity:1;stroke:none;stroke-width:3.32055;stop-color:#000" />
+    <path id="path1069"
+      d="M86.185 923.62H74.746a1.663 1.663 0 0 1-1.658-1.659v-8.355c0-.929.763-1.658 1.658-1.658h11.44c.928 0 1.657.762 1.657 1.658v8.355c.033.896-.73 1.658-1.658 1.658zm27.024 0h-11.44a1.663 1.663 0 0 1-1.657-1.659v-8.355c0-.929.762-1.658 1.657-1.658h11.44c.928 0 1.658.762 1.658 1.658v8.355c0 .896-.73 1.658-1.658 1.658zm-50.731 33.057H47.424v-10.71s.597-14.788 14.49-14.987h63.464v-8.72h15.12v8.422s-.399 15.219-14.391 15.418l-11.207.298.166 51.792s.165.862-.863 1.426l-11.671 4.145s-2.586 1.06-2.686-1.559v-56.036H88.175v51.494s.331 1.525-1.36 2.255l-10.71 3.78s-3.348 1.26-3.315-2.09v-55.538H62.544Z"
+      style="fill:#f8c18c;fill-opacity:1;stroke-width:.331574" />
+  </g>
+</svg>

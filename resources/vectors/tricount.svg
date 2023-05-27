@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" rx="9.935" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none"/><path d="M114.742 107.637v13.082c0 15.556 13.179 27.635 28.735 27.635 4.94 0 9.882-1.098 11.712-2.38v-18.117h-8.785c-4.941 0-8.418-3.843-8.418-9.882v-10.338z" style="font-weight:700;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#83868c;fill-opacity:1;stroke:none" transform="translate(.018 -.928)"/><path d="M114.742 45.502v28.184H102.48v18.119h12.262v7.916h23.244v-7.916h17.385v-18.12h-17.385V45.503Z" style="font-weight:700;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#728dbe;fill-opacity:1" transform="translate(.018 -.928)"/><path d="M48.82 99.72v20.999c0 15.556 13.177 27.635 28.733 27.635 4.941 0 9.883-1.098 11.713-2.38v-18.117h-8.784c-4.94 0-8.42-3.843-8.42-9.882V99.72ZM48.82 45.502v20.266h23.242V45.502Z" style="font-weight:700;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#83868c;fill-opacity:1;stroke:none" transform="translate(.018 -.928)"/><path d="M36.594 73.686h52.89v18.118h-52.89z" style="opacity:1;fill:#728dbe;fill-opacity:1;stroke:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" transform="translate(.018 -.928)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" rx="9.935"
+    style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+    d="M114.742 107.637v13.082c0 15.556 13.179 27.635 28.735 27.635 4.94 0 9.882-1.098 11.712-2.38v-18.117h-8.785c-4.941 0-8.418-3.843-8.418-9.882v-10.338z"
+    style="font-weight:700;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#83868c;fill-opacity:1;stroke:none"
+    transform="translate(.018 -.928)" />
+  <path d="M114.742 45.502v28.184H102.48v18.119h12.262v7.916h23.244v-7.916h17.385v-18.12h-17.385V45.503Z"
+    style="font-weight:700;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#728dbe;fill-opacity:1"
+    transform="translate(.018 -.928)" />
+  <path
+    d="M48.82 99.72v20.999c0 15.556 13.177 27.635 28.733 27.635 4.941 0 9.883-1.098 11.713-2.38v-18.117h-8.784c-4.94 0-8.42-3.843-8.42-9.882V99.72ZM48.82 45.502v20.266h23.242V45.502Z"
+    style="font-weight:700;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#83868c;fill-opacity:1;stroke:none"
+    transform="translate(.018 -.928)" />
+  <path d="M36.594 73.686h52.89v18.118h-52.89z"
+    style="opacity:1;fill:#728dbe;fill-opacity:1;stroke:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+    transform="translate(.018 -.928)" />
+</svg>

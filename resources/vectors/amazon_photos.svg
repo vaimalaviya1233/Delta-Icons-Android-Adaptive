@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><style id="style921">.cls-1,.cls-2{fill:#f90;fill-rule:evenodd}.cls-2{fill:#232f3e}.st0{fill:#fff}</style></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect988" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g1174" transform="translate(-9.489 -96.163) scale(1.09884)"><path id="path1108" fill="#fff" fill-rule="evenodd" d="M124.947 971.745C92.3 987.2 72.039 974.27 59.07 966.415c-.802-.494-2.167.117-.983 1.469 4.32 5.21 18.48 17.771 36.964 17.771 18.496 0 29.5-10.038 30.876-11.79 1.366-1.736.401-2.694-.98-2.12zm9.168-5.036c-.876-1.136-5.33-1.348-8.133-1.005-2.809.332-7.022 2.039-6.657 3.064.189.384.573.212 2.502.039 1.933-.192 7.352-.873 8.48.596 1.134 1.477-1.728 8.519-2.25 9.654-.506 1.135.193 1.428 1.14.672.936-.757 2.63-2.714 3.766-5.485 1.13-2.785 1.819-6.671 1.152-7.536z" clip-rule="evenodd" style="fill:#fff;fill-opacity:1;stroke-width:1.12877"/><text xml:space="preserve" id="text1032" x="50.835" y="952.537" style="font-weight:700;font-size:26.2681px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.656701"><tspan id="tspan1030" x="50.835" y="952.537" style="fill:#fff;fill-opacity:1;stroke-width:.656701">photos</tspan></text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <style id="style921">
+      .cls-1,
+      .cls-2 {
+        fill: #f90;
+        fill-rule: evenodd
+      }
+
+      .cls-2 {
+        fill: #232f3e
+      }
+
+      .st0 {
+        fill: #fff
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect988" y="860,362"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g1174" transform="translate(-9.489 -96.163) scale(1.09884)">
+      <path id="path1108" fill="#fff" fill-rule="evenodd"
+        d="M124.947 971.745C92.3 987.2 72.039 974.27 59.07 966.415c-.802-.494-2.167.117-.983 1.469 4.32 5.21 18.48 17.771 36.964 17.771 18.496 0 29.5-10.038 30.876-11.79 1.366-1.736.401-2.694-.98-2.12zm9.168-5.036c-.876-1.136-5.33-1.348-8.133-1.005-2.809.332-7.022 2.039-6.657 3.064.189.384.573.212 2.502.039 1.933-.192 7.352-.873 8.48.596 1.134 1.477-1.728 8.519-2.25 9.654-.506 1.135.193 1.428 1.14.672.936-.757 2.63-2.714 3.766-5.485 1.13-2.785 1.819-6.671 1.152-7.536z"
+        clip-rule="evenodd" style="fill:#fff;fill-opacity:1;stroke-width:1.12877" /><text xml:space="preserve"
+        id="text1032" x="50.835" y="952.537"
+        style="font-weight:700;font-size:26.2681px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.656701">
+        <tspan id="tspan1030" x="50.835" y="952.537" style="fill:#fff;fill-opacity:1;stroke-width:.656701">photos
+        </tspan>
+      </text>
+    </g>
+  </g>
+</svg>

@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1058" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#70a270;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path1060" d="M29.935 880.362h132.13a9.913 9.913 0 0 1 9.935 9.935v17.488l-65.3 64.366-41.427-39.794L20 975.959v-85.662a9.913 9.913 0 0 1 9.935-9.935z" style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path1062" d="M170.752 906.497c-.112-.01-.23 0-.348.025l-31.588 6.377c-.658.133-.788 1.02-.193 1.332l12.273 6.504-42.568 42.55c-.78.78-2.045.778-2.822-.01l-38.137-38.413a1.998 1.998 0 0 0-2.824-.01L20 969.396v14.63l44.52-44.52a1.99 1.99 0 0 1 2.824.01l38.136 38.414a1.995 1.995 0 0 0 2.823.01l49.771-49.752 6.191 11.687c.315.594 1.2.465 1.332-.193l6.375-31.594a1.327 1.327 0 0 0-1.221-1.592z" style="fill:#fff;fill-opacity:1;stroke-width:9.64457;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1058" width="100%" height="100%"
+      style="fill:#70a270;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path id="path1060"
+      d="M29.935 880.362h132.13a9.913 9.913 0 0 1 9.935 9.935v17.488l-65.3 64.366-41.427-39.794L20 975.959v-85.662a9.913 9.913 0 0 1 9.935-9.935z"
+      style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993067;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path id="path1062"
+      d="M170.752 906.497c-.112-.01-.23 0-.348.025l-31.588 6.377c-.658.133-.788 1.02-.193 1.332l12.273 6.504-42.568 42.55c-.78.78-2.045.778-2.822-.01l-38.137-38.413a1.998 1.998 0 0 0-2.824-.01L20 969.396v14.63l44.52-44.52a1.99 1.99 0 0 1 2.824.01l38.136 38.414a1.995 1.995 0 0 0 2.823.01l49.771-49.752 6.191 11.687c.315.594 1.2.465 1.332-.193l6.375-31.594a1.327 1.327 0 0 0-1.221-1.592z"
+      style="fill:#fff;fill-opacity:1;stroke-width:9.64457;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect871" width="152" height="152" x="20" y="880.362" fill="#728dbe" rx="10" style="fill:#ba6662;fill-opacity:1"/><rect id="rect873" width="146" height="146" x="23" y="883.362" fill="#fff" rx="10"/><path id="path875" fill="#9abeff" fill-rule="evenodd" d="M20 890.317c0-5.523 4.477-9.955 10-9.955h132c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H37.102s-17.102-1-17.102 11V890.317z" clip-rule="evenodd" style="fill:#fe837e;fill-opacity:1"/><path id="path2025" fill="#9abeff" fill-rule="evenodd" d="M20 890.317c0-5.523 4.477-9.955 10-9.955h132c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H37.102s-17.102-1-17.102 11V890.317z" clip-rule="evenodd" style="fill:#000;fill-opacity:.15"/><path id="path2010" fill="#9abeff" fill-rule="evenodd" d="M20 890.317c0-5.523 4.477-9.955 10-9.955h132c5.523 0 10 4.477 10 10v97.568H37.102s-17.102-1-17.102 11z" clip-rule="evenodd" style="fill:#fe837e;fill-opacity:1"/><g id="text1991" aria-label="t" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:196.163px;line-height:1.25;font-family:now;-inkscape-font-specification:now;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.26048" transform="matrix(.79335 0 0 .79335 10.338 196.674)"><path id="path1993" d="M81.188 926.576v-14.712H54.95v-36.91H39.748v36.91H23.32v14.712h16.428V984.2c0 15.448 12.996 27.708 28.199 27.708 4.904 0 10.298-1.471 12.996-3.187v-11.525h-11.28c-7.846 0-14.712-5.885-14.712-14.957v-55.662z" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:now;-inkscape-font-specification:now;fill:#fff;fill-opacity:1;stroke-width:1.26048"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect871" width="100%" height="100%" fill=" #728dbe" rx="10" style="fill:#ba6662;fill-opacity:1" />
+    <rect id="rect873" width="146" height="146" x="23" y="883.362" fill="#fff" rx="10" />
+    <path id="path875" fill="#9abeff" fill-rule="evenodd"
+      d="M20 890.317c0-5.523 4.477-9.955 10-9.955h132c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H37.102s-17.102-1-17.102 11V890.317z"
+      clip-rule="evenodd" style="fill:#fe837e;fill-opacity:1" />
+    <path id="path2025" fill="#9abeff" fill-rule="evenodd"
+      d="M20 890.317c0-5.523 4.477-9.955 10-9.955h132c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H37.102s-17.102-1-17.102 11V890.317z"
+      clip-rule="evenodd" style="fill:#000;fill-opacity:.15" />
+    <path id="path2010" fill="#9abeff" fill-rule="evenodd"
+      d="M20 890.317c0-5.523 4.477-9.955 10-9.955h132c5.523 0 10 4.477 10 10v97.568H37.102s-17.102-1-17.102 11z"
+      clip-rule="evenodd" style="fill:#fe837e;fill-opacity:1" />
+    <g id="text1991" aria-label="t"
+      style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:196.163px;line-height:1.25;font-family:now;-inkscape-font-specification:now;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.26048"
+      transform="matrix(.79335 0 0 .79335 10.338 196.674)">
+      <path id="path1993"
+        d="M81.188 926.576v-14.712H54.95v-36.91H39.748v36.91H23.32v14.712h16.428V984.2c0 15.448 12.996 27.708 28.199 27.708 4.904 0 10.298-1.471 12.996-3.187v-11.525h-11.28c-7.846 0-14.712-5.885-14.712-14.957v-55.662z"
+        style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:now;-inkscape-font-specification:now;fill:#fff;fill-opacity:1;stroke-width:1.26048" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

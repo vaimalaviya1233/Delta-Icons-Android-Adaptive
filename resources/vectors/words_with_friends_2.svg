@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#f9de81;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><text xml:space="preserve" x="57.45" y="124" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:75.10295105px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#8e6f60;fill-opacity:1;stroke:none;stroke-width:1.87757385"><tspan x="57.45" y="124" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:1.87757385;fill:#8e6f60">W</tspan></text><rect width="36" height="36" x="124" y="124" ry="18" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><path d="M112 132s4 16 20 20c4 0 8-12 8-16-20 0-28-4-28-4z" style="fill:#56595b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><text xml:space="preserve" x="134.572" y="152" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:26.57256889px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.66431421"><tspan x="134.572" y="152" style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;stroke-width:.66431421;fill:#fff">2</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#f9de81;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" /><text
+    xml:space="preserve" x="57.45" y="124"
+    style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:75.10295105px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#8e6f60;fill-opacity:1;stroke:none;stroke-width:1.87757385">
+    <tspan x="57.45" y="124"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:1.87757385;fill:#8e6f60">
+      W</tspan>
+  </text>
+  <rect width="36" height="36" x="124" y="124" ry="18"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <path d="M112 132s4 16 20 20c4 0 8-12 8-16-20 0-28-4-28-4z"
+    style="fill:#56595b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+    xml:space="preserve" x="134.572" y="152"
+    style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:26.57256889px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.66431421">
+    <tspan x="134.572" y="152"
+      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;stroke-width:.66431421;fill:#fff">
+      2</tspan>
+  </text>
+</svg>

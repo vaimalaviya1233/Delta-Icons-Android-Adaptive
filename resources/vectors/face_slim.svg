@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><circle cx="96" cy="96" r="88" opacity=".63" style="fill:#fff;opacity:1"/><text xml:space="preserve" x="63.815" y="127.796" style="fill:#728dbe;font-family:Now;font-size:79.01px;letter-spacing:0;line-height:1.25;stroke-width:1.9752;word-spacing:0"><tspan x="63.815" y="127.796" style="fill:#728dbe;font-family:Now;font-weight:700;stroke-width:1.9752">fs</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" opacity=".63" style="fill:#fff;opacity:1" /><text xml:space="preserve" x="63.815"
+    y="127.796"
+    style="fill:#728dbe;font-family:Now;font-size:79.01px;letter-spacing:0;line-height:1.25;stroke-width:1.9752;word-spacing:0">
+    <tspan x="63.815" y="127.796" style="fill:#728dbe;font-family:Now;font-weight:700;stroke-width:1.9752">fs</tspan>
+  </text>
+</svg>

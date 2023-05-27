@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle943" cx="96" cy="956.362" r="88" style="fill:#575a5c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" id="text890" x="55.114" y="981.526" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:59.4705px;line-height:1.25;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.48676;fill:#fff;fill-opacity:1"><tspan id="tspan888" x="55.114" y="981.526" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;stroke-width:1.48676;fill:#fff;fill-opacity:1">Bb</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle943" y="860,362"
+      style="fill:#575a5c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      id="text890" x="55.114" y="981.526"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:59.4705px;line-height:1.25;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.48676;fill:#fff;fill-opacity:1">
+      <tspan id="tspan888" x="55.114" y="981.526"
+        style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;stroke-width:1.48676;fill:#fff;fill-opacity:1">
+        Bb</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

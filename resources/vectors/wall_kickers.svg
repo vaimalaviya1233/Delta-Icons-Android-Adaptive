@@ -1,1 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="128" height="176" x="32" y="8" rx="10" style="fill:#9abeff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M56 8h12v176H56z" style="opacity:1;vector-effect:none;fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M42 8c-5.54 0-10 4.46-10 10v156c0 5.54 4.46 10 10 10h22V8H42z" style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.82842708;paint-order:stroke fill markers"/><path d="M52 8v8H32.2c-.131.646-.2 1.314-.2 2v2h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v2c0 .686.069 1.354.2 2H52v8h4v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8V8h-4z" style="opacity:1;vector-effect:none;fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M88 136v8h8v4h4v4h4v4h20v-4h4v-4h20v4h4v4h8v-12h-4v-4h-4v-4h-28v4h-4v4h-12v-4h-8v-4z" style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M92 44v4h-4v12h4v4h-8v-4H72v4h-4v16h4v4h8v4H68v52h12v-4h4v4h20v-4h8v-4h8v-4h8v-4h4v8h4v4h4v4h16v-4h4v-20h-4v-4h8v-4h4v-4h4V84h-4v-4h-4V64h-4v-4h4V48h-4v-4h-12v4h-8v-4h-28v4h-8v-4z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M92 48v12h4v4h-4v24h4v4h-8v16h4v4h-4v4H72v20h8v-4h4v4h20v-4h8v-4h8v-4h8v-4h4v-4h4v-4h4v4h-4v4h-4v4h4v8h4v4h16v-20h-4v-4h4v-4h8v-4h4V84h-4v-4h-4V64h-4v-4h-4v-4h-4v-4h-8v-4h-28v4h-8v-4H92zm56 4h4v4h4v4h4V48h-12v4z" style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M72 64h12v16H72z" style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M80 68h8v16h-8z" style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M84 88h4v4h-4z" style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M72 92h8v16h-8zM80 96h4v12h-4z" style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M84 68h4v16h-4zM72 68h4v4h-4z" style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M80 64h4v20h-4z" style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M76 76h8v4h-8zM80 104h4v4h-4z" style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M72 96h4v4h-4zM72 104h4v4h-4z" style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M96 52h4v8h-4z" style="opacity:1;vector-effect:none;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M96 52h8v4h-8zM152 52h4v4h-4z" style="opacity:1;vector-effect:none;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M108 52v4h-4v4h-4v4h-4v24h4v4h4v8h4v4h4v4h16V96h-8v-8h40V64h-4v-4h-12v-4h4v-4h-40zM160 80h4v4h-4z" style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M108 84v4h-4v8h4v4h4v4h4v4h48v-4h4V84h-60z" style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.96076894;paint-order:stroke fill markers"/><path d="M148 64h8v20h-8z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M148 68h4v4h-4z" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M140 124v4h-4v4h4v4h12v-4h4v-4h-4v-4h-12z" style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M140 128v8h16v-4h-4v-4h-12z" style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M148 132h4v4h-4z" style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M80 116v16h4v-4h4v-12h-8z" style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M72 116v20h8v-8h4v-12H72z" style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M120 64h8v20h-8z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M120 68h4v4h-4z" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M120 56h8v4h-8zM116 60h4v4h-4z" style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M140 84h16v8h-16z" style="opacity:1;vector-effect:none;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M140 88h4v4h-4zM152 88h4v4h-4z" style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M124 100h44v4h-44z" style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M116 92h12v4h-12z" style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M120 92h4v8h-4zM72 120h4v4h-4zM72 128h4v4h-4z" style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M88 92v8h4v4h4v4h4v4h4v4h4v4h4v4h16v-4h4v-4h4v-4h-24v-4h-4v-4h-4v-4h-4v-4h-4v-4h-8z" style="opacity:1;vector-effect:none;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M88 92v8h4v-4h4v-4h-8zm4 8v4h4v-4h-4zm4 4v4h4v-4h-4zm4 4v4h4v-4h-4zm4 4v4h4v-4h-4zm4 4v4h4v-4h-4zm4 4v4h16v-4h4v-4h4v-4h-8v4h-4v4h-12z" style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M96 92h4v4h-4z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" rx="10"
+    style="fill:#9abeff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path d="M56 8h12v176H56z"
+    style="opacity:1;vector-effect:none;fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M42 8c-5.54 0-10 4.46-10 10v156c0 5.54 4.46 10 10 10h22V8H42z"
+    style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.82842708;paint-order:stroke fill markers" />
+  <path
+    d="M52 8v8H32.2c-.131.646-.2 1.314-.2 2v2h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v4h20v8H32v4h8v8h-8v2c0 .686.069 1.354.2 2H52v8h4v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8v-8h8v-4H44v-8h20v-4h-8V8h-4z"
+    style="opacity:1;vector-effect:none;fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M88 136v8h8v4h4v4h4v4h20v-4h4v-4h20v4h4v4h8v-12h-4v-4h-4v-4h-28v4h-4v4h-12v-4h-8v-4z"
+    style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path
+    d="M92 44v4h-4v12h4v4h-8v-4H72v4h-4v16h4v4h8v4H68v52h12v-4h4v4h20v-4h8v-4h8v-4h8v-4h4v8h4v4h4v4h16v-4h4v-20h-4v-4h8v-4h4v-4h4V84h-4v-4h-4V64h-4v-4h4V48h-4v-4h-12v4h-8v-4h-28v4h-8v-4z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path
+    d="M92 48v12h4v4h-4v24h4v4h-8v16h4v4h-4v4H72v20h8v-4h4v4h20v-4h8v-4h8v-4h8v-4h4v-4h4v-4h4v4h-4v4h-4v4h4v8h4v4h16v-20h-4v-4h4v-4h8v-4h4V84h-4v-4h-4V64h-4v-4h-4v-4h-4v-4h-8v-4h-28v4h-8v-4H92zm56 4h4v4h4v4h4V48h-12v4z"
+    style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M72 64h12v16H72z"
+    style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M80 68h8v16h-8z"
+    style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M84 88h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M72 92h8v16h-8zM80 96h4v12h-4z"
+    style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M84 68h4v16h-4zM72 68h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M80 64h4v20h-4z"
+    style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M76 76h8v4h-8zM80 104h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M72 96h4v4h-4zM72 104h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M96 52h4v8h-4z"
+    style="opacity:1;vector-effect:none;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M96 52h8v4h-8zM152 52h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M108 52v4h-4v4h-4v4h-4v24h4v4h4v8h4v4h4v4h16V96h-8v-8h40V64h-4v-4h-12v-4h4v-4h-40zM160 80h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M108 84v4h-4v8h4v4h4v4h4v4h48v-4h4V84h-60z"
+    style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.96076894;paint-order:stroke fill markers" />
+  <path d="M148 64h8v20h-8z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M148 68h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M140 124v4h-4v4h4v4h12v-4h4v-4h-4v-4h-12z"
+    style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M140 128v8h16v-4h-4v-4h-12z"
+    style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M148 132h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M80 116v16h4v-4h4v-12h-8z"
+    style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M72 116v20h8v-8h4v-12H72z"
+    style="opacity:1;vector-effect:none;fill:#fcecdc;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M120 64h8v20h-8z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M120 68h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M120 56h8v4h-8zM116 60h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M140 84h16v8h-16z"
+    style="opacity:1;vector-effect:none;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M140 88h4v4h-4zM152 88h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M124 100h44v4h-44z"
+    style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M116 92h12v4h-12z"
+    style="opacity:1;vector-effect:none;fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M120 92h4v8h-4zM72 120h4v4h-4zM72 128h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M88 92v8h4v4h4v4h4v4h4v4h4v4h4v4h16v-4h4v-4h4v-4h-24v-4h-4v-4h-4v-4h-4v-4h-4v-4h-8z"
+    style="opacity:1;vector-effect:none;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path
+    d="M88 92v8h4v-4h4v-4h-8zm4 8v4h4v-4h-4zm4 4v4h4v-4h-4zm4 4v4h4v-4h-4zm4 4v4h4v-4h-4zm4 4v4h4v-4h-4zm4 4v4h16v-4h4v-4h4v-4h-8v4h-4v4h-12z"
+    style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M96 92h4v4h-4z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+</svg>

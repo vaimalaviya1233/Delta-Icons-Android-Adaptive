@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" style="isolation:isolate" viewBox="0 0 192 192"><defs><clipPath id="a"><path d="M0 0h192v192H0z"/></clipPath></defs><g clip-path="url(#a)" style="isolation:isolate"><circle cx="96" cy="96" r="88" fill="#73ADA4" vector-effect="non-scaling-stroke"/><path fill="#FFF" d="M122.172 85.172V69.828h-15.344L96 59 85.172 69.828H69.828v15.344L59 96l10.828 10.828v15.344h15.344L96 133l10.828-10.828h15.344v-15.344L133 96l-10.828-10.828ZM96 115.629a19.55 19.55 0 0 1-8.179-1.8c6.74-3.108 11.45-9.912 11.45-17.829s-4.71-14.721-11.45-17.829a19.55 19.55 0 0 1 8.179-1.8c10.828 0 19.629 8.801 19.629 19.629 0 10.828-8.801 19.629-19.629 19.629Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" style="isolation:isolate" viewBox="0 0 192 192">
+  <defs>
+    <clipPath id="a">
+      <path d="M0 0h192v192H0z" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)" style="isolation:isolate">
+    <rect width="100%" height="100%" fill="#73ADA4" vector-effect="non-scaling-stroke" />
+    <path fill="#FFF"
+      d="M122.172 85.172V69.828h-15.344L96 59 85.172 69.828H69.828v15.344L59 96l10.828 10.828v15.344h15.344L96 133l10.828-10.828h15.344v-15.344L133 96l-10.828-10.828ZM96 115.629a19.55 19.55 0 0 1-8.179-1.8c6.74-3.108 11.45-9.912 11.45-17.829s-4.71-14.721-11.45-17.829a19.55 19.55 0 0 1 8.179-1.8c10.828 0 19.629 8.801 19.629 19.629 0 10.828-8.801 19.629-19.629 19.629Z" />
+  </g>
+</svg>

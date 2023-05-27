@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect2622" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="rect704" d="M78.457 926.945c-1.553 0-3.208.027-4.61.655-1.316.59-2.88 2.571-2.88 2.571l-10.273 11.507c-1.592 1.783-1.592 4.653 0 6.435l32.432 36.33c.796.891 1.835 1.337 2.874 1.336 1.039 0 2.078-.445 2.874-1.337l32.432-36.329c1.592-1.782 1.592-4.652 0-6.435l-10.272-11.507s-1.565-1.982-2.88-2.57c-1.403-.629-3.058-.656-4.61-.656z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:13.2893;stroke-dashoffset:6;stop-color:#000"/><path id="path1434" d="m80.481 945.597 14.123 15.819c.387.433.891.65 1.396.65.505 0 1.01-.217 1.396-.65l14.123-15.819a.895.895 65.88 0 0-.668-1.492h-5.588a4.467 4.467 155.881 0 0-3.332 1.492l-5.93 6.643-5.932-6.643a4.467 4.467 24.119 0 0-3.332-1.492H81.15a.895.895 114.12 0 0-.668 1.492z" style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke-width:6.45673;stroke-dashoffset:6;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect2622" width="100%" height="100%"
+      style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="rect704"
+      d="M78.457 926.945c-1.553 0-3.208.027-4.61.655-1.316.59-2.88 2.571-2.88 2.571l-10.273 11.507c-1.592 1.783-1.592 4.653 0 6.435l32.432 36.33c.796.891 1.835 1.337 2.874 1.336 1.039 0 2.078-.445 2.874-1.337l32.432-36.329c1.592-1.782 1.592-4.652 0-6.435l-10.272-11.507s-1.565-1.982-2.88-2.57c-1.403-.629-3.058-.656-4.61-.656z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:13.2893;stroke-dashoffset:6;stop-color:#000" />
+    <path id="path1434"
+      d="m80.481 945.597 14.123 15.819c.387.433.891.65 1.396.65.505 0 1.01-.217 1.396-.65l14.123-15.819a.895.895 65.88 0 0-.668-1.492h-5.588a4.467 4.467 155.881 0 0-3.332 1.492l-5.93 6.643-5.932-6.643a4.467 4.467 24.119 0 0-3.332-1.492H81.15a.895.895 114.12 0 0-.668 1.492z"
+      style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke-width:6.45673;stroke-dashoffset:6;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

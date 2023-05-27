@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><font horiz-adv-x="1000"><font-face font-family="BloggerSans-Bold" underline-position="-143" underline-thickness="20"/><glyph d="M186 139h213l35-101c10-28 42-47 68-47 41 0 72 26 72 64 0 5-1 17-3 22L376 646c-14 40-34 68-82 68s-68-29-81-68L18 77c-2-5-3-17-3-22C15 17 48-9 87-9c24 0 56 18 66 47m210 215H223l53 171c9 29 14 67 18 98 4-31 9-69 18-98z" horiz-adv-x="589" unicode="A"/><glyph d="M488 64c0 35-32 62-68 62H203v524c0 34-32 64-70 64-39 0-70-30-70-64V69c0-39 35-69 75-69h282c38 0 68 28 68 64z" horiz-adv-x="503" unicode="L"/><glyph d="M561 493c0 105-60 212-248 212H139c-41 0-76-33-76-72V57c0-36 32-66 69-66 38 0 71 31 71 66v229h68L439 23c13-20 34-31 59-31 45 0 94 53 61 103L422 301c86 28 139 93 139 192m-140 0c0-52-37-81-106-81H203v166h106c91 0 112-43 112-85z" horiz-adv-x="615" unicode="R"/></font><rect width="152" height="152" x="20" y="20" fill="#8cbdff" rx="10" ry="10" style="stroke-width:.791667"/><rect width="68.538" height="68.538" x="-34.269" y="101.496" fill="#8dbcff" stroke="#fff" stroke-miterlimit="10" stroke-width="2.375" rx="1" style="fill:#708cbd;fill-opacity:1;stroke:#fff;stroke-width:3.93167;stroke-dasharray:none;stroke-opacity:1" transform="rotate(-45)"/><text x="61.558" y="105.456" fill="#fff" font-family="BloggerSans-Bold" font-size="26.392" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;fill:#fff;fill-opacity:1;stroke-width:.575418" transform="scale(1.0025 .9975)">ARAL</text><path fill="#8cbdff" d="M-3.347-379.365h192v192h-192z"/><path fill="#8dbcff" stroke="#fff" stroke-miterlimit="10" stroke-width="3" d="M15.128-282.669 92.98-360.52l77.851 77.852-77.851 77.852z"/><text x="39.154" y="-270.012" fill="#fff" font-family="BloggerSans-Bold" font-size="45.981" style="stroke-width:1.0025" transform="scale(1.0025 .9975)">ARAL</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <font horiz-adv-x="1000">
+    <font-face font-family="BloggerSans-Bold" underline-position="-143" underline-thickness="20" />
+    <glyph
+      d="M186 139h213l35-101c10-28 42-47 68-47 41 0 72 26 72 64 0 5-1 17-3 22L376 646c-14 40-34 68-82 68s-68-29-81-68L18 77c-2-5-3-17-3-22C15 17 48-9 87-9c24 0 56 18 66 47m210 215H223l53 171c9 29 14 67 18 98 4-31 9-69 18-98z"
+      horiz-adv-x="589" unicode="A" />
+    <glyph
+      d="M488 64c0 35-32 62-68 62H203v524c0 34-32 64-70 64-39 0-70-30-70-64V69c0-39 35-69 75-69h282c38 0 68 28 68 64z"
+      horiz-adv-x="503" unicode="L" />
+    <glyph
+      d="M561 493c0 105-60 212-248 212H139c-41 0-76-33-76-72V57c0-36 32-66 69-66 38 0 71 31 71 66v229h68L439 23c13-20 34-31 59-31 45 0 94 53 61 103L422 301c86 28 139 93 139 192m-140 0c0-52-37-81-106-81H203v166h106c91 0 112-43 112-85z"
+      horiz-adv-x="615" unicode="R" />
+  </font>
+  <rect width"100%" height="100%" fill="#8cbdff" style="stroke-width:.791667" />
+  <rect width="68.538" height="68.538" x="-34.269" y="101.496" fill="#8dbcff" stroke="#fff" stroke-miterlimit="10"
+    stroke-width="2.375" rx="1"
+    style="fill:#708cbd;fill-opacity:1;stroke:#fff;stroke-width:3.93167;stroke-dasharray:none;stroke-opacity:1"
+    transform="rotate(-45)" /><text x="61.558" y="105.456" fill="#fff" font-family="BloggerSans-Bold" font-size="26.392"
+    style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;fill:#fff;fill-opacity:1;stroke-width:.575418"
+    transform="scale(1.0025 .9975)">ARAL</text>
+  <path fill="#8cbdff" d="M-3.347-379.365h192v192h-192z" />
+  <path fill="#8dbcff" stroke="#fff" stroke-miterlimit="10" stroke-width="3"
+    d="M15.128-282.669 92.98-360.52l77.851 77.852-77.851 77.852z" /><text x="39.154" y="-270.012" fill="#fff"
+    font-family="BloggerSans-Bold" font-size="45.981" style="stroke-width:1.0025"
+    transform="scale(1.0025 .9975)">ARAL</text>
+</svg>

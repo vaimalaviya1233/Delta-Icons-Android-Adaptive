@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath995" clipPathUnits="userSpaceOnUse"><rect id="rect997" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="opacity:1;fill:#b1b5bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect979" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#b1b5bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><rect id="rect1618" width="113.601" height="156.201" x="39.2" y="928.113" clip-path="url(#clipPath995)" rx="8.945" ry="8.926" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.893532;stroke-opacity:1"/><g id="g977" transform="translate(66.54 662.881) scale(.30687)"><circle id="circle971" cx="58.059" cy="956.362" r="50.059" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.56885;stroke-opacity:1"/><circle id="circle973" cx="96" cy="956.362" r="50.059" style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.56885;stroke-opacity:1"/><circle id="circle975" cx="133.941" cy="956.362" r="45.821" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:#f9de81;stroke-width:8.47604;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath995" clipPathUnits="userSpaceOnUse">
+      <rect id="rect997" width="100%" height="100%"
+        style="opacity:1;fill:#b1b5bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect979" width="100%" height="100%"
+      style="fill:#b1b5bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <rect id="rect1618" width="113.601" height="156.201" x="39.2" y="928.113" clip-path="url(#clipPath995)" rx="8.945"
+      ry="8.926"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.893532;stroke-opacity:1" />
+    <g id="g977" transform="translate(66.54 662.881) scale(.30687)">
+      <circle id="circle971" cx="58.059" cy="956.362" r="50.059"
+        style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.56885;stroke-opacity:1" />
+      <circle id="circle973" cx="96" cy="956.362" r="50.059"
+        style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.56885;stroke-opacity:1" />
+      <circle id="circle975" cx="133.941" cy="956.362" r="45.821"
+        style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:#f9de81;stroke-width:8.47604;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

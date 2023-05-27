@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect963" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="polygon944" d="M219.16 0h-10.28l.05.04 23.44 17.62V49.92l.03-.04L282.22.04l.04-.04H273l-.01.01-33.88 33.96V14.94L219.17.01z" style="fill:#fff;fill-opacity:1" transform="matrix(1.15835 0 0 1.15835 -188.457 927.45)"/></g><style id="style853" type="text/css">.st1{fill:#ff0a2b}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect963" width="100%" height="100%"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="polygon944"
+      d="M219.16 0h-10.28l.05.04 23.44 17.62V49.92l.03-.04L282.22.04l.04-.04H273l-.01.01-33.88 33.96V14.94L219.17.01z"
+      style="fill:#fff;fill-opacity:1" transform="matrix(1.15835 0 0 1.15835 -188.457 927.45)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st1 {
+      fill: #ff0a2b
+    }
+  </style>
+</svg>

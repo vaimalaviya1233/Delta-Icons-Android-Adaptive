@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><g transform="translate(0 -860.362)"><rect width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#9bbfff;fill-rule:evenodd;stroke:none;stroke-opacity:1;fill-opacity:1"/><text xml:space="preserve" x="53.971" y="984.803" style="font-weight:700;font-size:74.968px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.87419"><tspan x="53.971" y="984.803" style="fill:#fff;fill-opacity:1;stroke-width:1.87419">H!</tspan></text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <g transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" x="19.5" y="879.862" rx="10"
+      style="fill:#9bbfff;fill-rule:evenodd;stroke:none;stroke-opacity:1;fill-opacity:1" /><text xml:space="preserve"
+      x="53.971" y="984.803"
+      style="font-weight:700;font-size:74.968px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.87419">
+      <tspan x="53.971" y="984.803" style="fill:#fff;fill-opacity:1;stroke-width:1.87419">H!</tspan>
+    </text>
+  </g>
+</svg>

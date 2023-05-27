@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect985" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993466;stroke-opacity:1"/><text xml:space="preserve" id="text991" x="43.608" y="946.365" style="font-weight:700;font-size:30.6683px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.766708"><tspan id="tspan989" x="43.608" y="946.365" style="fill:#fff;fill-opacity:1;stroke-width:.766708">LA</tspan></text><text xml:space="preserve" id="text995" x="43.667" y="973.108" style="font-weight:700;font-size:29.872px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.7468"><tspan id="tspan993" x="43.667" y="973.108" style="fill:#fff;fill-opacity:1;stroke-width:.7468">PRESSE</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect985" width="100%" height="100%"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993466;stroke-opacity:1" /><text
+      xml:space="preserve" id="text991" x="43.608" y="946.365"
+      style="font-weight:700;font-size:30.6683px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.766708">
+      <tspan id="tspan989" x="43.608" y="946.365" style="fill:#fff;fill-opacity:1;stroke-width:.766708">LA</tspan>
+    </text><text xml:space="preserve" id="text995" x="43.667" y="973.108"
+      style="font-weight:700;font-size:29.872px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.7468">
+      <tspan id="tspan993" x="43.667" y="973.108" style="fill:#fff;fill-opacity:1;stroke-width:.7468">PRESSE</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

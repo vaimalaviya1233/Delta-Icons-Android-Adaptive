@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect939" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#b1b5bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" id="text943" x="53.688" y="967.66" style="font-weight:700;font-size:30.1285px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:.753213;fill:#56595b;fill-opacity:1"><tspan id="tspan941" x="53.688" y="967.66" style="stroke-width:.753213;fill:#56595b;fill-opacity:1">TORN</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect939" y="860,362"
+      style="fill:#b1b5bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      id="text943" x="53.688" y="967.66"
+      style="font-weight:700;font-size:30.1285px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:.753213;fill:#56595b;fill-opacity:1">
+      <tspan id="tspan941" x="53.688" y="967.66" style="stroke-width:.753213;fill:#56595b;fill-opacity:1">TORN</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

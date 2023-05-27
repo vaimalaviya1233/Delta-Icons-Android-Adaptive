@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" viewBox="0 0 192 192"><defs><linearGradient id="a"><stop offset="0" stop-color="#9abeff"/><stop offset="1" stop-color="#98dc9a"/></linearGradient><linearGradient id="b" x1="24" x2="24" y1="4.113" y2="43.887" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#9abeff"/><stop offset="1" stop-color="#98dc9a"/></linearGradient><linearGradient xlink:href="#a" id="c" x1="23.889" x2="23.889" y1="3.498" y2="43.887" gradientUnits="userSpaceOnUse"/></defs><rect width="152" height="152" x="20" y="20" fill="#56595b" class="a" rx="10"/><g stroke="url(#b)" stroke-width="2.774" transform="translate(44.094 44.094) scale(2.1627)"><path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M5.5 5.5v35a2 2 0 0 0 2 2h35" class="a"/><path fill="url(#c)" stroke-linecap="round" stroke-linejoin="round" d="M5.5 36h3M5.5 30h3M5.5 24h3M5.5 18h3M5.5 12h3M42.5 12a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5A3.5 3.5 0 0 1 39 8.5a3.5 3.5 0 0 1 3.5 3.5zM36.78 25.08a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5zM25.35 18a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5zM18.7 33a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5z" class="a"/><path fill="url(#c)" d="m16.62 29.8 3.81-8.6M30.31 23.24l-5.49-3.4M37.61 15.21l-2.88 6.69" class="a"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+  viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#9abeff" />
+      <stop offset="1" stop-color="#98dc9a" />
+    </linearGradient>
+    <linearGradient id="b" x1="24" x2="24" y1="4.113" y2="43.887" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9abeff" />
+      <stop offset="1" stop-color="#98dc9a" />
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="c" x1="23.889" x2="23.889" y1="3.498" y2="43.887"
+      gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect width="100%" height="100%" class="a" %%" fill="#56595b" />
+  <g stroke="url(#b)" stroke-width="2.774" transform="translate(44.094 44.094) scale(2.1627)">
+    <path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M5.5 5.5v35a2 2 0 0 0 2 2h35" class="a" />
+    <path fill="url(#c)" stroke-linecap="round" stroke-linejoin="round"
+      d="M5.5 36h3M5.5 30h3M5.5 24h3M5.5 18h3M5.5 12h3M42.5 12a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5A3.5 3.5 0 0 1 39 8.5a3.5 3.5 0 0 1 3.5 3.5zM36.78 25.08a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5zM25.35 18a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5zM18.7 33a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5z"
+      class="a" />
+    <path fill="url(#c)" d="m16.62 29.8 3.81-8.6M30.31 23.24l-5.49-3.4M37.61 15.21l-2.88 6.69" class="a" />
+  </g>
+</svg>

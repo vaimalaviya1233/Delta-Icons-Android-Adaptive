@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath1020" clipPathUnits="userSpaceOnUse"><circle id="circle1022" cx="96" cy="956.362" r="88" style="opacity:.556086;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><circle id="circle930" cx="96" cy="956.362" r="88" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path927" d="m132.091 890.05 36.688-50.583h-42.976l-45.388 61.52 31.99 1.366-51.403 67.262H82.94l-35.961 51.776 86.89-62.508h-32.126l66.167-69.244z" clip-path="url(#clipPath1020)" style="fill:#99bdfe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath1020" clipPathUnits="userSpaceOnUse">
+      <rect width="100%" height="100%" id="circle1022" y="860,362"
+        style="opacity:.556086;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle930" y="860,362"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path927"
+      d="m132.091 890.05 36.688-50.583h-42.976l-45.388 61.52 31.99 1.366-51.403 67.262H82.94l-35.961 51.776 86.89-62.508h-32.126l66.167-69.244z"
+      clip-path="url(#clipPath1020)"
+      style="fill:#99bdfe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><style id="style319">.cls-1{isolation:isolate}.cls-2{font-size:73.85px;fill:#f5f4fb;font-family:MicrosoftSansSerif,Microsoft Sans Serif}.st0{fill:#fff}</style></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1408" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path404" d="M68.699 981.643h5.845l6.576-18.61-3.105-8.972zm41.26-50.562h-6.16l-6.48 18.8 3.134 9.082zm5.224 0h-2.608l-12.012 36.131-12.224-36.13h-6.064l16.717 50.56h2.923l12.538-35.626 11.785 35.605h6.262Zm-4.289 32.376 6.16 18.186h6.262l-9.28-27.48zM76.627 931.08 59.5 981.643h6.269l12.012-36.146 12.114 36.146h6.481L79.242 931.08z" style="isolation:isolate;fill:#96dfd3;fill-opacity:1;stroke-width:.730658;fill-rule:evenodd"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <style id="style319">
+      .cls-1 {
+        isolation: isolate
+      }
+
+      .cls-2 {
+        font-size: 73.85px;
+        fill: #f5f4fb;
+        font-family: MicrosoftSansSerif, Microsoft Sans Serif
+      }
+
+      .st0 {
+        fill: #fff
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1408" width="100%" height="100%"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path404"
+      d="M68.699 981.643h5.845l6.576-18.61-3.105-8.972zm41.26-50.562h-6.16l-6.48 18.8 3.134 9.082zm5.224 0h-2.608l-12.012 36.131-12.224-36.13h-6.064l16.717 50.56h2.923l12.538-35.626 11.785 35.605h6.262Zm-4.289 32.376 6.16 18.186h6.262l-9.28-27.48zM76.627 931.08 59.5 981.643h6.269l12.012-36.146 12.114 36.146h6.481L79.242 931.08z"
+      style="isolation:isolate;fill:#96dfd3;fill-opacity:1;stroke-width:.730658;fill-rule:evenodd" />
+  </g>
+</svg>

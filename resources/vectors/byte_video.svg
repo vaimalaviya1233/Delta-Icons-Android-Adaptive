@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect937" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#8b70bc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><rect id="rect980" width="46.325" height="46.325" x="59.5" y="919.882" rx="3.028" style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.302779;stroke-opacity:1"/><circle id="circle982" cx="105.855" cy="966.198" r="26.645" style="fill:#fe827c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.302779;stroke-opacity:1"/><path id="path984" d="M105.826 939.553a26.645 26.645 0 0 0-26.615 26.645 26.645 26.645 0 0 0 0 .01h23.587a3.022 3.022 0 0 0 3.028-3.029z" style="fill:#fefefe;fill-opacity:.75;fill-rule:evenodd;stroke:none;stroke-width:.302779;stroke-opacity:1"/><path id="path1016" d="M105.826 939.553a26.645 26.645 0 0 0-26.615 26.645 26.645 26.645 0 0 0 0 .01h23.587a3.022 3.022 0 0 0 3.028-3.029z" style="fill:#fefefe;fill-opacity:.75;fill-rule:evenodd;stroke:none;stroke-width:.302779;stroke-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect937" y="860,362"
+      style="fill:#8b70bc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <rect id="rect980" width="46.325" height="46.325" x="59.5" y="919.882" rx="3.028"
+      style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.302779;stroke-opacity:1" />
+    <circle id="circle982" cx="105.855" cy="966.198" r="26.645"
+      style="fill:#fe827c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.302779;stroke-opacity:1" />
+    <path id="path984"
+      d="M105.826 939.553a26.645 26.645 0 0 0-26.615 26.645 26.645 26.645 0 0 0 0 .01h23.587a3.022 3.022 0 0 0 3.028-3.029z"
+      style="fill:#fefefe;fill-opacity:.75;fill-rule:evenodd;stroke:none;stroke-width:.302779;stroke-opacity:1" />
+    <path id="path1016"
+      d="M105.826 939.553a26.645 26.645 0 0 0-26.615 26.645 26.645 26.645 0 0 0 0 .01h23.587a3.022 3.022 0 0 0 3.028-3.029z"
+      style="fill:#fefefe;fill-opacity:.75;fill-rule:evenodd;stroke:none;stroke-width:.302779;stroke-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

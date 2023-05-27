@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#ff837d;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M25.873 20.893A9.97 9.97 0 0 0 20 30v132c0 5.54 4.46 10 10 10h132a9.99 9.99 0 0 0 4.127-.893C150.639 167.975 108.939 154.225 96 96 83.061 37.775 41.36 24.025 25.873 20.893z" style="fill:#f9de81;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><path d="M133.572 20A29.902 29.902 0 0 0 124 42c0 16.62 13.38 30 30 30 6.765 0 12.992-2.219 18-5.969V30c0-5.54-4.46-10-10-10h-28.428z" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><path d="M136.034 118.247c0-2.876-3.16-7.955-6.123-12.509-2.962-4.554-5.724-8.584-9.217-8.584-3.836 0-5.538 5.075-11.61 13.667A652.82 652.82 0 0 0 100 124h32s4.034 0 4.034-5.753z" style="fill:#fcecdc"/><path d="M56 112c0-6 6.594-16.593 12.772-26.093C74.951 76.407 80.714 68 88 68c8 0 12.385 10.588 25.05 28.508C124 112 132 124 132 124H68s-12 0-12-12z" style="fill:#fff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#ff837d;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path
+    d="M25.873 20.893A9.97 9.97 0 0 0 20 30v132c0 5.54 4.46 10 10 10h132a9.99 9.99 0 0 0 4.127-.893C150.639 167.975 108.939 154.225 96 96 83.061 37.775 41.36 24.025 25.873 20.893z"
+    style="fill:#f9de81;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+    d="M133.572 20A29.902 29.902 0 0 0 124 42c0 16.62 13.38 30 30 30 6.765 0 12.992-2.219 18-5.969V30c0-5.54-4.46-10-10-10h-28.428z"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <path
+    d="M136.034 118.247c0-2.876-3.16-7.955-6.123-12.509-2.962-4.554-5.724-8.584-9.217-8.584-3.836 0-5.538 5.075-11.61 13.667A652.82 652.82 0 0 0 100 124h32s4.034 0 4.034-5.753z"
+    style="fill:#fcecdc" />
+  <path
+    d="M56 112c0-6 6.594-16.593 12.772-26.093C74.951 76.407 80.714 68 88 68c8 0 12.385 10.588 25.05 28.508C124 112 132 124 132 124H68s-12 0-12-12z"
+    style="fill:#fff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

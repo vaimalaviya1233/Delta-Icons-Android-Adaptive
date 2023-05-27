@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#54688c;fill-opacity:1;stroke:#000;stroke-opacity:0;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><text xml:space="preserve" x="62.98" y="122" style="font-size:69.3333px;fill:#fff;fill-opacity:1"><tspan x="62.98" y="122" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:69.3333px;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#fff;fill-opacity:1">M</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#54688c;fill-opacity:1;stroke:#000;stroke-opacity:0;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <text xml:space="preserve" x="62.98" y="122" style="font-size:69.3333px;fill:#fff;fill-opacity:1">
+    <tspan x="62.98" y="122"
+      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:69.3333px;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#fff;fill-opacity:1">
+      M</tspan>
+  </text>
+</svg>

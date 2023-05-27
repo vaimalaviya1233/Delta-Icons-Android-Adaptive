@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1005" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path975" d="M98.594 880.86c34.517 0 81.18 80.821 63.92 110.714-17.258 29.893-110.582 29.893-127.84 0-17.26-29.893 29.403-110.714 63.92-110.714Z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:4.54176;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" transform="matrix(.44158 -.31126 .31126 .44158 -247.44 564.486)"/><circle id="circle963" cx="-619.503" cy="750.474" r="17.769" style="fill:#ffd6d4;fill-opacity:1;stroke:none;stroke-width:4.54206;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" transform="rotate(-45)"/><circle id="circle961" cx="-620.851" cy="752.81" r="15.072" style="fill:#ffb0ac;fill-opacity:1;stroke:none;stroke-width:3.85271;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" transform="rotate(-45)"/><rect id="rect959" width="8.363" height="28.858" x="-625.24" y="750.623" rx="4.182" ry="4.182" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:3.00879;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" transform="rotate(-45)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1005" width="100%" height="100%"
+      style="fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path975"
+      d="M98.594 880.86c34.517 0 81.18 80.821 63.92 110.714-17.258 29.893-110.582 29.893-127.84 0-17.26-29.893 29.403-110.714 63.92-110.714Z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:4.54176;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"
+      transform="matrix(.44158 -.31126 .31126 .44158 -247.44 564.486)" />
+    <circle id="circle963" cx="-619.503" cy="750.474" r="17.769"
+      style="fill:#ffd6d4;fill-opacity:1;stroke:none;stroke-width:4.54206;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"
+      transform="rotate(-45)" />
+    <circle id="circle961" cx="-620.851" cy="752.81" r="15.072"
+      style="fill:#ffb0ac;fill-opacity:1;stroke:none;stroke-width:3.85271;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"
+      transform="rotate(-45)" />
+    <rect id="rect959" width="8.363" height="28.858" x="-625.24" y="750.623" rx="4.182" ry="4.182"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:3.00879;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"
+      transform="rotate(-45)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

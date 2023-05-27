@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle1034" cx="96" cy="956.362" r="88" style="fill:#f7c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path1109" d="M105.758 919.862H70.524a4.39 4.39 0 0 0-4.4 4.4v64.2a4.39 4.39 0 0 0 4.4 4.4h50.952a4.39 4.39 0 0 0 4.4-4.4V939.98z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000"/><path id="path1111" d="M105.758 922.988v12.592a4.39 4.39 0 0 0 4.4 4.4h12.592z" style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000"/><rect id="rect1113" width="38.91" height="4.156" x="76.545" y="945.33" rx="2.078" ry="2.078" style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000"/><rect id="rect1115" width="38.91" height="4.156" x="76.545" y="955.83" rx="2.078" ry="2.078" style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000"/><rect id="rect1117" width="38.91" height="4.156" x="76.545" y="966.33" rx="2.078" ry="2.078" style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000"/><rect id="rect1119" width="17.352" height="4.156" x="76.545" y="976.829" rx="2.078" ry="2.078" style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000"/><rect id="rect1121" width="27.473" height="4.156" x="76.545" y="934.83" rx="2.078" ry="2.078" style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle1034" y="860,362"
+      style="fill:#f7c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path1109"
+      d="M105.758 919.862H70.524a4.39 4.39 0 0 0-4.4 4.4v64.2a4.39 4.39 0 0 0 4.4 4.4h50.952a4.39 4.39 0 0 0 4.4-4.4V939.98z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000" />
+    <path id="path1111" d="M105.758 922.988v12.592a4.39 4.39 0 0 0 4.4 4.4h12.592z"
+      style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000" />
+    <rect id="rect1113" width="38.91" height="4.156" x="76.545" y="945.33" rx="2.078" ry="2.078"
+      style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000" />
+    <rect id="rect1115" width="38.91" height="4.156" x="76.545" y="955.83" rx="2.078" ry="2.078"
+      style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000" />
+    <rect id="rect1117" width="38.91" height="4.156" x="76.545" y="966.33" rx="2.078" ry="2.078"
+      style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000" />
+    <rect id="rect1119" width="17.352" height="4.156" x="76.545" y="976.829" rx="2.078" ry="2.078"
+      style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000" />
+    <rect id="rect1121" width="27.473" height="4.156" x="76.545" y="934.83" rx="2.078" ry="2.078"
+      style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

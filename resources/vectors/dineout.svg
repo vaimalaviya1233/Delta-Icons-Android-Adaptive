@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" fill="#ff837d" class="a" rx="10"/><text xml:space="preserve" x="60.571" y="115.801" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.201" font-family="Now" font-size="82.153" font-weight="bold"><tspan x="60.571" y="115.801">O</tspan></text><path fill="#fff" d="m75.646 117.77.156 20.869L96 127.61l20.197 11.029.157-20.869-20.354 9.557z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" class="a" %%" fill="#ff837d" /><text xml:space="preserve" x="60.571" y="115.801"
+    fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.201" font-family="Now" font-size="82.153"
+    font-weight="bold">
+    <tspan x="60.571" y="115.801">O</tspan>
+  </text>
+  <path fill="#fff" d="m75.646 117.77.156 20.869L96 127.61l20.197 11.029.157-20.869-20.354 9.557z" />
+</svg>

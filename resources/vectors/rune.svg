@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="153" height="153" x="19.5" y="19.5" fill="#bd9aff" rx="10"/><path fill="#fff" fill-rule="evenodd" d="M80.25 132.5h10.91v-23.89l10.74 10.53 8.23-8.06L98 99.22a20.4 20.4 0 0 0-6.88-39.67H80.25v73Zm10.91-61.85v18.72a9.36 9.36 0 0 0 0-18.72Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" fill="#bd9aff" />
+  <path fill="#fff" fill-rule="evenodd"
+    d="M80.25 132.5h10.91v-23.89l10.74 10.53 8.23-8.06L98 99.22a20.4 20.4 0 0 0-6.88-39.67H80.25v73Zm10.91-61.85v18.72a9.36 9.36 0 0 0 0-18.72Z" />
+</svg>

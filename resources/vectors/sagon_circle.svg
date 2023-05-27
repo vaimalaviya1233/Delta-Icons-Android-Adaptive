@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="stroke:none;fill:#ba6561;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M52 100V68l20 20zM140 100V68l-20 20z" style="fill:none;stroke:#d4b79a;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path d="M96 68c-31.024 0-56 24.976-56 56v39.832A88 88 0 0 0 96 184a88 88 0 0 0 56-20.207V124c0-31.024-24.976-56-56-56z" style="opacity:1;vector-effect:none;fill:#d4b79a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><rect width="60" height="60" x="32" y="80" ry="30" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><rect width="60" height="60" x="100" y="80" ry="30" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M80 93.987S89.57 84 96 84s16 9.987 16 9.987" style="fill:none;stroke:#56595b;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><rect width="12" height="4" x="89.864" y="128" ry="2" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><path d="M92 132s2.678 0 2.678 4v8s-3.715 7.809-10.678 8c-6.963.191-12-8-12-8s4 10.15 12 10.373c8 .224 12-9.254 12-9.254s4 9.478 12 9.254c8-.224 12-10.373 12-10.373s-5.037 8.191-12 8c-6.963-.191-10.678-8-10.678-8v-8c0-4 2.678-4 2.678-4h-8z" style="fill:#56595b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="stroke:none;fill:#ba6561;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path d="M52 100V68l20 20zM140 100V68l-20 20z"
+    style="fill:none;stroke:#d4b79a;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+    d="M96 68c-31.024 0-56 24.976-56 56v39.832A88 88 0 0 0 96 184a88 88 0 0 0 56-20.207V124c0-31.024-24.976-56-56-56z"
+    style="opacity:1;vector-effect:none;fill:#d4b79a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <rect width="60" height="60" x="32" y="80" ry="30"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <rect width="60" height="60" x="100" y="80" ry="30"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M80 93.987S89.57 84 96 84s16 9.987 16 9.987"
+    style="fill:none;stroke:#56595b;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect width="12" height="4" x="89.864" y="128" ry="2"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <path
+    d="M92 132s2.678 0 2.678 4v8s-3.715 7.809-10.678 8c-6.963.191-12-8-12-8s4 10.15 12 10.373c8 .224 12-9.254 12-9.254s4 9.478 12 9.254c8-.224 12-10.373 12-10.373s-5.037 8.191-12 8c-6.963-.191-10.678-8-10.678-8v-8c0-4 2.678-4 2.678-4h-8z"
+    style="fill:#56595b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

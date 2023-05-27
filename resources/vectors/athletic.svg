@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle1065" cx="96" cy="956.362" r="88" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="polygon1067" d="M115 80.3h43.1l45.6 121.1h14.6v-7.8h-9.1L163.5 72.5H115z" class="st0" style="fill:#fff" transform="matrix(.5112 0 0 .5112 18.86 882.8)"/><path id="polygon1069" d="m118 165.8-13.4 35.6H127v-7.7h-11.5l7.9-20.3h55l7.6 20.1h-11.4v7.9h22.7l-13.5-35.6z" class="st0" style="fill:#fff;fill-opacity:1" transform="matrix(.5112 0 0 .5112 18.86 882.8)"/><path id="path1071" d="M89.559 930.853h3.476l-12.627 33.535h31.184l-14.11-37.42H77.648v3.885h7.77l-19.17 51.018h-4.652v3.885h7.361zm16.358 29.65H86.083l9.968-26.276z" class="st0" style="stroke-width:.511204;fill:#fff"/><path id="rect1073" d="M108.116 988.926h22.34v3.936h-22.34z" class="st0" style="stroke-width:.511204;fill:#fff"/><path id="rect1075" d="M61.545 988.926h22.289v3.936H61.545z" class="st0" style="stroke-width:.511204;fill:#fff"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle1065" y="860,362"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="polygon1067" d="M115 80.3h43.1l45.6 121.1h14.6v-7.8h-9.1L163.5 72.5H115z" class="st0" style="fill:#fff"
+      transform="matrix(.5112 0 0 .5112 18.86 882.8)" />
+    <path id="polygon1069" d="m118 165.8-13.4 35.6H127v-7.7h-11.5l7.9-20.3h55l7.6 20.1h-11.4v7.9h22.7l-13.5-35.6z"
+      class="st0" style="fill:#fff;fill-opacity:1" transform="matrix(.5112 0 0 .5112 18.86 882.8)" />
+    <path id="path1071"
+      d="M89.559 930.853h3.476l-12.627 33.535h31.184l-14.11-37.42H77.648v3.885h7.77l-19.17 51.018h-4.652v3.885h7.361zm16.358 29.65H86.083l9.968-26.276z"
+      class="st0" style="stroke-width:.511204;fill:#fff" />
+    <path id="rect1073" d="M108.116 988.926h22.34v3.936h-22.34z" class="st0" style="stroke-width:.511204;fill:#fff" />
+    <path id="rect1075" d="M61.545 988.926h22.289v3.936H61.545z" class="st0" style="stroke-width:.511204;fill:#fff" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

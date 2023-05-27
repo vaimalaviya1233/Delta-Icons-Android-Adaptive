@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect956" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><circle id="circle961" cx="59.403" cy="918.769" r="12.407" style="fill:#708cbd;fill-opacity:1;stroke-width:10.6157;stroke-linecap:round;stop-color:#000"/><circle id="circle963" cx="59.403" cy="993.955" r="12.407" style="fill:#708cbd;fill-opacity:1;stroke-width:10.6157;stroke-linecap:round;stop-color:#000"/><circle id="circle965" cx="59.403" cy="956.362" r="12.407" style="fill:#708cbd;fill-opacity:1;stroke-width:10.6157;stroke-linecap:round;stop-color:#000"/><path id="rect967" d="M57.554 927.3h3.698v58.124h-3.698z" style="fill:#708cbd;fill-opacity:1;stroke-width:9.88987;stroke-linecap:round;stop-color:#000"/><rect id="rect969" width="10.052" height="60.725" x="913.743" y="-145.004" rx="5.026" ry="5.026" style="fill:#99bdfe;fill-opacity:1;stroke-width:16.667;stroke-linecap:round;stop-color:#000" transform="rotate(90)"/><rect id="rect971" width="10.052" height="60.725" x="951.336" y="-145.004" rx="5.026" ry="5.026" style="fill:#99bdfe;fill-opacity:1;stroke-width:16.667;stroke-linecap:round;stop-color:#000" transform="rotate(90)"/><rect id="rect973" width="10.052" height="60.725" x="988.929" y="-145.004" rx="5.026" ry="5.026" style="fill:#99bdfe;fill-opacity:1;stroke-width:16.667;stroke-linecap:round;stop-color:#000" transform="rotate(90)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect956" width="100%" height="100%"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <circle id="circle961" cx="59.403" cy="918.769" r="12.407"
+      style="fill:#708cbd;fill-opacity:1;stroke-width:10.6157;stroke-linecap:round;stop-color:#000" />
+    <circle id="circle963" cx="59.403" cy="993.955" r="12.407"
+      style="fill:#708cbd;fill-opacity:1;stroke-width:10.6157;stroke-linecap:round;stop-color:#000" />
+    <circle id="circle965" cx="59.403" cy="956.362" r="12.407"
+      style="fill:#708cbd;fill-opacity:1;stroke-width:10.6157;stroke-linecap:round;stop-color:#000" />
+    <path id="rect967" d="M57.554 927.3h3.698v58.124h-3.698z"
+      style="fill:#708cbd;fill-opacity:1;stroke-width:9.88987;stroke-linecap:round;stop-color:#000" />
+    <rect id="rect969" width="10.052" height="60.725" x="913.743" y="-145.004" rx="5.026" ry="5.026"
+      style="fill:#99bdfe;fill-opacity:1;stroke-width:16.667;stroke-linecap:round;stop-color:#000"
+      transform="rotate(90)" />
+    <rect id="rect971" width="10.052" height="60.725" x="951.336" y="-145.004" rx="5.026" ry="5.026"
+      style="fill:#99bdfe;fill-opacity:1;stroke-width:16.667;stroke-linecap:round;stop-color:#000"
+      transform="rotate(90)" />
+    <rect id="rect973" width="10.052" height="60.725" x="988.929" y="-145.004" rx="5.026" ry="5.026"
+      style="fill:#99bdfe;fill-opacity:1;stroke-width:16.667;stroke-linecap:round;stop-color:#000"
+      transform="rotate(90)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><style id="style921">.cls-1,.cls-2{fill:#f90;fill-rule:evenodd}.cls-2{fill:#232f3e}.st0{fill:#fff}</style></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1090" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g1076" style="fill:#fff;fill-opacity:1" transform="translate(-161.447 770.756) scale(.27362)"><path id="path1072" d="M932.927 695.057q-5.577 2.169-12.495 2.169-8.777 0-13.011-4.13-4.13-4.131-4.13-12.805v-25.506h-7.952v-9.294l8.364-1.652 2.272-14.457h12.392v14.25h14.25v11.153h-14.25v24.783q0 3.304 1.652 4.647 1.652 1.342 5.576 1.342 3.201 0 7.332-.62z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:92.3584px;line-height:1.25;font-family:&quot;Amazon Ember&quot;;-inkscape-font-specification:&quot;Amazon Ember Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.58156"/><path id="path1074" d="M965.66 697.226q-12.287 0-19.206-7.332-6.919-7.435-6.919-20.652 0-13.115 6.919-20.446 6.918-7.435 19.207-7.435 12.288 0 19.207 7.435 6.918 7.331 6.918 20.446 0 13.217-6.918 20.652-6.92 7.332-19.207 7.332zm0-11.566q10.843 0 10.843-16.418 0-16.316-10.842-16.316-10.843 0-10.843 16.316 0 16.418 10.843 16.418z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:92.3584px;line-height:1.25;font-family:&quot;Amazon Ember&quot;;-inkscape-font-specification:&quot;Amazon Ember Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.58156"/></g><path id="path1078" fill="#fff" fill-rule="evenodd" d="M69.338 957.244v-12.216c0-2.098-2.04-6.839-9.375-6.839-7.333 0-11.235 4.559-11.235 8.665l6.13.545s1.365-4.104 4.533-4.104c3.169 0 2.951 2.553 2.951 3.105v2.654c-4.059.136-14.139 1.29-14.139 9.744 0 9.09 11.538 9.472 15.321 3.597.146.238.312.471.52.69 1.392 1.455 3.25 3.19 3.25 3.19l4.73-4.65c.003-.001-2.686-2.1-2.686-4.38zm-14.02.43c0-3.906 4.206-4.697 7.025-4.79v3.36c0 6.659-7.025 5.65-7.025 1.43z" clip-rule="evenodd" style="fill:#fff;fill-opacity:1;stroke-width:.532835"/><path id="path1080" d="M121.54 966.309v-5.396l13.644-15.512h-13.126v-5.604h21.48v5.396l-13.801 15.512h14.06v5.604z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:92.3584px;line-height:1.25;font-family:&quot;Amazon Ember&quot;;-inkscape-font-specification:&quot;Amazon Ember Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.29702"/><path id="path1177" fill="#fff" fill-rule="evenodd" d="M127.476 984.958c-35.499 16.804-57.53 2.744-71.633-5.796-.872-.538-2.356.126-1.069 1.597 4.698 5.666 20.096 19.324 40.194 19.324 20.112 0 32.077-10.915 33.573-12.82 1.487-1.888.437-2.93-1.065-2.305zm9.969-5.477c-.953-1.235-5.796-1.465-8.844-1.092-3.053.36-7.635 2.216-7.238 3.33.205.418.623.232 2.72.044 2.103-.209 7.994-.949 9.222.648 1.232 1.607-1.88 9.263-2.448 10.498-.55 1.233.21 1.553 1.241.73 1.018-.822 2.86-2.95 4.095-5.964 1.228-3.028 1.977-7.254 1.252-8.194z" clip-rule="evenodd" style="fill:#99bdfe;fill-opacity:1;stroke-width:1.22739"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <style id="style921">
+      .cls-1,
+      .cls-2 {
+        fill: #f90;
+        fill-rule: evenodd
+      }
+
+      .cls-2 {
+        fill: #232f3e
+      }
+
+      .st0 {
+        fill: #fff
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect1090" y="860,362"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g1076" style="fill:#fff;fill-opacity:1" transform="translate(-161.447 770.756) scale(.27362)">
+      <path id="path1072"
+        d="M932.927 695.057q-5.577 2.169-12.495 2.169-8.777 0-13.011-4.13-4.13-4.131-4.13-12.805v-25.506h-7.952v-9.294l8.364-1.652 2.272-14.457h12.392v14.25h14.25v11.153h-14.25v24.783q0 3.304 1.652 4.647 1.652 1.342 5.576 1.342 3.201 0 7.332-.62z"
+        style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:92.3584px;line-height:1.25;font-family:&quot;Amazon Ember&quot;;-inkscape-font-specification:&quot;Amazon Ember Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.58156" />
+      <path id="path1074"
+        d="M965.66 697.226q-12.287 0-19.206-7.332-6.919-7.435-6.919-20.652 0-13.115 6.919-20.446 6.918-7.435 19.207-7.435 12.288 0 19.207 7.435 6.918 7.331 6.918 20.446 0 13.217-6.918 20.652-6.92 7.332-19.207 7.332zm0-11.566q10.843 0 10.843-16.418 0-16.316-10.842-16.316-10.843 0-10.843 16.316 0 16.418 10.843 16.418z"
+        style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:92.3584px;line-height:1.25;font-family:&quot;Amazon Ember&quot;;-inkscape-font-specification:&quot;Amazon Ember Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.58156" />
+    </g>
+    <path id="path1078" fill="#fff" fill-rule="evenodd"
+      d="M69.338 957.244v-12.216c0-2.098-2.04-6.839-9.375-6.839-7.333 0-11.235 4.559-11.235 8.665l6.13.545s1.365-4.104 4.533-4.104c3.169 0 2.951 2.553 2.951 3.105v2.654c-4.059.136-14.139 1.29-14.139 9.744 0 9.09 11.538 9.472 15.321 3.597.146.238.312.471.52.69 1.392 1.455 3.25 3.19 3.25 3.19l4.73-4.65c.003-.001-2.686-2.1-2.686-4.38zm-14.02.43c0-3.906 4.206-4.697 7.025-4.79v3.36c0 6.659-7.025 5.65-7.025 1.43z"
+      clip-rule="evenodd" style="fill:#fff;fill-opacity:1;stroke-width:.532835" />
+    <path id="path1080" d="M121.54 966.309v-5.396l13.644-15.512h-13.126v-5.604h21.48v5.396l-13.801 15.512h14.06v5.604z"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:92.3584px;line-height:1.25;font-family:&quot;Amazon Ember&quot;;-inkscape-font-specification:&quot;Amazon Ember Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.29702" />
+    <path id="path1177" fill="#fff" fill-rule="evenodd"
+      d="M127.476 984.958c-35.499 16.804-57.53 2.744-71.633-5.796-.872-.538-2.356.126-1.069 1.597 4.698 5.666 20.096 19.324 40.194 19.324 20.112 0 32.077-10.915 33.573-12.82 1.487-1.888.437-2.93-1.065-2.305zm9.969-5.477c-.953-1.235-5.796-1.465-8.844-1.092-3.053.36-7.635 2.216-7.238 3.33.205.418.623.232 2.72.044 2.103-.209 7.994-.949 9.222.648 1.232 1.607-1.88 9.263-2.448 10.498-.55 1.233.21 1.553 1.241.73 1.018-.822 2.86-2.95 4.095-5.964 1.228-3.028 1.977-7.254 1.252-8.194z"
+      clip-rule="evenodd" style="fill:#99bdfe;fill-opacity:1;stroke-width:1.22739" />
+  </g>
+</svg>

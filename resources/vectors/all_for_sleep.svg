@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><rect id="rect6" width="152" height="152" x="20" y="20" class="a" rx="10" style="fill:#ff837d;opacity:1;stroke:none"/><text xml:space="preserve" id="text863" x="96.257" y="90.226" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:37.3333px;line-height:1.1;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold&quot;;text-align:center;word-spacing:0;text-anchor:middle;opacity:1;fill:#fff;stroke:none;stroke-width:7.5"><tspan id="tspan861" x="96.257" y="90.226">All for</tspan><tspan id="tspan1064" x="96.257" y="131.293">Sleep</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect id="rect6" width="100%" height="100%" class=" a" style="fill:#ff837d;opacity:1;stroke:none" /><text
+    xml:space="preserve" id="text863" x="96.257" y="90.226"
+    style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:37.3333px;line-height:1.1;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold&quot;;text-align:center;word-spacing:0;text-anchor:middle;opacity:1;fill:#fff;stroke:none;stroke-width:7.5">
+    <tspan id="tspan861" x="96.257" y="90.226">All for</tspan>
+    <tspan id="tspan1064" x="96.257" y="131.293">Sleep</tspan>
+  </text>
+</svg>

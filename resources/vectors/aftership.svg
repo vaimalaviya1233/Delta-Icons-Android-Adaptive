@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><rect id="rect829" width="152" height="152" x="20" y="8" ry="76" style="opacity:1;vector-effect:none;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><path id="path831" d="m72 152 24 32 24-32z" style="fill:#f8c18c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><path id="path865" d="M87.445 85.627v26.008L64.163 99.889V73.777Z" style="fill:#fff;stroke:#fff;stroke-width:8.75028896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path865-9" d="M104.469 85.627v26.008l23.281-11.746V73.777Z" style="fill:#fff;stroke:#fff;stroke-width:8.75028896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path865-7" d="M96.224 71.92 71.15 59.646l24.978-8.466 24.85 9.484Z" style="fill:#fff;stroke:#fff;stroke-width:8.75028896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect id="rect829" width="100%" height="100%"
+    style="opacity:1;vector-effect:none;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <path id="path831" d="m72 152 24 32 24-32z"
+    style="fill:#f8c18c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path id="path865" d="M87.445 85.627v26.008L64.163 99.889V73.777Z"
+    style="fill:#fff;stroke:#fff;stroke-width:8.75028896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path id="path865-9" d="M104.469 85.627v26.008l23.281-11.746V73.777Z"
+    style="fill:#fff;stroke:#fff;stroke-width:8.75028896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path id="path865-7" d="M96.224 71.92 71.15 59.646l24.978-8.466 24.85 9.484Z"
+    style="fill:#fff;stroke:#fff;stroke-width:8.75028896;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

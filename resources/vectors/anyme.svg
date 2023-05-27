@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><linearGradient id="linearGradient974"><stop id="stop970" offset="0" style="stop-color:#bc99fe;stop-opacity:1"/><stop id="stop972" offset="1" style="stop-color:#99bdfe;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#linearGradient974" id="linearGradient1028" x1="77.949" x2="114.616" y1="963.81" y2="981.657" gradientTransform="translate(34.747 344.436) scale(.63888)" gradientUnits="userSpaceOnUse"/></defs><g id="layer1" transform="translate(0 -860.362)"><circle id="circle1024" cx="96" cy="956.362" r="88" style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path1026" d="m89.958 920.763-30.311 69.35a1.273 1.273 46.604 0 0 1.61 1.703l63.566-23.642-42.874.181 10.745-24.583 9.861 17.345 13.079-.055-22.992-40.44a1.503 1.503 176.994 0 0-2.684.141zm35.413 57.424-10.822 4.025 6.056 10.65h10.11a1.745 1.745 120.19 0 0 1.517-2.608z" style="opacity:1;fill:url(#linearGradient1028);fill-opacity:1;stroke-width:.725859;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="192" height="192"
+  version="1.1">
+  <defs id="defs4">
+    <linearGradient id="linearGradient974">
+      <stop id="stop970" offset="0" style="stop-color:#bc99fe;stop-opacity:1" />
+      <stop id="stop972" offset="1" style="stop-color:#99bdfe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient xlink:href="#linearGradient974" id="linearGradient1028" x1="77.949" x2="114.616" y1="963.81"
+      y2="981.657" gradientTransform="translate(34.747 344.436) scale(.63888)" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle1024" y="860,362"
+      style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path1026"
+      d="m89.958 920.763-30.311 69.35a1.273 1.273 46.604 0 0 1.61 1.703l63.566-23.642-42.874.181 10.745-24.583 9.861 17.345 13.079-.055-22.992-40.44a1.503 1.503 176.994 0 0-2.684.141zm35.413 57.424-10.822 4.025 6.056 10.65h10.11a1.745 1.745 120.19 0 0 1.517-2.608z"
+      style="opacity:1;fill:url(#linearGradient1028);fill-opacity:1;stroke-width:.725859;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

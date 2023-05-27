@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect888" width="152" height="152" x="20" y="880.362" fill="#728dbe" rx="10" ry="10" style="fill:#708cbd;fill-opacity:1"/><path id="path890" fill="#9abeff" fill-rule="evenodd" d="M20 903.362c0-5.523 4.475-10 9.998-10h33.569c8.459 0 11.574 13.256 15.366 13.256h83.091c5.523 0 9.976 4.478 9.976 10v105.744c0 5.523-4.477 10-10 10H30c-5.523 0-10-4.477-10-10z" clip-rule="evenodd" style="fill:#99bdfe;fill-opacity:1"/><circle id="path574" cx="96" cy="962.862" r="36.5" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke-width:25.3912;stroke-linecap:square;stroke-dashoffset:6;stroke-opacity:.988235;stop-color:#000"/><text xml:space="preserve" id="text520" x="68.945" y="978.396" style="font-weight:700;font-size:41.424px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.0356"><tspan id="tspan518" x="68.945" y="978.396" style="stroke-width:1.0356">RS</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect888" width"100%" height="100%" fill=" #728dbe" style="fill:#708cbd;fill-opacity:1" />
+    <path id="path890" fill="#9abeff" fill-rule="evenodd"
+      d="M20 903.362c0-5.523 4.475-10 9.998-10h33.569c8.459 0 11.574 13.256 15.366 13.256h83.091c5.523 0 9.976 4.478 9.976 10v105.744c0 5.523-4.477 10-10 10H30c-5.523 0-10-4.477-10-10z"
+      clip-rule="evenodd" style="fill:#99bdfe;fill-opacity:1" />
+    <circle id="path574" cx="96" cy="962.862" r="36.5"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke-width:25.3912;stroke-linecap:square;stroke-dashoffset:6;stroke-opacity:.988235;stop-color:#000" />
+    <text xml:space="preserve" id="text520" x="68.945" y="978.396"
+      style="font-weight:700;font-size:41.424px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.0356">
+      <tspan id="tspan518" x="68.945" y="978.396" style="stroke-width:1.0356">RS</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

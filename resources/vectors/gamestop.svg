@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle509" cx="96" cy="956.362" r="88" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g795"><text xml:space="preserve" id="text497" x="44.563" y="950.633" style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:33.8124px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Heavy&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.845306"><tspan id="tspan495" x="44.563" y="950.633" style="fill:#fff;fill-opacity:1;stroke-width:.845306">Game</tspan></text><text xml:space="preserve" id="text501" x="57.137" y="982.852" style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:33.8124px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Heavy&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.845306"><tspan id="tspan499" x="57.137" y="982.852" style="fill:#fff;fill-opacity:1;stroke-width:.845306">Stop</tspan></text></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle509" y="860,362"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g795"><text xml:space="preserve" id="text497" x="44.563" y="950.633"
+        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:33.8124px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Heavy&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.845306">
+        <tspan id="tspan495" x="44.563" y="950.633" style="fill:#fff;fill-opacity:1;stroke-width:.845306">Game</tspan>
+      </text><text xml:space="preserve" id="text501" x="57.137" y="982.852"
+        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:33.8124px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Heavy&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.845306">
+        <tspan id="tspan499" x="57.137" y="982.852" style="fill:#fff;fill-opacity:1;stroke-width:.845306">Stop</tspan>
+      </text></g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

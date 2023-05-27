@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" fill="#56595b" class="a" rx="10"/><rect width="76.315" height="49.464" x="48.934" y="80.746" fill="#fff" ry="12.538"/><rect width="19.433" height="9.717" x="91.875" y="75.888" fill="#fff" rx="9.717" ry="4.858"/><path fill="#fff" d="M98.457 76.144v-7.831h-35.21c-3.224 0-3.52-6.791 0-6.791h39.598c2.401 0 2.113 3.66 2.113 3.66v11.003l-6.292 1.776z"/><rect width="29.045" height="10.413" x="86.233" y="92.343" fill="#56595b" rx="4.26" ry="5.269"/><rect width="13.06" height="13.06" x="63.143" y="98.194" fill="#56595b" rx="0" ry="0"/><path fill="#fff" d="m128.13 93.075 19.224-12.746v50.15l-18.911-13.687z"/><circle cx="92.901" cy="97.55" r="3.099" fill="#ff837d"/><text xml:space="preserve" x="96.53" y="100.568" fill="#ececec" stroke-linecap="round" stroke-linejoin="round" stroke-width=".431" font-family="Now" font-size="8.049" font-weight="500"><tspan x="96.53" y="100.568">REC</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" class="a" %%" fill="#56595b" />
+  <rect width="76.315" height="49.464" x="48.934" y="80.746" fill="#fff" ry="12.538" />
+  <rect width="19.433" height="9.717" x="91.875" y="75.888" fill="#fff" rx="9.717" ry="4.858" />
+  <path fill="#fff"
+    d="M98.457 76.144v-7.831h-35.21c-3.224 0-3.52-6.791 0-6.791h39.598c2.401 0 2.113 3.66 2.113 3.66v11.003l-6.292 1.776z" />
+  <rect width="29.045" height="10.413" x="86.233" y="92.343" fill="#56595b" rx="4.26" ry="5.269" />
+  <rect width="13.06" height="13.06" x="63.143" y="98.194" fill="#56595b" rx="0" ry="0" />
+  <path fill="#fff" d="m128.13 93.075 19.224-12.746v50.15l-18.911-13.687z" />
+  <circle cx="92.901" cy="97.55" r="3.099" fill="#ff837d" /><text xml:space="preserve" x="96.53" y="100.568"
+    fill="#ececec" stroke-linecap="round" stroke-linejoin="round" stroke-width=".431" font-family="Now"
+    font-size="8.049" font-weight="500">
+    <tspan x="96.53" y="100.568">REC</tspan>
+  </text>
+</svg>

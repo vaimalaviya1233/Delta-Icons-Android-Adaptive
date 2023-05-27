@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#f9de81" rx="9.935"/><text xml:space="preserve" x="42.137" y="102.928" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.628" font-family="Now" font-size="30.962" font-weight="bold"><tspan x="42.137" y="102.928">DH<tspan font-weight="500">g</tspan><tspan font-size="23.221" font-weight="normal">ate</tspan></tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#f9de81" /><text xml:space="preserve" x="42.137" y="102.928" fill="#fff"
+    stroke-linecap="round" stroke-linejoin="round" stroke-width="3.628" font-family="Now" font-size="30.962"
+    font-weight="bold">
+    <tspan x="42.137" y="102.928">DH<tspan font-weight="500">g</tspan>
+      <tspan font-size="23.221" font-weight="normal">ate</tspan>
+    </tspan>
+  </text>
+</svg>

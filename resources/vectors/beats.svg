@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath1009" clipPathUnits="userSpaceOnUse"><circle id="circle1011" cx="218.238" cy="520.435" r="74.768" style="opacity:1;fill:#56595b;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><circle id="circle999" cx="96" cy="956.362" r="88" style="fill:#56595b;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/><circle id="circle1001" cx="96" cy="956.362" r="34.947" style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:17.0662;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"/><path id="path1003" d="M188.545 428.535v91.9" clip-path="url(#clipPath1009)" style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:14.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="matrix(1.17698 0 0 1.17698 -160.86 343.822)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath1009" clipPathUnits="userSpaceOnUse">
+      <rect width="100%" height="100%" id="circle1011" cx="218.238" cy="520.435" r="74.768"
+        style="opacity:1;fill:#56595b;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <circle id="circle999" y="860,362"
+      style="fill:#56595b;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+    <circle id="circle1001" cx="96" cy="956.362" r="34.947"
+      style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:17.0662;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" />
+    <path id="path1003" d="M188.545 428.535v91.9" clip-path="url(#clipPath1009)"
+      style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:14.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      transform="matrix(1.17698 0 0 1.17698 -160.86 343.822)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

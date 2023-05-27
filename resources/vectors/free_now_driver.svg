@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#728dbe" rx="9.935"/><path fill="#fff" d="m57.049 57.454 14.059-.07L91.672 69.52v21.403l33.784-33.538h9.496l-50.414 50.28V73.087z"/><text xml:space="preserve" x="58.503" y="134.615" stroke-width=".871" font-family="Now" font-size="20.912" font-weight="500" style="line-height:1.25"><tspan x="58.503" y="134.615" fill="#fff">DRIVER</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#728dbe" />
+  <path fill="#fff" d="m57.049 57.454 14.059-.07L91.672 69.52v21.403l33.784-33.538h9.496l-50.414 50.28V73.087z" /><text
+    xml:space="preserve" x="58.503" y="134.615" stroke-width=".871" font-family="Now" font-size="20.912"
+    font-weight="500" style="line-height:1.25">
+    <tspan x="58.503" y="134.615" fill="#fff">DRIVER</tspan>
+  </text>
+</svg>

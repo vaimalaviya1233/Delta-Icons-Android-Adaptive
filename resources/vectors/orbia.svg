@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><circle id="circle8-4-2" cx="96" cy="96" r="88" class="a" style="opacity:1;isolation:isolate;fill:#9abeff;stroke:none;stroke-linecap:round;stroke-linejoin:round"/><circle id="circle8-4" cx="96" cy="96" r="88" class="a" style="opacity:.75;isolation:isolate;fill:#fff;stroke:none;stroke-linecap:round;stroke-linejoin:round"/><path id="path829-1" d="M43.49 116.799s6.628 25.745 52.579 25.368c70.281-.577 54.42-66.609 54.42-66.609s-1.13 6.3-2.834 8.929c-2.13-26.12-26.609-28.268-26.609-28.268s.413 2.473.29 4.234c-12.538-.478-16.48-5.728-16.48-5.728s-9.01 9.528-20.692 9.92c-.764-2.696-.283-5.81-.283-5.81s-11.002 9.438-21.683 6.803c.512-4.169 3.117-8.929 3.117-8.929s-17.291 5.347-20.69 21.825c-.821-3.11-.592-7.811-.592-7.811s-10.842 22.904 2.434 46.501c-1.038.88-2.977-.425-2.977-.425z" style="fill:#54688c;stroke:none;stroke-width:.98541397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><rect id="rect831" width="24" height="24" x="64" y="84" ry="12" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><rect id="rect833" width="24" height="24" x="104" y="84" ry="12" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" id="circle8-4-2" class="a"
+    style="opacity:1;isolation:isolate;fill:#9abeff;stroke:none;stroke-linecap:round;stroke-linejoin:round" />
+  <rect width="100%" height="100%" id="circle8-4" class="a"
+    style="opacity:.75;isolation:isolate;fill:#fff;stroke:none;stroke-linecap:round;stroke-linejoin:round" />
+  <path id="path829-1"
+    d="M43.49 116.799s6.628 25.745 52.579 25.368c70.281-.577 54.42-66.609 54.42-66.609s-1.13 6.3-2.834 8.929c-2.13-26.12-26.609-28.268-26.609-28.268s.413 2.473.29 4.234c-12.538-.478-16.48-5.728-16.48-5.728s-9.01 9.528-20.692 9.92c-.764-2.696-.283-5.81-.283-5.81s-11.002 9.438-21.683 6.803c.512-4.169 3.117-8.929 3.117-8.929s-17.291 5.347-20.69 21.825c-.821-3.11-.592-7.811-.592-7.811s-10.842 22.904 2.434 46.501c-1.038.88-2.977-.425-2.977-.425z"
+    style="fill:#54688c;stroke:none;stroke-width:.98541397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <rect id="rect831" width="24" height="24" x="64" y="84" ry="12"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <rect id="rect833" width="24" height="24" x="104" y="84" ry="12"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+</svg>

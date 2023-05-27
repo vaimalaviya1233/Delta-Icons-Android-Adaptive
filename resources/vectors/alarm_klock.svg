@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><circle cx="96" cy="96" r="88" style="opacity:1;fill:#f9de81;stroke-width:4"/><circle cx="100" cy="92" r="72" style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"/><circle cx="104" cy="88" r="56" style="opacity:1;vector-effect:none;fill:#ba6561;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"/><path d="M96 52c-2.216 0-4 1.784-4 4v32c0 2.216 1.784 4 4 4s4-1.784 4-4V56c0-2.216-1.784-4-4-4zm7.96 47.969a4 4 0 0 0-2.179 7.36l24 16a4 4 0 1 0 4.438-6.657l-24-16a4 4 0 0 0-2.258-.703z" style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" style="opacity:1;fill:#f9de81;stroke-width:4" />
+  <circle cx="100" cy="92" r="72"
+    style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers" />
+  <circle cx="104" cy="88" r="56"
+    style="opacity:1;vector-effect:none;fill:#ba6561;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers" />
+  <path
+    d="M96 52c-2.216 0-4 1.784-4 4v32c0 2.216 1.784 4 4 4s4-1.784 4-4V56c0-2.216-1.784-4-4-4zm7.96 47.969a4 4 0 0 0-2.179 7.36l24 16a4 4 0 1 0 4.438-6.657l-24-16a4 4 0 0 0-2.258-.703z"
+    style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers" />
+</svg>

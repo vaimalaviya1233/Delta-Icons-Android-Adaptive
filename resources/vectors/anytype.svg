@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none"><path fill="#fff" d="M96 184c48.601 0 88-39.399 88-88S144.601 8 96 8 8 47.399 8 96s39.399 88 88 88Z"/><path fill="url(#a)" d="M105.49 105.125c0 10.281-8.334 18.615-18.615 18.615-10.28 0-18.615-8.334-18.615-18.615 0-10.28 8.334-18.615 18.615-18.615 10.28 0 18.615 8.334 18.615 18.615z" style="fill:url(#a);stroke-width:.9125"/><path fill="url(#b)" d="M114.25 77.75h18.25v54.75h-18.25Z" style="fill:url(#b);stroke-width:.9125"/><path fill="url(#c)" d="M59.5 59.5h54.75v18.25H59.5Z" style="fill:url(#c);stroke-width:.9125"/><defs><linearGradient id="a" x1="86" x2="86" y1="56" y2="136" gradientTransform="translate(8.4 8.4) scale(.9125)" gradientUnits="userSpaceOnUse"><stop stop-color="#F9DE81"/><stop offset="1" stop-color="#FF837D"/></linearGradient><linearGradient id="b" x1="86" x2="86" y1="56" y2="136" gradientTransform="translate(8.4 8.4) scale(.9125)" gradientUnits="userSpaceOnUse"><stop stop-color="#F9DE81"/><stop offset="1" stop-color="#FF837D"/></linearGradient><linearGradient id="c" x1="86" x2="86" y1="56" y2="136" gradientTransform="translate(8.4 8.4) scale(.9125)" gradientUnits="userSpaceOnUse"><stop stop-color="#F9DE81"/><stop offset="1" stop-color="#FF837D"/></linearGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none">
+  <rect width="100%" height="100%" fill="#fff" />
+  <path fill="url(#a)"
+    d="M105.49 105.125c0 10.281-8.334 18.615-18.615 18.615-10.28 0-18.615-8.334-18.615-18.615 0-10.28 8.334-18.615 18.615-18.615 10.28 0 18.615 8.334 18.615 18.615z"
+    style="fill:url(#a);stroke-width:.9125" />
+  <path fill="url(#b)" d="M114.25 77.75h18.25v54.75h-18.25Z" style="fill:url(#b);stroke-width:.9125" />
+  <path fill="url(#c)" d="M59.5 59.5h54.75v18.25H59.5Z" style="fill:url(#c);stroke-width:.9125" />
+  <defs>
+    <linearGradient id="a" x1="86" x2="86" y1="56" y2="136" gradientTransform="translate(8.4 8.4) scale(.9125)"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9DE81" />
+      <stop offset="1" stop-color="#FF837D" />
+    </linearGradient>
+    <linearGradient id="b" x1="86" x2="86" y1="56" y2="136" gradientTransform="translate(8.4 8.4) scale(.9125)"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9DE81" />
+      <stop offset="1" stop-color="#FF837D" />
+    </linearGradient>
+    <linearGradient id="c" x1="86" x2="86" y1="56" y2="136" gradientTransform="translate(8.4 8.4) scale(.9125)"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9DE81" />
+      <stop offset="1" stop-color="#FF837D" />
+    </linearGradient>
+  </defs>
+</svg>

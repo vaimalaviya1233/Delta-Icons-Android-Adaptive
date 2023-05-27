@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect980" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" id="text1617" x="78.16" y="988.362" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#70a270"/><g id="g854" transform="translate(0 -.052)"><path id="path70481" d="M87.642 966.762c-.978-.978-1.233-2.168-.91-4.246l.952-6.124.503-3.235-2.074 2.426c-2.567 3.004-2.935.899-.405-2.317 2.108-2.68 4.371-2.72 6.084-.106 1.114 1.7 1.182 2.601.423 5.616-.497 1.974-.891 4.43-.875 5.456.028 1.802.097 1.783 2.018-.56 2.495-3.045 2.801-.836.32 2.317-1.926 2.449-4.084 2.725-6.036.773zm-.061-18.402c-.805-2.098.323-3.833 2.31-3.55 1.338.19 1.824.798 1.824 2.28 0 1.483-.486 2.092-1.823 2.282-1.094.155-2.019-.25-2.311-1.012z" style="fill:#fefefe;stroke-width:.808829"/><text xml:space="preserve" id="text71220" x="25.792" y="967.783" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fefefe"><tspan id="tspan71218" x="25.792" y="967.783">med</tspan></text><text xml:space="preserve" id="text71708" x="95.542" y="967.783" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fefefe"><tspan id="tspan71706" x="95.542" y="967.783" style="font-size:26.6667px;fill:#fefefe">bank</tspan></text></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect980" y="860,362"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      id="text1617" x="78.16" y="988.362"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#70a270" />
+    <g id="g854" transform="translate(0 -.052)">
+      <path id="path70481"
+        d="M87.642 966.762c-.978-.978-1.233-2.168-.91-4.246l.952-6.124.503-3.235-2.074 2.426c-2.567 3.004-2.935.899-.405-2.317 2.108-2.68 4.371-2.72 6.084-.106 1.114 1.7 1.182 2.601.423 5.616-.497 1.974-.891 4.43-.875 5.456.028 1.802.097 1.783 2.018-.56 2.495-3.045 2.801-.836.32 2.317-1.926 2.449-4.084 2.725-6.036.773zm-.061-18.402c-.805-2.098.323-3.833 2.31-3.55 1.338.19 1.824.798 1.824 2.28 0 1.483-.486 2.092-1.823 2.282-1.094.155-2.019-.25-2.311-1.012z"
+        style="fill:#fefefe;stroke-width:.808829" /><text xml:space="preserve" id="text71220" x="25.792" y="967.783"
+        style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fefefe">
+        <tspan id="tspan71218" x="25.792" y="967.783">med</tspan>
+      </text><text xml:space="preserve" id="text71708" x="95.542" y="967.783"
+        style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fefefe">
+        <tspan id="tspan71706" x="95.542" y="967.783" style="font-size:26.6667px;fill:#fefefe">bank</tspan>
+      </text>
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

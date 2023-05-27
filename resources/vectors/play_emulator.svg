@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#728dbe;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><rect width="14.644" height="14.644" x="88.678" y="121.627" ry="7.322" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.32203388;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><path d="M92.339 114.305h7.322s7.322-43.932 7.322-47.593c0-7.322-7.322-10.983-10.983-10.983-3.661 0-10.983 3.66-10.983 10.983 0 3.66 7.322 47.593 7.322 47.593z" style="fill:#fff;stroke:none;stroke-width:.91525424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#728dbe;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <rect width="14.644" height="14.644" x="88.678" y="121.627" ry="7.322"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.32203388;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <path
+    d="M92.339 114.305h7.322s7.322-43.932 7.322-47.593c0-7.322-7.322-10.983-10.983-10.983-3.661 0-10.983 3.66-10.983 10.983 0 3.66 7.322 47.593 7.322 47.593z"
+    style="fill:#fff;stroke:none;stroke-width:.91525424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

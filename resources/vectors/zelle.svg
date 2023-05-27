@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect385" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#bd9aff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><text xml:space="preserve" id="text786" x="73.671" y="982.942" style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:71.0267px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.77567"><tspan id="tspan784" x="73.671" y="982.942" style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;fill:#fff;fill-opacity:1;stroke-width:1.77567">Z</tspan></text><rect id="rect1449" width="11.7" height="16.657" x="90.596" y="919.862" rx="0" ry="0" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.75711;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><rect id="rect1498" width="11.7" height="16.657" x="90.596" y="976.205" rx="0" ry="0" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.75711;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect385" width="100%" height="100%"
+      style="fill:#bd9aff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" /><text
+      xml:space="preserve" id="text786" x="73.671" y="982.942"
+      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:71.0267px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.77567">
+      <tspan id="tspan784" x="73.671" y="982.942"
+        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;fill:#fff;fill-opacity:1;stroke-width:1.77567">
+        Z</tspan>
+    </text>
+    <rect id="rect1449" width="11.7" height="16.657" x="90.596" y="919.862" rx="0" ry="0"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.75711;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+    <rect id="rect1498" width="11.7" height="16.657" x="90.596" y="976.205" rx="0" ry="0"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.75711;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

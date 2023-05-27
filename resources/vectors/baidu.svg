@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect999" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path1003" d="M96 1007.143v6.668h15.418a3.327 3.327 0 0 0 3.334-3.334 3.327 3.327 0 0 0-3.334-3.334z" style="fill:#aaaafe;fill-opacity:1;stroke-width:.107713;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="path1005" d="M80.582 1007.143H96v6.668H80.582a3.327 3.327 0 0 1-3.334-3.334 3.327 3.327 0 0 1 3.334-3.334z" style="fill:#fe827c;fill-opacity:1;stroke-width:.107713;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><g id="g844" transform="translate(.355 .774)"><path id="path1020" d="M96 949.669c-8.658.373-11.63 10.873-20.146 17.738-5.589 4.505-8.383 5.066-9.188 11.484 0 7.568 6.135 13.703 13.703 13.704 6.162 0 11.29-1.889 15.631-2.045 4.34.156 9.469 2.045 15.63 2.045 7.569 0 13.704-6.136 13.704-13.704-.805-6.418-3.6-6.979-9.188-11.484-8.515-6.865-11.488-17.365-20.146-17.738z" style="opacity:1;fill:#aaaafe;fill-opacity:1;stroke-width:.21;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><ellipse id="ellipse1009" cx="3.624" cy="935.005" rx="9.175" ry="12.572" style="fill:#aaaafe;fill-opacity:1;stroke-width:.113917;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="rotate(-5)"/><ellipse id="ellipse1011" cx="186.939" cy="918.333" rx="9.175" ry="12.572" style="fill:#aaaafe;fill-opacity:1;stroke-width:.113917;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="rotate(5)"/><ellipse id="ellipse1015" cx="363.38" cy="887.571" rx="9.175" ry="12.572" style="fill:#aaaafe;fill-opacity:1;stroke-width:.113917;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="rotate(15)"/><ellipse id="ellipse1017" cx="-178.608" cy="937.081" rx="9.175" ry="12.572" style="fill:#aaaafe;fill-opacity:1;stroke-width:.113917;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="rotate(-15)"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect999" y="860,362"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path1003" d="M96 1007.143v6.668h15.418a3.327 3.327 0 0 0 3.334-3.334 3.327 3.327 0 0 0-3.334-3.334z"
+      style="fill:#aaaafe;fill-opacity:1;stroke-width:.107713;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="path1005"
+      d="M80.582 1007.143H96v6.668H80.582a3.327 3.327 0 0 1-3.334-3.334 3.327 3.327 0 0 1 3.334-3.334z"
+      style="fill:#fe827c;fill-opacity:1;stroke-width:.107713;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <g id="g844" transform="translate(.355 .774)">
+      <path id="path1020"
+        d="M96 949.669c-8.658.373-11.63 10.873-20.146 17.738-5.589 4.505-8.383 5.066-9.188 11.484 0 7.568 6.135 13.703 13.703 13.704 6.162 0 11.29-1.889 15.631-2.045 4.34.156 9.469 2.045 15.63 2.045 7.569 0 13.704-6.136 13.704-13.704-.805-6.418-3.6-6.979-9.188-11.484-8.515-6.865-11.488-17.365-20.146-17.738z"
+        style="opacity:1;fill:#aaaafe;fill-opacity:1;stroke-width:.21;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+      <ellipse id="ellipse1009" cx="3.624" cy="935.005" rx="9.175" ry="12.572"
+        style="fill:#aaaafe;fill-opacity:1;stroke-width:.113917;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"
+        transform="rotate(-5)" />
+      <ellipse id="ellipse1011" cx="186.939" cy="918.333" rx="9.175" ry="12.572"
+        style="fill:#aaaafe;fill-opacity:1;stroke-width:.113917;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"
+        transform="rotate(5)" />
+      <ellipse id="ellipse1015" cx="363.38" cy="887.571" rx="9.175" ry="12.572"
+        style="fill:#aaaafe;fill-opacity:1;stroke-width:.113917;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"
+        transform="rotate(15)" />
+      <ellipse id="ellipse1017" cx="-178.608" cy="937.081" rx="9.175" ry="12.572"
+        style="fill:#aaaafe;fill-opacity:1;stroke-width:.113917;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"
+        transform="rotate(-15)" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

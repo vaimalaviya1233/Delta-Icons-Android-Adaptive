@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath1549" clipPathUnits="userSpaceOnUse"><rect id="rect1551" width="240" height="240" x="-24" y="836.362" rx="15.686" ry="15.686" style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.56863;stroke-opacity:1"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1282" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993466;stroke-opacity:1"/><text xml:space="preserve" id="text441" x="33.64" y="964.101" style="font-weight:700;font-size:21.058px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:3.8px;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.526449"><tspan id="tspan439" x="33.64" y="964.101" style="fill:#fff;fill-opacity:1;stroke-width:.526449">SEPHORA</tspan></text><g id="g1547" clip-path="url(#clipPath1549)" transform="matrix(.63333 0 0 .63333 35.2 350.666)"><rect id="rect1260" width="413" height="47.863" x="-110.323" y="981.181" rx="0" ry="0" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10.8083;stroke-linejoin:round;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/><rect id="rect1262" width="413" height="47.863" x="-110.323" y="883.681" rx="0" ry="0" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10.8083;stroke-linejoin:round;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath1549" clipPathUnits="userSpaceOnUse">
+      <rect id="rect1551" width="240" height="240" x="-24" y="836.362" rx="15.686" ry="15.686"
+        style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.56863;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1282" width="100%" height="100%"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993466;stroke-opacity:1" /><text
+      xml:space="preserve" id="text441" x="33.64" y="964.101"
+      style="font-weight:700;font-size:21.058px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:3.8px;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.526449">
+      <tspan id="tspan439" x="33.64" y="964.101" style="fill:#fff;fill-opacity:1;stroke-width:.526449">SEPHORA</tspan>
+    </text>
+    <g id="g1547" clip-path="url(#clipPath1549)" transform="matrix(.63333 0 0 .63333 35.2 350.666)">
+      <rect id="rect1260" width="413" height="47.863" x="-110.323" y="981.181" rx="0" ry="0"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10.8083;stroke-linejoin:round;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+      <rect id="rect1262" width="413" height="47.863" x="-110.323" y="883.681" rx="0" ry="0"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10.8083;stroke-linejoin:round;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

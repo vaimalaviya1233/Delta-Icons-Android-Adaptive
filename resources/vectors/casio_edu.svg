@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192"><path d="M164.5 21.5c0-5.519-4.481-10-10-10h-133c-5.519 0-10 4.481-10 10v133c0 5.519 4.481 10 10 10h133c5.519 0 10-4.481 10-10v-133Z" style="fill:#fff" transform="translate(8 8)"/><path d="M172.5 141.203V162.5c0 2.726-1.093 5.2-2.865 7.004l-.131.131a9.966 9.966 0 0 1-7.004 2.865h-21.297l31.297-31.297Z" style="fill:#96dfd3"/><path d="M172.5 90.333v25.435L115.768 172.5H90.333L172.5 90.333Z" style="fill:#728dbe"/><path d="M172.5 141.203 141.203 172.5h-25.435l56.732-56.732v25.435Z" style="fill:#9abeff"/><text x="29.5" y="108.243" style="font-family:&quot;CascadiaMono-Regular&quot;,&quot;Cascadia Mono&quot;,monospace;font-size:57.225px;fill:#9abeff" transform="matrix(1.0792 0 0 1 -2.744 0)">E<tspan x="64.461px 99.422px" y="108.243px 108.243px">DU</tspan></text><text x="150.334" y="87.936" style="font-family:&quot;CascadiaMono-Regular&quot;,&quot;Cascadia Mono&quot;,monospace;font-size:48px;fill:#9abeff" transform="translate(-7.513 -3.794)">+</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" style="fill:#fff" />
+  <path
+    d="M172.5 141.203V162.5c0 2.726-1.093 5.2-2.865 7.004l-.131.131a9.966 9.966 0 0 1-7.004 2.865h-21.297l31.297-31.297Z"
+    style="fill:#96dfd3" />
+  <path d="M172.5 90.333v25.435L115.768 172.5H90.333L172.5 90.333Z" style="fill:#728dbe" />
+  <path d="M172.5 141.203 141.203 172.5h-25.435l56.732-56.732v25.435Z" style="fill:#9abeff" /><text x="29.5" y="108.243"
+    style="font-family:&quot;CascadiaMono-Regular&quot;,&quot;Cascadia Mono&quot;,monospace;font-size:57.225px;fill:#9abeff"
+    transform="matrix(1.0792 0 0 1 -2.744 0)">E<tspan x="64.461px 99.422px" y="108.243px 108.243px">DU</tspan>
+  </text><text x="150.334" y="87.936"
+    style="font-family:&quot;CascadiaMono-Regular&quot;,&quot;Cascadia Mono&quot;,monospace;font-size:48px;fill:#9abeff"
+    transform="translate(-7.513 -3.794)">+</text>
+</svg>

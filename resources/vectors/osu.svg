@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle1262" cx="96" cy="956.362" r="88" style="fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999999;stroke-opacity:1"/><text xml:space="preserve" id="text1266" x="43.958" y="969.613" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:52.701px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.31752"><tspan id="tspan1264" x="43.958" y="969.613" style="fill:#fff;fill-opacity:1;stroke-width:1.31752">osu!</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle1262" y="860,362"
+      style="fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999999;stroke-opacity:1" /><text
+      xml:space="preserve" id="text1266" x="43.958" y="969.613"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:52.701px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.31752">
+      <tspan id="tspan1264" x="43.958" y="969.613" style="fill:#fff;fill-opacity:1;stroke-width:1.31752">osu!</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

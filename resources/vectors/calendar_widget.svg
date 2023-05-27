@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" fill="#bd9aff" class="a" rx="10"/><rect width="68.985" height="18.427" x="61.508" y="78.601" fill="#fff" rx="3.78"/><rect width="68.985" height="18.427" x="61.508" y="103.57" fill="#d2d2d2" rx="3.78"/><rect width="68.985" height="43.47" x="61.508" y="128.53" fill="#a0a5af" rx="3.78"/><circle cx="120.29" cy="87.776" r="4.764" fill="#bd9aff"/><circle cx="120.29" cy="112.78" r="4.764" fill="#fff"/><circle cx="120.29" cy="137.78" r="4.764" fill="#fff"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" class="a" %%" fill="#bd9aff" />
+  <rect width="68.985" height="18.427" x="61.508" y="78.601" fill="#fff" rx="3.78" />
+  <rect width="68.985" height="18.427" x="61.508" y="103.57" fill="#d2d2d2" rx="3.78" />
+  <rect width="68.985" height="43.47" x="61.508" y="128.53" fill="#a0a5af" rx="3.78" />
+  <circle cx="120.29" cy="87.776" r="4.764" fill="#bd9aff" />
+  <circle cx="120.29" cy="112.78" r="4.764" fill="#fff" />
+  <circle cx="120.29" cy="137.78" r="4.764" fill="#fff" />
+</svg>

@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1012" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g998" style="fill:#ff837d;fill-opacity:1" transform="translate(-284.676 -9.476)"><path id="path992" d="m344.443 934.208-11.245 22.473c-6.163 12.352-11.121 22.41-10.997 22.393.124-.053 5.188-2.975 11.245-6.49l11.024-6.402.78.425c.424.23 5.436 3.125 11.094 6.42 5.693 3.275 10.342 5.887 10.395 5.79.08-.177-17.134-34.692-20.658-41.466zm.027 21.109 2.063 4.153 2.063 4.153-.655.38c-.354.222-1.284.753-2.037 1.205l-1.38.779-2.01-1.16-2.09-1.204a48.496 48.496 0 0 1 1.983-4.18z" style="fill:#ff837d;fill-opacity:1;stroke-width:.0885459"/><path id="path994" d="M386.131 979.074c8.668 0 16.17-4.88 19.884-12.018l-8.303-4.297c-2.112 4.151-6.41 6.92-11.58 6.92-7.357 0-12.965-5.682-12.965-13.038s5.608-13.037 12.964-13.037c5.172 0 9.469 2.767 11.58 6.919l8.304-4.297a22.372 22.372 0 0 0-19.884-12.018c-12.381 0-22.433 10.051-22.433 22.433s10.052 22.433 22.433 22.433z" style="font-weight:700;font-size:58.2671px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke-width:1.45667"/><path id="path996" d="M439.154 934.79h-31.61v8.522h11.071v35.18h9.541v-35.18h10.998z" style="font-weight:700;font-size:58.2671px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke-width:1.45667"/></g><text xml:space="preserve" id="text1002" x="32.105" y="987.993" style="font-weight:700;font-size:12.2825px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:9.75px;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke-width:.307063"><tspan id="tspan1000" x="32.105" y="987.993" style="fill:#ff837d;fill-opacity:1;stroke-width:.307063">FIBERNET</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect1012" y="860,362"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g998" style="fill:#ff837d;fill-opacity:1" transform="translate(-284.676 -9.476)">
+      <path id="path992"
+        d="m344.443 934.208-11.245 22.473c-6.163 12.352-11.121 22.41-10.997 22.393.124-.053 5.188-2.975 11.245-6.49l11.024-6.402.78.425c.424.23 5.436 3.125 11.094 6.42 5.693 3.275 10.342 5.887 10.395 5.79.08-.177-17.134-34.692-20.658-41.466zm.027 21.109 2.063 4.153 2.063 4.153-.655.38c-.354.222-1.284.753-2.037 1.205l-1.38.779-2.01-1.16-2.09-1.204a48.496 48.496 0 0 1 1.983-4.18z"
+        style="fill:#ff837d;fill-opacity:1;stroke-width:.0885459" />
+      <path id="path994"
+        d="M386.131 979.074c8.668 0 16.17-4.88 19.884-12.018l-8.303-4.297c-2.112 4.151-6.41 6.92-11.58 6.92-7.357 0-12.965-5.682-12.965-13.038s5.608-13.037 12.964-13.037c5.172 0 9.469 2.767 11.58 6.919l8.304-4.297a22.372 22.372 0 0 0-19.884-12.018c-12.381 0-22.433 10.051-22.433 22.433s10.052 22.433 22.433 22.433z"
+        style="font-weight:700;font-size:58.2671px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke-width:1.45667" />
+      <path id="path996" d="M439.154 934.79h-31.61v8.522h11.071v35.18h9.541v-35.18h10.998z"
+        style="font-weight:700;font-size:58.2671px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke-width:1.45667" />
+    </g><text xml:space="preserve" id="text1002" x="32.105" y="987.993"
+      style="font-weight:700;font-size:12.2825px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:9.75px;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke-width:.307063">
+      <tspan id="tspan1000" x="32.105" y="987.993" style="fill:#ff837d;fill-opacity:1;stroke-width:.307063">FIBERNET
+      </tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

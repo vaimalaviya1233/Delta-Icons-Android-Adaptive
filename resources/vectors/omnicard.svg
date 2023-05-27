@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect8753" width="128" height="176" x="892.362" y="-184" rx="10.079" ry="10.057" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00679;stroke-opacity:1" transform="rotate(90)"/><g id="g8759"><rect id="rect8755" width="23.409" height="58.494" x="365.137" y="954.919" rx="2" ry="2" style="opacity:1;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke-width:1.99516;stroke-dashoffset:6;stop-color:#000" transform="skewX(-15.573) scale(1 .96329)"/><rect id="rect8757" width="23.409" height="58.494" x="386.518" y="972.207" rx="2" ry="2" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.99516;stroke-dashoffset:6;stop-color:#000" transform="skewX(-15.573) scale(1 .96329)"/></g><rect id="rect8761" width="20.533" height="25" x="-957.883" y="24.216" rx="2.883" ry="2.883" style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke-width:2.17215;stroke-dashoffset:6;stop-color:#000" transform="rotate(-90)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect8753" width="128" height="176" x="892.362" y="-184" ry="10.057"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00679;stroke-opacity:1"
+      transform="rotate(90)" />
+    <g id="g8759">
+      <rect id="rect8755" width="23.409" height="58.494" x="365.137" y="954.919" rx="2" ry="2"
+        style="opacity:1;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke-width:1.99516;stroke-dashoffset:6;stop-color:#000"
+        transform="skewX(-15.573) scale(1 .96329)" />
+      <rect id="rect8757" width="23.409" height="58.494" x="386.518" y="972.207" rx="2" ry="2"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.99516;stroke-dashoffset:6;stop-color:#000"
+        transform="skewX(-15.573) scale(1 .96329)" />
+    </g>
+    <rect id="rect8761" width="20.533" height="25" x="-957.883" y="24.216" rx="2.883" ry="2.883"
+      style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke-width:2.17215;stroke-dashoffset:6;stop-color:#000"
+      transform="rotate(-90)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#fff" rx="9.935"/><path fill="#728dbe" d="M80.634 58.198h30.737v75.606H80.634z" class="b"/><path fill="#728dbe" d="M80.876 82.719h-3.065L61.465 66.373h19.41" class="b"/><circle cx="24" cy="13.501" r="4" fill="#ff837d" class="b" transform="translate(46.959 46.959) scale(2.0434)"/><circle cx="24" cy="24" r="4" fill="#f9de81" class="b" transform="translate(46.959 46.959) scale(2.0434)"/><circle cx="24" cy="34.499" r="4" fill="#98dc9a" class="b" transform="translate(46.959 46.959) scale(2.0434)"/><path fill="#728dbe" d="M80.876 104.17h-3.065L61.465 87.824h19.41M80.876 125.63h-3.065l-16.346-16.346h19.41M111.12 82.719h3.065l16.346-16.346h-19.41M111.12 104.17h3.065l16.346-16.346h-19.41M111.12 125.63h3.065l16.346-16.346h-19.41M80.876 82.719h-3.065L61.465 66.373h19.41" class="b"/><path fill="#728dbe" d="M80.876 104.17h-3.065L61.465 87.824h19.41M80.876 125.63h-3.065l-16.346-16.346h19.41M111.12 82.719h3.065l16.346-16.346h-19.41M111.12 104.17h3.065l16.346-16.346h-19.41M111.12 125.63h3.065l16.346-16.346h-19.41" class="b"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" />
+  <path fill="#728dbe" d="M80.634 58.198h30.737v75.606H80.634z" class="b" />
+  <path fill="#728dbe" d="M80.876 82.719h-3.065L61.465 66.373h19.41" class="b" />
+  <circle cx="24" cy="13.501" r="4" fill="#ff837d" class="b" transform="translate(46.959 46.959) scale(2.0434)" />
+  <circle cx="24" cy="24" r="4" fill="#f9de81" class="b" transform="translate(46.959 46.959) scale(2.0434)" />
+  <circle cx="24" cy="34.499" r="4" fill="#98dc9a" class="b" transform="translate(46.959 46.959) scale(2.0434)" />
+  <path fill="#728dbe"
+    d="M80.876 104.17h-3.065L61.465 87.824h19.41M80.876 125.63h-3.065l-16.346-16.346h19.41M111.12 82.719h3.065l16.346-16.346h-19.41M111.12 104.17h3.065l16.346-16.346h-19.41M111.12 125.63h3.065l16.346-16.346h-19.41M80.876 82.719h-3.065L61.465 66.373h19.41"
+    class="b" />
+  <path fill="#728dbe"
+    d="M80.876 104.17h-3.065L61.465 87.824h19.41M80.876 125.63h-3.065l-16.346-16.346h19.41M111.12 82.719h3.065l16.346-16.346h-19.41M111.12 104.17h3.065l16.346-16.346h-19.41M111.12 125.63h3.065l16.346-16.346h-19.41"
+    class="b" />
+</svg>

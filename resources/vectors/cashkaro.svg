@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle923" cx="96" cy="956.362" r="88" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path952" d="M75.012 977.874c8.311 0 15.505-4.68 19.067-11.524l-7.962-4.12c-2.025 3.98-6.146 6.634-11.105 6.634-7.054 0-12.432-5.448-12.432-12.502s5.378-12.502 12.432-12.502c4.959 0 9.08 2.654 11.105 6.635l7.962-4.12a21.453 21.453 0 0 0-19.067-11.525c-11.874 0-21.512 9.639-21.512 21.512 0 11.874 9.638 21.512 21.512 21.512z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:55.8752px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f8c18c;fill-opacity:1;stroke-width:1.39688"/><path id="path954" d="M126.207 977.315H138.5l-20.185-23.258 18.09-18.648H124.53l-13.69 14.807h-1.606v-14.807h-9.219v41.906h9.22v-19.137h1.326z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:55.8752px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.39688"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle923" y="860,362"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path952"
+      d="M75.012 977.874c8.311 0 15.505-4.68 19.067-11.524l-7.962-4.12c-2.025 3.98-6.146 6.634-11.105 6.634-7.054 0-12.432-5.448-12.432-12.502s5.378-12.502 12.432-12.502c4.959 0 9.08 2.654 11.105 6.635l7.962-4.12a21.453 21.453 0 0 0-19.067-11.525c-11.874 0-21.512 9.639-21.512 21.512 0 11.874 9.638 21.512 21.512 21.512z"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:55.8752px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f8c18c;fill-opacity:1;stroke-width:1.39688" />
+    <path id="path954"
+      d="M126.207 977.315H138.5l-20.185-23.258 18.09-18.648H124.53l-13.69 14.807h-1.606v-14.807h-9.219v41.906h9.22v-19.137h1.326z"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:55.8752px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.39688" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

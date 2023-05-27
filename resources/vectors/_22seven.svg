@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" fill="#fff" class="a" rx="10"/><circle cx="74.35" cy="96" r="14.507" fill="none" stroke="#9abeff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.639"/><circle cx="117.72" cy="96" r="14.507" fill="none" stroke="#ff837d" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.639"/><path fill="none" stroke="#f8c18c" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.066" d="M50.635 95.834h6.391"/><path fill="none" stroke="#98dc9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.366" d="M89.982 92.73c3.67-3.465 7.688-3.408 12.035 0"/><path fill="none" stroke="#f9de81" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.066" d="M134.97 95.834h6.391"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" class="a" %%" fill="#fff" />
+  <circle cx="74.35" cy="96" r="14.507" fill="none" stroke="#9abeff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="5.639" />
+  <circle cx="117.72" cy="96" r="14.507" fill="none" stroke="#ff837d" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="5.639" />
+  <path fill="none" stroke="#f8c18c" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.066"
+    d="M50.635 95.834h6.391" />
+  <path fill="none" stroke="#98dc9a" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.366"
+    d="M89.982 92.73c3.67-3.465 7.688-3.408 12.035 0" />
+  <path fill="none" stroke="#f9de81" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.066"
+    d="M134.97 95.834h6.391" />
+</svg>

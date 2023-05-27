@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg867" version="1.1" viewBox="0 0 192 192"><defs id="defs855"><style id="style853">.a{isolation:isolate;opacity:.63;fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}</style></defs><rect id="rect857" width="152" height="152" x="20" y="20" class="a" rx="10" style="fill:#ff837d;stroke:none;opacity:1;fill-opacity:1"/><g id="g1130" style="fill:#fff;stroke:none" transform="translate(-67.575 47.795) scale(1.02564)"><path id="path1018" d="M133.83 10.925v37.366a15.282 15.282 0 0 0 15.282 15.282h7.418V10.925Z" class="a" style="opacity:1;fill:#fff;stroke:none;stroke-width:1.85"/><path id="path1020" d="M185.14 10.925h-21.936v72.15" class="a" style="opacity:1;fill:#fff;stroke:none;stroke-width:1.85"/><path id="path1022" d="M163.2 83.075h10.239a11.7 11.7 0 0 0 11.7-11.7v-60.45" class="a" style="opacity:1;fill:#fff;stroke:none;stroke-width:1.85"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg867" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs855">
+    <style id="style853">
+      .a {
+        isolation: isolate;
+        opacity: .63;
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round
+      }
+    </style>
+  </defs>
+  <rect id="rect857" width="100%" height="100%" class=" a" style="fill:#ff837d;stroke:none;opacity:1;fill-opacity:1" />
+  <g id="g1130" style="fill:#fff;stroke:none" transform="translate(-67.575 47.795) scale(1.02564)">
+    <path id="path1018" d="M133.83 10.925v37.366a15.282 15.282 0 0 0 15.282 15.282h7.418V10.925Z" class="a"
+      style="opacity:1;fill:#fff;stroke:none;stroke-width:1.85" />
+    <path id="path1020" d="M185.14 10.925h-21.936v72.15" class="a"
+      style="opacity:1;fill:#fff;stroke:none;stroke-width:1.85" />
+    <path id="path1022" d="M163.2 83.075h10.239a11.7 11.7 0 0 0 11.7-11.7v-60.45" class="a"
+      style="opacity:1;fill:#fff;stroke:none;stroke-width:1.85" />
+  </g>
+</svg>

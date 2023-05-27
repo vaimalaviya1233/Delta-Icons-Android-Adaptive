@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect921" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path927" d="M59.5 976.887h10.673c11.357 0 20.525-9.168 20.525-20.525s-9.168-20.525-20.525-20.525H59.5Zm3.284-3.284v-34.482h7.32c9.647 0 17.31 7.458 17.31 17.241 0 9.784-7.663 17.241-17.31 17.241z" style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:54.7329px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Light&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.36832;fill:#969696;fill-opacity:1"/><path id="path929" d="M129.216 935.837v35.235l-26.545-35.235h-2.874v41.05h3.284v-35.234l26.546 35.234h2.873v-41.05z" style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:54.7329px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Light&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.36832;fill:#545859;fill-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect921" y="860,362"
+      style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path927"
+      d="M59.5 976.887h10.673c11.357 0 20.525-9.168 20.525-20.525s-9.168-20.525-20.525-20.525H59.5Zm3.284-3.284v-34.482h7.32c9.647 0 17.31 7.458 17.31 17.241 0 9.784-7.663 17.241-17.31 17.241z"
+      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:54.7329px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Light&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.36832;fill:#969696;fill-opacity:1" />
+    <path id="path929" d="M129.216 935.837v35.235l-26.545-35.235h-2.874v41.05h3.284v-35.234l26.546 35.234h2.873v-41.05z"
+      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:54.7329px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Light&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.36832;fill:#545859;fill-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

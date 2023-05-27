@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_1" x="0" y="0" style="enable-background:new 0 0 192 192" version="1.1" viewBox="0 0 192 192"><defs id="defs15"><clipPath id="clipPath854" clipPathUnits="userSpaceOnUse"><circle id="circle856" cx="96" cy="96" r="88" style="fill:red;stroke:none;stroke-width:.79638;stroke-linecap:round;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/></clipPath></defs><style id="style2" type="text/css">.st0{fill:#fff}.st1{fill:#64ffff}</style><circle id="path850" cx="96" cy="96" r="88" style="fill:#56595b;stroke:none;stroke-width:.79638;stroke-linecap:round;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000;fill-opacity:1"/><path id="path840" d="M99.096 58.104c-9.893-.069-20 3.247-27.95 8.816-11.443 6.699-17.666 21.661-11.97 34.096 3.965 10.89 14.73 16.812 25.396 19.543 8.95 3.76 20.773 3.284 26.961 11.82 7.306 14.391 14.046 29.163 21.324 43.588a88.327 88.327 0 0 0 16.922-10.25c-4.251-7.486-8.216-14.93-12.776-24.338-4.56-9.408-10.735-23.893-7.495-36.766 4.755-13.434 2.925-30.359-8.838-39.677-6.316-4.678-13.88-6.78-21.574-6.832z" clip-path="url(#clipPath854)" style="fill:#fff;fill-opacity:1;stroke-width:.999859"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_1" x="0" y="0"
+  style="enable-background:new 0 0 192 192" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs15">
+    <clipPath id="clipPath854" clipPathUnits="userSpaceOnUse">
+      <rect width="100%" height="100%" id="circle856"
+        style="fill:red;stroke:none;stroke-width:.79638;stroke-linecap:round;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+    </clipPath>
+  </defs>
+  <style id="style2" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+
+    .st1 {
+      fill: #64ffff
+    }
+  </style>
+  <rect width="100%" height="100%" id="path850"
+    style="fill:#56595b;stroke:none;stroke-width:.79638;stroke-linecap:round;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000;fill-opacity:1" />
+  <path id="path840"
+    d="M99.096 58.104c-9.893-.069-20 3.247-27.95 8.816-11.443 6.699-17.666 21.661-11.97 34.096 3.965 10.89 14.73 16.812 25.396 19.543 8.95 3.76 20.773 3.284 26.961 11.82 7.306 14.391 14.046 29.163 21.324 43.588a88.327 88.327 0 0 0 16.922-10.25c-4.251-7.486-8.216-14.93-12.776-24.338-4.56-9.408-10.735-23.893-7.495-36.766 4.755-13.434 2.925-30.359-8.838-39.677-6.316-4.678-13.88-6.78-21.574-6.832z"
+    clip-path="url(#clipPath854)" style="fill:#fff;fill-opacity:1;stroke-width:.999859" />
+</svg>

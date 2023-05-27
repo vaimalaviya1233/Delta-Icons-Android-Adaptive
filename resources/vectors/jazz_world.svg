@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><defs><clipPath id="a"><rect width="153" height="153" x="19.5" y="19.5" rx="10" style="fill:none"/></clipPath></defs><g style="clip-path:url(#a)"><rect width="153" height="153" x="19.5" y="19.5" rx="10" style="fill:#56595b"/><circle cx="96" cy="96" r="45.5" style="fill:#ff837d"/><text style="font-size:68.02828979492188px;fill:#f9de81;font-family:Now-Black,Now;font-weight:800" transform="rotate(-18.2 442.018 -78.716)">J</text><text style="font-size:57.634185791015625px;fill:#f9de81;font-family:Now-Black,Now;font-weight:800" transform="rotate(-15.33 501.171 -212.718)">a</text><text style="font-size:65.89208221435547px;fill:#f9de81;font-family:Now-Black,Now;font-weight:800" transform="rotate(-16.12 444.36 -306.136)">z</text><text style="font-size:65.89208221435547px;fill:#f9de81;font-family:Now-Black,Now;font-weight:800" transform="rotate(-16.12 414.162 -392.242)">z</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <clipPath id="a">
+      <rect width="100%" height="100%" style="fill:none" />
+    </clipPath>
+  </defs>
+  <g style="clip-path:url(#a)">
+    <rect width="100%" height="100%" style="fill:#56595b" />
+    <circle cx="96" cy="96" r="45.5" style="fill:#ff837d" /><text
+      style="font-size:68.02828979492188px;fill:#f9de81;font-family:Now-Black,Now;font-weight:800"
+      transform="rotate(-18.2 442.018 -78.716)">J</text><text
+      style="font-size:57.634185791015625px;fill:#f9de81;font-family:Now-Black,Now;font-weight:800"
+      transform="rotate(-15.33 501.171 -212.718)">a</text><text
+      style="font-size:65.89208221435547px;fill:#f9de81;font-family:Now-Black,Now;font-weight:800"
+      transform="rotate(-16.12 444.36 -306.136)">z</text><text
+      style="font-size:65.89208221435547px;fill:#f9de81;font-family:Now-Black,Now;font-weight:800"
+      transform="rotate(-16.12 414.162 -392.242)">z</text>
+  </g>
+</svg>

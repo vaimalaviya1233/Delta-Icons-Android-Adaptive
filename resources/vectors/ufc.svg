@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect921" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g961" style="fill:#fff;fill-opacity:1" transform="matrix(.72645 0 0 .72645 26.261 261.617)"><path id="path927" d="M48.441 980.032c10.913 0 20.596-6.686 22.286-15.37l6.302-31.355H66.885l-5.918 29.434c-.922 4.687-5.533 8.3-10.682 8.3-5.072 0-8.3-3.613-7.377-8.3l5.917-29.434H38.681l-6.301 31.355c-1.691 8.684 5.302 15.37 16.061 15.37z" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:61.4792px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.53698;fill:#fff;fill-opacity:1"/><path id="path944" d="M107.768 951.905H82.53l-5.502 27.512h10.145l3.687-18.598h15.063z" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:61.4792px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.53698;fill:#fff;fill-opacity:1"/><path id="path942" d="m86.25 933.307-1.783 8.915h27.76l1.767-8.915z" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:61.4792px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.53698;fill:#fff;fill-opacity:1"/><path id="path931" d="M131.899 980.032c9.145 0 18.136-5.15 23.516-12.68l-7.839-4.535c-3.074 4.38-8.223 7.301-13.679 7.301-7.762 0-12.45-5.994-10.913-13.756 1.537-7.762 8.684-13.756 16.446-13.756 5.456 0 9.376 2.92 10.759 7.3l9.683-4.533c-2.46-7.531-9.299-12.68-18.444-12.68-13.064 0-25.821 10.605-28.434 23.67-2.613 13.063 5.84 23.669 18.905 23.669z" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:61.4792px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.53698;fill:#fff;fill-opacity:1"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect921" y="860,362"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g961" style="fill:#fff;fill-opacity:1" transform="matrix(.72645 0 0 .72645 26.261 261.617)">
+      <path id="path927"
+        d="M48.441 980.032c10.913 0 20.596-6.686 22.286-15.37l6.302-31.355H66.885l-5.918 29.434c-.922 4.687-5.533 8.3-10.682 8.3-5.072 0-8.3-3.613-7.377-8.3l5.917-29.434H38.681l-6.301 31.355c-1.691 8.684 5.302 15.37 16.061 15.37z"
+        style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:61.4792px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.53698;fill:#fff;fill-opacity:1" />
+      <path id="path944" d="M107.768 951.905H82.53l-5.502 27.512h10.145l3.687-18.598h15.063z"
+        style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:61.4792px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.53698;fill:#fff;fill-opacity:1" />
+      <path id="path942" d="m86.25 933.307-1.783 8.915h27.76l1.767-8.915z"
+        style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:61.4792px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.53698;fill:#fff;fill-opacity:1" />
+      <path id="path931"
+        d="M131.899 980.032c9.145 0 18.136-5.15 23.516-12.68l-7.839-4.535c-3.074 4.38-8.223 7.301-13.679 7.301-7.762 0-12.45-5.994-10.913-13.756 1.537-7.762 8.684-13.756 16.446-13.756 5.456 0 9.376 2.92 10.759 7.3l9.683-4.533c-2.46-7.531-9.299-12.68-18.444-12.68-13.064 0-25.821 10.605-28.434 23.67-2.613 13.063 5.84 23.669 18.905 23.669z"
+        style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:61.4792px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;stroke-width:1.53698;fill:#fff;fill-opacity:1" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

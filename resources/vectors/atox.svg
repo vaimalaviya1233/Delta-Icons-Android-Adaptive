@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" rx="9.935" style="fill:#728dbe;stroke-width:3.97386"/><path d="M96 52.288A23.791 23.791 0 0 0 72.157 76.13v7.947h-3.974a7.93 7.93 0 0 0-7.948 7.948v39.739a7.93 7.93 0 0 0 7.948 7.947h55.634a7.93 7.93 0 0 0 7.948-7.947V92.026a7.93 7.93 0 0 0-7.948-7.948h-3.974v-7.947A23.791 23.791 0 0 0 96 52.288Z" style="vector-effect:none;fill:#56595b;fill-opacity:1;stroke-width:3.97386;paint-order:stroke fill markers"/><path d="M96 64.21c-6.584 0-11.922 5.337-11.922 11.92 0 6.585 5.338 11.922 11.922 11.922a11.92 11.92 0 0 0 3.694-.597C98.814 93.129 96 96 96 96s11.922-3.974 11.922-19.87c0-6.583-5.338-11.92-11.922-11.92Z" style="vector-effect:none;fill:#ababff;fill-opacity:1;stroke-width:3.97386;paint-order:stroke fill markers"/><circle cx="96" cy="107.922" r="7.948" style="vector-effect:none;fill:#ababff;fill-opacity:1;stroke-width:3.97386;paint-order:stroke fill markers"/><path d="M96 111.895c11.922 0 11.922 11.922 11.922 11.922v3.974s0 3.974-3.974 3.974H88.052c-3.974 0-3.974-3.974-3.974-3.974v-3.974s0-11.922 11.922-11.922z" style="fill:#ababff;stroke-width:3.97386"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" rx="9.935" style="fill:#728dbe;stroke-width:3.97386" />
+  <path
+    d="M96 52.288A23.791 23.791 0 0 0 72.157 76.13v7.947h-3.974a7.93 7.93 0 0 0-7.948 7.948v39.739a7.93 7.93 0 0 0 7.948 7.947h55.634a7.93 7.93 0 0 0 7.948-7.947V92.026a7.93 7.93 0 0 0-7.948-7.948h-3.974v-7.947A23.791 23.791 0 0 0 96 52.288Z"
+    style="vector-effect:none;fill:#56595b;fill-opacity:1;stroke-width:3.97386;paint-order:stroke fill markers" />
+  <path
+    d="M96 64.21c-6.584 0-11.922 5.337-11.922 11.92 0 6.585 5.338 11.922 11.922 11.922a11.92 11.92 0 0 0 3.694-.597C98.814 93.129 96 96 96 96s11.922-3.974 11.922-19.87c0-6.583-5.338-11.92-11.922-11.92Z"
+    style="vector-effect:none;fill:#ababff;fill-opacity:1;stroke-width:3.97386;paint-order:stroke fill markers" />
+  <circle cx="96" cy="107.922" r="7.948"
+    style="vector-effect:none;fill:#ababff;fill-opacity:1;stroke-width:3.97386;paint-order:stroke fill markers" />
+  <path
+    d="M96 111.895c11.922 0 11.922 11.922 11.922 11.922v3.974s0 3.974-3.974 3.974H88.052c-3.974 0-3.974-3.974-3.974-3.974v-3.974s0-11.922 11.922-11.922z"
+    style="fill:#ababff;stroke-width:3.97386" />
+</svg>

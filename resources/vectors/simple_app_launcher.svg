@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><g style="display:inline" transform="translate(0 -860.362)"><circle cx="96" cy="956.362" r="88" style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:9.99998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><g transform="translate(-169.914 205.66)"><circle cx="265.914" cy="750.702" r="10.504" style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><circle cx="265.914" cy="724.706" r="10.504" style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><circle cx="265.914" cy="776.699" r="10.504" style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><circle cx="-776.699" cy="239.918" r="10.504" style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="rotate(-90)"/><circle cx="-776.699" cy="291.911" r="10.504" style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="rotate(-90)"/><circle cx="-750.702" cy="291.911" r="10.504" style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="rotate(-90)"/><circle cx="-724.706" cy="291.911" r="10.504" style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="rotate(-90)"/><circle cx="-724.706" cy="239.918" r="10.504" style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="rotate(-90)"/><circle cx="-750.707" cy="239.918" r="10.504" style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="rotate(-90)"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <g style="display:inline" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" y="860.362"
+      style="fill:#f7c18c;fill-opacity:1;stroke:none;stroke-width:9.99998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g transform="translate(-169.914 205.66)">
+      <circle cx="265.914" cy="750.702" r="10.504"
+        style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+      <circle cx="265.914" cy="724.706" r="10.504"
+        style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+      <circle cx="265.914" cy="776.699" r="10.504"
+        style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+      <circle cx="-776.699" cy="239.918" r="10.504"
+        style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+        transform="rotate(-90)" />
+      <circle cx="-776.699" cy="291.911" r="10.504"
+        style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+        transform="rotate(-90)" />
+      <circle cx="-750.702" cy="291.911" r="10.504"
+        style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+        transform="rotate(-90)" />
+      <circle cx="-724.706" cy="291.911" r="10.504"
+        style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+        transform="rotate(-90)" />
+      <circle cx="-724.706" cy="239.918" r="10.504"
+        style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+        transform="rotate(-90)" />
+      <circle cx="-750.707" cy="239.918" r="10.504"
+        style="opacity:1;fill:#fff;fill-rule:evenodd;stroke:none;stroke-width:11.7597;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+        transform="rotate(-90)" />
+    </g>
+  </g>
+</svg>

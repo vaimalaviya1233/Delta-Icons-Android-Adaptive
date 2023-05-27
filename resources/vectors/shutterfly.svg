@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" fill="#ff837d" class="a" rx="10"/><text xml:space="preserve" x="47.968" y="102.62" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".572" font-family="Now" font-size="21.353"><tspan x="47.968" y="102.62">Shutterfly</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" class="a" %%" fill="#ff837d" /><text xml:space="preserve" x="47.968" y="102.62"
+    fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".572" font-family="Now" font-size="21.353">
+    <tspan x="47.968" y="102.62">Shutterfly</tspan>
+  </text>
+</svg>

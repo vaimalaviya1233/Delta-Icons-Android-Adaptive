@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><g transform="translate(0 -860.362)"><rect width="152" height="152" x="20" y="880.362" rx="9.935" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464"/><circle cx="114.459" cy="953.271" r="5.627" style="fill:#98dc9a;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/><circle cx="59.164" cy="959.454" r="5.627" style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/><circle cx="96" cy="959.454" r="5.627" style="fill:#9abeff;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/><circle cx="132.836" cy="959.454" r="5.627" style="fill:#bd9aff;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/><circle cx="77.669" cy="953.271" r="5.627" style="fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/><circle cx="114.459" cy="953.271" r="5.627" style="fill:#97db99;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/><circle cx="59.164" cy="959.454" r="5.627" style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/><circle cx="96" cy="959.454" r="5.627" style="fill:#99bdfe;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/><circle cx="132.836" cy="959.454" r="5.627" style="fill:#bd9aff;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/><circle cx="77.669" cy="953.271" r="5.627" style="fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <g transform="translate(0 -860.362)">
+    <rect rect height="100%" width="100%" y="860.362"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464" />
+    <circle cx="114.459" cy="953.271" r="5.627"
+      style="fill:#98dc9a;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+    <circle cx="59.164" cy="959.454" r="5.627"
+      style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+    <circle cx="96" cy="959.454" r="5.627"
+      style="fill:#9abeff;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+    <circle cx="132.836" cy="959.454" r="5.627"
+      style="fill:#bd9aff;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+    <circle cx="77.669" cy="953.271" r="5.627"
+      style="fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+    <circle cx="114.459" cy="953.271" r="5.627"
+      style="fill:#97db99;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+    <circle cx="59.164" cy="959.454" r="5.627"
+      style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+    <circle cx="96" cy="959.454" r="5.627"
+      style="fill:#99bdfe;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+    <circle cx="132.836" cy="959.454" r="5.627"
+      style="fill:#bd9aff;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+    <circle cx="77.669" cy="953.271" r="5.627"
+      style="fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:9.93464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.364706" />
+  </g>
+</svg>

@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect923" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><text xml:space="preserve" id="text927" x="50.702" y="973.217" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:44.945px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#708cbd;fill-opacity:1;stroke-width:1.12362"><tspan id="tspan925" x="50.702" y="973.217" style="fill:#708cbd;fill-opacity:1;stroke-width:1.12362">BCR</tspan></text><path id="path933" d="M77.725 956.137c2.809-1.348 4.888-3.708 5.618-7.247 1.18-5.955-2.64-9.382-8.315-9.382h-14.27l-6.742 33.709H69.58c5.618 0 10.674-3.259 11.854-9.214.786-4.101-.843-6.63-3.708-7.866zm-1.966-6.46c-.394 1.966-2.36 3.651-4.383 3.651h-5.955l1.461-7.247h5.955c2.023 0 3.315 1.573 2.922 3.596zm-5.956 16.966h-7.078l1.46-7.247h7.08c2.078 0 3.314 1.685 2.92 3.652-.393 2.022-2.303 3.595-4.382 3.595z" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:44.945px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#708cbd;fill-opacity:1;stroke-width:1.12362"/><path id="path945" d="M20 939.509v33.707h26.89l6.74-33.707z" style="fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect923" width="100%" height="100%"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" /><text
+      xml:space="preserve" id="text927" x="50.702" y="973.217"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:44.945px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#708cbd;fill-opacity:1;stroke-width:1.12362">
+      <tspan id="tspan925" x="50.702" y="973.217" style="fill:#708cbd;fill-opacity:1;stroke-width:1.12362">BCR</tspan>
+    </text>
+    <path id="path933"
+      d="M77.725 956.137c2.809-1.348 4.888-3.708 5.618-7.247 1.18-5.955-2.64-9.382-8.315-9.382h-14.27l-6.742 33.709H69.58c5.618 0 10.674-3.259 11.854-9.214.786-4.101-.843-6.63-3.708-7.866zm-1.966-6.46c-.394 1.966-2.36 3.651-4.383 3.651h-5.955l1.461-7.247h5.955c2.023 0 3.315 1.573 2.922 3.596zm-5.956 16.966h-7.078l1.46-7.247h7.08c2.078 0 3.314 1.685 2.92 3.652-.393 2.022-2.303 3.595-4.382 3.595z"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:44.945px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#708cbd;fill-opacity:1;stroke-width:1.12362" />
+    <path id="path945" d="M20 939.509v33.707h26.89l6.74-33.707z"
+      style="fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

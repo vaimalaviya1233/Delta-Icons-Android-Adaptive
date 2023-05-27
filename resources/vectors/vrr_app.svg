@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#fff"/><path fill="none" stroke="#98dc9a" stroke-linecap="square" stroke-linejoin="round" stroke-width="7.844" d="M105.61 47.009v0l42.428 24.496v48.991l-42.428 24.496v0M86.389 144.99l-42.428-24.496V71.503l42.428-24.496"/><text xml:space="preserve" x="60.632" y="109.638" fill="#98dc9a" stroke-linecap="square" stroke-linejoin="round" stroke-width="8.183" font-family="Now" font-size="36.368" font-weight="500"><tspan x="60.632" y="109.638">VRR</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" />
+  <path fill="none" stroke="#98dc9a" stroke-linecap="square" stroke-linejoin="round" stroke-width="7.844"
+    d="M105.61 47.009v0l42.428 24.496v48.991l-42.428 24.496v0M86.389 144.99l-42.428-24.496V71.503l42.428-24.496" /><text
+    xml:space="preserve" x="60.632" y="109.638" fill="#98dc9a" stroke-linecap="square" stroke-linejoin="round"
+    stroke-width="8.183" font-family="Now" font-size="36.368" font-weight="500">
+    <tspan x="60.632" y="109.638">VRR</tspan>
+  </text>
+</svg>

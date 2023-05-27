@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle944" cx="96" cy="956.362" r="88" style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path938" d="m110.206 913.862-35.592 49.666h21.44l-13.937 35.334 35.269-49.343h-16.461z" style="fill:#56595b;fill-opacity:1;stroke:none;stroke-width:.645381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle944" y="860,362"
+      style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path938" d="m110.206 913.862-35.592 49.666h21.44l-13.937 35.334 35.269-49.343h-16.461z"
+      style="fill:#56595b;fill-opacity:1;stroke:none;stroke-width:.645381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

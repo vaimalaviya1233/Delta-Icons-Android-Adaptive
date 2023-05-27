@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg6" width="192" height="192" version="1.1"><rect id="rect2" width="152" height="152" x="20" y="20" fill="#fff" stroke-width="0" rx="9.935"/><path id="path4" fill="#f9de81" stroke="#000" stroke-width="3" d="M63.073 95.185v42.807h19.318s-1.714-42.807 13.22-42.807c14.934 0 13.22 42.807 13.22 42.807h19.095V95.185h15.954L95.611 54.477 48.073 95.185z" style="stroke:#56595b;stroke-opacity:1"/><style id="style837" type="text/css">.st0{fill:#56595b;enable-background:new}.st1{fill:#f9de81}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg6" width="192" height="192" version="1.1">
+  <rect id="rect2" width="100%" height="100%" fill=" #fff" stroke-width="0" rx="9.935" />
+  <path id="path4" fill="#f9de81" stroke="#000" stroke-width="3"
+    d="M63.073 95.185v42.807h19.318s-1.714-42.807 13.22-42.807c14.934 0 13.22 42.807 13.22 42.807h19.095V95.185h15.954L95.611 54.477 48.073 95.185z"
+    style="stroke:#56595b;stroke-opacity:1" />
+  <style id="style837" type="text/css">
+    .st0 {
+      fill: #56595b;
+      enable-background: new
+    }
+
+    .st1 {
+      fill: #f9de81
+    }
+  </style>
+</svg>

@@ -1,1 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_1" width="192" height="192" data-name="Layer 1" version="1.1"><defs id="defs4"><style id="style2">.cls-1{fill:#dc505e}.cls-2{fill:#511119}.cls-3{fill:#ffb0ac}</style></defs><g id="g5811"><rect id="rect8" width="153" height="153" x="2.593" y="-246.356" class="cls-1" rx="10" ry="10"/><path id="rect10" d="M12.593-235.856h132v132h-132z" class="cls-2"/><g id="XD" transform="translate(2.593 -246.356)"><path id="polygon12" d="m63.83 74.06 14.4-25.56H67.07l-8.82 19.66-8.82-19.66H38.3l13.65 26.46-14.22 27.54h11.16l9.36-19.71 9.36 19.71h11.7z" class="cls-3"/><path id="path14" d="M120.23 68v13.14s-22.14-1.26-21.78 19.8C98.81 122 111.83 122 118.75 122c5.79 0 12.28-3.13 12.28-3.13V68Zm0 45.54a35.2 35.2 0 0 1-5.49-.27c-3.26-.84-6.39-2.95-6.39-11.61 0-8.1 3.93-10.87 6.58-11.62a17.21 17.21 0 0 1 5.3-.26z" class="cls-3" transform="translate(-19.5 -19.5)"/></g></g><rect id="rect8-3" width="152" height="152" x="20" y="20" class="cls-1" rx="10" ry="10" style="fill:#bd9aff;fill-opacity:1;stroke-width:.993464"/><path id="rect10-6" d="M29.935 30.431h131.137v131.137H29.935z" class="cls-2" style="fill:#8c72bd;fill-opacity:1;stroke-width:.993464"/><g id="XD-7" style="fill:#bd9aff;fill-opacity:1" transform="matrix(.99346 0 0 .99346 20 20)"><path id="polygon12-5" d="m58.25 82.79 9.36 19.71h11.7L63.83 74.06l14.4-25.56H67.07l-8.82 19.66-8.82-19.66H38.3l13.65 26.46-14.22 27.54h11.16z" class="cls-3" style="fill:#bd9aff;fill-opacity:1"/><path id="path14-3" d="M120.23 68v13.14s-22.14-1.26-21.78 19.8C98.81 122 111.83 122 118.75 122c5.79 0 12.28-3.13 12.28-3.13V68Zm0 45.54a35.2 35.2 0 0 1-5.49-.27c-3.26-.84-6.39-2.95-6.39-11.61 0-8.1 3.93-10.87 6.58-11.62a17.21 17.21 0 0 1 5.3-.26z" class="cls-3" style="fill:#bd9aff;fill-opacity:1" transform="translate(-19.5 -19.5)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_1" width="192" height="192" data-name="Layer 1"
+  version="1.1">
+  <defs id="defs4">
+    <style id="style2">
+      .cls-1 {
+        fill: #dc505e
+      }
+
+      .cls-2 {
+        fill: #511119
+      }
+
+      .cls-3 {
+        fill: #ffb0ac
+      }
+    </style>
+  </defs>
+  <g id="g5811">
+    <rect id="rect8" width="153" height="153" x="2.593" y="-246.356" class="cls-1" rx="10" ry="10" />
+    <path id="rect10" d="M12.593-235.856h132v132h-132z" class="cls-2" />
+    <g id="XD" transform="translate(2.593 -246.356)">
+      <path id="polygon12"
+        d="m63.83 74.06 14.4-25.56H67.07l-8.82 19.66-8.82-19.66H38.3l13.65 26.46-14.22 27.54h11.16l9.36-19.71 9.36 19.71h11.7z"
+        class="cls-3" />
+      <path id="path14"
+        d="M120.23 68v13.14s-22.14-1.26-21.78 19.8C98.81 122 111.83 122 118.75 122c5.79 0 12.28-3.13 12.28-3.13V68Zm0 45.54a35.2 35.2 0 0 1-5.49-.27c-3.26-.84-6.39-2.95-6.39-11.61 0-8.1 3.93-10.87 6.58-11.62a17.21 17.21 0 0 1 5.3-.26z"
+        class="cls-3" transform="translate(-19.5 -19.5)" />
+    </g>
+  </g>
+  <rect id="rect8-3" width"100%" height="100%" class=" cls-1"
+    style="fill:#bd9aff;fill-opacity:1;stroke-width:.993464" />
+  <path id="rect10-6" d="M29.935 30.431h131.137v131.137H29.935z" class="cls-2"
+    style="fill:#8c72bd;fill-opacity:1;stroke-width:.993464" />
+  <g id="XD-7" style="fill:#bd9aff;fill-opacity:1" transform="matrix(.99346 0 0 .99346 20 20)">
+    <path id="polygon12-5"
+      d="m58.25 82.79 9.36 19.71h11.7L63.83 74.06l14.4-25.56H67.07l-8.82 19.66-8.82-19.66H38.3l13.65 26.46-14.22 27.54h11.16z"
+      class="cls-3" style="fill:#bd9aff;fill-opacity:1" />
+    <path id="path14-3"
+      d="M120.23 68v13.14s-22.14-1.26-21.78 19.8C98.81 122 111.83 122 118.75 122c5.79 0 12.28-3.13 12.28-3.13V68Zm0 45.54a35.2 35.2 0 0 1-5.49-.27c-3.26-.84-6.39-2.95-6.39-11.61 0-8.1 3.93-10.87 6.58-11.62a17.21 17.21 0 0 1 5.3-.26z"
+      class="cls-3" style="fill:#bd9aff;fill-opacity:1" transform="translate(-19.5 -19.5)" />
+  </g>
+</svg>

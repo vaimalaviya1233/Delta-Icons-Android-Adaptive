@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><path id="rect927" d="M300.958 760.739h75.198v82.278h-75.198z"/></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect967" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><g id="text925" aria-label="B" style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;white-space:pre;shape-inside:url(#rect927);fill:#fff;fill-opacity:1" transform="matrix(2.83333 0 0 2.83333 -797.297 -1254.653)"><path id="path931" d="M321.957 780.16c2.25-1.2 3.7-3.3 3.7-6.45 0-5.3-4-8.35-9.05-8.35H300.681a.37.37 110.338 0 0-.242.652l3.468 2.98v26.368h13.85c5 0 8.9-2.9 8.9-8.2 0-3.65-1.9-5.9-4.7-7zm-2.9-5.75c0 1.75-1.45 3.25-3.25 3.25h-5.3v-6.45h5.3c1.8 0 3.25 1.4 3.25 3.2zm-2.25 15.1h-6.3v-6.45h6.3c1.85 0 3.25 1.5 3.25 3.25 0 1.8-1.4 3.2-3.25 3.2z" style="fill:#fff;fill-opacity:1"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <path id="rect927" d="M300.958 760.739h75.198v82.278h-75.198z" />
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect967" width="100%" height="100%"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <g id="text925" aria-label="B"
+      style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;white-space:pre;shape-inside:url(#rect927);fill:#fff;fill-opacity:1"
+      transform="matrix(2.83333 0 0 2.83333 -797.297 -1254.653)">
+      <path id="path931"
+        d="M321.957 780.16c2.25-1.2 3.7-3.3 3.7-6.45 0-5.3-4-8.35-9.05-8.35H300.681a.37.37 110.338 0 0-.242.652l3.468 2.98v26.368h13.85c5 0 8.9-2.9 8.9-8.2 0-3.65-1.9-5.9-4.7-7zm-2.9-5.75c0 1.75-1.45 3.25-3.25 3.25h-5.3v-6.45h5.3c1.8 0 3.25 1.4 3.25 3.2zm-2.25 15.1h-6.3v-6.45h6.3c1.85 0 3.25 1.5 3.25 3.25 0 1.8-1.4 3.2-3.25 3.2z"
+        style="fill:#fff;fill-opacity:1" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

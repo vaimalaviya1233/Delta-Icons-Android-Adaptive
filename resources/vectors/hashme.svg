@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192"><path d="M164.5 21.5c0-5.519-4.481-10-10-10h-133c-5.519 0-10 4.481-10 10v133c0 5.519 4.481 10 10 10h133c5.519 0 10-4.481 10-10v-133Z" style="fill:#fff" transform="translate(8 8)"/><path d="M107.177 37.721H82.353L51.152 153.115h24.824l31.201-115.394Z" style="fill:#ff837d" transform="matrix(.58363 0 0 .68537 37.303 30.603)"/><path d="M107.177 37.721H82.353L51.152 153.115h24.824l31.201-115.394Z" style="fill:#ff837d" transform="matrix(.58363 0 0 .68537 64.285 30.603)"/><path d="M54.836 153.115h20.17v9.385h-20.17z" style="fill:#ff837d" transform="matrix(3.37413 0 0 1.3143 -120.793 -122.187)"/><path d="M54.836 153.115h20.17v9.385h-20.17z" style="fill:#ff837d" transform="matrix(3.37413 0 0 1.3143 -125.312 -96.534)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" style="fill:#fff" />
+  <path d="M107.177 37.721H82.353L51.152 153.115h24.824l31.201-115.394Z" style="fill:#ff837d"
+    transform="matrix(.58363 0 0 .68537 37.303 30.603)" />
+  <path d="M107.177 37.721H82.353L51.152 153.115h24.824l31.201-115.394Z" style="fill:#ff837d"
+    transform="matrix(.58363 0 0 .68537 64.285 30.603)" />
+  <path d="M54.836 153.115h20.17v9.385h-20.17z" style="fill:#ff837d"
+    transform="matrix(3.37413 0 0 1.3143 -120.793 -122.187)" />
+  <path d="M54.836 153.115h20.17v9.385h-20.17z" style="fill:#ff837d"
+    transform="matrix(3.37413 0 0 1.3143 -125.312 -96.534)" />
+</svg>

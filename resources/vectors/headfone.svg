@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#56595b" rx="9.935"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.63" d="M62.408 97.097a33.872 33.872 0 0 1-.157-3.262 33.872 33.872 0 0 1 33.872-33.872 33.872 33.872 0 0 1 33.872 33.872v0a33.872 33.872 0 0 1-.154 3.217"/><path fill="#fff" d="M122.93 93.836a20.758 20.758 0 0 1 20.758 20.758 20.758 20.758 0 0 1-20.758 20.758M69.069 135.35a20.758 20.758 0 0 1-20.758-20.758 20.758 20.758 0 0 1 20.758-20.758"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#56595b" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.63"
+    d="M62.408 97.097a33.872 33.872 0 0 1-.157-3.262 33.872 33.872 0 0 1 33.872-33.872 33.872 33.872 0 0 1 33.872 33.872v0a33.872 33.872 0 0 1-.154 3.217" />
+  <path fill="#fff"
+    d="M122.93 93.836a20.758 20.758 0 0 1 20.758 20.758 20.758 20.758 0 0 1-20.758 20.758M69.069 135.35a20.758 20.758 0 0 1-20.758-20.758 20.758 20.758 0 0 1 20.758-20.758" />
+</svg>

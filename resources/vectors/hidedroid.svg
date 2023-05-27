@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#83868c" rx="9.935"/><g fill="#98dc9a"><path d="M132.85 125.75a36.852 29.854 0 0 0-18.426-25.855 36.852 29.854 0 0 0-36.852 0 36.852 29.854 0 0 0-18.426 25.855"/><rect width="21.066" height="4.213" x="110.73" y="-17.348" rx=".833" ry="2.107" transform="rotate(60)"/><rect width="21.067" height="4.213" x="14.767" y="148.87" rx=".833" ry="2.107" transform="scale(-1 1) rotate(60)"/></g><circle cx="81.11" cy="113.61" r="9.443" fill="none" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><circle cx="111.22" cy="113.61" r="9.443" fill="none" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><g fill="#56595b"><circle cx="81.241" cy="113.01" r="2.439"/><circle cx="111.72" cy="113.01" r="2.439"/><path stroke="#56595b" stroke-width="2" d="M90.08 111.51c4.147-.926 8.023-.747 11.751 0"/><path d="M62.177 101.04h67.215s-19.051-8.185-33.088-8.235c-15.784-.056-34.127 8.235-34.127 8.235zM81.021 66.25l-6.825 20.253h43.4l-6.38-20.105-20.477 3.338z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#83868c" />
+  <g fill="#98dc9a">
+    <path
+      d="M132.85 125.75a36.852 29.854 0 0 0-18.426-25.855 36.852 29.854 0 0 0-36.852 0 36.852 29.854 0 0 0-18.426 25.855" />
+    <rect width="21.066" height="4.213" x="110.73" y="-17.348" rx=".833" ry="2.107" transform="rotate(60)" />
+    <rect width="21.067" height="4.213" x="14.767" y="148.87" rx=".833" ry="2.107" transform="scale(-1 1) rotate(60)" />
+  </g>
+  <circle cx="81.11" cy="113.61" r="9.443" fill="none" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" />
+  <circle cx="111.22" cy="113.61" r="9.443" fill="none" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2" />
+  <g fill="#56595b">
+    <circle cx="81.241" cy="113.01" r="2.439" />
+    <circle cx="111.72" cy="113.01" r="2.439" />
+    <path stroke="#56595b" stroke-width="2" d="M90.08 111.51c4.147-.926 8.023-.747 11.751 0" />
+    <path
+      d="M62.177 101.04h67.215s-19.051-8.185-33.088-8.235c-15.784-.056-34.127 8.235-34.127 8.235zM81.021 66.25l-6.825 20.253h43.4l-6.38-20.105-20.477 3.338z" />
+  </g>
+</svg>

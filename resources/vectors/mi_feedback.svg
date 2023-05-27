@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1213" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><circle id="path437" cx="96" cy="956.362" r="36.5" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.45235;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><path id="circle1052" d="M73.87 962.467a22.966 22.966 0 0 0 10.647 13.783 22.965 22.965 0 0 0 22.966 0 22.966 22.966 0 0 0 10.647-13.783c.44-1.597-.737-2.936-2.394-2.936H76.264c-1.657 0-2.834 1.34-2.394 2.936z" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.05973;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1213" width="100%" height="100%"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <circle id="path437" cx="96" cy="956.362" r="36.5"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.45235;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+    <path id="circle1052"
+      d="M73.87 962.467a22.966 22.966 0 0 0 10.647 13.783 22.965 22.965 0 0 0 22.966 0 22.966 22.966 0 0 0 10.647-13.783c.44-1.597-.737-2.936-2.394-2.936H76.264c-1.657 0-2.834 1.34-2.394 2.936z"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.05973;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

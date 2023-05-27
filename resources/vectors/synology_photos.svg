@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" fill="#ff837d" class="a"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M113.58 71.02a17.719 17.719 0 0 1-17.719 17.719A17.719 17.719 0 0 1 78.142 71.02a17.719 17.719 0 0 1 17.719-17.719A17.719 17.719 0 0 1 113.58 71.02z" class="UnoptimicedTransforms"/><path fill="#ff837d" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.667" d="M103 95.867c0 3.734-3.398 7.132-7.132 7.132h0c-3.734 0-7.132-3.398-7.132-7.132s3.398-7.132 7.132-7.132h0c3.734 0 7.132 3.398 7.132 7.132z" class="UnoptimicedTransforms"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M135.25 83.415a17.719 17.719 0 0 1-17.719 17.72 17.719 17.719 0 0 1-17.719-17.72 17.719 17.719 0 0 1 17.719-17.719 17.719 17.719 0 0 1 17.719 17.72z" class="UnoptimicedTransforms"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M135.33 108.221a17.719 17.719 0 0 1-17.719 17.719 17.719 17.719 0 0 1-17.719-17.719 17.719 17.719 0 0 1 17.719-17.719 17.719 17.719 0 0 1 17.719 17.719z" class="UnoptimicedTransforms"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M113.99 120.979a17.719 17.719 0 0 1-17.719 17.719 17.719 17.719 0 0 1-17.719-17.719 17.719 17.719 0 0 1 17.719-17.719 17.719 17.719 0 0 1 17.719 17.719z" class="UnoptimicedTransforms"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M92.1 108.694a17.719 17.719 0 0 1-17.719 17.719 17.719 17.719 0 0 1-17.719-17.719 17.719 17.719 0 0 1 17.719-17.719A17.719 17.719 0 0 1 92.1 108.694z" class="UnoptimicedTransforms"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M92.1 82.864a17.719 17.719 0 0 1-17.719 17.719 17.719 17.719 0 0 1-17.719-17.72 17.719 17.719 0 0 1 17.719-17.718A17.719 17.719 0 0 1 92.1 82.864z" class="UnoptimicedTransforms"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" fill="#ff837d" class="a" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M113.58 71.02a17.719 17.719 0 0 1-17.719 17.719A17.719 17.719 0 0 1 78.142 71.02a17.719 17.719 0 0 1 17.719-17.719A17.719 17.719 0 0 1 113.58 71.02z"
+    class="UnoptimicedTransforms" />
+  <path fill="#ff837d" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.667"
+    d="M103 95.867c0 3.734-3.398 7.132-7.132 7.132h0c-3.734 0-7.132-3.398-7.132-7.132s3.398-7.132 7.132-7.132h0c3.734 0 7.132 3.398 7.132 7.132z"
+    class="UnoptimicedTransforms" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M135.25 83.415a17.719 17.719 0 0 1-17.719 17.72 17.719 17.719 0 0 1-17.719-17.72 17.719 17.719 0 0 1 17.719-17.719 17.719 17.719 0 0 1 17.719 17.72z"
+    class="UnoptimicedTransforms" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M135.33 108.221a17.719 17.719 0 0 1-17.719 17.719 17.719 17.719 0 0 1-17.719-17.719 17.719 17.719 0 0 1 17.719-17.719 17.719 17.719 0 0 1 17.719 17.719z"
+    class="UnoptimicedTransforms" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M113.99 120.979a17.719 17.719 0 0 1-17.719 17.719 17.719 17.719 0 0 1-17.719-17.719 17.719 17.719 0 0 1 17.719-17.719 17.719 17.719 0 0 1 17.719 17.719z"
+    class="UnoptimicedTransforms" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M92.1 108.694a17.719 17.719 0 0 1-17.719 17.719 17.719 17.719 0 0 1-17.719-17.719 17.719 17.719 0 0 1 17.719-17.719A17.719 17.719 0 0 1 92.1 108.694z"
+    class="UnoptimicedTransforms" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M92.1 82.864a17.719 17.719 0 0 1-17.719 17.719 17.719 17.719 0 0 1-17.719-17.72 17.719 17.719 0 0 1 17.719-17.718A17.719 17.719 0 0 1 92.1 82.864z"
+    class="UnoptimicedTransforms" />
+</svg>

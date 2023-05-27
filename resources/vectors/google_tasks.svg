@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><g transform="translate(0 -860.362)"><circle cx="96" cy="956.362" r="88" style="fill:#9abefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.99435"/><circle cx="60.959" cy="959.349" r="13.512" style="fill:#f8dd81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.745763"/><rect width="89.44" height="21.214" x="-648.556" y="746.159" rx="10.522" ry="10.607" style="fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:.745763;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="rotate(-44.873)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <g transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" y="860.362"
+      style="fill:#9abefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.99435" />
+    <circle cx="60.959" cy="959.349" r="13.512"
+      style="fill:#f8dd81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.745763" />
+    <rect width="89.44" height="21.214" x="-648.556" y="746.159" rx="10.522" ry="10.607"
+      style="fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:.745763;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      transform="rotate(-44.873)" />
+  </g>
+</svg>

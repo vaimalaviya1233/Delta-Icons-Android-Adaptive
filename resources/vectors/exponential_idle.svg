@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#fff"/><text xml:space="preserve" x="63.037" y="122.605" fill="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="15.106" font-family="Now" font-size="67.139" font-weight="300"><tspan x="63.037" y="122.605">e</tspan></text><text xml:space="preserve" x="102.098" y="91.307" fill="#a0a5af" stroke-linecap="round" stroke-linejoin="round" stroke-width="10.162" font-family="Now" font-size="45.167" font-weight="300"><tspan x="102.098" y="91.307">x</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" /><text xml:space="preserve" x="63.037" y="122.605" fill="#56595b"
+    stroke-linecap="round" stroke-linejoin="round" stroke-width="15.106" font-family="Now" font-size="67.139"
+    font-weight="300">
+    <tspan x="63.037" y="122.605">e</tspan>
+  </text><text xml:space="preserve" x="102.098" y="91.307" fill="#a0a5af" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="10.162" font-family="Now" font-size="45.167" font-weight="300">
+    <tspan x="102.098" y="91.307">x</tspan>
+  </text>
+</svg>

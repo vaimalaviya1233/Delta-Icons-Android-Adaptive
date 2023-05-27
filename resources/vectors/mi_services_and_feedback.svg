@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect967" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path969" d="M96.12 971.031a6.584 6.584 0 0 0 6.585-6.583c0-8.548 16.402-3.697 16.402-23.102 0-12.012-10.05-21.484-22.986-21.484-11.996 0-21.074 7.535-22.894 18.126-.606 3.527 2.703 6.477 6.293 6.477 3.555 0 5.68-3.153 7.171-6.357 1.551-3.333 4.963-5.54 9.43-5.54 5.66 0 10.165 3.927 10.165 8.778 0 13.977-16.749 4.39-16.749 23.91a6.193 6.193 0 0 0 6.584 5.775zm.347 21.831a8.036 8.036 0 0 0 8.086-8.085c0-4.505-3.58-8.201-8.086-8.201-4.504 0-8.2 3.696-8.2 8.2 0 4.505 3.696 8.086 8.2 8.086z" style="font-weight:700;font-size:92.4051px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.31013"/><circle id="circle973" cx="40" cy="900.362" r="8" style="fill:#ffd6d4;fill-opacity:1;stroke:none;stroke-width:5.43666;stroke-linecap:square;stop-color:#000"/><circle id="circle975" cx="152" cy="900.362" r="8" style="fill:#ffd6d4;fill-opacity:1;stroke:none;stroke-width:5.43666;stroke-linecap:square;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect967" width="100%" height="100%"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path969"
+      d="M96.12 971.031a6.584 6.584 0 0 0 6.585-6.583c0-8.548 16.402-3.697 16.402-23.102 0-12.012-10.05-21.484-22.986-21.484-11.996 0-21.074 7.535-22.894 18.126-.606 3.527 2.703 6.477 6.293 6.477 3.555 0 5.68-3.153 7.171-6.357 1.551-3.333 4.963-5.54 9.43-5.54 5.66 0 10.165 3.927 10.165 8.778 0 13.977-16.749 4.39-16.749 23.91a6.193 6.193 0 0 0 6.584 5.775zm.347 21.831a8.036 8.036 0 0 0 8.086-8.085c0-4.505-3.58-8.201-8.086-8.201-4.504 0-8.2 3.696-8.2 8.2 0 4.505 3.696 8.086 8.2 8.086z"
+      style="font-weight:700;font-size:92.4051px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.31013" />
+    <circle id="circle973" cx="40" cy="900.362" r="8"
+      style="fill:#ffd6d4;fill-opacity:1;stroke:none;stroke-width:5.43666;stroke-linecap:square;stop-color:#000" />
+    <circle id="circle975" cx="152" cy="900.362" r="8"
+      style="fill:#ffd6d4;fill-opacity:1;stroke:none;stroke-width:5.43666;stroke-linecap:square;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

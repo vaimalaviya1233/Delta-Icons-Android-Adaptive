@@ -1,1 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><rect id="rect6" width="152" height="152" x="20" y="20" class="a" rx="10" style="fill:#56595b;stroke:none;opacity:1"/><circle id="circle10" cx="96" cy="96" r="36.5" class="a" style="fill:#56595b;stroke:none"/><rect id="rect829" width="88" height="88" x="52" y="52" ry="12" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;paint-order:stroke fill markers"/><path id="rect835" d="M68 60h8v24h-8z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.92582011;paint-order:stroke fill markers"/><path id="rect837" d="M68 100h8v4h-8z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.82368672;paint-order:stroke fill markers"/><path id="rect839" d="M64 88h16v8H64z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path id="rect841" d="M88 112h16v16H88z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path id="rect843" d="M64 112h16v16H64z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.81649661;paint-order:stroke fill markers"/><path id="rect835-5" d="M116-104h8v20h-8z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.84515423;paint-order:stroke fill markers" transform="scale(1 -1)"/><path id="rect837-2" d="M116-68h8v8h-8z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.16486895;paint-order:stroke fill markers" transform="scale(1 -1)"/><path id="rect839-3" d="M112-80h16v8h-16z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" transform="scale(1 -1)"/><path id="rect841-9" d="M112 112h16v16h-16z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path id="rect835-5-0" d="M92-104h8v12h-8z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.65465367;paint-order:stroke fill markers" transform="scale(1 -1)"/><path id="rect837-2-6" d="M92-76h8v16h-8z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64737332;paint-order:stroke fill markers" transform="scale(1 -1)"/><path id="rect839-3-2" d="M88-88h16v8H88z" style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" transform="scale(1 -1)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect id="rect6" width="100%" height="100%" class=" a" style="fill:#56595b;stroke:none;opacity:1" />
+  <circle id="circle10" cx="96" cy="96" r="36.5" class="a" style="fill:#56595b;stroke:none" />
+  <rect id="rect829" width="88" height="88" x="52" y="52" ry="12"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;paint-order:stroke fill markers" />
+  <path id="rect835" d="M68 60h8v24h-8z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.92582011;paint-order:stroke fill markers" />
+  <path id="rect837" d="M68 100h8v4h-8z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.82368672;paint-order:stroke fill markers" />
+  <path id="rect839" d="M64 88h16v8H64z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path id="rect841" d="M88 112h16v16H88z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path id="rect843" d="M64 112h16v16H64z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.81649661;paint-order:stroke fill markers" />
+  <path id="rect835-5" d="M116-104h8v20h-8z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.84515423;paint-order:stroke fill markers"
+    transform="scale(1 -1)" />
+  <path id="rect837-2" d="M116-68h8v8h-8z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.16486895;paint-order:stroke fill markers"
+    transform="scale(1 -1)" />
+  <path id="rect839-3" d="M112-80h16v8h-16z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+    transform="scale(1 -1)" />
+  <path id="rect841-9" d="M112 112h16v16h-16z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path id="rect835-5-0" d="M92-104h8v12h-8z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.65465367;paint-order:stroke fill markers"
+    transform="scale(1 -1)" />
+  <path id="rect837-2-6" d="M92-76h8v16h-8z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64737332;paint-order:stroke fill markers"
+    transform="scale(1 -1)" />
+  <path id="rect839-3-2" d="M88-88h16v8H88z"
+    style="opacity:1;vector-effect:none;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+    transform="scale(1 -1)" />
+</svg>

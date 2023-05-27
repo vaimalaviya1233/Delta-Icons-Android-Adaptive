@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style><rect id="camera-a" width="152" height="152" rx="10"/></defs><rect id="rect6" width="152" height="152" x="20" y="20" class="a" rx="10" style="fill:#56595b;stroke:none;opacity:1"/><path id="rect842" d="M20 64h152v64H20z" style="opacity:1;vector-effect:none;fill:#728dbe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.64836216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><rect id="rect846" width="88" height="88" x="52" y="52" ry="44" style="opacity:1;vector-effect:none;fill:#e0f4e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><circle id="circle10" cx="96" cy="96" r="36.5" class="a" style="fill:#56595b;stroke:none;opacity:1"/><rect id="rect844" width="12" height="12" x="152" y="28" ry="6" style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+    <rect id="camera-a" width="152" height="152" rx="10" />
+  </defs>
+  <rect id="rect6" width="100%" height="100%" class=" a" style="fill:#56595b;stroke:none;opacity:1" />
+  <path id="rect842" d="M20 64h152v64H20z"
+    style="opacity:1;vector-effect:none;fill:#728dbe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.64836216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <rect id="rect846" width="88" height="88" x="52" y="52" ry="44"
+    style="opacity:1;vector-effect:none;fill:#e0f4e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <circle id="circle10" cx="96" cy="96" r="36.5" class="a" style="fill:#56595b;stroke:none;opacity:1" />
+  <rect id="rect844" width="12" height="12" x="152" y="28" ry="6"
+    style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+</svg>

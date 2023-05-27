@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect907" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="rect913" d="M172.5 956.362h-153v66.5c0 5.54 4.46 10 10 10h133c5.54 0 10-4.46 10-10z" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" id="text934" x="59.832" y="932.898" style="font-weight:700;font-size:44.1746px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.10437"><tspan id="tspan932" x="59.832" y="932.898" style="stroke-width:1.10437">sky</tspan></text><text xml:space="preserve" id="text938" x="47.191" y="1001.302" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.0348px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.825871"><tspan id="tspan936" x="47.191" y="1001.302" style="stroke-width:.825871">sports</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect907" y="860,362"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="rect913" d="M172.5 956.362h-153v66.5c0 5.54 4.46 10 10 10h133c5.54 0 10-4.46 10-10z"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      id="text934" x="59.832" y="932.898"
+      style="font-weight:700;font-size:44.1746px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.10437">
+      <tspan id="tspan932" x="59.832" y="932.898" style="stroke-width:1.10437">sky</tspan>
+    </text><text xml:space="preserve" id="text938" x="47.191" y="1001.302"
+      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.0348px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.825871">
+      <tspan id="tspan936" x="47.191" y="1001.302" style="stroke-width:.825871">sports</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect385" width="128" height="176" x="892.362" y="-184" rx="10.079" ry="10.057" style="fill:#73ada4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00679;stroke-opacity:1" transform="rotate(90)"/><rect id="rect1169" width="81.198" height="36.463" x="55.401" y="938.13" rx="1.253" ry="1.253" style="fill:#73ada4;fill-opacity:1;fill-rule:evenodd;stroke:#fff;stroke-width:18.8016;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"/><rect id="rect1171" width="9.916" height="27.31" x="68.502" y="942.839" rx="1.253" ry="1.253" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:36.7453;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"/><rect id="rect1173" width="9.916" height="27.31" x="-961.451" y="59.805" rx="1.253" ry="1.253" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:36.7453;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-90)"/><circle id="circle1175" cx="107.024" cy="963.231" r="6.947" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.016;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"/><circle id="circle1177" cx="125.042" cy="949.835" r="6.947" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.016;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect385" width="128" height="176" x="892.362" y="-184" ry="10.057"
+      style="fill:#73ada4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00679;stroke-opacity:1"
+      transform="rotate(90)" />
+    <rect id="rect1169" width="81.198" height="36.463" x="55.401" y="938.13" rx="1.253" ry="1.253"
+      style="fill:#73ada4;fill-opacity:1;fill-rule:evenodd;stroke:#fff;stroke-width:18.8016;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" />
+    <rect id="rect1171" width="9.916" height="27.31" x="68.502" y="942.839" rx="1.253" ry="1.253"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:36.7453;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" />
+    <rect id="rect1173" width="9.916" height="27.31" x="-961.451" y="59.805" rx="1.253" ry="1.253"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:36.7453;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"
+      transform="rotate(-90)" />
+    <circle id="circle1175" cx="107.024" cy="963.231" r="6.947"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.016;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" />
+    <circle id="circle1177" cx="125.042" cy="949.835" r="6.947"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.016;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath2376" clipPathUnits="userSpaceOnUse"><circle id="circle2378" cx="376.888" cy="402.864" r="79.286" style="opacity:.491607;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><circle id="circle2380" cx="96" cy="956.362" r="88" style="fill:#ababff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1"/><circle id="circle2382" cx="96" cy="935.135" r="45.962" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1"/><text xml:space="preserve" id="text2386" x="-262.692" y="924.542" style="font-weight:700;font-size:69.2005px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#ababff;fill-opacity:1;stroke-width:1" transform="rotate(-21.016)"><tspan id="tspan2384" x="-262.692" y="924.542" style="fill:#ababff;fill-opacity:1;stroke-width:1">z</tspan></text><rect id="rect2388" width="65" height="83.227" x="344.388" y="436.647" clip-path="url(#clipPath2376)" rx="9.369" ry="9.369" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke-width:3.60392;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="matrix(1.1099 0 0 1.1099 -322.31 509.222)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath2376" clipPathUnits="userSpaceOnUse">
+      <rect width="100%" height="100%" id="circle2378" cx="376.888" cy="402.864" r="79.286"
+        style="opacity:.491607;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <circle id="circle2380" y="860,362"
+      style="fill:#ababff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1" />
+    <circle id="circle2382" cx="96" cy="935.135" r="45.962"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1" /><text
+      xml:space="preserve" id="text2386" x="-262.692" y="924.542"
+      style="font-weight:700;font-size:69.2005px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#ababff;fill-opacity:1;stroke-width:1"
+      transform="rotate(-21.016)">
+      <tspan id="tspan2384" x="-262.692" y="924.542" style="fill:#ababff;fill-opacity:1;stroke-width:1">z</tspan>
+    </text>
+    <rect id="rect2388" width="65" height="83.227" x="344.388" y="436.647" clip-path="url(#clipPath2376)" rx="9.369"
+      ry="9.369"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke-width:3.60392;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+      transform="matrix(1.1099 0 0 1.1099 -322.31 509.222)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

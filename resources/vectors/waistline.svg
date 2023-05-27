@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="opacity:1;fill:#83868c;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><rect width="132.185" height="131.961" x="29.908" y="30.02" ry="2.102" style="opacity:1;fill:#ba6561;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"/><path d="M56.914 23.924s.006 11.368 0 17.603c0 18.162 17.5 32.885 39.086 32.885s39.086-14.723 39.086-32.885c-.002-6.234 0-17.603 0-17.603z" style="opacity:1;fill:#83868c;stroke:none;stroke-width:10.6573;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"/><path d="M97.535 65.484a28.22 20.128 0 0 0 26.686-20.07 28.22 20.128 0 0 0-26.686-20.096v40.166zM94.465 25.344a28.22 20.128 0 0 0-26.686 20.07 28.22 20.128 0 0 0 26.686 20.07v-40.14z" style="opacity:1;fill:#fff;stroke:none;stroke-width:6.36305;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"/><path d="M94.465 25.344v40.14a28.22 20.128 0 0 0 1.535.057 28.22 20.128 0 0 0 1.535-.057V25.318A28.22 20.128 0 0 0 96 25.285a28.22 20.128 0 0 0-1.535.059z" style="opacity:1;fill:#ba6561;stroke:none;stroke-width:6.36305;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"/><text xml:space="preserve" x="66.256" y="136.06" style="font-size:58.8269px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;stroke-width:1.47067;fill:#fff"><tspan x="66.256" y="136.06" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt&quot;;stroke-width:1.47067;fill:#fff">W</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="opacity:1;fill:#83868c;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <rect width="132.185" height="131.961" x="29.908" y="30.02" ry="2.102"
+    style="opacity:1;fill:#ba6561;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" />
+  <path
+    d="M56.914 23.924s.006 11.368 0 17.603c0 18.162 17.5 32.885 39.086 32.885s39.086-14.723 39.086-32.885c-.002-6.234 0-17.603 0-17.603z"
+    style="opacity:1;fill:#83868c;stroke:none;stroke-width:10.6573;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" />
+  <path
+    d="M97.535 65.484a28.22 20.128 0 0 0 26.686-20.07 28.22 20.128 0 0 0-26.686-20.096v40.166zM94.465 25.344a28.22 20.128 0 0 0-26.686 20.07 28.22 20.128 0 0 0 26.686 20.07v-40.14z"
+    style="opacity:1;fill:#fff;stroke:none;stroke-width:6.36305;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" />
+  <path
+    d="M94.465 25.344v40.14a28.22 20.128 0 0 0 1.535.057 28.22 20.128 0 0 0 1.535-.057V25.318A28.22 20.128 0 0 0 96 25.285a28.22 20.128 0 0 0-1.535.059z"
+    style="opacity:1;fill:#ba6561;stroke:none;stroke-width:6.36305;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" />
+  <text xml:space="preserve" x="66.256" y="136.06"
+    style="font-size:58.8269px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;stroke-width:1.47067;fill:#fff">
+    <tspan x="66.256" y="136.06"
+      style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt&quot;;stroke-width:1.47067;fill:#fff">
+      W</tspan>
+  </text>
+</svg>

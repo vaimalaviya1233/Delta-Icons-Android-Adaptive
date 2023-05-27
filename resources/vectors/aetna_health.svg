@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect950" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#bd9aff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" id="text954" x="59.684" y="983.822" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:109.84px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.74601"><tspan id="tspan952" x="59.684" y="983.822" style="fill:#fff;fill-opacity:1;stroke-width:2.74601">a</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect950" y="860,362"
+      style="fill:#bd9aff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      id="text954" x="59.684" y="983.822"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:109.84px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.74601">
+      <tspan id="tspan952" x="59.684" y="983.822" style="fill:#fff;fill-opacity:1;stroke-width:2.74601">a</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

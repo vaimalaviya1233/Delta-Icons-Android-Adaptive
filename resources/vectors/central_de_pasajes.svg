@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#bd9aff"/><text xml:space="preserve" x="55.918" y="80.431" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" font-family="Now" font-size="17.73" font-weight="500"><tspan x="55.918" y="80.431">CENTRAL</tspan><tspan x="55.918" y="102.704">     <tspan font-weight="300">DE</tspan></tspan><tspan x="55.918" y="124.867">PASAJES</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#bd9aff" /><text xml:space="preserve" x="55.918" y="80.431" fill="#fff"
+    stroke-linecap="round" stroke-linejoin="round" stroke-width="2" font-family="Now" font-size="17.73"
+    font-weight="500">
+    <tspan x="55.918" y="80.431">CENTRAL</tspan>
+    <tspan x="55.918" y="102.704">
+      <tspan font-weight="300">DE</tspan>
+    </tspan>
+    <tspan x="55.918" y="124.867">PASAJES</tspan>
+  </text>
+</svg>

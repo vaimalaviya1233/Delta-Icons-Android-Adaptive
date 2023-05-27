@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="176" height="128" x="8" y="32" fill="#56595B" rx="10"/><text xml:space="preserve" x="29.458" y="108.925" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:34.4666px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;fill-opacity:1;stroke-width:.861666"><tspan x="29.458" y="108.925" style="stroke-width:.861666">PRESTO</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect rect height="100%" width="100%" fill="#56595B" /><text xml:space="preserve" x="29.458" y="108.925"
+    style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:34.4666px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;fill-opacity:1;stroke-width:.861666">
+    <tspan x="29.458" y="108.925" style="stroke-width:.861666">PRESTO</tspan>
+  </text>
+</svg>

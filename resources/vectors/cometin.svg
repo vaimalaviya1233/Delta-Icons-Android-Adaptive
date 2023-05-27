@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192"><path d="M164.5 21.5c0-5.519-4.481-10-10-10h-133c-5.519 0-10 4.481-10 10v133c0 5.519 4.481 10 10 10h133c5.519 0 10-4.481 10-10v-133Z" style="fill:#979797" transform="translate(8 8)"/><path d="M117.646 19.5H162.5c5.519 0 10 4.481 10 10v44.854l-49.512 49.512a37.85 37.85 0 0 1-53.526 0l-1.328-1.328a37.85 37.85 0 0 1 0-53.526L117.646 19.5Z" style="fill:#f9de81"/><path d="M132.045 19.5H162.5c5.519 0 10 4.481 10 10v30.455l-56.521 56.521a27.001 27.001 0 0 1-38.184 0l-2.271-2.271a27.005 27.005 0 0 1 0-38.184L132.045 19.5Z" style="fill:#f8c18c"/><circle cx="96" cy="96" r="20.659" style="fill:#ff837d" transform="scale(1.02934) rotate(45 97.935 91.33)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(-6.363 -6.608) scale(1.14336)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(-5.37 33.98) scale(1.14336)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(20.826 88.068) scale(1.14336)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(73.702 83.633) scale(1.14336)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(29.099 5.562) scale(.80736)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(38.16 -12.063) scale(.80736)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(-3.67 27.904) scale(.80736)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(2.1 76.311) scale(.80736)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(13.792 103.369) scale(.80736)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(111.475 117.147) scale(.80736)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(109.613 85.248) scale(.80736)"/><circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(71.384 115.906) scale(.80736)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" style="fill:#979797" />
+  <path
+    d="M117.646 19.5H162.5c5.519 0 10 4.481 10 10v44.854l-49.512 49.512a37.85 37.85 0 0 1-53.526 0l-1.328-1.328a37.85 37.85 0 0 1 0-53.526L117.646 19.5Z"
+    style="fill:#f9de81" />
+  <path
+    d="M132.045 19.5H162.5c5.519 0 10 4.481 10 10v30.455l-56.521 56.521a27.001 27.001 0 0 1-38.184 0l-2.271-2.271a27.005 27.005 0 0 1 0-38.184L132.045 19.5Z"
+    style="fill:#f8c18c" />
+  <circle cx="96" cy="96" r="20.659" style="fill:#ff837d" transform="scale(1.02934) rotate(45 97.935 91.33)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(-6.363 -6.608) scale(1.14336)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(-5.37 33.98) scale(1.14336)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(20.826 88.068) scale(1.14336)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(73.702 83.633) scale(1.14336)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(29.099 5.562) scale(.80736)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(38.16 -12.063) scale(.80736)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(-3.67 27.904) scale(.80736)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(2.1 76.311) scale(.80736)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(13.792 103.369) scale(.80736)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(111.475 117.147) scale(.80736)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(109.613 85.248) scale(.80736)" />
+  <circle cx="47.708" cy="49.419" r="3.879" style="fill:#fcecdc" transform="translate(71.384 115.906) scale(.80736)" />
+</svg>

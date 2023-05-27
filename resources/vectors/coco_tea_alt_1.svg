@@ -1,76 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 192 192"
-   version="1.1"
-   id="svg16"
-   sodipodi:docname="coco_tea.svg"
-   inkscape:export-filename="coco_tea.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   xml:space="preserve"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview18"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="2.6233885"
-     inkscape:cx="25.348895"
-     inkscape:cy="67.660584"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" /><defs
-     id="defs4"><style
-       id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style></defs><g
-     id="g242"
-     style="display:none"
-     inkscape:label="Template"><rect
-       class="a"
-       x="20"
-       y="20"
-       width="152"
-       height="152"
-       rx="10"
-       id="rect6"
-       inkscape:label="Square" /><circle
-       class="a"
-       cx="96"
-       cy="96"
-       r="36.5"
-       id="circle10"
-       inkscape:label="Inner circle" /><rect
-       class="a"
-       x="32"
-       y="8"
-       width="128"
-       height="176"
-       rx="10"
-       id="rect12"
-       inkscape:label="Vertical slab" /><rect
-       class="a"
-       x="8"
-       y="32"
-       width="176"
-       height="128"
-       rx="10"
-       id="rect14"
-       inkscape:label="Horizontal slab" /></g><image
-     width="149.42506"
-     height="149.42506"
-     preserveAspectRatio="none"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAADwCAIAAACxN37FAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
+<svg viewBox="0 0 192 192" version="1.1" id="svg16" sodipodi:docname="coco_tea.svg"
+  inkscape:export-filename="coco_tea.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96"
+  inkscape:version="1.2.2 (732a01da63, 2022-12-09)" xml:space="preserve"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="namedview18" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25"
+    inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1"
+    showgrid="false" inkscape:zoom="2.6233885" inkscape:cx="25.348895" inkscape:cy="67.660584"
+    inkscape:window-width="1920" inkscape:window-height="1001" inkscape:window-x="-9" inkscape:window-y="-9"
+    inkscape:window-maximized="1" inkscape:current-layer="svg16" />
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: 0.63;
+      }
+    </style>
+  </defs>
+  <g id="g242" style="display:none" inkscape:label="Template">
+    <rect width="100%" height="100%" id="rect6" inkscape:label="Square" />
+    <circle class="a" cx="96" cy="96" r="36.5" id="circle10" inkscape:label="Inner circle" />
+    <rect class="a" width="100%" height="100%" id="rect12" inkscape:label="Vertical slab" />
+    <rect class="a" rect height="100%" width="100%" id="rect14" inkscape:label="Horizontal slab" />
+  </g>
+  <image width="149.42506" height="149.42506" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAADwCAIAAACxN37FAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
 nOydd5xkVZn3f89zzr0VO3dPzgyD5BxVRBHXiIu7srrsmnXX1RXDq5hx1TWuAVdcBHNAUREURIIk
 QRAc4sggMDn39PR0rnDvOc/z/nGrenpmOg0M0NVT30/rNFW3bp1b99ennvOcJ1DvhbNRp850gZ/t
 AdSpsz+pC7rOtKIu6DrTirqg60wr6oKuM62oC7rOtKIu6DrTirqg60wr6oKuM62oC7rOtKIu6DrT
@@ -497,50 +455,27 @@ h4AARSmPi77gLDSSOjceQl2UHAjG9bK1ApeTc8hjaaQmWqJzJ2CJ0AuiKVWOUYcaIQOKoI7AoNwD
 igJTiHQmkJmxJaedGw3+scISoRcGBQBBLUihjKb8V6XV+olygDwcAPckbCF8smKJ0IcAoeWinfMo
 z3ctz/0vltjcOegMgf8SlnCCsEToJZxUWCL0Ek4qLBF6CScVlgi9hJMKS4RewkmFJUIv4aTCEqGX
 cFJhidBLOKmwROglnFRYIvQSTiosEXoJJxWWCL2Ekwr/A69lbtQbV+3nAAAAAElFTkSuQmCC
-"
-     id="image3732"
-     x="22.938576"
-     y="35.439804"
-     style="display:none;stroke-width:1.60616"
-     inkscape:label="Reference" /><circle
-     class="a"
-     cx="96"
-     cy="96"
-     r="88"
-     id="circle8"
-     inkscape:label="Outer circle"
-     style="display:inline;opacity:1;fill:#f8c18c;stroke:none" /><path
-     style="display:inline;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#56595b;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-     d="M 103.31204,58.732187 C 51.498773,79.253074 59.994324,114.15134 78.457003,126.2801 c 16.329903,10.72767 50.262297,4.65958 45.921817,-32.821653 -0.48404,-4.179821 6.93756,-14.320644 -0.42801,-15.85648 -8.40519,-1.752615 -18.23821,2.02935 -23.7346,-2.044512 -5.689867,-5.426346 1.00999,-13.487115 3.09583,-16.825268 z"
-     id="path3844"
-     sodipodi:nodetypes="cssscc"
-     inkscape:label="Blob" /><g
-     id="g4236"
-     inkscape:label="Right eye"><ellipse
-       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#56595b;stroke-width:5.99999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="path4102"
-       cx="110.54222"
-       cy="98.204201"
-       rx="6.7715821"
-       ry="7.8035202" /><ellipse
-       style="opacity:1;fill:#56595b;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="path4104"
-       cx="106.83109"
-       cy="97.809982"
-       rx="3.977025"
-       ry="4.0694308" /></g><g
-     id="g4236-1"
-     transform="translate(-31.384736,-0.01288374)"
-     inkscape:label="Left eye"><ellipse
-       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#56595b;stroke-width:5.99999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="path4102-4"
-       cx="110.54222"
-       cy="98.204201"
-       rx="6.7715821"
-       ry="7.8035202" /><ellipse
-       style="opacity:1;fill:#56595b;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="path4104-4"
-       cx="106.96587"
-       cy="97.809982"
-       rx="3.977025"
-       ry="4.0694308" /></g></svg>
+" id="image3732" x="22.938576" y="35.439804" style="display:none;stroke-width:1.60616" inkscape:label="Reference" />
+  <rect width="100%" height="100%" class="a" id="circle8" inkscape:label="Outer circle"
+    style="display:inline;opacity:1;fill:#f8c18c;stroke:none" />
+  <path
+    style="display:inline;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#56595b;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+    d="M 103.31204,58.732187 C 51.498773,79.253074 59.994324,114.15134 78.457003,126.2801 c 16.329903,10.72767 50.262297,4.65958 45.921817,-32.821653 -0.48404,-4.179821 6.93756,-14.320644 -0.42801,-15.85648 -8.40519,-1.752615 -18.23821,2.02935 -23.7346,-2.044512 -5.689867,-5.426346 1.00999,-13.487115 3.09583,-16.825268 z"
+    id="path3844" sodipodi:nodetypes="cssscc" inkscape:label="Blob" />
+  <g id="g4236" inkscape:label="Right eye">
+    <ellipse
+      style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#56595b;stroke-width:5.99999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+      id="path4102" cx="110.54222" cy="98.204201" rx="6.7715821" ry="7.8035202" />
+    <ellipse
+      style="opacity:1;fill:#56595b;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+      id="path4104" cx="106.83109" cy="97.809982" rx="3.977025" ry="4.0694308" />
+  </g>
+  <g id="g4236-1" transform="translate(-31.384736,-0.01288374)" inkscape:label="Left eye">
+    <ellipse
+      style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#56595b;stroke-width:5.99999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+      id="path4102-4" cx="110.54222" cy="98.204201" rx="6.7715821" ry="7.8035202" />
+    <ellipse
+      style="opacity:1;fill:#56595b;fill-rule:evenodd;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+      id="path4104-4" cx="106.96587" cy="97.809982" rx="3.977025" ry="4.0694308" />
+  </g>
+</svg>

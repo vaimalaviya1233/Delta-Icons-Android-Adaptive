@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192"><circle cx="88" cy="88" r="88" style="fill:#f8c18c" transform="translate(8 8)"/><path d="M96 92c3.055-3.574 9.183-6 16-6s12.945 2.426 16 6l-16 21-16-21Z" style="fill:#fff" transform="translate(-219 -178.844) scale(2.8125)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" style="fill:#f8c18c" />
+  <path d="M96 92c3.055-3.574 9.183-6 16-6s12.945 2.426 16 6l-16 21-16-21Z" style="fill:#fff"
+    transform="translate(-219 -178.844) scale(2.8125)" />
+</svg>

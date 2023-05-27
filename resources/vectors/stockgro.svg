@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" fill="#fff" class="a" rx="10"/><path fill="#f8c18c" stroke="#bd9aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M62.367 74.366 60.14 96.417l34.97 20.715 36.752-26.06-24.501-27.508z"/><path fill="#f8c18c" stroke="#bd9aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m108 107.99 6.826 20.943-19.712-11.805z"/><path fill="#fff" d="m103.13 72.473-26.06 5.791-.78 14.255 24.39 2.005-12.919 9.243 8.242 4.566 23.276-17.985-25.816-6.07 18.243-4.12z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" class="a" %%" fill="#fff" />
+  <path fill="#f8c18c" stroke="#bd9aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"
+    d="M62.367 74.366 60.14 96.417l34.97 20.715 36.752-26.06-24.501-27.508z" />
+  <path fill="#f8c18c" stroke="#bd9aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="m108 107.99 6.826 20.943-19.712-11.805z" />
+  <path fill="#fff"
+    d="m103.13 72.473-26.06 5.791-.78 14.255 24.39 2.005-12.919 9.243 8.242 4.566 23.276-17.985-25.816-6.07 18.243-4.12z" />
+</svg>

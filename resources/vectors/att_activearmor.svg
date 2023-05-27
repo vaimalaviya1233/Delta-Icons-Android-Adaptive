@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="fill:#9abeff;opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><circle cx="96" cy="96" r="36" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M96.55 75.875c8.075.006 15.528 5.092 15.528 5.092s-.592-10.484-13.536-21.069c1.574-1.888 3.945-1.018 7.172 1.06 8.745 11.524 12.832 19.405 11.337 32.906-1.925 17.388-16.45 24.214-16.45 24.214s4.109 2.088 11.898 2.136c7.515.045 14.44-2.136 14.44-2.136l-4.6 6.193s-11.22.824-15.763 0c-14.718-2.67-22.002-9.66-28.373-19.118-3.082-4.577-3.655-13.111-3.66-16.577-7.622 5.388-12.306 22.068-12.306 22.068l-2.542-6.102s5.003-16.098 19.77-24.396c5.113-2.873 11.221-4.276 17.086-4.271z" style="fill:#9abeff"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#9abeff;opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <circle cx="96" cy="96" r="36"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path
+    d="M96.55 75.875c8.075.006 15.528 5.092 15.528 5.092s-.592-10.484-13.536-21.069c1.574-1.888 3.945-1.018 7.172 1.06 8.745 11.524 12.832 19.405 11.337 32.906-1.925 17.388-16.45 24.214-16.45 24.214s4.109 2.088 11.898 2.136c7.515.045 14.44-2.136 14.44-2.136l-4.6 6.193s-11.22.824-15.763 0c-14.718-2.67-22.002-9.66-28.373-19.118-3.082-4.577-3.655-13.111-3.66-16.577-7.622 5.388-12.306 22.068-12.306 22.068l-2.542-6.102s5.003-16.098 19.77-24.396c5.113-2.873 11.221-4.276 17.086-4.271z"
+    style="fill:#9abeff" />
+</svg>

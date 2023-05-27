@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="128" height="176" x="32" y="-184" fill="#ff837d" rx="10.079" transform="rotate(90)"/><circle cx="96" cy="96" r="39.616" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.718"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.454" d="M113.17 106.96a20.249 20.249 0 0 1-16.901 9.097 20.249 20.249 0 0 1-20.249-20.25A20.249 20.249 0 0 1 96.269 75.56a20.249 20.249 0 0 1 17.312 9.745"/><circle cx="96.265" cy="95.99" r="5.127" fill="#fff"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="128" height="176" x="32" y="-184" fill="#ff837d" transform="rotate(90)" />
+  <circle cx="96" cy="96" r="39.616" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="7.718" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.454"
+    d="M113.17 106.96a20.249 20.249 0 0 1-16.901 9.097 20.249 20.249 0 0 1-20.249-20.25A20.249 20.249 0 0 1 96.269 75.56a20.249 20.249 0 0 1 17.312 9.745" />
+  <circle cx="96.265" cy="95.99" r="5.127" fill="#fff" />
+</svg>

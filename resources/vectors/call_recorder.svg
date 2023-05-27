@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle1105" cx="96" cy="956.362" r="88" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path1107" fill="#728dbe" fill-rule="evenodd" d="M87.618 943.749c-3.714 3.344-8.697 4.386-13.197 3.219.798 6.412 4.252 13.714 10.546 20.008 6.935 6.935 15.094 10.422 21.938 10.708-1.971-5.34-.633-11.573 3.856-15.614 5.189-4.673 8.319-1.07 12.622 3.883.573.658 1.166 1.341 1.787 2.032.618.685 1.236 1.348 1.837 1.993 4.552 4.882 8.12 8.708 2.925 13.385-.423.382-.864.733-1.318 1.055h.002c-13.004 13.004-37.222 9.87-54.092-7-16.87-16.87-20.004-41.089-7-54.093l.017.018c.286-.306.588-.603.905-.889 5.19-4.672 8.32-1.07 12.622 3.883.573.659 1.166 1.342 1.788 2.032.617.686 1.235 1.348 1.836 1.993 4.553 4.882 8.12 8.708 2.926 13.385z" clip-rule="evenodd" style="fill:#fff;fill-opacity:1;stroke-width:.449855"/><circle id="circle1109" cx="122.836" cy="929.947" r="10" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.83334;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle1105" y="860,362"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path1107" fill="#728dbe" fill-rule="evenodd"
+      d="M87.618 943.749c-3.714 3.344-8.697 4.386-13.197 3.219.798 6.412 4.252 13.714 10.546 20.008 6.935 6.935 15.094 10.422 21.938 10.708-1.971-5.34-.633-11.573 3.856-15.614 5.189-4.673 8.319-1.07 12.622 3.883.573.658 1.166 1.341 1.787 2.032.618.685 1.236 1.348 1.837 1.993 4.552 4.882 8.12 8.708 2.925 13.385-.423.382-.864.733-1.318 1.055h.002c-13.004 13.004-37.222 9.87-54.092-7-16.87-16.87-20.004-41.089-7-54.093l.017.018c.286-.306.588-.603.905-.889 5.19-4.672 8.32-1.07 12.622 3.883.573.659 1.166 1.342 1.788 2.032.617.686 1.235 1.348 1.836 1.993 4.553 4.882 8.12 8.708 2.926 13.385z"
+      clip-rule="evenodd" style="fill:#fff;fill-opacity:1;stroke-width:.449855" />
+    <circle id="circle1109" cx="122.836" cy="929.947" r="10"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.83334;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

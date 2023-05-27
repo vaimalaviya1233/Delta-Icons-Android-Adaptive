@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="display:inline;stroke:#98dc9a;stroke-opacity:1;fill:#98dc9a;fill-opacity:1;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><g style="stroke:#8c72bd;stroke-opacity:1" transform="matrix(.63988 0 0 .63988 126.552 51.86)"><path stroke="none" d="M-63.664 17.852c-15.966 0-28.913 12.67-28.921 28.304h-.058l.072.22a27.922 27.922 0 0 0 5.254 15.99l.06.182 23.593 35.438 23.706-35.611a27.917 27.917 0 0 0 5.21-16.024l.064-.195h-.06c-.008-15.633-12.953-28.304-28.92-28.304zm0 17.552a11.217 11.217 0 0 1 11.217 11.217 11.217 11.217 0 0 1-11.217 11.216A11.217 11.217 0 0 1-74.88 46.621a11.217 11.217 0 0 1 11.216-11.217z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.195666;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"/><circle cx="-63.664" cy="57.919" r="49" style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"/><path d="m94.887 92.063 41.214 34.8" style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:6.3;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" transform="translate(-120.578 .532)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="display:inline;stroke:#98dc9a;stroke-opacity:1;fill:#98dc9a;fill-opacity:1;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <g style="stroke:#8c72bd;stroke-opacity:1" transform="matrix(.63988 0 0 .63988 126.552 51.86)">
+    <path stroke="none"
+      d="M-63.664 17.852c-15.966 0-28.913 12.67-28.921 28.304h-.058l.072.22a27.922 27.922 0 0 0 5.254 15.99l.06.182 23.593 35.438 23.706-35.611a27.917 27.917 0 0 0 5.21-16.024l.064-.195h-.06c-.008-15.633-12.953-28.304-28.92-28.304zm0 17.552a11.217 11.217 0 0 1 11.217 11.217 11.217 11.217 0 0 1-11.217 11.216A11.217 11.217 0 0 1-74.88 46.621a11.217 11.217 0 0 1 11.216-11.217z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.195666;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke" />
+    <circle cx="-63.664" cy="57.919" r="49"
+      style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <path d="m94.887 92.063 41.214 34.8"
+      style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:6.3;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+      transform="translate(-120.578 .532)" />
+  </g>
+</svg>

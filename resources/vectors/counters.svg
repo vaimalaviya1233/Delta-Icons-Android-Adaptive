@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#ff837d;opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><text xml:space="preserve" x="96.936" y="125.557" style="font-weight:700;font-size:78.8177px;font-family:&quot;Source Code Pro&quot;;-inkscape-font-specification:&quot;Source Code Pro Bold&quot;;text-align:center;text-anchor:middle;fill:#ff837d;stroke:none;stroke-width:.573396;stroke-linecap:round;stroke-dasharray:4.47856,4.47856;stroke-dashoffset:1.34357"><tspan x="96.936" y="125.557" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;stroke:none;stroke-width:.573396">+1</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#ff837d;opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" /><text
+    xml:space="preserve" x="96.936" y="125.557"
+    style="font-weight:700;font-size:78.8177px;font-family:&quot;Source Code Pro&quot;;-inkscape-font-specification:&quot;Source Code Pro Bold&quot;;text-align:center;text-anchor:middle;fill:#ff837d;stroke:none;stroke-width:.573396;stroke-linecap:round;stroke-dasharray:4.47856,4.47856;stroke-dashoffset:1.34357">
+    <tspan x="96.936" y="125.557"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;stroke:none;stroke-width:.573396">
+      +1</tspan>
+  </text>
+</svg>

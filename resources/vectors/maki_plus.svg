@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1292" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g951" transform="matrix(.88688 0 0 .88688 10.86 105.444)"><path id="path1264" d="M59.61 912.36V988.132a4.828 4.828 0 0 0 1.414 3.414l15.171 15.172a.828.828 0 0 0 1.414-.586v-50.317a.828.828 0 0 1 1.415-.585l2.833 2.833 12.729 12.729a2 2 0 0 0 2.828 0l9.9-9.9 5.662-5.662a.828.828 0 0 1 1.415.585v32.782a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V912.36a.828.828 0 0 0-1.415-.586l-15.171 15.172a75522.16 75522.16 0 0 1-2.829 2.828l-15.562 15.56a2 2 0 0 1-2.828 0l-15.562-15.56a75328.821 75328.821 0 0 1-2.829-2.828l-15.171-15.172a.828.828 0 0 0-1.415.586z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.606614;stroke-linecap:square;stop-color:#000"/><text xml:space="preserve" id="text1274" x="88.548" y="1007.149" style="font-weight:700;font-size:22.484px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.562099"><tspan id="tspan1272" x="88.548" y="1007.149" style="fill:#fff;fill-opacity:1;stroke-width:.562099">Plus</tspan></text></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect1292" y="860,362"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g951" transform="matrix(.88688 0 0 .88688 10.86 105.444)">
+      <path id="path1264"
+        d="M59.61 912.36V988.132a4.828 4.828 0 0 0 1.414 3.414l15.171 15.172a.828.828 0 0 0 1.414-.586v-50.317a.828.828 0 0 1 1.415-.585l2.833 2.833 12.729 12.729a2 2 0 0 0 2.828 0l9.9-9.9 5.662-5.662a.828.828 0 0 1 1.415.585v32.782a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V912.36a.828.828 0 0 0-1.415-.586l-15.171 15.172a75522.16 75522.16 0 0 1-2.829 2.828l-15.562 15.56a2 2 0 0 1-2.828 0l-15.562-15.56a75328.821 75328.821 0 0 1-2.829-2.828l-15.171-15.172a.828.828 0 0 0-1.415.586z"
+        style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.606614;stroke-linecap:square;stop-color:#000" /><text
+        xml:space="preserve" id="text1274" x="88.548" y="1007.149"
+        style="font-weight:700;font-size:22.484px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.562099">
+        <tspan id="tspan1272" x="88.548" y="1007.149" style="fill:#fff;fill-opacity:1;stroke-width:.562099">Plus</tspan>
+      </text>
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath2340" clipPathUnits="userSpaceOnUse"><path id="path2342" fill="#9abeff" fill-rule="evenodd" d="M20 890.317c0-5.523 4.477-9.955 10-9.955h132c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H37.102s-17.102-1-17.102 11V890.317z" clip-rule="evenodd" style="fill:#9bbfff;fill-opacity:1;stroke-width:.999999"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect105722-3" width="152" height="152" x="20" y="880.362" fill="#728dbe" rx="10" style="fill:#ba6561;fill-opacity:1;stroke-width:.999999"/><rect id="rect105724-6" width="146" height="146" x="23" y="883.362" fill="#fff" rx="10" style="stroke-width:.999999"/><g id="g2338" clip-path="url(#clipPath2340)"><path id="rect1737" fill="#c60b1e" d="M20 880.362h152v152H20z" style="fill:#ff837d;fill-opacity:1;stroke-width:.248215"/><path id="rect1739" fill="#ffc400" d="M20 913.362h152v66H20z" style="fill:#f9de81;fill-opacity:1;stroke-width:.231309"/></g><text xml:space="preserve" id="text968" x="54.259" y="963.888" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:46.7355px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:1.16838"><tspan id="tspan966" x="54.259" y="963.888" style="stroke-width:1.16838">A-Z</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath2340" clipPathUnits="userSpaceOnUse">
+      <path id="path2342" fill="#9abeff" fill-rule="evenodd"
+        d="M20 890.317c0-5.523 4.477-9.955 10-9.955h132c5.523 0 10 4.477 10 10v112c0 5.523-4.477 10-10 10H37.102s-17.102-1-17.102 11V890.317z"
+        clip-rule="evenodd" style="fill:#9bbfff;fill-opacity:1;stroke-width:.999999" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect105722-3" width="100%" height="100%" fill=" #728dbe" rx="10"
+      style="fill:#ba6561;fill-opacity:1;stroke-width:.999999" />
+    <rect id="rect105724-6" width="146" height="146" x="23" y="883.362" fill="#fff" rx="10"
+      style="stroke-width:.999999" />
+    <g id="g2338" clip-path="url(#clipPath2340)">
+      <path id="rect1737" fill="#c60b1e" d="M20 880.362h152v152H20z"
+        style="fill:#ff837d;fill-opacity:1;stroke-width:.248215" />
+      <path id="rect1739" fill="#ffc400" d="M20 913.362h152v66H20z"
+        style="fill:#f9de81;fill-opacity:1;stroke-width:.231309" />
+    </g><text xml:space="preserve" id="text968" x="54.259" y="963.888"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:46.7355px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;stroke-width:1.16838">
+      <tspan id="tspan966" x="54.259" y="963.888" style="stroke-width:1.16838">A-Z</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

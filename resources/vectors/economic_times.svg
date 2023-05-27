@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1118" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path1120" d="M90.977 927.78H53.5v4.664c0 1.318.658 2.136 1.976 2.452l.476.079c.158 0 .316.026.474.079.21.052.447.105.71.158l2.373.394v41.511l-2.372.395c-.264.053-.5.107-.711.16a1.49 1.49 0 0 1-.474.079l-.476.079c-1.318.316-1.976 1.132-1.976 2.45v4.665h42.064v-15.101h-4.587c-.948 0-1.554.5-1.818 1.502a110.75 110.75 0 0 0-.553 5.06H70.184v-16.13h19.372v-8.222H70.184V936.24h18.422c.106 1.318.29 3.004.553 5.06.264 1.002.87 1.503 1.818 1.503h4.587c.948-.002 1.554-.501 1.818-1.503.263-2.056.449-3.742.554-5.06H109.4v40.878l-2.292.395c-.263.052-.502.105-.712.158a1.495 1.495 0 0 1-.474.079l-.474.079c-1.318.316-1.978 1.134-1.978 2.452v4.663h22.615v-4.663c0-1.318-.687-2.136-2.057-2.452l-.474-.08c-.158 0-.342-.025-.553-.078a5.545 5.545 0 0 0-.634-.158l-2.292-.395v-40.879h11.467c.105 1.318.291 3.004.555 5.06.263 1.002.87 1.5 1.818 1.503h4.586v-15.023z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:91.8929px;line-height:1.25;font-family:aleo;-inkscape-font-specification:&quot;aleo Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.97668"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect1118" y="860,362"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path1120"
+      d="M90.977 927.78H53.5v4.664c0 1.318.658 2.136 1.976 2.452l.476.079c.158 0 .316.026.474.079.21.052.447.105.71.158l2.373.394v41.511l-2.372.395c-.264.053-.5.107-.711.16a1.49 1.49 0 0 1-.474.079l-.476.079c-1.318.316-1.976 1.132-1.976 2.45v4.665h42.064v-15.101h-4.587c-.948 0-1.554.5-1.818 1.502a110.75 110.75 0 0 0-.553 5.06H70.184v-16.13h19.372v-8.222H70.184V936.24h18.422c.106 1.318.29 3.004.553 5.06.264 1.002.87 1.503 1.818 1.503h4.587c.948-.002 1.554-.501 1.818-1.503.263-2.056.449-3.742.554-5.06H109.4v40.878l-2.292.395c-.263.052-.502.105-.712.158a1.495 1.495 0 0 1-.474.079l-.474.079c-1.318.316-1.978 1.134-1.978 2.452v4.663h22.615v-4.663c0-1.318-.687-2.136-2.057-2.452l-.474-.08c-.158 0-.342-.025-.553-.078a5.545 5.545 0 0 0-.634-.158l-2.292-.395v-40.879h11.467c.105 1.318.291 3.004.555 5.06.263 1.002.87 1.5 1.818 1.503h4.586v-15.023z"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:91.8929px;line-height:1.25;font-family:aleo;-inkscape-font-specification:&quot;aleo Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.97668" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

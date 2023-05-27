@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><style id="style842">.cls-2{fill:#ff0211;fill-rule:evenodd}.cls-3{fill:#222}.cls-4{fill:#4dc9ff}.cls-5{fill:#fff}</style></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1085" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#acacff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="rect848" d="M43 660.862h182v49H43z" style="fill:#5e6df2"/><g id="g1170" transform="translate(0 4.405)"><g id="text1104" aria-label="M" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:71.1071px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fefefe;fill-opacity:1;stroke-width:1.77768" transform="matrix(.92104 0 0 .92104 7.58 79.518)"><path id="path1108" d="m112.932 929.697-16.976 36.887-16.8-36.887h-12.71v53.33H78.18v-31.82l14.399 31.82h6.755l14.488-31.731v31.731h11.733v-53.33z" style="fill:#fefefe;fill-opacity:1;stroke-width:1.77768"/></g><path id="path1112" d="m113.36 921.782 4.421-9.86 9.86 4.421-4.42 9.86z" style="fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:.137534;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <style id="style842">
+      .cls-2 {
+        fill: #ff0211;
+        fill-rule: evenodd
+      }
+
+      .cls-3 {
+        fill: #222
+      }
+
+      .cls-4 {
+        fill: #4dc9ff
+      }
+
+      .cls-5 {
+        fill: #fff
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect1085" y="860,362"
+      style="fill:#acacff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="rect848" d="M43 660.862h182v49H43z" style="fill:#5e6df2" />
+    <g id="g1170" transform="translate(0 4.405)">
+      <g id="text1104" aria-label="M"
+        style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:71.1071px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fefefe;fill-opacity:1;stroke-width:1.77768"
+        transform="matrix(.92104 0 0 .92104 7.58 79.518)">
+        <path id="path1108"
+          d="m112.932 929.697-16.976 36.887-16.8-36.887h-12.71v53.33H78.18v-31.82l14.399 31.82h6.755l14.488-31.731v31.731h11.733v-53.33z"
+          style="fill:#fefefe;fill-opacity:1;stroke-width:1.77768" />
+      </g>
+      <path id="path1112" d="m113.36 921.782 4.421-9.86 9.86 4.421-4.42 9.86z"
+        style="fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:.137534;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    </g>
+  </g>
+</svg>

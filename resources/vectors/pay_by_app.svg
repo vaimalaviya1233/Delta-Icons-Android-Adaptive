@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><defs><clipPath id="a" clipPathUnits="userSpaceOnUse"><rect width="72.75" height="166.5" x="99.5" y="14.5" rx="9.935" style="opacity:1;fill:#ff0019;fill-opacity:1;fill-rule:evenodd;stroke:none"/></clipPath></defs><rect width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:#9abeff;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1"/><rect width="152" height="152" x="20" y="20" clip-path="url(#a)" opacity=".63" rx="9.935" style="fill:#728dbe;fill-opacity:1;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none"/><rect width="10" height="152" x="91" y="20" rx="0" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"/><text xml:space="preserve" x="113.729" y="124" style="font-size:74.6667px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;fill:#fff;fill-opacity:1"><tspan x="113.729" y="124" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:74.6667px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;fill-opacity:1">P</tspan></text><g transform="translate(-.511 .253)"><rect width="37.477" height="16.617" x="36.77" y="66.822" rx="5.692" style="opacity:1;fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none"/><rect width="37.477" height="16.617" x="36.77" y="87.439" rx="5.692" style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none"/><rect width="37.477" height="16.617" x="36.77" y="108.056" rx="5.692" style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <defs>
+    <clipPath id="a" clipPathUnits="userSpaceOnUse">
+      <rect width="72.75" height="166.5" x="99.5" y="14.5" rx="9.935"
+        style="opacity:1;fill:#ff0019;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </clipPath>
+  </defs>
+  <rect width="100%" height="100%"
+    style="fill:#9abeff;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1" />
+  <rect width="100%" height="100%" clip-path="url(#a)" opacity=".63" rx="9.935"
+    style="fill:#728dbe;fill-opacity:1;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect width="10" height="152" x="91" y="20" rx="0"
+    style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" /><text xml:space="preserve"
+    x="113.729" y="124"
+    style="font-size:74.6667px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;fill:#fff;fill-opacity:1">
+    <tspan x="113.729" y="124"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:74.6667px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;fill-opacity:1">
+      P</tspan>
+  </text>
+  <g transform="translate(-.511 .253)">
+    <rect width="37.477" height="16.617" x="36.77" y="66.822" rx="5.692"
+      style="opacity:1;fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect width="37.477" height="16.617" x="36.77" y="87.439" rx="5.692"
+      style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect width="37.477" height="16.617" x="36.77" y="108.056" rx="5.692"
+      style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+</svg>

@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1054" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#83868c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g1102" transform="translate(.015 .028)"><path id="path1067" d="M101.953 936.052c-4.476.357-8.912 1.05-13.349 1.555-13.164 1.639-26.339 3.21-39.495 4.908-6.3 1.127-11.599 6.377-12.786 12.667-.711 3.472.088 6.985.476 10.442.479 4.121 2.587 8.032 5.847 10.612 3.454 2.818 8.096 4.13 12.51 3.427 14.1-1.712 28.195-3.47 42.292-5.21 3.026-.421 6.08-.674 9.087-1.207 6.054-1.367 11.04-6.527 12.15-12.64.684-3.463-.13-6.96-.507-10.406-.51-4.303-2.823-8.357-6.326-10.92-2.83-2.115-6.359-3.31-9.9-3.228z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:3.621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"/><path id="path1092" d="M111.023 897.393c-1.431.23-2.496 1.35-3.347 2.446L84.49 927.275l-36.463-8.44c-1.441.014-3.233.17-3.988 1.61-.498.726-1.102 1.824-.772 2.847.336 1.184.856 2.401 1.949 3.075l35.151 30.281-35.428 31.127c-.825 1.175-1.745 2.717-1.023 4.166.36 1.102 1.1 2.25 2.342 2.434 1.112.47 2.348.409 3.464-.004l35.157-8.637 24.537 28.26c1.176.842 2.74 1.78 4.196 1.03 1.175-.365 2.273-1.194 2.542-2.454.537-1.608.344-3.333.57-4.993l2.44-33.233 34.461-14.604c1.167-.862 2.54-2.065 2.273-3.684.023-1.226-.44-2.518-1.543-3.161-1.392-1.028-3.128-1.387-4.67-2.128l-30.761-12.556-3.24-37.283c-.461-1.373-1.173-3.048-2.79-3.3-.613-.15-1.232-.322-1.87-.235z" style="fill:#fff;fill-opacity:1;stroke-width:25.401;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="path1069" d="m111.699 901.275 3.452 39.717 36.912 15.064-36.707 15.556-2.92 39.76-26.138-30.103-38.717 9.51 38.88-34.161-39.336-33.883 38.84 8.99z" style="fill:#f9de81;fill-opacity:1;stroke-width:25.401;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><rect id="rect1071" width="74.667" height="29.657" x="-77.783" y="945.397" rx="12.141" ry="12.141" style="fill:#83868c;fill-opacity:1;stroke:none;stroke-width:3.621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" transform="rotate(-7.037)"/><text xml:space="preserve" id="text1075" x="-75.484" y="965.58" style="font-weight:700;font-size:14.278px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.356949" transform="rotate(-7.037)"><tspan id="tspan1073" x="-75.484" y="965.58" style="fill:#fff;fill-opacity:1;stroke-width:.356949">PODCAST</tspan></text></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect1054" y="860,362"
+      style="fill:#83868c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g1102" transform="translate(.015 .028)">
+      <path id="path1067"
+        d="M101.953 936.052c-4.476.357-8.912 1.05-13.349 1.555-13.164 1.639-26.339 3.21-39.495 4.908-6.3 1.127-11.599 6.377-12.786 12.667-.711 3.472.088 6.985.476 10.442.479 4.121 2.587 8.032 5.847 10.612 3.454 2.818 8.096 4.13 12.51 3.427 14.1-1.712 28.195-3.47 42.292-5.21 3.026-.421 6.08-.674 9.087-1.207 6.054-1.367 11.04-6.527 12.15-12.64.684-3.463-.13-6.96-.507-10.406-.51-4.303-2.823-8.357-6.326-10.92-2.83-2.115-6.359-3.31-9.9-3.228z"
+        style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:3.621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" />
+      <path id="path1092"
+        d="M111.023 897.393c-1.431.23-2.496 1.35-3.347 2.446L84.49 927.275l-36.463-8.44c-1.441.014-3.233.17-3.988 1.61-.498.726-1.102 1.824-.772 2.847.336 1.184.856 2.401 1.949 3.075l35.151 30.281-35.428 31.127c-.825 1.175-1.745 2.717-1.023 4.166.36 1.102 1.1 2.25 2.342 2.434 1.112.47 2.348.409 3.464-.004l35.157-8.637 24.537 28.26c1.176.842 2.74 1.78 4.196 1.03 1.175-.365 2.273-1.194 2.542-2.454.537-1.608.344-3.333.57-4.993l2.44-33.233 34.461-14.604c1.167-.862 2.54-2.065 2.273-3.684.023-1.226-.44-2.518-1.543-3.161-1.392-1.028-3.128-1.387-4.67-2.128l-30.761-12.556-3.24-37.283c-.461-1.373-1.173-3.048-2.79-3.3-.613-.15-1.232-.322-1.87-.235z"
+        style="fill:#fff;fill-opacity:1;stroke-width:25.401;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+      <path id="path1069"
+        d="m111.699 901.275 3.452 39.717 36.912 15.064-36.707 15.556-2.92 39.76-26.138-30.103-38.717 9.51 38.88-34.161-39.336-33.883 38.84 8.99z"
+        style="fill:#f9de81;fill-opacity:1;stroke-width:25.401;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+      <rect id="rect1071" width="74.667" height="29.657" x="-77.783" y="945.397" rx="12.141" ry="12.141"
+        style="fill:#83868c;fill-opacity:1;stroke:none;stroke-width:3.621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"
+        transform="rotate(-7.037)" /><text xml:space="preserve" id="text1075" x="-75.484" y="965.58"
+        style="font-weight:700;font-size:14.278px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.356949"
+        transform="rotate(-7.037)">
+        <tspan id="tspan1073" x="-75.484" y="965.58" style="fill:#fff;fill-opacity:1;stroke-width:.356949">PODCAST
+        </tspan>
+      </text>
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

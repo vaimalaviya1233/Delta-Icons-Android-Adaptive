@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#98dc9a" rx="9.935"/><text xml:space="preserve" x="59.205" y="117.981" fill="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" font-family="Now" font-size="59.407" font-weight="bold"><tspan x="59.205" y="117.981" font-weight="500">$_</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#98dc9a" /><text xml:space="preserve" x="59.205" y="117.981" fill="#56595b"
+    stroke-linecap="round" stroke-linejoin="round" stroke-width="12" font-family="Now" font-size="59.407"
+    font-weight="bold">
+    <tspan x="59.205" y="117.981" font-weight="500">$_</tspan>
+  </text>
+</svg>

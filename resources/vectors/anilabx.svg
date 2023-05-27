@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#ff837d;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M60 124c0 8 4 12 12 12h48c8 0 12-4 12-12s-24-32-24-40V64c0-4 4-8 4-8H80s4 4 4 8v20c0 8-24 32-24 40z" style="fill:#fff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><path d="M85.727 92c-2.286 0-4.377.663-6.211 1.596C72.576 104.02 60 118.202 60 124c0 8 4 12 12 12h48c8 0 12-4 12-12 0-4.818-8.68-15.423-15.605-24.857-2.826 2.243-6.775 4.857-9.97 4.857-8.477 0-12.22-12-20.698-12z" style="fill:#9abeff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><rect width="8" height="8" x="100" y="92" ry="4" style="opacity:1;vector-effect:none;fill:#9abeff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><rect width="4" height="4" x="88" y="80" ry="2" style="opacity:1;vector-effect:none;fill:#9abeff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><rect width="4" height="4" x="96" y="64" ry="2" style="opacity:1;vector-effect:none;fill:#9abeff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#ff837d;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path d="M60 124c0 8 4 12 12 12h48c8 0 12-4 12-12s-24-32-24-40V64c0-4 4-8 4-8H80s4 4 4 8v20c0 8-24 32-24 40z"
+    style="fill:#fff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+    d="M85.727 92c-2.286 0-4.377.663-6.211 1.596C72.576 104.02 60 118.202 60 124c0 8 4 12 12 12h48c8 0 12-4 12-12 0-4.818-8.68-15.423-15.605-24.857-2.826 2.243-6.775 4.857-9.97 4.857-8.477 0-12.22-12-20.698-12z"
+    style="fill:#9abeff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <rect width="8" height="8" x="100" y="92" ry="4"
+    style="opacity:1;vector-effect:none;fill:#9abeff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <rect width="4" height="4" x="88" y="80" ry="2"
+    style="opacity:1;vector-effect:none;fill:#9abeff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <rect width="4" height="4" x="96" y="64" ry="2"
+    style="opacity:1;vector-effect:none;fill:#9abeff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+</svg>

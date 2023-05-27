@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" fill="#728dbe" class="a"/><rect width="63.59" height="63.59" x="64.205" y="69.38" fill="#fff" ry="5.962"/><rect width="10.92" height="18.483" x="75.753" y="60.926" fill="#728dbe" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.792" ry="3.599"/><rect width="10.92" height="18.483" x="105.68" y="60.926" fill="#728dbe" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.792" ry="3.599"/><text xml:space="preserve" x="88.2" y="111.175" fill="#728dbe" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.181" font-family="Now" font-size="26.667" font-weight="bold"><tspan x="88.2" y="111.175">7</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" fill="#728dbe" class="a" />
+  <rect width="63.59" height="63.59" x="64.205" y="69.38" fill="#fff" ry="5.962" />
+  <rect width="10.92" height="18.483" x="75.753" y="60.926" fill="#728dbe" stroke="#fff" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="3.792" ry="3.599" />
+  <rect width="10.92" height="18.483" x="105.68" y="60.926" fill="#728dbe" stroke="#fff" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="3.792" ry="3.599" /><text xml:space="preserve" x="88.2" y="111.175"
+    fill="#728dbe" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.181" font-family="Now"
+    font-size="26.667" font-weight="bold">
+    <tspan x="88.2" y="111.175">7</tspan>
+  </text>
+</svg>

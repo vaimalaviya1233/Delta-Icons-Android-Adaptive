@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192"><defs><linearGradient id="a"><stop offset="0" style="stop-color:#98dc9a;stop-opacity:1"/><stop offset=".5" style="stop-color:#9abeff;stop-opacity:1"/><stop offset="1" style="stop-color:#bd9aff;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="160" x2="32" y1="160" y2="32" gradientUnits="userSpaceOnUse"/></defs><rect width="152" height="152" x="20" y="20" rx="10" style="fill:url(#b);stroke:none;opacity:1;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M80 60c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20zm0 8c6.648 0 12 5.352 12 12s-5.352 12-12 12-12-5.352-12-12 5.352-12 12-12z" style="opacity:.25;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><path d="M96 76c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20zm0 8c6.648 0 12 5.352 12 12s-5.352 12-12 12-12-5.352-12-12 5.352-12 12-12z" style="opacity:.5;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><path d="M112 92c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20zm0 8c6.648 0 12 5.352 12 12s-5.352 12-12 12-12-5.352-12-12 5.352-12 12-12z" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" style="stop-color:#98dc9a;stop-opacity:1" />
+      <stop offset=".5" style="stop-color:#9abeff;stop-opacity:1" />
+      <stop offset="1" style="stop-color:#bd9aff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="b" x1="160" x2="32" y1="160" y2="32" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect width="100%" height="100%"
+    style="fill:url(#b);stroke:none;opacity:1;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path
+    d="M80 60c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20zm0 8c6.648 0 12 5.352 12 12s-5.352 12-12 12-12-5.352-12-12 5.352-12 12-12z"
+    style="opacity:.25;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <path
+    d="M96 76c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20zm0 8c6.648 0 12 5.352 12 12s-5.352 12-12 12-12-5.352-12-12 5.352-12 12-12z"
+    style="opacity:.5;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <path
+    d="M112 92c-11.08 0-20 8.92-20 20s8.92 20 20 20 20-8.92 20-20-8.92-20-20-20zm0 8c6.648 0 12 5.352 12 12s-5.352 12-12 12-12-5.352-12-12 5.352-12 12-12z"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+</svg>

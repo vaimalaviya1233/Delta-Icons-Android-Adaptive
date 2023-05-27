@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect889" width="153" height="153" x="19.5" y="879.862" rx="10" ry="10" style="fill:#f9de82;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path887" d="M-20.53 967.022c-1.367 8.999-6.399 17.162-14.022 22.74-2.227 1.629-6.18 3.777-8.756 4.77a39.355 39.355 0 0 1-28.167 0c-2.575-.993-6.529-3.141-8.756-4.77-7.623-5.578-12.654-13.741-14.022-22.74-.414-2.728 1.862-4.981 4.624-4.981h64.476c2.761 0 5.038 2.253 4.623 4.98z" style="opacity:1;fill:#fefefe;fill-opacity:1;stroke-width:9.99998;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" transform="rotate(-9.09)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect889" width="100%" height="100%" y="860.362"
+      style="fill:#f9de82;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path887"
+      d="M-20.53 967.022c-1.367 8.999-6.399 17.162-14.022 22.74-2.227 1.629-6.18 3.777-8.756 4.77a39.355 39.355 0 0 1-28.167 0c-2.575-.993-6.529-3.141-8.756-4.77-7.623-5.578-12.654-13.741-14.022-22.74-.414-2.728 1.862-4.981 4.624-4.981h64.476c2.761 0 5.038 2.253 4.623 4.98z"
+      style="opacity:1;fill:#fefefe;fill-opacity:1;stroke-width:9.99998;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+      transform="rotate(-9.09)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

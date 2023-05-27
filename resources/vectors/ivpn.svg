@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#56595b;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><text xml:space="preserve" x="67.637" y="107.367" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:36.36494446px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:.90912366" transform="skewX(-9.792)"><tspan x="67.637" y="107.367" style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;stroke-width:.90912366;fill:#ff837d">IVPN</tspan></text><path d="M63.424 80.091H48.61l10.93 7.047z" style="fill:#ff837d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#56595b;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" /><text
+    xml:space="preserve" x="67.637" y="107.367"
+    style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:36.36494446px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:.90912366"
+    transform="skewX(-9.792)">
+    <tspan x="67.637" y="107.367"
+      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;stroke-width:.90912366;fill:#ff837d">
+      IVPN</tspan>
+  </text>
+  <path d="M63.424 80.091H48.61l10.93 7.047z"
+    style="fill:#ff837d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

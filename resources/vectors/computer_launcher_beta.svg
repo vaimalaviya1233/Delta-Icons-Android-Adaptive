@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect968" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path993" d="M55.392 909.472h81.216a6 6 45 0 1 6 6v53.26a6 6 135 0 1-6 6H55.392a6 6 45 0 1-6-6v-53.26a6 6 135 0 1 6-6z" style="opacity:1;fill:#fff;stroke-width:16.1448;stroke-linecap:round;stroke-linejoin:round;stop-color:#000;fill-opacity:1"/><path id="rect995" d="M81.508 119.26v7.916H67.115a3 3 0 0 0-3 3v.119a3 3 0 0 0 3 3h57.77a3 3 0 0 0 3-3v-.12a3 3 0 0 0-3-3h-14.393v-7.915H81.508z" style="opacity:1;fill:#fff;fill-opacity:1;stroke-width:4.17483;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="translate(0 860.362)"/><text xml:space="preserve" id="text1001" x="83.492" y="956.94" style="font-weight:700;font-size:33.1887px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:.829718;fill:#99bdfe;fill-opacity:1;opacity:1"><tspan id="tspan999" x="83.492" y="956.94" style="stroke-width:.829718;fill:#99bdfe;fill-opacity:1">11</tspan></text><path id="path1003" d="M104.734 1000.786a8.715 8.715 0 0 0-8.734 8.733v23.343h67.766a8.715 8.715 0 0 0 8.734-8.734v-23.342z" style="opacity:1;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.873388;stroke-opacity:1"/><text xml:space="preserve" id="text1007" x="110.822" y="1024.302" style="font-weight:700;font-size:18.3482px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;opacity:1;fill:#fff;fill-opacity:1;stroke-width:.458704"><tspan id="tspan1005" x="110.822" y="1024.302" style="fill:#fff;fill-opacity:1;stroke-width:.458704">BETA</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect968" y="860,362"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path993"
+      d="M55.392 909.472h81.216a6 6 45 0 1 6 6v53.26a6 6 135 0 1-6 6H55.392a6 6 45 0 1-6-6v-53.26a6 6 135 0 1 6-6z"
+      style="opacity:1;fill:#fff;stroke-width:16.1448;stroke-linecap:round;stroke-linejoin:round;stop-color:#000;fill-opacity:1" />
+    <path id="rect995"
+      d="M81.508 119.26v7.916H67.115a3 3 0 0 0-3 3v.119a3 3 0 0 0 3 3h57.77a3 3 0 0 0 3-3v-.12a3 3 0 0 0-3-3h-14.393v-7.915H81.508z"
+      style="opacity:1;fill:#fff;fill-opacity:1;stroke-width:4.17483;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"
+      transform="translate(0 860.362)" /><text xml:space="preserve" id="text1001" x="83.492" y="956.94"
+      style="font-weight:700;font-size:33.1887px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:.829718;fill:#99bdfe;fill-opacity:1;opacity:1">
+      <tspan id="tspan999" x="83.492" y="956.94" style="stroke-width:.829718;fill:#99bdfe;fill-opacity:1">11</tspan>
+    </text>
+    <path id="path1003"
+      d="M104.734 1000.786a8.715 8.715 0 0 0-8.734 8.733v23.343h67.766a8.715 8.715 0 0 0 8.734-8.734v-23.342z"
+      style="opacity:1;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.873388;stroke-opacity:1" />
+    <text xml:space="preserve" id="text1007" x="110.822" y="1024.302"
+      style="font-weight:700;font-size:18.3482px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;opacity:1;fill:#fff;fill-opacity:1;stroke-width:.458704">
+      <tspan id="tspan1005" x="110.822" y="1024.302" style="fill:#fff;fill-opacity:1;stroke-width:.458704">BETA</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

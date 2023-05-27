@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><defs><marker id="a" markerHeight="5.93" markerWidth="6.135" orient="auto-start-reverse" preserveAspectRatio="xMidYMid" refX="0" refY="0" style="overflow:visible" viewBox="0 0 6.135 5.93"><path d="M-.211-4.106 6.21-.894a1 1 90 0 1 0 1.788L-.21 4.106A1.236 1.236 31.717 0 1-2 3v-6A1.236 1.236 148.283 0 1-.211-4.106z" style="fill:context-stroke;fill-rule:evenodd;stroke:none" transform="scale(.7)"/></marker></defs><rect width="152" height="152" x="20" y="20" rx="10" style="display:inline;opacity:1;fill:#728dbe;fill-opacity:1;stroke:#728dbe;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><g transform="matrix(.99974 0 0 .99974 .031 .022)"><path d="M74.244 59.493v7.768H69.32c-3.644 0-6.728 2.69-6.728 6.334v52.135c0 3.645 3.084 6.782 6.728 6.782h53.455c3.643 0 6.62-3.137 6.62-6.782V73.595c0-3.644-2.975-6.334-6.618-6.334h-4.256v-7.768h-7.768v7.768H81.235v-7.768Z" style="opacity:1;fill:#fff;fill-opacity:1;stroke-width:.776794"/><circle cx="95.993" cy="89.552" r="12.406" style="opacity:1;fill:#728dbe;fill-opacity:1;stroke-width:.642672;stop-color:#000"/><path d="M76.432 122.053c1.565-9.39 9.727-16.547 19.561-16.547s17.996 7.158 19.561 16.547c.3 1.796-1.207 3.286-3.03 3.286H79.462c-1.823 0-3.33-1.49-3.03-3.286z" style="opacity:1;fill:#728dbe;fill-opacity:1;stroke-width:.642672;stop-color:#000"/></g><path d="M140.206 126.225c-19.312 36.53-92.641 29.98-92.641-19.592" style="opacity:1;fill:none;stroke:#fff;stroke-width:1.82919;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#a)" transform="matrix(.98581 0 0 .98581 1.369 2.38)"/><path d="M51.78 68.02c19.312-36.531 92.641-29.981 92.641 19.591" style="opacity:1;fill:none;stroke:#fff;stroke-width:1.82919;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#a)" transform="matrix(.98581 0 0 .98581 1.369 2.38)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <marker id="a" markerHeight="5.93" markerWidth="6.135" orient="auto-start-reverse" preserveAspectRatio="xMidYMid"
+      refX="0" refY="0" style="overflow:visible" viewBox="0 0 6.135 5.93">
+      <path
+        d="M-.211-4.106 6.21-.894a1 1 90 0 1 0 1.788L-.21 4.106A1.236 1.236 31.717 0 1-2 3v-6A1.236 1.236 148.283 0 1-.211-4.106z"
+        style="fill:context-stroke;fill-rule:evenodd;stroke:none" transform="scale(.7)" />
+    </marker>
+  </defs>
+  <rect width="100%" height="100%"
+    style="display:inline;opacity:1;fill:#728dbe;fill-opacity:1;stroke:#728dbe;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <g transform="matrix(.99974 0 0 .99974 .031 .022)">
+    <path
+      d="M74.244 59.493v7.768H69.32c-3.644 0-6.728 2.69-6.728 6.334v52.135c0 3.645 3.084 6.782 6.728 6.782h53.455c3.643 0 6.62-3.137 6.62-6.782V73.595c0-3.644-2.975-6.334-6.618-6.334h-4.256v-7.768h-7.768v7.768H81.235v-7.768Z"
+      style="opacity:1;fill:#fff;fill-opacity:1;stroke-width:.776794" />
+    <circle cx="95.993" cy="89.552" r="12.406"
+      style="opacity:1;fill:#728dbe;fill-opacity:1;stroke-width:.642672;stop-color:#000" />
+    <path
+      d="M76.432 122.053c1.565-9.39 9.727-16.547 19.561-16.547s17.996 7.158 19.561 16.547c.3 1.796-1.207 3.286-3.03 3.286H79.462c-1.823 0-3.33-1.49-3.03-3.286z"
+      style="opacity:1;fill:#728dbe;fill-opacity:1;stroke-width:.642672;stop-color:#000" />
+  </g>
+  <path d="M140.206 126.225c-19.312 36.53-92.641 29.98-92.641-19.592"
+    style="opacity:1;fill:none;stroke:#fff;stroke-width:1.82919;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#a)"
+    transform="matrix(.98581 0 0 .98581 1.369 2.38)" />
+  <path d="M51.78 68.02c19.312-36.531 92.641-29.981 92.641 19.591"
+    style="opacity:1;fill:none;stroke:#fff;stroke-width:1.82919;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#a)"
+    transform="matrix(.98581 0 0 .98581 1.369 2.38)" />
+</svg>

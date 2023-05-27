@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="fill:#fff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M96 167c39.212 0 71-31.788 71-71s-31.788-71-71-71-71 31.788-71 71 31.788 71 71 71z" style="clip-rule:evenodd;fill-rule:evenodd;stroke:#98dc9a;stroke-width:10;fill:#fff"/><text xml:space="preserve" x="51.454" y="119.523" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:26.63424301px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#98dc9a;fill-opacity:1;stroke:none;stroke-width:.665856"><tspan x="51.454" y="119.523" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:.665856;fill:#98dc9a">SHRED</tspan></text><path d="m94.56 73.134-3.38-4.962-11.36.144 9.204 6.904zM92.331 67.525l3.596 4.89 3.811-4.962-3.667-10.21zM95.136 74.429l-5.681 1.653-3.595 10.859 9.563-6.472ZM97.293 73.134l3.38-4.962 11.361.144-9.204 6.904zM96.718 74.429l5.68 1.653 3.596 10.859-9.564-6.472z" style="fill:#98dc9a;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#fff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path d="M96 167c39.212 0 71-31.788 71-71s-31.788-71-71-71-71 31.788-71 71 31.788 71 71 71z"
+    style="clip-rule:evenodd;fill-rule:evenodd;stroke:#98dc9a;stroke-width:10;fill:#fff" /><text xml:space="preserve"
+    x="51.454" y="119.523"
+    style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:26.63424301px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#98dc9a;fill-opacity:1;stroke:none;stroke-width:.665856">
+    <tspan x="51.454" y="119.523"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:.665856;fill:#98dc9a">
+      SHRED</tspan>
+  </text>
+  <path
+    d="m94.56 73.134-3.38-4.962-11.36.144 9.204 6.904zM92.331 67.525l3.596 4.89 3.811-4.962-3.667-10.21zM95.136 74.429l-5.681 1.653-3.595 10.859 9.563-6.472ZM97.293 73.134l3.38-4.962 11.361.144-9.204 6.904zM96.718 74.429l5.68 1.653 3.596 10.859-9.564-6.472z"
+    style="fill:#98dc9a;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

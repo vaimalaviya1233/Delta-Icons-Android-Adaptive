@@ -1,1 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clip0"><path id="rect917" fill="#fff" d="M0 0h192v192H0z"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><circle id="circle981" cx="96" cy="956.362" r="88" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g993" style="fill:none" transform="matrix(.43976 0 0 .43976 53.783 899.83)"><g id="g991" clip-path="url(#clip0)"><path id="path983" fill="#9abeff" fill-rule="evenodd" d="M58.5 111c25.129 0 45.5-20.371 45.5-45.5S83.629 20 58.5 20 13 40.371 13 65.5 33.371 111 58.5 111Z" clip-rule="evenodd"/><path id="path985" fill="#f9de81" fill-rule="evenodd" d="M133.5 171c14.636 0 26.5-11.864 26.5-26.5S148.136 118 133.5 118 107 129.864 107 144.5s11.864 26.5 26.5 26.5z" clip-rule="evenodd"/><path id="path987" fill="#ff837d" fill-rule="evenodd" d="M133.5 112c12.979 0 23.5-10.521 23.5-23.5S146.479 65 133.5 65 110 75.521 110 88.5s10.521 23.5 23.5 23.5z" clip-rule="evenodd"/><path id="path989" fill="#98dc9a" fill-rule="evenodd" d="M167 74c6.627 0 12-5.373 12-12s-5.373-12-12-12-12 5.373-12 12 5.373 12 12 12z" clip-rule="evenodd"/></g></g><text xml:space="preserve" id="text997" x="69.283" y="1010.705" style="font-weight:700;font-size:30.9091px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#82858b;fill-opacity:1;stroke-width:.772727"><tspan id="tspan995" x="69.283" y="1010.705" style="fill:#82858b;fill-opacity:1;stroke-width:.772727">GO</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clip0">
+      <path id="rect917" fill="#fff" d="M0 0h192v192H0z" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle981" y="860,362"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g993" style="fill:none" transform="matrix(.43976 0 0 .43976 53.783 899.83)">
+      <g id="g991" clip-path="url(#clip0)">
+        <path id="path983" fill="#9abeff" fill-rule="evenodd"
+          d="M58.5 111c25.129 0 45.5-20.371 45.5-45.5S83.629 20 58.5 20 13 40.371 13 65.5 33.371 111 58.5 111Z"
+          clip-rule="evenodd" />
+        <path id="path985" fill="#f9de81" fill-rule="evenodd"
+          d="M133.5 171c14.636 0 26.5-11.864 26.5-26.5S148.136 118 133.5 118 107 129.864 107 144.5s11.864 26.5 26.5 26.5z"
+          clip-rule="evenodd" />
+        <path id="path987" fill="#ff837d" fill-rule="evenodd"
+          d="M133.5 112c12.979 0 23.5-10.521 23.5-23.5S146.479 65 133.5 65 110 75.521 110 88.5s10.521 23.5 23.5 23.5z"
+          clip-rule="evenodd" />
+        <path id="path989" fill="#98dc9a" fill-rule="evenodd"
+          d="M167 74c6.627 0 12-5.373 12-12s-5.373-12-12-12-12 5.373-12 12 5.373 12 12 12z" clip-rule="evenodd" />
+      </g>
+    </g><text xml:space="preserve" id="text997" x="69.283" y="1010.705"
+      style="font-weight:700;font-size:30.9091px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#82858b;fill-opacity:1;stroke-width:.772727">
+      <tspan id="tspan995" x="69.283" y="1010.705" style="fill:#82858b;fill-opacity:1;stroke-width:.772727">GO</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

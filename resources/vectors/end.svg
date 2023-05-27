@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#56595b" rx="9.935"/><text xml:space="preserve" x="44.177" y="113.022" stroke-width=".863" font-family="Now" font-size="46.006" font-weight="500" style="line-height:1.25"><tspan x="44.177" y="113.022" fill="#fff" stroke-width=".744" font-weight="bold">END.</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#56595b" /><text xml:space="preserve" x="44.177" y="113.022"
+    stroke-width=".863" font-family="Now" font-size="46.006" font-weight="500" style="line-height:1.25">
+    <tspan x="44.177" y="113.022" fill="#fff" stroke-width=".744" font-weight="bold">END.</tspan>
+  </text>
+</svg>

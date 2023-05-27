@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1001" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path1169" d="M41.133 943.302c1.172-.552 2.69-.276 3.586.62 1.38 1.863 1.449 4.14 1.38 6.278-.07 1.724-.345 3.448-1.035 5.035-2.345-2.69-5.31-4.829-8.69-6.346.827-2.276 2.345-4.483 4.759-5.587" style="fill:#fff;fill-opacity:1;stroke-width:.689738"/><path id="path1171" d="M146.732 943.302c1.172-.552 2.69-.276 3.586.62 1.38 1.863 1.449 4.14 1.38 6.278-.07 1.724-.345 3.448-1.035 5.035-2.345-2.69-5.31-4.829-8.69-6.346.827-2.276 2.345-4.483 4.759-5.587" style="fill:#fff;fill-opacity:1;stroke-width:.689738"/><path id="path1173" d="M44.03 943.026c3.448 2 6.138 4.828 8.414 7.932 1.863 2.552 2.07 6.208.276 8.829-2.207 3.449-5.449 6.139-8.828 8.622-1.863 1.31-4.139 2.897-6.622 2.276-2.345-.552-3.793-2.483-4.828-4.415 4.966-2.759 9.863-6.414 11.863-11.656.69-1.656.966-3.449 1.035-5.173.069-2.207 0-4.552-1.31-6.415" class="st5" style="stroke-width:.689738;fill:#f8c18c;fill-opacity:1"/><path id="path1175" d="M149.628 943.026c3.45 2 6.14 4.828 8.415 7.932 1.863 2.552 2.07 6.208.276 8.829-2.207 3.449-5.449 6.139-8.828 8.622-1.863 1.31-4.139 2.897-6.622 2.276-2.345-.552-3.794-2.483-4.828-4.415 4.966-2.759 9.863-6.414 11.863-11.656.69-1.656.966-3.449 1.035-5.173.069-2.207 0-4.552-1.31-6.415" class="st5" style="stroke-width:.689738;fill:#f8c18c;fill-opacity:1"/><text xml:space="preserve" id="text1179" x="53.012" y="971.034" style="font-weight:700;font-size:39.1254px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.978136"><tspan id="tspan1177" x="53.012" y="971.034" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;fill:#fff;fill-opacity:1;stroke-width:.978136">BCP</tspan></text></g><style id="style853" type="text/css">.st5{fill:#f67d31}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect1001" y="860,362"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path1169"
+      d="M41.133 943.302c1.172-.552 2.69-.276 3.586.62 1.38 1.863 1.449 4.14 1.38 6.278-.07 1.724-.345 3.448-1.035 5.035-2.345-2.69-5.31-4.829-8.69-6.346.827-2.276 2.345-4.483 4.759-5.587"
+      style="fill:#fff;fill-opacity:1;stroke-width:.689738" />
+    <path id="path1171"
+      d="M146.732 943.302c1.172-.552 2.69-.276 3.586.62 1.38 1.863 1.449 4.14 1.38 6.278-.07 1.724-.345 3.448-1.035 5.035-2.345-2.69-5.31-4.829-8.69-6.346.827-2.276 2.345-4.483 4.759-5.587"
+      style="fill:#fff;fill-opacity:1;stroke-width:.689738" />
+    <path id="path1173"
+      d="M44.03 943.026c3.448 2 6.138 4.828 8.414 7.932 1.863 2.552 2.07 6.208.276 8.829-2.207 3.449-5.449 6.139-8.828 8.622-1.863 1.31-4.139 2.897-6.622 2.276-2.345-.552-3.793-2.483-4.828-4.415 4.966-2.759 9.863-6.414 11.863-11.656.69-1.656.966-3.449 1.035-5.173.069-2.207 0-4.552-1.31-6.415"
+      class="st5" style="stroke-width:.689738;fill:#f8c18c;fill-opacity:1" />
+    <path id="path1175"
+      d="M149.628 943.026c3.45 2 6.14 4.828 8.415 7.932 1.863 2.552 2.07 6.208.276 8.829-2.207 3.449-5.449 6.139-8.828 8.622-1.863 1.31-4.139 2.897-6.622 2.276-2.345-.552-3.794-2.483-4.828-4.415 4.966-2.759 9.863-6.414 11.863-11.656.69-1.656.966-3.449 1.035-5.173.069-2.207 0-4.552-1.31-6.415"
+      class="st5" style="stroke-width:.689738;fill:#f8c18c;fill-opacity:1" /><text xml:space="preserve" id="text1179"
+      x="53.012" y="971.034"
+      style="font-weight:700;font-size:39.1254px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.978136">
+      <tspan id="tspan1177" x="53.012" y="971.034"
+        style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;fill:#fff;fill-opacity:1;stroke-width:.978136">
+        BCP</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st5 {
+      fill: #f67d31
+    }
+  </style>
+</svg>

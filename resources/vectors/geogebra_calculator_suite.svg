@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle965" cx="96" cy="956.362" r="88" style="fill:#d8d8d8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><ellipse id="ellipse951" cx="-406.62" cy="871.895" rx="34.49" ry="28.472" style="fill:none;fill-opacity:.997085;stroke:#979797;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-30.67)"/><circle id="circle953" cx="-431.087" cy="851.827" r="7.104" style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-30.67)"/><circle id="circle955" cx="-393.102" cy="845.701" r="7.104" style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-30.67)"/><circle id="circle957" cx="-372.13" cy="878.999" r="7.104" style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-30.67)"/><circle id="circle959" cx="-401.516" cy="900.054" r="7.104" style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-30.67)"/><circle id="circle961" cx="-436.527" cy="886.076" r="7.104" style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-30.67)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle965" y="860,362"
+      style="fill:#d8d8d8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <ellipse id="ellipse951" cx="-406.62" cy="871.895" rx="34.49" ry="28.472"
+      style="fill:none;fill-opacity:.997085;stroke:#979797;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"
+      transform="rotate(-30.67)" />
+    <circle id="circle953" cx="-431.087" cy="851.827" r="7.104"
+      style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"
+      transform="rotate(-30.67)" />
+    <circle id="circle955" cx="-393.102" cy="845.701" r="7.104"
+      style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"
+      transform="rotate(-30.67)" />
+    <circle id="circle957" cx="-372.13" cy="878.999" r="7.104"
+      style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"
+      transform="rotate(-30.67)" />
+    <circle id="circle959" cx="-401.516" cy="900.054" r="7.104"
+      style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"
+      transform="rotate(-30.67)" />
+    <circle id="circle961" cx="-436.527" cy="886.076" r="7.104"
+      style="fill:#ababff;fill-opacity:1;stroke:#56595b;stroke-width:6.249;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000"
+      transform="rotate(-30.67)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

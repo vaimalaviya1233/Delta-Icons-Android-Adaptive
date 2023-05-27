@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect2135" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g2148" style="fill:#fe827c;fill-opacity:1" transform="translate(59.492 935.62) scale(.73383)"><path id="path2137" d="M95.64 13.38A25.24 25.24 0 0 0 73.27 0H2.43A2.44 2.44 0 0 0 .72 4.16l15.43 15.52a7.26 7.26 0 0 0 5.15 2.14h49.94a6.44 6.44 0 1 1 .13 12.88H36.94a2.44 2.44 0 0 0-1.72 4.16l15.44 15.53a7.25 7.25 0 0 0 5.15 2.14h15.57c20.26 0 35.58-21.66 24.26-43.16" style="fill:#fe827c;fill-opacity:1"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect2135" y="860,362"
+      style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g2148" style="fill:#fe827c;fill-opacity:1" transform="translate(59.492 935.62) scale(.73383)">
+      <path id="path2137"
+        d="M95.64 13.38A25.24 25.24 0 0 0 73.27 0H2.43A2.44 2.44 0 0 0 .72 4.16l15.43 15.52a7.26 7.26 0 0 0 5.15 2.14h49.94a6.44 6.44 0 1 1 .13 12.88H36.94a2.44 2.44 0 0 0-1.72 4.16l15.44 15.53a7.25 7.25 0 0 0 5.15 2.14h15.57c20.26 0 35.58-21.66 24.26-43.16"
+        style="fill:#fe827c;fill-opacity:1" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

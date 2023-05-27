@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect937" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><g id="g1096" transform="translate(0 -1.075)"><path id="path957" d="m52.119 963.153 6.81-1.825-18.197-26.182-7.148 1.915-2.667 31.773 6.81-1.825.324-5.936 10.818-2.899zm-13.801-7.845.639-12.491 6.798 10.498z" style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1"/><path id="path959" d="M67.558 937.896c-2.222.596-3.869 2.176-4.768 4.229l-.634-2.367-6.182 1.657 5.176 19.318 6.182-1.656-3.002-11.205c-.466-1.739.633-3.431 2.42-3.91 1.787-.479 3.392.489 3.858 2.228l3.002 11.204 6.134-1.643-3.274-12.22c-1.139-4.25-5.097-6.657-8.912-5.635z" style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1"/><path id="path972" d="m85.153 954.301 6.134-1.643-5.177-19.319-6.133 1.644z" style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1"/><path id="path963" d="M114.888 925.214c-2.753.738-4.541 2.563-5.18 5.012-1.654-1.731-3.948-2.566-6.411-1.906-2.222.595-3.724 2.137-4.527 4.164l-.634-2.367-6.182 1.657 5.177 19.318 6.182-1.656-3.003-11.205c-.375-1.4.054-3.276 1.938-3.78 1.69-.453 3.163.601 3.616 2.292l3.003 11.204 6.182-1.656-3.003-11.205c-.375-1.4.054-3.275 1.938-3.78 1.69-.453 3.212.589 3.665 2.28l3.002 11.204 6.134-1.644-3.274-12.219c-1.204-4.491-4.373-6.851-8.623-5.713z" style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1"/><text xml:space="preserve" id="text929" x="-220.24" y="981.711" style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1" transform="rotate(-15)"><tspan id="tspan927" x="-220.24" y="981.711">Lovers</tspan></text></g><path id="path1072" d="M84.436 913.149c1.084 0 1.522 4.225 2.4 4.863.877.637 5.031-.252 5.367.78.335 1.031-3.549 2.753-3.884 3.785-.335 1.031 1.794 4.707.917 5.345-.878.637-3.716-2.524-4.8-2.524-1.085 0-3.923 3.161-4.8 2.524-.878-.638 1.252-4.314.916-5.345-.335-1.032-4.218-2.754-3.883-3.785.335-1.032 4.49-.143 5.367-.78.877-.638 1.315-4.863 2.4-4.863z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:7.77506;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stop-color:#000" transform="scale(1.20503) rotate(15 679.086 777.022)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect937" width="100%" height="100%"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <g id="g1096" transform="translate(0 -1.075)">
+      <path id="path957"
+        d="m52.119 963.153 6.81-1.825-18.197-26.182-7.148 1.915-2.667 31.773 6.81-1.825.324-5.936 10.818-2.899zm-13.801-7.845.639-12.491 6.798 10.498z"
+        style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1" />
+      <path id="path959"
+        d="M67.558 937.896c-2.222.596-3.869 2.176-4.768 4.229l-.634-2.367-6.182 1.657 5.176 19.318 6.182-1.656-3.002-11.205c-.466-1.739.633-3.431 2.42-3.91 1.787-.479 3.392.489 3.858 2.228l3.002 11.204 6.134-1.643-3.274-12.22c-1.139-4.25-5.097-6.657-8.912-5.635z"
+        style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1" />
+      <path id="path972" d="m85.153 954.301 6.134-1.643-5.177-19.319-6.133 1.644z"
+        style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1" />
+      <path id="path963"
+        d="M114.888 925.214c-2.753.738-4.541 2.563-5.18 5.012-1.654-1.731-3.948-2.566-6.411-1.906-2.222.595-3.724 2.137-4.527 4.164l-.634-2.367-6.182 1.657 5.177 19.318 6.182-1.656-3.003-11.205c-.375-1.4.054-3.276 1.938-3.78 1.69-.453 3.163.601 3.616 2.292l3.003 11.204 6.182-1.656-3.003-11.205c-.375-1.4.054-3.275 1.938-3.78 1.69-.453 3.212.589 3.665 2.28l3.002 11.204 6.134-1.644-3.274-12.219c-1.204-4.491-4.373-6.851-8.623-5.713z"
+        style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1" />
+      <text xml:space="preserve" id="text929" x="-220.24" y="981.711"
+        style="font-weight:700;font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1"
+        transform="rotate(-15)">
+        <tspan id="tspan927" x="-220.24" y="981.711">Lovers</tspan>
+      </text>
+    </g>
+    <path id="path1072"
+      d="M84.436 913.149c1.084 0 1.522 4.225 2.4 4.863.877.637 5.031-.252 5.367.78.335 1.031-3.549 2.753-3.884 3.785-.335 1.031 1.794 4.707.917 5.345-.878.637-3.716-2.524-4.8-2.524-1.085 0-3.923 3.161-4.8 2.524-.878-.638 1.252-4.314.916-5.345-.335-1.032-4.218-2.754-3.883-3.785.335-1.032 4.49-.143 5.367-.78.877-.638 1.315-4.863 2.4-4.863z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:7.77506;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stop-color:#000"
+      transform="scale(1.20503) rotate(15 679.086 777.022)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

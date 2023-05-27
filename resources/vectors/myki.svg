@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg15" width="100%" height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 192 192"><g id="g4" style="fill:#56595b;fill-opacity:1" transform="matrix(.99346 0 0 .99346 8.575 8.575)"><path id="path2" d="M164.5 21.5c0-5.519-4.481-10-10-10h-133c-5.519 0-10 4.481-10 10v133c0 5.519 4.481 10 10 10h133c5.519 0 10-4.481 10-10z" style="fill:#56595b;fill-opacity:1"/></g><g id="g12" transform="matrix(.65517 0 0 .65517 33.103 29.673)"><g id="g8" transform="translate(0 -2.028)"><path id="path6" d="M96.649 104.37a.924.924 0 0 1-1.298 0L83.55 92.731a.924.924 0 0 1 .649-1.583h23.602a.924.924 0 0 1 .649 1.583z" style="fill:#73ada4"/></g><path id="path10" d="M112.085 89.977a1.516 1.516 0 0 0-.451 1.08v14.65c0 .402-.16.788-.444 1.072l-14.118 14.118a1.517 1.517 0 0 1-2.144 0L80.81 106.779a1.517 1.517 0 0 1-.444-1.072v-14.65c0-.406-.162-.795-.451-1.08L51.081 61.54a1.517 1.517 0 0 0-2.581 1.08v31.247c0 .402.16.788.444 1.072l45.984 45.984a1.517 1.517 0 0 0 2.144 0l45.984-45.984c.284-.284.444-.67.444-1.072V62.62a1.517 1.517 0 0 0-2.581-1.08l-28.834 28.437z" style="fill:#73ada4"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg15" width="100%" height="100%"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1"
+  viewBox="0 0 192 192">
+  <g id="g4" style="fill:#56595b;fill-opacity:1" transform="matrix(.99346 0 0 .99346 8.575 8.575)">
+    <rect width="100%" height="100%" id="path2" style="fill:#56595b;fill-opacity:1" />
+  </g>
+  <g id="g12" transform="matrix(.65517 0 0 .65517 33.103 29.673)">
+    <g id="g8" transform="translate(0 -2.028)">
+      <path id="path6"
+        d="M96.649 104.37a.924.924 0 0 1-1.298 0L83.55 92.731a.924.924 0 0 1 .649-1.583h23.602a.924.924 0 0 1 .649 1.583z"
+        style="fill:#73ada4" />
+    </g>
+    <path id="path10"
+      d="M112.085 89.977a1.516 1.516 0 0 0-.451 1.08v14.65c0 .402-.16.788-.444 1.072l-14.118 14.118a1.517 1.517 0 0 1-2.144 0L80.81 106.779a1.517 1.517 0 0 1-.444-1.072v-14.65c0-.406-.162-.795-.451-1.08L51.081 61.54a1.517 1.517 0 0 0-2.581 1.08v31.247c0 .402.16.788.444 1.072l45.984 45.984a1.517 1.517 0 0 0 2.144 0l45.984-45.984c.284-.284.444-.67.444-1.072V62.62a1.517 1.517 0 0 0-2.581-1.08l-28.834 28.437z"
+      style="fill:#73ada4" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

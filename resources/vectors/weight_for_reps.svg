@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="153" height="153" x="19.5" y="19.5" rx="10" style="fill:#56595b"/><path d="M112.21 58.06h28.16v13.42h-28.16z" style="fill:#fff" transform="rotate(-45 126.3 64.775)"/><path d="M110.31 61.57h5.67v32.7h-5.67z" style="fill:#fff" transform="rotate(-45 113.147 77.923)"/><path d="M104.78 50.57h6.05v65.4h-6.05z" style="fill:#fff" transform="rotate(-45 107.797 83.259)"/><path d="M95.65 42.73h10.29v95.08H95.65z" style="fill:#fff" transform="rotate(-45 100.791 90.27)"/><path d="M90.18 86.73h6.76v21.55h-6.76z" style="fill:#fff" transform="rotate(-45 93.567 97.503)"/><path d="M46.22 114.37h52.67v8.29H46.22z" style="fill:#fff" transform="rotate(-45 72.548 118.51)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" style="fill:#56595b" />
+  <path d="M112.21 58.06h28.16v13.42h-28.16z" style="fill:#fff" transform="rotate(-45 126.3 64.775)" />
+  <path d="M110.31 61.57h5.67v32.7h-5.67z" style="fill:#fff" transform="rotate(-45 113.147 77.923)" />
+  <path d="M104.78 50.57h6.05v65.4h-6.05z" style="fill:#fff" transform="rotate(-45 107.797 83.259)" />
+  <path d="M95.65 42.73h10.29v95.08H95.65z" style="fill:#fff" transform="rotate(-45 100.791 90.27)" />
+  <path d="M90.18 86.73h6.76v21.55h-6.76z" style="fill:#fff" transform="rotate(-45 93.567 97.503)" />
+  <path d="M46.22 114.37h52.67v8.29H46.22z" style="fill:#fff" transform="rotate(-45 72.548 118.51)" />
+</svg>

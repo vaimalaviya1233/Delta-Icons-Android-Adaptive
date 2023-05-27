@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1059" width="152" height="152" x="20" y="880.363" rx="9.935" ry="9.935" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path1061" d="M20 976.438v45.989a9.914 9.914 0 0 0 9.935 9.935h132.13a9.914 9.914 0 0 0 9.935-9.935v-45.99z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path1063" d="m116.21 880.362 55.79 55.79v-45.854a9.914 9.914 0 0 0-9.935-9.935z" style="fill:#708cbd;fill-opacity:1;stroke:none;stroke-width:3.65963;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><text xml:space="preserve" id="text1067" x="40.001" y="962.865" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:30.3313px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.758281"><tspan id="tspan1065" x="40.001" y="962.865" style="fill:#fff;fill-opacity:1;stroke-width:.758281">Danske</tspan></text><path id="path1069" d="M127.795 880.362 172 924.567V914.05l-33.687-33.688Z" style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:4.51712;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="path1071" d="M166.385 881.342a9.953 9.953 0 0 0-4.32-.98h-5.221l-11.9 11.9-8.417 8.417 5.26 5.26 8.418-8.417z" style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:4.51712;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><text xml:space="preserve" id="text1075" x="56.475" y="1012.767" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:30.3313px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#54688c;fill-opacity:1;stroke-width:.758281"><tspan id="tspan1073" x="56.475" y="1012.767" style="fill:#54688c;fill-opacity:1;stroke-width:.758281">Bank</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1059" width="100%" height="100%"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path1061"
+      d="M20 976.438v45.989a9.914 9.914 0 0 0 9.935 9.935h132.13a9.914 9.914 0 0 0 9.935-9.935v-45.99z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path1063" d="m116.21 880.362 55.79 55.79v-45.854a9.914 9.914 0 0 0-9.935-9.935z"
+      style="fill:#708cbd;fill-opacity:1;stroke:none;stroke-width:3.65963;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <text xml:space="preserve" id="text1067" x="40.001" y="962.865"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:30.3313px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.758281">
+      <tspan id="tspan1065" x="40.001" y="962.865" style="fill:#fff;fill-opacity:1;stroke-width:.758281">Danske</tspan>
+    </text>
+    <path id="path1069" d="M127.795 880.362 172 924.567V914.05l-33.687-33.688Z"
+      style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:4.51712;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="path1071"
+      d="M166.385 881.342a9.953 9.953 0 0 0-4.32-.98h-5.221l-11.9 11.9-8.417 8.417 5.26 5.26 8.418-8.417z"
+      style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:4.51712;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <text xml:space="preserve" id="text1075" x="56.475" y="1012.767"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:30.3313px;line-height:1.25;font-family:&quot;Now alt&quot;;-inkscape-font-specification:&quot;Now alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#54688c;fill-opacity:1;stroke-width:.758281">
+      <tspan id="tspan1073" x="56.475" y="1012.767" style="fill:#54688c;fill-opacity:1;stroke-width:.758281">Bank
+      </tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

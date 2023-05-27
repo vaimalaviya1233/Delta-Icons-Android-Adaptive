@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192"><defs><linearGradient id="a"><stop offset="0" style="stop-color:#bd9aff;stop-opacity:1"/><stop offset=".5" style="stop-color:#728dbe;stop-opacity:1"/><stop offset="1" style="stop-color:#96dfd3;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="32" x2="160" y1="160" y2="32" gradientUnits="userSpaceOnUse"/></defs><rect width="152" height="152" x="20" y="20" rx="10" style="opacity:1;isolation:isolate;fill:url(#b);fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"/><path d="M98 60c-14.404 0-26 11.596-26 26s11.596 26 26 26 26-11.596 26-26-11.596-26-26-26zm-.236 12h.472C105.861 72 112 78.14 112 85.764v.472C112 93.861 105.86 100 98.236 100h-.472A13.734 13.734 0 0 1 84 86.236v-.472C84 78.139 90.14 72 97.764 72z" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/><path d="M72 84h12v48H72z" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" style="stop-color:#bd9aff;stop-opacity:1" />
+      <stop offset=".5" style="stop-color:#728dbe;stop-opacity:1" />
+      <stop offset="1" style="stop-color:#96dfd3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="b" x1="32" x2="160" y1="160" y2="32" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect width="100%" height="100%"
+    style="opacity:1;isolation:isolate;fill:url(#b);fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round" />
+  <path
+    d="M98 60c-14.404 0-26 11.596-26 26s11.596 26 26 26 26-11.596 26-26-11.596-26-26-26zm-.236 12h.472C105.861 72 112 78.14 112 85.764v.472C112 93.861 105.86 100 98.236 100h-.472A13.734 13.734 0 0 1 84 86.236v-.472C84 78.139 90.14 72 97.764 72z"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+  <path d="M72 84h12v48H72z"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+</svg>

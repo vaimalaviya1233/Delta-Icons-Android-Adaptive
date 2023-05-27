@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192"><defs><path id="a" d="M.476.723h144.311v146.554H.476z"/><path id="b" d="M.476.723h144.311v146.554H.476z"/><path id="c" d="M.476.723h144.311v146.554H.476z"/><clipPath id="d" clip-path="url(#SVGID_23_)"><use xlink:href="#SVGID_15_" width="100%" height="100%" overflow="visible" style="overflow:visible"/></clipPath><clipPath id="e"><use xlink:href="#c" width="100%" height="100%" overflow="visible" style="overflow:visible"/></clipPath></defs><circle cx="96" cy="96" r="36" style="fill:none;fill-rule:evenodd;stroke:#b1b5bd"/><path d="M.816.723C.702.723.589.727.475.727v146.544c.114 0 .227.004.341.004 40.47 0 73.277-32.807 73.277-73.275S41.286.723.816.723" clip-path="url(#d)" style="fill:#550fed" transform="translate(-85.677 161.235)"/><rect width="153" height="153" x="19.5" y="19.5" rx="10" style="fill:#bd9afe;fill-rule:evenodd;stroke:none;fill-opacity:1"/><path d="M-55.707 141.735c-.114 0-.227.004-.34.004v146.544c.113 0 .226.004.34.004 40.47 0 73.277-32.807 73.277-73.275s-32.807-73.277-73.277-73.277" style="fill:#fff" transform="matrix(.62528 0 0 .62528 85.928 -38.442)"/><g style="opacity:.3;fill:#fff"><path d="m.475 147.271 71.035.004c40.47 0 73.277-32.808 73.277-73.275C144.787 33.533 111.98.724 71.51.724L.475.728Z" clip-path="url(#e)" style="fill:#fff" transform="matrix(.62528 0 0 .62528 50.585 49.73)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192">
+  <defs>
+    <path id="a" d="M.476.723h144.311v146.554H.476z" />
+    <path id="b" d="M.476.723h144.311v146.554H.476z" />
+    <path id="c" d="M.476.723h144.311v146.554H.476z" />
+    <clipPath id="d" clip-path="url(#SVGID_23_)">
+      <use xlink:href="#SVGID_15_" width="100%" height="100%" overflow="visible" style="overflow:visible" />
+    </clipPath>
+    <clipPath id="e">
+      <use xlink:href="#c" width="100%" height="100%" overflow="visible" style="overflow:visible" />
+    </clipPath>
+  </defs>
+  <circle cx="96" cy="96" r="36" style="fill:none;fill-rule:evenodd;stroke:#b1b5bd" />
+  <path
+    d="M.816.723C.702.723.589.727.475.727v146.544c.114 0 .227.004.341.004 40.47 0 73.277-32.807 73.277-73.275S41.286.723.816.723"
+    clip-path="url(#d)" style="fill:#550fed" transform="translate(-85.677 161.235)" />
+  <rect width="100%" height="100%" style="fill:#bd9afe;fill-rule:evenodd;stroke:none;fill-opacity:1" />
+  <path
+    d="M-55.707 141.735c-.114 0-.227.004-.34.004v146.544c.113 0 .226.004.34.004 40.47 0 73.277-32.807 73.277-73.275s-32.807-73.277-73.277-73.277"
+    style="fill:#fff" transform="matrix(.62528 0 0 .62528 85.928 -38.442)" />
+  <g style="opacity:.3;fill:#fff">
+    <path d="m.475 147.271 71.035.004c40.47 0 73.277-32.808 73.277-73.275C144.787 33.533 111.98.724 71.51.724L.475.728Z"
+      clip-path="url(#e)" style="fill:#fff" transform="matrix(.62528 0 0 .62528 50.585 49.73)" />
+  </g>
+</svg>

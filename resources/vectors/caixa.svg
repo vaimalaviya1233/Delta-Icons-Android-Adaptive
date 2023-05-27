@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1003" width="153" height="153" x="19.5" y="879.862" rx="10" ry="10" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g968" style="stroke-width:.984455" transform="translate(-163.736 -29.626) scale(1.01579)"><path id="polygon934" d="m552.753 408.431 42.867 71.012a1.693 1.693 119.441 0 1-1.45 2.568h-61.097a5.315 5.315 29.44 0 1-4.55-2.568l-42.87-71.012a1.693 1.693 119.44 0 1 1.45-2.568h61.1a5.315 5.315 29.441 0 1 4.55 2.568z" style="fill:#fff;fill-opacity:1;stroke-width:7.31115" transform="matrix(.36695 0 0 .36695 64.449 823.9)"/><path id="polygon936" d="m562.296 391.816 56.501-71.127a1.448 1.448 64.231 0 0-1.134-2.349h-63.352a6.215 6.215 154.231 0 0-4.866 2.349l-56.502 71.127a1.448 1.448 64.231 0 0 1.134 2.349h63.353a6.214 6.214 154.231 0 0 4.866-2.349z" style="fill:#f8c18c;fill-opacity:1;stroke-width:7.31115" transform="matrix(.36695 0 0 .36695 64.449 823.9)"/><path id="polygon938" d="m492.929 480.117 56.53-72.037a1.46 1.46 64.061 0 0-1.148-2.36h-63.353a6.168 6.168 154.061 0 0-4.852 2.36l-56.529 72.037a1.46 1.46 64.061 0 0 1.148 2.36h63.352a6.168 6.168 154.061 0 0 4.852-2.36z" style="fill:#f8c18c;fill-opacity:1;stroke-width:7.31115" transform="matrix(.36695 0 0 .36695 64.449 823.9)"/><path id="polygon940" d="m512.965 320.014 41.34 71.553a1.731 1.731 119.992 0 1-1.5 2.598h-58.728a5.198 5.198 29.992 0 1-4.5-2.598l-41.34-71.553a1.731 1.731 119.992 0 1 1.499-2.598h58.728a5.198 5.198 29.992 0 1 4.5 2.598z" style="fill:#fff;fill-opacity:1;stroke-width:7.31115" transform="matrix(.36695 0 0 .36695 64.449 823.9)"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1003" width="100%" height="100%" y="860.362"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g968" style="stroke-width:.984455" transform="translate(-163.736 -29.626) scale(1.01579)">
+      <path id="polygon934"
+        d="m552.753 408.431 42.867 71.012a1.693 1.693 119.441 0 1-1.45 2.568h-61.097a5.315 5.315 29.44 0 1-4.55-2.568l-42.87-71.012a1.693 1.693 119.44 0 1 1.45-2.568h61.1a5.315 5.315 29.441 0 1 4.55 2.568z"
+        style="fill:#fff;fill-opacity:1;stroke-width:7.31115" transform="matrix(.36695 0 0 .36695 64.449 823.9)" />
+      <path id="polygon936"
+        d="m562.296 391.816 56.501-71.127a1.448 1.448 64.231 0 0-1.134-2.349h-63.352a6.215 6.215 154.231 0 0-4.866 2.349l-56.502 71.127a1.448 1.448 64.231 0 0 1.134 2.349h63.353a6.214 6.214 154.231 0 0 4.866-2.349z"
+        style="fill:#f8c18c;fill-opacity:1;stroke-width:7.31115" transform="matrix(.36695 0 0 .36695 64.449 823.9)" />
+      <path id="polygon938"
+        d="m492.929 480.117 56.53-72.037a1.46 1.46 64.061 0 0-1.148-2.36h-63.353a6.168 6.168 154.061 0 0-4.852 2.36l-56.529 72.037a1.46 1.46 64.061 0 0 1.148 2.36h63.352a6.168 6.168 154.061 0 0 4.852-2.36z"
+        style="fill:#f8c18c;fill-opacity:1;stroke-width:7.31115" transform="matrix(.36695 0 0 .36695 64.449 823.9)" />
+      <path id="polygon940"
+        d="m512.965 320.014 41.34 71.553a1.731 1.731 119.992 0 1-1.5 2.598h-58.728a5.198 5.198 29.992 0 1-4.5-2.598l-41.34-71.553a1.731 1.731 119.992 0 1 1.499-2.598h58.728a5.198 5.198 29.992 0 1 4.5 2.598z"
+        style="fill:#fff;fill-opacity:1;stroke-width:7.31115" transform="matrix(.36695 0 0 .36695 64.449 823.9)" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

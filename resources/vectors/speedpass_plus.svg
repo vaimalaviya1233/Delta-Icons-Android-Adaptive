@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect3719" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><text xml:space="preserve" id="text3707" x="43.095" y="977.09" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:62.8131px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.57034"><tspan id="tspan3705" x="43.095" y="977.09" style="fill:#fff;fill-opacity:1;stroke-width:1.57034">sp</tspan></text><text xml:space="preserve" id="text3711" x="96.849" y="955.656" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:62.8131px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.57034"><tspan id="tspan3709" x="96.849" y="955.656" style="fill:#fff;fill-opacity:1;stroke-width:1.57034">+</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect3719" width="100%" height="100%"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" /><text
+      xml:space="preserve" id="text3707" x="43.095" y="977.09"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:62.8131px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.57034">
+      <tspan id="tspan3705" x="43.095" y="977.09" style="fill:#fff;fill-opacity:1;stroke-width:1.57034">sp</tspan>
+    </text><text xml:space="preserve" id="text3711" x="96.849" y="955.656"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:62.8131px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.57034">
+      <tspan id="tspan3709" x="96.849" y="955.656" style="fill:#fff;fill-opacity:1;stroke-width:1.57034">+</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

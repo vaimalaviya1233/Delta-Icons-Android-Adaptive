@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#f8c18c" rx="9.935"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.906" d="M85.47 52.358V80.68s-42.742 56.026-22.137 60.55c4.735 1.04 46.012.962 62.566.64 24.234-4.092-10.914-48.425-19.107-61.19V51.705M75.378 49.916h40.041"/><text xml:space="preserve" x="12.691" y="145.594" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.614" font-family="Now" font-size="20.509" transform="rotate(-25.864)"><tspan x="12.691" y="145.594">x</tspan></text><text xml:space="preserve" x="101.938" y="92.101" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.46" font-family="Now" font-size="24.265" transform="rotate(7.22)"><tspan x="101.938" y="92.101">m</tspan></text><text xml:space="preserve" x="86.556" y="132.919" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.118" font-family="Now" font-size="18.301"><tspan x="86.556" y="132.919">a</tspan></text><text xml:space="preserve" x="90.351" y="113.519" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.906" font-family="Now" font-size="17.362" transform="rotate(2.555)"><tspan x="90.351" y="113.519">i</tspan></text><text xml:space="preserve" x="125.632" y="118.903" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.906" font-family="Now" font-size="17.362" transform="rotate(3.96)"><tspan x="125.632" y="118.903">i</tspan></text><text xml:space="preserve" x="72.873" y="144.23" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.906" font-family="Now" font-size="17.362" transform="rotate(-15.367)"><tspan x="72.873" y="144.23">i</tspan></text><text xml:space="preserve" x="91.492" y="120.233" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.906" font-family="Now" font-size="17.362"><tspan x="91.492" y="120.233">o</tspan></text><text xml:space="preserve" x="141.927" y="88.066" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.141" font-family="Now" font-size="22.85" transform="rotate(20.157)"><tspan x="141.927" y="88.066">u</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#f8c18c" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.906"
+    d="M85.47 52.358V80.68s-42.742 56.026-22.137 60.55c4.735 1.04 46.012.962 62.566.64 24.234-4.092-10.914-48.425-19.107-61.19V51.705M75.378 49.916h40.041" />
+  <text xml:space="preserve" x="12.691" y="145.594" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="4.614" font-family="Now" font-size="20.509" transform="rotate(-25.864)">
+    <tspan x="12.691" y="145.594">x</tspan>
+  </text><text xml:space="preserve" x="101.938" y="92.101" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="5.46" font-family="Now" font-size="24.265" transform="rotate(7.22)">
+    <tspan x="101.938" y="92.101">m</tspan>
+  </text><text xml:space="preserve" x="86.556" y="132.919" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="4.118" font-family="Now" font-size="18.301">
+    <tspan x="86.556" y="132.919">a</tspan>
+  </text><text xml:space="preserve" x="90.351" y="113.519" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="3.906" font-family="Now" font-size="17.362" transform="rotate(2.555)">
+    <tspan x="90.351" y="113.519">i</tspan>
+  </text><text xml:space="preserve" x="125.632" y="118.903" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="3.906" font-family="Now" font-size="17.362" transform="rotate(3.96)">
+    <tspan x="125.632" y="118.903">i</tspan>
+  </text><text xml:space="preserve" x="72.873" y="144.23" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="3.906" font-family="Now" font-size="17.362" transform="rotate(-15.367)">
+    <tspan x="72.873" y="144.23">i</tspan>
+  </text><text xml:space="preserve" x="91.492" y="120.233" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="3.906" font-family="Now" font-size="17.362">
+    <tspan x="91.492" y="120.233">o</tspan>
+  </text><text xml:space="preserve" x="141.927" y="88.066" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="5.141" font-family="Now" font-size="22.85" transform="rotate(20.157)">
+    <tspan x="141.927" y="88.066">u</tspan>
+  </text>
+</svg>

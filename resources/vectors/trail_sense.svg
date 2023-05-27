@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><circle id="circle8" cx="96" cy="96" r="88" class="a" style="fill:#56595b;fill-opacity:1;stroke:none;opacity:1"/><g id="g2562" transform="matrix(1.17142 0 0 1.06085 -16.828 -.451)"><path id="path2521-3" d="M90.685 55.412H38.44L51.5 32.79l13.062-22.623 13.062 22.623Z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:10" transform="matrix(.52286 0 0 -1 62.56 146.331)"/><path id="path2521" d="M90.685 55.412H38.44L51.5 32.79l13.062-22.623 13.062 22.623Z" style="opacity:1;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:10" transform="matrix(.52286 0 0 1 62.56 35.507)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" id="circle8" class="a" style="fill:#56595b;fill-opacity:1;stroke:none;opacity:1" />
+  <g id="g2562" transform="matrix(1.17142 0 0 1.06085 -16.828 -.451)">
+    <path id="path2521-3" d="M90.685 55.412H38.44L51.5 32.79l13.062-22.623 13.062 22.623Z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:10"
+      transform="matrix(.52286 0 0 -1 62.56 146.331)" />
+    <path id="path2521" d="M90.685 55.412H38.44L51.5 32.79l13.062-22.623 13.062 22.623Z"
+      style="opacity:1;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:10"
+      transform="matrix(.52286 0 0 1 62.56 35.507)" />
+  </g>
+</svg>

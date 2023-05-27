@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1131" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path1059" d="M54.77 971.223h7.596v-34.526h-7.595z" style="font-weight:700;font-size:165.734px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.15086"/><path id="path1061" d="M97.956 913.862 82.33 929.441l5.33 5.33 6.528-6.508v31.279l-16.975-22.844h-7.826v34.525h7.596V948.32L93.9 971.223h7.825v-42.96l6.528 6.508 5.33-5.33z" style="font-weight:700;font-size:165.734px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.15086"/><path id="path1063" d="M108.573 971.223h11.394c9.494 0 17.262-7.71 17.262-17.263 0-9.552-7.768-17.263-17.262-17.263h-11.394zm7.596-6.732V943.43h3.74c5.467 0 9.725 4.546 9.725 10.53 0 5.985-4.258 10.53-9.725 10.53z" style="font-weight:700;font-size:165.734px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.15086"/><text xml:space="preserve" id="text1077" x="55.518" y="991.77" style="font-weight:700;font-size:23.6395px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.590987"><tspan id="tspan1075" x="55.518" y="991.77" style="fill:#fff;fill-opacity:1;stroke-width:.590987">money</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1131" width="100%" height="100%"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path1059" d="M54.77 971.223h7.596v-34.526h-7.595z"
+      style="font-weight:700;font-size:165.734px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.15086" />
+    <path id="path1061"
+      d="M97.956 913.862 82.33 929.441l5.33 5.33 6.528-6.508v31.279l-16.975-22.844h-7.826v34.525h7.596V948.32L93.9 971.223h7.825v-42.96l6.528 6.508 5.33-5.33z"
+      style="font-weight:700;font-size:165.734px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.15086" />
+    <path id="path1063"
+      d="M108.573 971.223h11.394c9.494 0 17.262-7.71 17.262-17.263 0-9.552-7.768-17.263-17.262-17.263h-11.394zm7.596-6.732V943.43h3.74c5.467 0 9.725 4.546 9.725 10.53 0 5.985-4.258 10.53-9.725 10.53z"
+      style="font-weight:700;font-size:165.734px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.15086" />
+    <text xml:space="preserve" id="text1077" x="55.518" y="991.77"
+      style="font-weight:700;font-size:23.6395px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.590987">
+      <tspan id="tspan1075" x="55.518" y="991.77" style="fill:#fff;fill-opacity:1;stroke-width:.590987">money</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

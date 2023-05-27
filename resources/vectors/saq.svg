@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1006" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="rect1002" fill="#fff" stroke="#7a003c" stroke-linecap="square" d="M79.154 985.935h33.692v6.927H79.154z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.260415;stroke-miterlimit:4;stroke-dasharray:none"/><path id="polygon1004" fill="#fff" stroke="#7a003c" stroke-linecap="square" d="M145.25 114.5h121.46v122h-50v52h101.769v-226H93.48v226h101.77v-52h-50z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.999997;stroke-miterlimit:4;stroke-dasharray:none" transform="translate(41.366 903.284) scale(.26524)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1006" width="100%" height="100%"
+      style="fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="rect1002" fill="#fff" stroke="#7a003c" stroke-linecap="square" d="M79.154 985.935h33.692v6.927H79.154z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.260415;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path id="polygon1004" fill="#fff" stroke="#7a003c" stroke-linecap="square"
+      d="M145.25 114.5h121.46v122h-50v52h101.769v-226H93.48v226h101.77v-52h-50z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.999997;stroke-miterlimit:4;stroke-dasharray:none"
+      transform="translate(41.366 903.284) scale(.26524)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath988" clipPathUnits="userSpaceOnUse"><rect id="rect990" width="360" height="360" x="-234.64" y="184.362" rx="23.529" ry="23.529" style="opacity:.534606;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.35294;stroke-opacity:1"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1301" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path1303" d="M150.525 304.83c-16.566 0-94.975 4.001-222.827-57.57-146.202-70.408-168.953-49.297-168.953-49.297s380.305-345.664 391.78 106.868z" clip-path="url(#clipPath988)" style="fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" transform="translate(119.07 802.52) scale(.42222)"/><path id="path1305" d="M44.927 880.362c13.592 4.1 29.659 10.023 46.04 18.232 38.457 19.27 59.645 20.551 81.033 20.684v-11.54c-23.107.01-43.22.935-67.747-10.786a339.626 339.626 0 0 0-41.601-16.59Z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.422222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><path id="path1307" d="M84.903 880.362c10.899 4.02 24.274 8.476 40.461 12.262 6.395 1.495 18.834 3.747 31.919 2.333 5.502-.594 10.35-1.215 14.717-.03v-4.63a9.906 9.906 0 0 0-4.14-8.077c-28.33 5.462-47.517 1.769-58.057-1.858z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.422222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><text xml:space="preserve" id="text1311" x="51.449" y="952.631" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:29.1266px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.728164"><tspan id="tspan1309" x="51.449" y="952.631" style="fill:#fff;fill-opacity:1;stroke-width:.728164">Touch</tspan></text><text xml:space="preserve" id="text1315" x="49.052" y="1003.531" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:23.5085px;line-height:1.25;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:.587713"><tspan id="tspan1313" x="49.052" y="1003.531" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold Italic&quot;;fill:#f9de81;fill-opacity:1;stroke-width:.587713">eWallet</tspan></text><path id="path1317" d="M62.7 964.246h3.205l2.33-8.738h-4.37z" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:68.9841px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.728164"/><path id="path1319" d="M78.739 955.508c-1.675 0-3.313.801-4.588 2.076l.365-1.784h-4.66l-2.913 14.563h4.66l1.675-8.447c.29-1.31 1.565-2.293 2.912-2.293s2.112.983 1.82 2.293l-1.674 8.447h4.624l1.857-9.211c.619-3.204-1.202-5.644-4.078-5.644z" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:68.9841px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.728164"/><text xml:space="preserve" id="text1323" x="84.072" y="977.645" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:29.1266px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.728164"><tspan id="tspan1321" x="84.072" y="977.645" style="fill:#fff;fill-opacity:1;stroke-width:.728164">GO</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath988" clipPathUnits="userSpaceOnUse">
+      <rect id="rect990" width="360" height="360" x="-234.64" y="184.362" rx="23.529" ry="23.529"
+        style="opacity:.534606;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.35294;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1301" width="100%" height="100%"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path1303"
+      d="M150.525 304.83c-16.566 0-94.975 4.001-222.827-57.57-146.202-70.408-168.953-49.297-168.953-49.297s380.305-345.664 391.78 106.868z"
+      clip-path="url(#clipPath988)"
+      style="fill:#ff837d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+      transform="translate(119.07 802.52) scale(.42222)" />
+    <path id="path1305"
+      d="M44.927 880.362c13.592 4.1 29.659 10.023 46.04 18.232 38.457 19.27 59.645 20.551 81.033 20.684v-11.54c-23.107.01-43.22.935-67.747-10.786a339.626 339.626 0 0 0-41.601-16.59Z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.422222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path id="path1307"
+      d="M84.903 880.362c10.899 4.02 24.274 8.476 40.461 12.262 6.395 1.495 18.834 3.747 31.919 2.333 5.502-.594 10.35-1.215 14.717-.03v-4.63a9.906 9.906 0 0 0-4.14-8.077c-28.33 5.462-47.517 1.769-58.057-1.858z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.422222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text xml:space="preserve" id="text1311" x="51.449" y="952.631"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:29.1266px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.728164">
+      <tspan id="tspan1309" x="51.449" y="952.631" style="fill:#fff;fill-opacity:1;stroke-width:.728164">Touch</tspan>
+    </text><text xml:space="preserve" id="text1315" x="49.052" y="1003.531"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:23.5085px;line-height:1.25;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:.587713">
+      <tspan id="tspan1313" x="49.052" y="1003.531"
+        style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold Italic&quot;;fill:#f9de81;fill-opacity:1;stroke-width:.587713">
+        eWallet</tspan>
+    </text>
+    <path id="path1317" d="M62.7 964.246h3.205l2.33-8.738h-4.37z"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:68.9841px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.728164" />
+    <path id="path1319"
+      d="M78.739 955.508c-1.675 0-3.313.801-4.588 2.076l.365-1.784h-4.66l-2.913 14.563h4.66l1.675-8.447c.29-1.31 1.565-2.293 2.912-2.293s2.112.983 1.82 2.293l-1.674 8.447h4.624l1.857-9.211c.619-3.204-1.202-5.644-4.078-5.644z"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:68.9841px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.728164" />
+    <text xml:space="preserve" id="text1323" x="84.072" y="977.645"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:29.1266px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.728164">
+      <tspan id="tspan1321" x="84.072" y="977.645" style="fill:#fff;fill-opacity:1;stroke-width:.728164">GO</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

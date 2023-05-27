@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg21" width="100%" height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1" viewBox="0 0 192 192"><g id="g4" style="fill:#545859;fill-opacity:1" transform="translate(8 8)"><circle id="circle2" cx="88" cy="88" r="88" style="fill:#545859;fill-opacity:1"/></g><g id="g18" transform="matrix(.85517 0 0 .85517 9.416 15.995)"><path id="path6" d="m144.665 134.018 12.422 6.228-2.482-10.705-11.111 3.306" style="fill:#fcecdc"/><path id="path8" d="m55.979 58.253-19.924 7.971 30.471 5.985z" style="fill:#fcecdc"/><path id="path10" d="m123.264 143.659 31.341-14.118-40.537 1.392 9.196 12.726" style="fill:#f9de81"/><path id="path12" d="m115.98 94.7 32.702-46.571-38.761 5.853-3.752 50.528" style="fill:#f9de81"/><path id="path14" d="M70.823 106.268 55.979 58.253l37.072 27.299Z" style="fill:#f9de81"/><path id="path16" d="m109.921 53.982-39.098 52.286 52.441 37.391z" style="fill:#fdf5d9"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg21" width="100%" height="100%"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" version="1.1"
+  viewBox="0 0 192 192">
+  <g id="g4" style="fill:#545859;fill-opacity:1">
+    <circle id="circle2" cx="88" cy="88" r="88" style="fill:#545859;fill-opacity:1" />
+  </g>
+  <g id="g18" transform="matrix(.85517 0 0 .85517 9.416 15.995)">
+    <path id="path6" d="m144.665 134.018 12.422 6.228-2.482-10.705-11.111 3.306" style="fill:#fcecdc" />
+    <path id="path8" d="m55.979 58.253-19.924 7.971 30.471 5.985z" style="fill:#fcecdc" />
+    <path id="path10" d="m123.264 143.659 31.341-14.118-40.537 1.392 9.196 12.726" style="fill:#f9de81" />
+    <path id="path12" d="m115.98 94.7 32.702-46.571-38.761 5.853-3.752 50.528" style="fill:#f9de81" />
+    <path id="path14" d="M70.823 106.268 55.979 58.253l37.072 27.299Z" style="fill:#f9de81" />
+    <path id="path16" d="m109.921 53.982-39.098 52.286 52.441 37.391z" style="fill:#fdf5d9" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

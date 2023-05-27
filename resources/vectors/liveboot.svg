@@ -1,1 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg14" width="192" height="192" version="1.1"><rect id="rect2" width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:#8c72bd;stroke:#b1b5bd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1"/><rect id="rect840" width="152" height="152" x="219.765" y="20" opacity=".63" rx="9.935" style="opacity:1;fill:#8c72bd;fill-opacity:1;stroke:#b1b5bd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"/><g id="g860" style="fill:#fff;fill-opacity:1;stroke-width:.507334" transform="translate(201.091 3.941) scale(1.97109)"><rect id="rect842" width="58.062" height="3.409" x="19" y="21" rx="0" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect844" width="58.062" height="3.409" x="19" y="45" rx="0" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect846" width="58.062" height="3.409" x="19" y="63" rx="0" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect848" width="58.062" height="3.409" x="19" y="69" rx="0" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect850" width="38.818" height="3.409" x="19" y="27" rx="0" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect852" width="38.818" height="3.409" x="19" y="33" rx="0" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect854" width="38.818" height="3.409" x="19" y="39" rx="0" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect856" width="27.931" height="3.409" x="19" y="51" rx="0" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect858" width="27.931" height="3.409" x="19" y="57" rx="0" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/></g><g id="g880" style="stroke-width:1.34642" transform="translate(24.7 26.896) scale(.74271)"><rect id="rect969" width="114.445" height="10" x="38.777" y="43.694" rx="5" ry="5" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect969-5" width="114.445" height="10" x="38.777" y="88.043" rx="5" ry="5" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect969-5-11-2" width="76.514" height="10" x="38.777" y="65.869" rx="5" ry="5" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect871" width="55.055" height="10" x="38.777" y="110.218" rx="5" ry="5" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/><rect id="rect873" width="114.445" height="10" x="38.777" y="132.393" rx="5" ry="5" style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0"/></g><style id="style3024" type="text/css">.st0{fill:#1d1d1b}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg14" width="192" height="192" version="1.1">
+  <rect id="rect2" width="100%" height="100%" opacity=" .63" rx="9.935"
+    style="fill:#8c72bd;stroke:#b1b5bd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1" />
+  <rect id="rect840" width="152" height="152" x="219.765" y="20" opacity=".63" rx="9.935"
+    style="opacity:1;fill:#8c72bd;fill-opacity:1;stroke:#b1b5bd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+  <g id="g860" style="fill:#fff;fill-opacity:1;stroke-width:.507334"
+    transform="translate(201.091 3.941) scale(1.97109)">
+    <rect id="rect842" width="58.062" height="3.409" x="19" y="21" rx="0"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect844" width="58.062" height="3.409" x="19" y="45" rx="0"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect846" width="58.062" height="3.409" x="19" y="63" rx="0"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect848" width="58.062" height="3.409" x="19" y="69" rx="0"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect850" width="38.818" height="3.409" x="19" y="27" rx="0"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect852" width="38.818" height="3.409" x="19" y="33" rx="0"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect854" width="38.818" height="3.409" x="19" y="39" rx="0"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect856" width="27.931" height="3.409" x="19" y="51" rx="0"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect858" width="27.931" height="3.409" x="19" y="57" rx="0"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+  </g>
+  <g id="g880" style="stroke-width:1.34642" transform="translate(24.7 26.896) scale(.74271)">
+    <rect id="rect969" width="114.445" height="10" x="38.777" y="43.694" rx="5" ry="5"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect969-5" width="114.445" height="10" x="38.777" y="88.043" rx="5" ry="5"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect969-5-11-2" width="76.514" height="10" x="38.777" y="65.869" rx="5" ry="5"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect871" width="55.055" height="10" x="38.777" y="110.218" rx="5" ry="5"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+    <rect id="rect873" width="114.445" height="10" x="38.777" y="132.393" rx="5" ry="5"
+      style="fill:#fff;fill-opacity:1;stroke:#ba6561;stroke-width:0" />
+  </g>
+  <style id="style3024" type="text/css">
+    .st0 {
+      fill: #1d1d1b
+    }
+  </style>
+</svg>

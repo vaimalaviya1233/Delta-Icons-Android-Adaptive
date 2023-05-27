@@ -1,1 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><circle cx="95.738" cy="97.806" style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><circle cx="95.738" cy="97.806" style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><circle cx="95.738" cy="97.806" style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><circle cx="95.738" cy="97.806" style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><circle cx="95.738" cy="97.806" style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><circle cx="95.738" cy="97.806" style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><circle cx="95.738" cy="97.806" style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><circle cx="95.738" cy="97.806" style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><rect width="152" height="152" x="20" y="20" ry="12.374" style="fill:#56595b;fill-opacity:1;stroke-width:14.6079;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><g transform="matrix(2.91367 0 0 2.91367 -363.804 -961.793)"><path d="m110.52 293.931-2.523-1.426-.028-2.899 2.497-1.473 2.524 1.426.028 2.899z" style="fill:#54688c;fill-opacity:1;stroke-width:3.86501;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" transform="matrix(1 0 0 .80722 47.511 124.48)"/><rect width="5.124" height="26.688" x="-30.908" y="378.846" ry="2.609" style="fill:#99bdfe;fill-opacity:1;stroke-width:4.16145;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" transform="matrix(.879 -.47682 .4532 .89141 0 0)"/><rect width="5.187" height="26.819" x="-311.909" y="232.536" ry="2.622" style="fill:#54688c;fill-opacity:1;stroke-width:4.19743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" transform="matrix(-.8853 -.46502 -.4513 .89237 0 0)"/><path d="m147.602 350.887 5.415-.363a2.435 2.435 0 0 1 2.598 2.272c.06 1.002.17 2.119.148 2.603-2.496.34-5.22.217-7.835.357-1.35.073-2.508-.923-2.598-2.272a2.435 2.435 0 0 1 2.271-2.598z" style="fill:#99bdfe;fill-opacity:1;stroke-width:4.27142;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/><path d="m167.988 350.887-5.415-.363a2.435 2.435 0 0 0-2.598 2.272c-.06 1.002-.17 2.119-.149 2.603 2.497.34 5.22.217 7.836.357 1.35.073 2.507-.923 2.598-2.272a2.435 2.435 0 0 0-2.272-2.598z" style="fill:#54688c;fill-opacity:1;stroke-width:4.27142;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <circle cx="95.738" cy="97.806"
+    style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <circle cx="95.738" cy="97.806"
+    style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <circle cx="95.738" cy="97.806"
+    style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <circle cx="95.738" cy="97.806"
+    style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <circle cx="95.738" cy="97.806"
+    style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <circle cx="95.738" cy="97.806"
+    style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <circle cx="95.738" cy="97.806"
+    style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <circle cx="95.738" cy="97.806"
+    style="opacity:1;fill:#000;fill-opacity:1;stroke-width:14.9075;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <rect width="100%" height="100%" ry="12.374"
+    style="fill:#56595b;fill-opacity:1;stroke-width:14.6079;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <g transform="matrix(2.91367 0 0 2.91367 -363.804 -961.793)">
+    <path d="m110.52 293.931-2.523-1.426-.028-2.899 2.497-1.473 2.524 1.426.028 2.899z"
+      style="fill:#54688c;fill-opacity:1;stroke-width:3.86501;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+      transform="matrix(1 0 0 .80722 47.511 124.48)" />
+    <rect width="5.124" height="26.688" x="-30.908" y="378.846" ry="2.609"
+      style="fill:#99bdfe;fill-opacity:1;stroke-width:4.16145;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+      transform="matrix(.879 -.47682 .4532 .89141 0 0)" />
+    <rect width="5.187" height="26.819" x="-311.909" y="232.536" ry="2.622"
+      style="fill:#54688c;fill-opacity:1;stroke-width:4.19743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+      transform="matrix(-.8853 -.46502 -.4513 .89237 0 0)" />
+    <path
+      d="m147.602 350.887 5.415-.363a2.435 2.435 0 0 1 2.598 2.272c.06 1.002.17 2.119.148 2.603-2.496.34-5.22.217-7.835.357-1.35.073-2.508-.923-2.598-2.272a2.435 2.435 0 0 1 2.271-2.598z"
+      style="fill:#99bdfe;fill-opacity:1;stroke-width:4.27142;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+    <path
+      d="m167.988 350.887-5.415-.363a2.435 2.435 0 0 0-2.598 2.272c-.06 1.002-.17 2.119-.149 2.603 2.497.34 5.22.217 7.836.357 1.35.073 2.507-.923 2.598-2.272a2.435 2.435 0 0 0-2.272-2.598z"
+      style="fill:#54688c;fill-opacity:1;stroke-width:4.27142;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5" viewBox="0 0 192 192"><path d="M164.5 21.5c0-5.519-4.481-10-10-10h-133c-5.519 0-10 4.481-10 10v133c0 5.519 4.481 10 10 10h133c5.519 0 10-4.481 10-10v-133Z" style="fill:#fff" transform="translate(8 8)"/><circle cx="96" cy="96" r="21.488" style="fill:#98dc9a" transform="translate(-2.605 -2.605) scale(1.02713)"/><path d="M104.396 115.78A21.487 21.487 0 0 0 117.488 96c0-11.86-9.628-21.488-21.488-21.488S74.512 84.14 74.512 96a21.49 21.49 0 0 0 0 0c0-11.86 9.628-21.488 21.488-21.488S117.488 84.14 117.488 96a21.487 21.487 0 0 1-13.092 19.78Z" style="fill:none;stroke:#98dc9a;stroke-width:9.8px" transform="translate(-119.11 -119.11) scale(2.24073)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+  viewBox="0 0 192 192">
+  <rect width="100%" height="100%" style="fill:#fff" />
+  <circle cx="96" cy="96" r="21.488" style="fill:#98dc9a" transform="translate(-2.605 -2.605) scale(1.02713)" />
+  <path
+    d="M104.396 115.78A21.487 21.487 0 0 0 117.488 96c0-11.86-9.628-21.488-21.488-21.488S74.512 84.14 74.512 96a21.49 21.49 0 0 0 0 0c0-11.86 9.628-21.488 21.488-21.488S117.488 84.14 117.488 96a21.487 21.487 0 0 1-13.092 19.78Z"
+    style="fill:none;stroke:#98dc9a;stroke-width:9.8px" transform="translate(-119.11 -119.11) scale(2.24073)" />
+</svg>

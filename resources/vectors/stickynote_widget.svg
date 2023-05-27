@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect973" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><rect id="rect975" width="33.897" height="7.318" x="958.965" y="-99.659" rx="3.659" ry="3.659" style="fill:#fff;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" transform="rotate(90)"/><rect id="rect977" width="33.667" height="8.362" x="79.167" y="919.862" rx="4.181" ry="4.181" style="fill:#ff837d;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><rect id="rect979" width="40.61" height="8.362" x="75.695" y="959.023" rx="4.181" ry="4.181" style="fill:#ff837d;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><path id="path981" d="M84.907 921.95v27.098l-5.378 12.07h32.942l-5.378-12.07V921.95z" style="fill:#ff837d;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect973" width="100%" height="100%"
+      style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <rect id="rect975" width="33.897" height="7.318" x="958.965" y="-99.659" rx="3.659" ry="3.659"
+      style="fill:#fff;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"
+      transform="rotate(90)" />
+    <rect id="rect977" width="33.667" height="8.362" x="79.167" y="919.862" rx="4.181" ry="4.181"
+      style="fill:#ff837d;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+    <rect id="rect979" width="40.61" height="8.362" x="75.695" y="959.023" rx="4.181" ry="4.181"
+      style="fill:#ff837d;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+    <path id="path981" d="M84.907 921.95v27.098l-5.378 12.07h32.942l-5.378-12.07V921.95z"
+      style="fill:#ff837d;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

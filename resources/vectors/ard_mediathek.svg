@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1011" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" id="text983" x="53.898" y="965.716" style="font-weight:700;font-size:24.4682px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:.611706;fill:#fff;fill-opacity:1"><tspan id="tspan981" x="53.898" y="965.716" style="stroke-width:.611706;fill:#fff;fill-opacity:1">ARD</tspan></text><path id="path985" d="M105.656 945.169a17.35 17.35 0 0 1 19.138-5.128 17.35 17.35 0 0 1 11.466 16.158 17.35 17.35 0 0 1-11.16 16.371 17.35 17.35 0 0 1-19.23-4.766" style="opacity:1;fill:none;stroke:#fff;stroke-width:4.4788;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"/><path id="path987" d="m123.945 946.463-13.875 4.846a1.798 1.798 0 0 0-1.206 1.697v2.451a.907.907 0 0 0 1.206.856l3.867-1.35v10.191a.906.906 0 0 0 1.205.856l8.803-3.074a1.798 1.798 0 0 0 1.205-1.698V947.32a.906.906 0 0 0-1.205-.856z" style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:7.60474;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect1011" y="860,362"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      id="text983" x="53.898" y="965.716"
+      style="font-weight:700;font-size:24.4682px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:.611706;fill:#fff;fill-opacity:1">
+      <tspan id="tspan981" x="53.898" y="965.716" style="stroke-width:.611706;fill:#fff;fill-opacity:1">ARD</tspan>
+    </text>
+    <path id="path985"
+      d="M105.656 945.169a17.35 17.35 0 0 1 19.138-5.128 17.35 17.35 0 0 1 11.466 16.158 17.35 17.35 0 0 1-11.16 16.371 17.35 17.35 0 0 1-19.23-4.766"
+      style="opacity:1;fill:none;stroke:#fff;stroke-width:4.4788;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" />
+    <path id="path987"
+      d="m123.945 946.463-13.875 4.846a1.798 1.798 0 0 0-1.206 1.697v2.451a.907.907 0 0 0 1.206.856l3.867-1.35v10.191a.906.906 0 0 0 1.205.856l8.803-3.074a1.798 1.798 0 0 0 1.205-1.698V947.32a.906.906 0 0 0-1.205-.856z"
+      style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:7.60474;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

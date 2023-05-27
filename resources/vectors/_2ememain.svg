@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><circle id="circle8" cx="96" cy="96" r="88" class="a" style="opacity:1;fill:#f9de81;stroke:none"/><circle id="circle8-3" cx="96" cy="96" r="75.691" class="a" style="opacity:1;isolation:isolate;fill:#54688c;stroke:none;stroke-width:.86013;stroke-linecap:round;stroke-linejoin:round"/><text xml:space="preserve" id="text932" x="62.983" y="132.624" style="font-size:106.729px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;fill:#f9de81;stroke-width:2.66821"><tspan id="tspan930" x="62.983" y="132.624" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Medium&quot;;fill:#f9de81;stroke-width:2.66821">2</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" id="circle8" class="a" style="opacity:1;fill:#f9de81;stroke:none" />
+  <circle id="circle8-3" cx="96" cy="96" r="75.691" class="a"
+    style="opacity:1;isolation:isolate;fill:#54688c;stroke:none;stroke-width:.86013;stroke-linecap:round;stroke-linejoin:round" />
+  <text xml:space="preserve" id="text932" x="62.983" y="132.624"
+    style="font-size:106.729px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;fill:#f9de81;stroke-width:2.66821">
+    <tspan id="tspan930" x="62.983" y="132.624"
+      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Medium&quot;;fill:#f9de81;stroke-width:2.66821">
+      2</tspan>
+  </text>
+</svg>

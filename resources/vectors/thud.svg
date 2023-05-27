@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#9abeff" class="a" rx="10"/><path fill="#728dbe" d="M30 20c-5.54 0-10 4.077-10 9.142v97.368h152V29.142c0-5.065-4.46-9.142-10-9.142z" class="a"/><text xml:space="preserve" x="55.658" y="159.395" font-family="Now" font-size="27.132" style="line-height:1.25"><tspan x="55.658" y="159.395" fill="#fff" stroke-width="1.179" font-weight="bold">THUD.</tspan></text><g fill="#fff" stroke-width="1.176" transform="matrix(.92469 0 0 .78149 7.23 12.308)"><rect width="88.416" height="12.796" x="51.792" y="33.201" rx="6.723" ry="7.955"/><rect width="50.682" height="12.796" x="51.792" y="58.793" rx="6.723" ry="7.955"/><rect width="71.769" height="12.796" x="51.792" y="84.385" rx="6.723" ry="7.955"/><rect width="88.416" height="12.796" x="51.792" y="109.98" rx="6.723" ry="7.955"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" class="a" %%" fill="#9abeff" />
+  <path fill="#728dbe" d="M30 20c-5.54 0-10 4.077-10 9.142v97.368h152V29.142c0-5.065-4.46-9.142-10-9.142z" class="a" />
+  <text xml:space="preserve" x="55.658" y="159.395" font-family="Now" font-size="27.132" style="line-height:1.25">
+    <tspan x="55.658" y="159.395" fill="#fff" stroke-width="1.179" font-weight="bold">THUD.</tspan>
+  </text>
+  <g fill="#fff" stroke-width="1.176" transform="matrix(.92469 0 0 .78149 7.23 12.308)">
+    <rect width="88.416" height="12.796" x="51.792" y="33.201" rx="6.723" ry="7.955" />
+    <rect width="50.682" height="12.796" x="51.792" y="58.793" rx="6.723" ry="7.955" />
+    <rect width="71.769" height="12.796" x="51.792" y="84.385" rx="6.723" ry="7.955" />
+    <rect width="88.416" height="12.796" x="51.792" y="109.98" rx="6.723" ry="7.955" />
+  </g>
+</svg>

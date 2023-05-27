@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect2549" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.629194;stroke-opacity:1"/><circle id="path439" cx="96" cy="940.858" r="20.039" style="fill:none;fill-rule:evenodd;stroke:#fff;stroke-width:28.9123;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000"/><path id="path1795" d="M105.416 985.846H83.177v3.418h21.129v.003c.611 0 1.1.49 1.1 1.099v11.476l-.003.01a1.101 1.101 0 0 1-1.102 1.094H87.697a1.104 1.104 0 0 1-1.106-1.103v-4.637c0-.609.498-1.103 1.106-1.103h14.285v-3.413H86.585a3.405 3.405 0 0 0-3.408 3.404v6.862a3.407 3.407 0 0 0 3.408 3.407h18.83a3.406 3.406 0 0 0 3.408-3.408v-13.7a3.407 3.407 0 0 0-3.407-3.409" style="fill:#fff;fill-opacity:1;stroke-width:.572522"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect2549" width="100%" height="100%"
+      style="fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.629194;stroke-opacity:1" />
+    <circle id="path439" cx="96" cy="940.858" r="20.039"
+      style="fill:none;fill-rule:evenodd;stroke:#fff;stroke-width:28.9123;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000" />
+    <path id="path1795"
+      d="M105.416 985.846H83.177v3.418h21.129v.003c.611 0 1.1.49 1.1 1.099v11.476l-.003.01a1.101 1.101 0 0 1-1.102 1.094H87.697a1.104 1.104 0 0 1-1.106-1.103v-4.637c0-.609.498-1.103 1.106-1.103h14.285v-3.413H86.585a3.405 3.405 0 0 0-3.408 3.404v6.862a3.407 3.407 0 0 0 3.408 3.407h18.83a3.406 3.406 0 0 0 3.408-3.408v-13.7a3.407 3.407 0 0 0-3.407-3.409"
+      style="fill:#fff;fill-opacity:1;stroke-width:.572522" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

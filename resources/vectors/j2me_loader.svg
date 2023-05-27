@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="fill:#54688c;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M92.01 71.81H65.676v7.962h17.76v30.446c0 4.112-2.712 6.912-6.387 6.912-3.324 0-5.862-2.362-6.212-5.95l-8.573 2.275c.962 7.174 6.299 11.549 14.785 11.549 9.361 0 14.96-5.25 14.96-13.736zM108.68 104.328V59.797h-8.574v52.493h27.034v-7.962z" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:62.21231079px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.74977791"/><text xml:space="preserve" x="96.189" y="131.797" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:15.92838001px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.39820954"><tspan x="96.189" y="131.797" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:.39820954;fill:#fff">2ME</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#54688c;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path
+    d="M92.01 71.81H65.676v7.962h17.76v30.446c0 4.112-2.712 6.912-6.387 6.912-3.324 0-5.862-2.362-6.212-5.95l-8.573 2.275c.962 7.174 6.299 11.549 14.785 11.549 9.361 0 14.96-5.25 14.96-13.736zM108.68 104.328V59.797h-8.574v52.493h27.034v-7.962z"
+    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:62.21231079px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.74977791" />
+  <text xml:space="preserve" x="96.189" y="131.797"
+    style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:15.92838001px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.39820954">
+    <tspan x="96.189" y="131.797"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:.39820954;fill:#fff">
+      2ME</tspan>
+  </text>
+</svg>

@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><g transform="translate(0 -860.362)"><rect width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#f8c28d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" x="59.606" y="954.585" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:33.776px;line-height:1.25;font-family:NOW;-inkscape-font-specification:&quot;NOW Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fefefe;fill-opacity:1;stroke-width:.844402"><tspan x="59.606" y="954.585" style="fill:#fefefe;fill-opacity:1;stroke-width:.844402">LIKE</tspan></text><text xml:space="preserve" x="55.576" y="983.143" style="font-weight:700;font-size:32.8987px;line-height:1.25;font-family:Arial;-inkscape-font-specification:&quot;Arial Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fefefe;fill-opacity:1;stroke-width:.822469"><tspan x="55.576" y="983.143" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fefefe;fill-opacity:1;stroke-width:.822469">WISE</tspan></text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <g transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" x="19.5" y="879.862" rx="10"
+      style="fill:#f8c28d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      x="59.606" y="954.585"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:33.776px;line-height:1.25;font-family:NOW;-inkscape-font-specification:&quot;NOW Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fefefe;fill-opacity:1;stroke-width:.844402">
+      <tspan x="59.606" y="954.585" style="fill:#fefefe;fill-opacity:1;stroke-width:.844402">LIKE</tspan>
+    </text><text xml:space="preserve" x="55.576" y="983.143"
+      style="font-weight:700;font-size:32.8987px;line-height:1.25;font-family:Arial;-inkscape-font-specification:&quot;Arial Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fefefe;fill-opacity:1;stroke-width:.822469">
+      <tspan x="55.576" y="983.143"
+        style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fefefe;fill-opacity:1;stroke-width:.822469">
+        WISE</tspan>
+    </text>
+  </g>
+</svg>

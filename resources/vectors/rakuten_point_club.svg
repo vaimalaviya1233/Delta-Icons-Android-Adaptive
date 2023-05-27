@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><style id="style4361">.cls-2{fill:#ff837d}</style></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect2353" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><g id="g1856" style="fill:#fff;fill-opacity:1" transform="matrix(.63333 0 0 .63333 -178.238 325.598)"><path id="path6615" d="m338.206 940.39 6.506 5.822 41.494-5.864z" class="cls-2" style="fill:#fff;fill-opacity:1;stroke-width:.689953"/><path id="path6617" d="M376.843 936.284h-9.997l-9.977-15.634h-3.574v15.634h-8.88v-40.438h17.173c6.941 0 12.06 5.52 12.06 12.419 0 5.52-3.366 9.977-8.154 11.391zm-11.66-27.764a4.705 4.705 0 0 0-4.92-4.788h-6.968v9.57h6.941a4.671 4.671 0 0 0 4.92-4.782z" class="cls-2" style="fill:#fff;fill-opacity:1;stroke-width:.689953"/></g><path id="circle1914" d="M82.34 992.059a38.994 38.994 0 0 0 13.525 2.429c4.662 0 9.235-.843 13.526-2.43z" style="color:#000;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.538116;stroke-dashoffset:6;paint-order:stroke markers fill"/><path id="path2068" d="M64.135 998.835H43.5l6.861-9.541-6.76-9.653h15.47z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke markers fill;stop-color:#000"/><path id="path2017" d="M64.135 998.835 53.386 988.8h10.75z" style="fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke markers fill;stop-color:#000"/><path id="path2072" d="M127.865 998.835H148.5l-6.861-9.541 6.76-9.653h-15.47z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke markers fill;stop-color:#000"/><path id="path2074" d="m127.865 998.835 10.749-10.036h-10.75z" style="fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke markers fill;stop-color:#000"/><circle id="circle2139" cx="97.911" cy="944.247" r="11.056" style="fill:none;fill-rule:evenodd;stroke:#fff;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000"/><path id="path2179" d="M86.823 929.668a2.96 2.96 0 0 0-2.96 2.96v32.914h5.92v-32.915a2.96 2.96 0 0 0-2.96-2.96z" style="color:#000;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.538116;stroke-linecap:round;stroke-dashoffset:6;paint-order:stroke markers fill"/><path id="path2184" d="M95.865 913.889c-21.512 0-39.015 17.502-39.015 39.015 0 4.423.75 8.671 2.112 12.638h6.301a33.081 33.081 0 0 1-2.494-12.638c0-18.314 14.783-33.096 33.096-33.096 18.314 0 33.097 14.782 33.097 33.096 0 4.48-.89 8.745-2.494 12.638h6.3a38.825 38.825 0 0 0 2.113-12.638c0-21.513-17.503-39.015-39.016-39.015z" style="color:#000;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.538116;stroke-dashoffset:6;paint-order:stroke markers fill"/><path id="path2196" d="M86.823 932.627v37.195" style="color:#000;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:5.91929;stroke-linecap:round;stroke-dashoffset:6;paint-order:stroke markers fill"/><path id="rect2692" d="M53.085 968.442h85.83v20.717h-85.83z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.19984;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000"/><text xml:space="preserve" id="text2253" x="66.289" y="985.791" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6419px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:2.95964px;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke-width:.538116"><tspan id="tspan2251" x="66.289" y="985.791" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#ff837d;fill-opacity:1;stroke-width:.538116">CLUB</tspan></text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <style id="style4361">
+      .cls-2 {
+        fill: #ff837d
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect2353" width="100%" height="100%"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <g id="g1856" style="fill:#fff;fill-opacity:1" transform="matrix(.63333 0 0 .63333 -178.238 325.598)">
+      <path id="path6615" d="m338.206 940.39 6.506 5.822 41.494-5.864z" class="cls-2"
+        style="fill:#fff;fill-opacity:1;stroke-width:.689953" />
+      <path id="path6617"
+        d="M376.843 936.284h-9.997l-9.977-15.634h-3.574v15.634h-8.88v-40.438h17.173c6.941 0 12.06 5.52 12.06 12.419 0 5.52-3.366 9.977-8.154 11.391zm-11.66-27.764a4.705 4.705 0 0 0-4.92-4.788h-6.968v9.57h6.941a4.671 4.671 0 0 0 4.92-4.782z"
+        class="cls-2" style="fill:#fff;fill-opacity:1;stroke-width:.689953" />
+    </g>
+    <path id="circle1914" d="M82.34 992.059a38.994 38.994 0 0 0 13.525 2.429c4.662 0 9.235-.843 13.526-2.43z"
+      style="color:#000;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.538116;stroke-dashoffset:6;paint-order:stroke markers fill" />
+    <path id="path2068" d="M64.135 998.835H43.5l6.861-9.541-6.76-9.653h15.47z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke markers fill;stop-color:#000" />
+    <path id="path2017" d="M64.135 998.835 53.386 988.8h10.75z"
+      style="fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke markers fill;stop-color:#000" />
+    <path id="path2072" d="M127.865 998.835H148.5l-6.861-9.541 6.76-9.653h-15.47z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke markers fill;stop-color:#000" />
+    <path id="path2074" d="m127.865 998.835 10.749-10.036h-10.75z"
+      style="fill:#ba6561;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;paint-order:stroke markers fill;stop-color:#000" />
+    <circle id="circle2139" cx="97.911" cy="944.247" r="11.056"
+      style="fill:none;fill-rule:evenodd;stroke:#fff;stroke-width:5.91929;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000" />
+    <path id="path2179" d="M86.823 929.668a2.96 2.96 0 0 0-2.96 2.96v32.914h5.92v-32.915a2.96 2.96 0 0 0-2.96-2.96z"
+      style="color:#000;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.538116;stroke-linecap:round;stroke-dashoffset:6;paint-order:stroke markers fill" />
+    <path id="path2184"
+      d="M95.865 913.889c-21.512 0-39.015 17.502-39.015 39.015 0 4.423.75 8.671 2.112 12.638h6.301a33.081 33.081 0 0 1-2.494-12.638c0-18.314 14.783-33.096 33.096-33.096 18.314 0 33.097 14.782 33.097 33.096 0 4.48-.89 8.745-2.494 12.638h6.3a38.825 38.825 0 0 0 2.113-12.638c0-21.513-17.503-39.015-39.016-39.015z"
+      style="color:#000;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.538116;stroke-dashoffset:6;paint-order:stroke markers fill" />
+    <path id="path2196" d="M86.823 932.627v37.195"
+      style="color:#000;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:5.91929;stroke-linecap:round;stroke-dashoffset:6;paint-order:stroke markers fill" />
+    <path id="rect2692" d="M53.085 968.442h85.83v20.717h-85.83z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.19984;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000" />
+    <text xml:space="preserve" id="text2253" x="66.289" y="985.791"
+      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.6419px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:2.95964px;word-spacing:0;fill:#ff837d;fill-opacity:1;stroke-width:.538116">
+      <tspan id="tspan2251" x="66.289" y="985.791"
+        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#ff837d;fill-opacity:1;stroke-width:.538116">
+        CLUB</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#728dbe" rx="9.935"/><text xml:space="preserve" x="-95.42" y="111.25" fill="#fff" font-family="Now" font-size="40.858" font-weight="bold" style="line-height:1.25" transform="rotate(-90)"><tspan x="-95.42" y="111.25">D</tspan></text><text xml:space="preserve" x="96.876" y="-80.986" fill="#fff" font-family="Now" font-size="40.578" font-weight="bold" style="line-height:1.25" transform="rotate(90)"><tspan x="96.876" y="-80.986">U</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#728dbe" /><text xml:space="preserve" x="-95.42" y="111.25" fill="#fff"
+    font-family="Now" font-size="40.858" font-weight="bold" style="line-height:1.25" transform="rotate(-90)">
+    <tspan x="-95.42" y="111.25">D</tspan>
+  </text><text xml:space="preserve" x="96.876" y="-80.986" fill="#fff" font-family="Now" font-size="40.578"
+    font-weight="bold" style="line-height:1.25" transform="rotate(90)">
+    <tspan x="96.876" y="-80.986">U</tspan>
+  </text>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#fff"/><text xml:space="preserve" x="69.823" y="113.509" fill="#96dfd3" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" font-family="Now" font-size="71.719" font-weight="bold"><tspan x="69.823" y="113.509">&gt;</tspan></text><text xml:space="preserve" x="83.581" y="131.455" fill="#96dfd3" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" font-family="Now" font-size="40.286" font-weight="bold"><tspan x="83.581" y="131.455">&lt;</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" /><text xml:space="preserve" x="69.823" y="113.509" fill="#96dfd3"
+    stroke-linecap="round" stroke-linejoin="round" stroke-width="12" font-family="Now" font-size="71.719"
+    font-weight="bold">
+    <tspan x="69.823" y="113.509">&gt;</tspan>
+  </text><text xml:space="preserve" x="83.581" y="131.455" fill="#96dfd3" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="12" font-family="Now" font-size="40.286" font-weight="bold">
+    <tspan x="83.581" y="131.455">&lt;</tspan>
+  </text>
+</svg>

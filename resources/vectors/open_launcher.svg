@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle960" cx="96" cy="956.362" r="88" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="rect921" d="M67.077 919.862h57.846a7.56 7.56 0 0 1 7.577 7.577 7.56 7.56 0 0 1-7.577 7.577H67.077a7.56 7.56 0 0 1-7.577-7.577 7.56 7.56 0 0 1 7.577-7.577z" style="fill:#ff837d;fill-opacity:1;stroke-width:.601179;stroke-linecap:square;stop-color:#000"/><path id="path935" d="M-985.285 59.5h57.846a7.56 7.56 0 0 1 7.577 7.577 7.56 7.56 0 0 1-7.577 7.577h-57.846a7.56 7.56 0 0 1-7.577-7.577 7.56 7.56 0 0 1 7.577-7.577z" style="fill:#99bdfe;fill-opacity:1;stroke-width:.601179;stroke-linecap:square;stop-color:#000" transform="rotate(-90)"/><path id="path933" d="M67.077 977.708h57.846a7.56 7.56 0 0 1 7.577 7.577 7.56 7.56 0 0 1-7.577 7.577H67.077a7.56 7.56 0 0 1-7.577-7.577 7.56 7.56 0 0 1 7.577-7.577z" style="fill:#97db99;fill-opacity:1;stroke-width:.601179;stroke-linecap:square;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle960" y="860,362"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="rect921"
+      d="M67.077 919.862h57.846a7.56 7.56 0 0 1 7.577 7.577 7.56 7.56 0 0 1-7.577 7.577H67.077a7.56 7.56 0 0 1-7.577-7.577 7.56 7.56 0 0 1 7.577-7.577z"
+      style="fill:#ff837d;fill-opacity:1;stroke-width:.601179;stroke-linecap:square;stop-color:#000" />
+    <path id="path935"
+      d="M-985.285 59.5h57.846a7.56 7.56 0 0 1 7.577 7.577 7.56 7.56 0 0 1-7.577 7.577h-57.846a7.56 7.56 0 0 1-7.577-7.577 7.56 7.56 0 0 1 7.577-7.577z"
+      style="fill:#99bdfe;fill-opacity:1;stroke-width:.601179;stroke-linecap:square;stop-color:#000"
+      transform="rotate(-90)" />
+    <path id="path933"
+      d="M67.077 977.708h57.846a7.56 7.56 0 0 1 7.577 7.577 7.56 7.56 0 0 1-7.577 7.577H67.077a7.56 7.56 0 0 1-7.577-7.577 7.56 7.56 0 0 1 7.577-7.577z"
+      style="fill:#97db99;fill-opacity:1;stroke-width:.601179;stroke-linecap:square;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1019" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><circle id="circle1011" cx="121.831" cy="984.957" r="8.669" style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:4.08711;stop-color:#000"/><path id="path1013" d="M115.088 927.532h13.486a1.284 1.284 0 0 1 1.284 1.284v41.689a1.284 1.284 0 0 1-1.285 1.284h-13.485a1.284 1.284 0 0 1-1.284-1.284v-41.69a1.284 1.284 0 0 1 1.284-1.283z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:3.43202;stop-color:#000"/><path id="path1015" d="m57.53 928.777 10.473 41.766a1.646 1.646 0 0 0 1.597 1.246h27.199a1.646 1.646 0 0 0 1.597-1.246l10.472-41.766a1.002 1.002 0 0 0-.972-1.245H94.411a1.646 1.646 0 0 0-1.597 1.245l-9.302 37.099a.322.322 0 0 1-.625 0l-9.303-37.099a1.646 1.646 0 0 0-1.596-1.245H58.502a1.002 1.002 0 0 0-.972 1.245z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:3.43202;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1019" width="100%" height="100%"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <circle id="circle1011" cx="121.831" cy="984.957" r="8.669"
+      style="fill:#f9de81;fill-opacity:1;stroke:none;stroke-width:4.08711;stop-color:#000" />
+    <path id="path1013"
+      d="M115.088 927.532h13.486a1.284 1.284 0 0 1 1.284 1.284v41.689a1.284 1.284 0 0 1-1.285 1.284h-13.485a1.284 1.284 0 0 1-1.284-1.284v-41.69a1.284 1.284 0 0 1 1.284-1.283z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:3.43202;stop-color:#000" />
+    <path id="path1015"
+      d="m57.53 928.777 10.473 41.766a1.646 1.646 0 0 0 1.597 1.246h27.199a1.646 1.646 0 0 0 1.597-1.246l10.472-41.766a1.002 1.002 0 0 0-.972-1.245H94.411a1.646 1.646 0 0 0-1.597 1.245l-9.302 37.099a.322.322 0 0 1-.625 0l-9.303-37.099a1.646 1.646 0 0 0-1.596-1.245H58.502a1.002 1.002 0 0 0-.972 1.245z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:3.43202;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

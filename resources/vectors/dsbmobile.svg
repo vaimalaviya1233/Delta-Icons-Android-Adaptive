@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect923" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><text xml:space="preserve" id="text933" x="49.689" y="943.464" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:46.1957px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#56595b;fill-opacity:1;stroke-width:1.15489"><tspan id="tspan931" x="49.689" y="943.464" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#56595b;fill-opacity:1;stroke-width:1.15489">DSB</tspan></text><path id="rect944" d="M20 956.362v66.065a9.914 9.914 0 0 0 9.936 9.935h132.128a9.914 9.914 0 0 0 9.936-9.935v-66.065z" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><text xml:space="preserve" id="text929" x="43.785" y="996.502" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:30.0301px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.750752"><tspan id="tspan927" x="43.785" y="996.502" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;fill-opacity:1;stroke-width:.750752">mobile</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect923" width="100%" height="100%"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" /><text
+      xml:space="preserve" id="text933" x="49.689" y="943.464"
+      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:46.1957px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#56595b;fill-opacity:1;stroke-width:1.15489">
+      <tspan id="tspan931" x="49.689" y="943.464"
+        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#56595b;fill-opacity:1;stroke-width:1.15489">
+        DSB</tspan>
+    </text>
+    <path id="rect944"
+      d="M20 956.362v66.065a9.914 9.914 0 0 0 9.936 9.935h132.128a9.914 9.914 0 0 0 9.936-9.935v-66.065z"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" /><text
+      xml:space="preserve" id="text929" x="43.785" y="996.502"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:30.0301px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.750752">
+      <tspan id="tspan927" x="43.785" y="996.502"
+        style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#fff;fill-opacity:1;stroke-width:.750752">
+        mobile</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

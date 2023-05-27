@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect887" width="153" height="153" x="19.5" y="879.862" rx="10" ry="10" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><g id="g954" style="fill:#fe837e;fill-opacity:1" transform="matrix(.15503 0 0 .15503 160.652 859.613)"><path id="path946" d="m-534.984-354.04 117.468 117.472 117.471-117.471z" style="fill:#fe837e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1" transform="translate(0 860.362)"/><path id="path948" d="m-534.984 741.264 117.468-117.47 117.471 117.47z" style="fill:#fe837e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"/><path id="path950" d="m-299.058 506.849 117.47 117.468-117.47 117.471z" style="fill:#fe837e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"/><path id="path952" d="m-534.984 506.323-117.471 117.469 117.47 117.47z" style="fill:#fe837e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect887" width="100%" height="100%" y="860.362"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <g id="g954" style="fill:#fe837e;fill-opacity:1" transform="matrix(.15503 0 0 .15503 160.652 859.613)">
+      <path id="path946" d="m-534.984-354.04 117.468 117.472 117.471-117.471z"
+        style="fill:#fe837e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"
+        transform="translate(0 860.362)" />
+      <path id="path948" d="m-534.984 741.264 117.468-117.47 117.471 117.47z"
+        style="fill:#fe837e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1" />
+      <path id="path950" d="m-299.058 506.849 117.47 117.468-117.47 117.471z"
+        style="fill:#fe837e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1" />
+      <path id="path952" d="m-534.984 506.323-117.471 117.469 117.47 117.47z"
+        style="fill:#fe837e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

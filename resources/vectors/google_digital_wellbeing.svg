@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><g transform="translate(0 -860.362)"><circle cx="96" cy="956.362" r="88" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path d="M117.654 952.064c-5.008-5.009-13.052-5.028-18.036-.044L96 955.637l18.613 18.613 3.617-3.618c4.984-4.984 4.964-13.028-.044-18.037z" style="opacity:1;fill:#98db9a;fill-opacity:1;stroke-width:1.89516;stroke-linecap:round;stroke-linejoin:round"/><path d="M743.62 607.855h26.322v24.322a2 2 135 0 1-2 2H743.62z" style="opacity:1;fill:#72a373;fill-opacity:1;stroke-width:1.89516;stroke-linecap:round;stroke-linejoin:round" transform="rotate(45)"/><path d="M92.383 952.02c-4.984-4.984-13.03-4.965-18.038.044l-.531.531c-5.008 5.009-5.028 13.053-.044 18.037l3.618 3.618L96 955.637z" style="opacity:1;fill:#98db9a;fill-opacity:1;stroke-width:1.89516;stroke-linecap:round;stroke-linejoin:round"/><circle cx="727.629" cy="591.865" r="13.161" style="opacity:1;fill:#73a474;fill-opacity:1;stroke-width:1.89516;stroke-linecap:round;stroke-linejoin:round" transform="rotate(45)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <g transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" y="860.362"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path
+      d="M117.654 952.064c-5.008-5.009-13.052-5.028-18.036-.044L96 955.637l18.613 18.613 3.617-3.618c4.984-4.984 4.964-13.028-.044-18.037z"
+      style="opacity:1;fill:#98db9a;fill-opacity:1;stroke-width:1.89516;stroke-linecap:round;stroke-linejoin:round" />
+    <path d="M743.62 607.855h26.322v24.322a2 2 135 0 1-2 2H743.62z"
+      style="opacity:1;fill:#72a373;fill-opacity:1;stroke-width:1.89516;stroke-linecap:round;stroke-linejoin:round"
+      transform="rotate(45)" />
+    <path
+      d="M92.383 952.02c-4.984-4.984-13.03-4.965-18.038.044l-.531.531c-5.008 5.009-5.028 13.053-.044 18.037l3.618 3.618L96 955.637z"
+      style="opacity:1;fill:#98db9a;fill-opacity:1;stroke-width:1.89516;stroke-linecap:round;stroke-linejoin:round" />
+    <circle cx="727.629" cy="591.865" r="13.161"
+      style="opacity:1;fill:#73a474;fill-opacity:1;stroke-width:1.89516;stroke-linecap:round;stroke-linejoin:round"
+      transform="rotate(45)" />
+  </g>
+</svg>

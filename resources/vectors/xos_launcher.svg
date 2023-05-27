@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="176" height="128" x="8" y="32" rx="10" style="fill:#fff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><text xml:space="preserve" x="53.122" y="111.515" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:41.4354744px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:none;stroke-width:1.03588688"><tspan x="53.122" y="111.515" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:1.03588688"><tspan style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;fill:#96dfd3;stroke-width:1.03588688">X</tspan><tspan style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#b1b5bd;stroke-width:1.03588688">OS</tspan></tspan></text><path d="m67.314 88.829 4.247 6.578 10.1-14.969h-9.012ZM67.314 101.933l4.247-6.526 10.825 16.108h-9.012Z" style="fill:#73ada4;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><path d="M71.56 95.407 52.968 80.438h9.012z" style="fill:#728dbe;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect rect height="100%" width="100%"
+    style="fill:#fff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" /><text
+    xml:space="preserve" x="53.122" y="111.515"
+    style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:41.4354744px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:none;stroke-width:1.03588688">
+    <tspan x="53.122" y="111.515"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:1.03588688">
+      <tspan
+        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;fill:#96dfd3;stroke-width:1.03588688">
+        X</tspan>
+      <tspan
+        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#b1b5bd;stroke-width:1.03588688">
+        OS</tspan>
+    </tspan>
+  </text>
+  <path d="m67.314 88.829 4.247 6.578 10.1-14.969h-9.012ZM67.314 101.933l4.247-6.526 10.825 16.108h-9.012Z"
+    style="fill:#73ada4;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path d="M71.56 95.407 52.968 80.438h9.012z"
+    style="fill:#728dbe;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

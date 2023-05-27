@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1026" width="152" height="152" x="20" y="880.362" rx="9.935" style="fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path956" d="M101.585 916.49a25.184 25.184 0 0 0-24.816 20.585h-5.082A18.148 18.148 0 0 0 53.5 955.262a18.147 18.147 0 0 0 18.187 18.187h48.625a18.148 18.148 0 0 0 18.188-18.187c0-.097-.002-.194-.004-.291.002-.097.004-.194.004-.291a18.147 18.147 0 0 0-12.014-17.12 25.183 25.183 0 0 0-24.9-21.07z" style="fill:#fff;fill-opacity:1;stroke-width:.794144;stroke-linecap:square;stroke-linejoin:round;stop-color:#000"/><circle id="circle958" cx="126.622" cy="964.019" r="2.479" style="fill:#ff837d;fill-opacity:1;stroke-width:1.05022;stroke-linecap:square;stroke-linejoin:round;stop-color:#000"/><rect id="rect960" width="56.228" height="22.468" x="67.261" y="944.065" rx="11.234" ry="11.234" style="fill:#56595b;fill-opacity:1;stroke-width:.973185;stroke-linecap:square;stroke-linejoin:round;stop-color:#000"/><path id="path962" d="M96.706 948.824c-.299 0-.585.122-.793.337L85.76 959.662a.396.396 0 0 0 .285.671h5.53c.595 0 1.162-.25 1.564-.687l3.42-3.724a.202.202 0 0 1 .296 0l3.42 3.724c.402.438.97.687 1.564.687h5.53c.35 0 .527-.42.284-.67L97.5 949.16a1.103 1.103 0 0 0-.793-.337z" style="fill:#fff;fill-opacity:1;stroke-width:.941302;stroke-linecap:square;stroke-linejoin:round;stop-color:#000"/><path id="path964" d="m89.473 978.966-4.122 5.847a1.631 1.631 0 0 0 1.333 2.572h5.932l-4.57 6.535a1.47 1.47 0 0 0 2 2.081l15.163-9.717a1.382 1.382 0 0 0-.745-2.546H98.2l2.739-3.542a1.531 1.531 0 0 0-1.211-2.467H91.86a2.92 2.92 0 0 0-2.387 1.237z" style="fill:#f9de81;fill-opacity:1;stroke-width:2.67586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1026" width="100%" height="100%" rx=" 9.935"
+      style="fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path956"
+      d="M101.585 916.49a25.184 25.184 0 0 0-24.816 20.585h-5.082A18.148 18.148 0 0 0 53.5 955.262a18.147 18.147 0 0 0 18.187 18.187h48.625a18.148 18.148 0 0 0 18.188-18.187c0-.097-.002-.194-.004-.291.002-.097.004-.194.004-.291a18.147 18.147 0 0 0-12.014-17.12 25.183 25.183 0 0 0-24.9-21.07z"
+      style="fill:#fff;fill-opacity:1;stroke-width:.794144;stroke-linecap:square;stroke-linejoin:round;stop-color:#000" />
+    <circle id="circle958" cx="126.622" cy="964.019" r="2.479"
+      style="fill:#ff837d;fill-opacity:1;stroke-width:1.05022;stroke-linecap:square;stroke-linejoin:round;stop-color:#000" />
+    <rect id="rect960" width="56.228" height="22.468" x="67.261" y="944.065" rx="11.234" ry="11.234"
+      style="fill:#56595b;fill-opacity:1;stroke-width:.973185;stroke-linecap:square;stroke-linejoin:round;stop-color:#000" />
+    <path id="path962"
+      d="M96.706 948.824c-.299 0-.585.122-.793.337L85.76 959.662a.396.396 0 0 0 .285.671h5.53c.595 0 1.162-.25 1.564-.687l3.42-3.724a.202.202 0 0 1 .296 0l3.42 3.724c.402.438.97.687 1.564.687h5.53c.35 0 .527-.42.284-.67L97.5 949.16a1.103 1.103 0 0 0-.793-.337z"
+      style="fill:#fff;fill-opacity:1;stroke-width:.941302;stroke-linecap:square;stroke-linejoin:round;stop-color:#000" />
+    <path id="path964"
+      d="m89.473 978.966-4.122 5.847a1.631 1.631 0 0 0 1.333 2.572h5.932l-4.57 6.535a1.47 1.47 0 0 0 2 2.081l15.163-9.717a1.382 1.382 0 0 0-.745-2.546H98.2l2.739-3.542a1.531 1.531 0 0 0-1.211-2.467H91.86a2.92 2.92 0 0 0-2.387 1.237z"
+      style="fill:#f9de81;fill-opacity:1;stroke-width:2.67586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

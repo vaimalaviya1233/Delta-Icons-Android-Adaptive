@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle915" cx="96" cy="956.362" r="88" style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path953" fill="#fff" d="M116.34 967.702c0-20.52-24.48-15.39-24.48-23.58 0-2.34 1.8-3.42 3.96-3.42 2.7 0 5.67 1.62 8.55 4.68l9-8.73a23.66 23.66 0 0 0-11.34-7.2v-5.67H90.51v5.58c-6.66 1.71-12.51 6.66-12.51 15.75 0 18.72 24.57 14.22 24.57 22.41 0 2.16-1.8 3.69-5.31 3.69-4.68 0-8.46-2.52-10.35-6.57l-11.25 7.02c2.79 5.22 8.1 9.72 14.85 11.61v5.67h11.52v-5.31c8.1-1.62 14.31-7.29 14.31-15.93z"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle915" y="860,362"
+      style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path953" fill="#fff"
+      d="M116.34 967.702c0-20.52-24.48-15.39-24.48-23.58 0-2.34 1.8-3.42 3.96-3.42 2.7 0 5.67 1.62 8.55 4.68l9-8.73a23.66 23.66 0 0 0-11.34-7.2v-5.67H90.51v5.58c-6.66 1.71-12.51 6.66-12.51 15.75 0 18.72 24.57 14.22 24.57 22.41 0 2.16-1.8 3.69-5.31 3.69-4.68 0-8.46-2.52-10.35-6.57l-11.25 7.02c2.79 5.22 8.1 9.72 14.85 11.61v5.67h11.52v-5.31c8.1-1.62 14.31-7.29 14.31-15.93z" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

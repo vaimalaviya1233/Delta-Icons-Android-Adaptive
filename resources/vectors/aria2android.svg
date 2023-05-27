@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><rect id="rect6" width="152" height="152" x="20" y="20" class="a" rx="10" style="fill:#8c72bd;stroke:none;opacity:1"/><circle id="circle10" cx="96" cy="96" r="36.5" class="a"/><path id="rect818" d="M30 99.467c-5.54 0-10 4.46-10 10V162c0 5.54 4.46 10 10 10h132c5.54 0 10-4.46 10-10v-52.533c0-5.54-4.46-10-10-10H30z" style="fill:#98dc9a"/><path id="path820" d="m147.74 56.57 18.017-18.017" style="fill:none;stroke:#71a372;stroke-width:10;stroke-linecap:round"/><path id="path822" d="M45.264 55.57 27.047 37.353" style="fill:none;stroke:#71a372;stroke-width:10;stroke-linecap:round"/><g id="g830" style="clip-rule:evenodd;fill:none;fill-rule:evenodd" transform="translate(0 11.463)"><path id="path824" d="M20 96c0-41.974 34.026-76 76-76s76 34.026 76 76z" style="fill:#98dc9a"/><path id="path826" d="M135 63a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" style="fill:#71a372"/><path id="path828" d="M57 63a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" style="fill:#71a372"/></g><path id="path832" d="M20.5 110.463h151.03" style="fill:none;stroke:#71a372;stroke-width:10"/><path id="path854" d="M22.922 22.922A9.97 9.97 0 0 0 20 30v132c0 5.54 4.46 10 10 10h132a9.97 9.97 0 0 0 7.078-2.922L22.922 22.922z" style="fill:#bd9aff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><path id="path891" d="M74.57 142.53c-1.248 0-2.08-1.579-2.08-4.323v-7.067c0-8.481-6.568-13.886-16.296-13.886S39.98 122.077 39.98 129.56h10.643c0-2.66 2.328-4.24 5.57-4.24 3.327 0 5.655 1.829 5.655 4.739v2.494H50.457c-6.402 0-10.477 3.825-10.477 9.728 0 5.82 4.823 9.562 12.223 9.562 4.906 0 9.146-1.746 11.724-4.656 1.912 2.993 5.071 4.656 9.062 4.656.998 0 2.245-.25 3.326-.665v-8.647zm-19.374 2.163c-2.744 0-4.49-1.081-4.49-2.827s1.33-2.91 3.41-2.91h7.732c-.416 3.492-2.91 5.737-6.652 5.737z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40px;line-height:1.25;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.66292512"/><path id="path893" d="m84.1 124.043 3.283-4.086c2.759-3.458 3.597-4.82 3.597-7.265 0-3.457-2.794-5.972-6.426-5.972-3.807 0-7.16 2.724-6.81 6.636h4.33c-.21-1.642.873-2.655 2.27-2.655 1.048 0 2.305.524 2.305 2.41 0 .943-.244 1.572-2.444 4.366l-8.208 10.512h15.367v-3.946z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40px;line-height:1.25;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.69850743"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect id="rect6" width="100%" height="100%" class=" a" style="fill:#8c72bd;stroke:none;opacity:1" />
+  <circle id="circle10" cx="96" cy="96" r="36.5" class="a" />
+  <path id="rect818"
+    d="M30 99.467c-5.54 0-10 4.46-10 10V162c0 5.54 4.46 10 10 10h132c5.54 0 10-4.46 10-10v-52.533c0-5.54-4.46-10-10-10H30z"
+    style="fill:#98dc9a" />
+  <path id="path820" d="m147.74 56.57 18.017-18.017"
+    style="fill:none;stroke:#71a372;stroke-width:10;stroke-linecap:round" />
+  <path id="path822" d="M45.264 55.57 27.047 37.353"
+    style="fill:none;stroke:#71a372;stroke-width:10;stroke-linecap:round" />
+  <g id="g830" style="clip-rule:evenodd;fill:none;fill-rule:evenodd" transform="translate(0 11.463)">
+    <path id="path824" d="M20 96c0-41.974 34.026-76 76-76s76 34.026 76 76z" style="fill:#98dc9a" />
+    <path id="path826" d="M135 63a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" style="fill:#71a372" />
+    <path id="path828" d="M57 63a6 6 0 1 0 0-12 6 6 0 0 0 0 12z" style="fill:#71a372" />
+  </g>
+  <path id="path832" d="M20.5 110.463h151.03" style="fill:none;stroke:#71a372;stroke-width:10" />
+  <path id="path854"
+    d="M22.922 22.922A9.97 9.97 0 0 0 20 30v132c0 5.54 4.46 10 10 10h132a9.97 9.97 0 0 0 7.078-2.922L22.922 22.922z"
+    style="fill:#bd9aff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path id="path891"
+    d="M74.57 142.53c-1.248 0-2.08-1.579-2.08-4.323v-7.067c0-8.481-6.568-13.886-16.296-13.886S39.98 122.077 39.98 129.56h10.643c0-2.66 2.328-4.24 5.57-4.24 3.327 0 5.655 1.829 5.655 4.739v2.494H50.457c-6.402 0-10.477 3.825-10.477 9.728 0 5.82 4.823 9.562 12.223 9.562 4.906 0 9.146-1.746 11.724-4.656 1.912 2.993 5.071 4.656 9.062 4.656.998 0 2.245-.25 3.326-.665v-8.647zm-19.374 2.163c-2.744 0-4.49-1.081-4.49-2.827s1.33-2.91 3.41-2.91h7.732c-.416 3.492-2.91 5.737-6.652 5.737z"
+    style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40px;line-height:1.25;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.66292512" />
+  <path id="path893"
+    d="m84.1 124.043 3.283-4.086c2.759-3.458 3.597-4.82 3.597-7.265 0-3.457-2.794-5.972-6.426-5.972-3.807 0-7.16 2.724-6.81 6.636h4.33c-.21-1.642.873-2.655 2.27-2.655 1.048 0 2.305.524 2.305 2.41 0 .943-.244 1.572-2.444 4.366l-8.208 10.512h15.367v-3.946z"
+    style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40px;line-height:1.25;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.69850743" />
+</svg>

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#98dc9a" rx="9.935"/><g fill="#56595b"><text xml:space="preserve" x="114.781" y="141.623" font-family="Now" font-size="40" font-weight="500" style="line-height:1.25"><tspan x="114.781" y="141.623">8</tspan></text><g stroke-linecap="round" stroke-width="5" transform="translate(-.375)"><rect width="5" height="5" x="55.544" y="74.977" rx="0" ry="0"/><path d="M60.544 79.977h15v5h-15zM75.544 69.977h5v10h-5zM65.544 64.977h10v5h-10zM75.544 54.977h5v10h-5zM60.544 49.977h15v5h-15zM55.544 54.977h5v5h-5z"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#98dc9a" />
+  <g fill="#56595b"><text xml:space="preserve" x="114.781" y="141.623" font-family="Now" font-size="40"
+      font-weight="500" style="line-height:1.25">
+      <tspan x="114.781" y="141.623">8</tspan>
+    </text>
+    <g stroke-linecap="round" stroke-width="5" transform="translate(-.375)">
+      <rect width="5" height="5" x="55.544" y="74.977" rx="0" ry="0" />
+      <path
+        d="M60.544 79.977h15v5h-15zM75.544 69.977h5v10h-5zM65.544 64.977h10v5h-10zM75.544 54.977h5v10h-5zM60.544 49.977h15v5h-15zM55.544 54.977h5v5h-5z" />
+    </g>
+  </g>
+</svg>

@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:#fff;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1"/><text xml:space="preserve" x="65.379" y="113.23" style="font-size:45.9462px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;stroke-width:1;fill:#56595b;fill-opacity:1"><tspan x="65.379" y="113.23" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:1;fill:#56595b;fill-opacity:1">RAA</tspan></text><path d="M32.857 114.534c-.67-.195-1.04-.764-1.294-1.651-.266-1.807.756-2.876 1.576-4.351 1.884-3.72 4.829-8.419 6.44-10.54 1.767 1.558 1.761 1.529 3.127 2.738.116.177-1.441-2.67-2.537-4.5a88.53 88.53 0 0 1-1.557-2.739c-.44-.811-1.028-1.877-1.308-2.368l-.99-1.74a1614.31 1614.31 0 0 0-2.846-4.988c-1.786-3.11-1.968-3.52-1.955-4.41.014-1.08.612-2.026 1.471-2.33.328-.117.114-.394 7.613-.406 4.927-.036 6.532-.374 7.73.818.622.583 1.451 1.928 2.95 4.78.447.852.917 1.677 1.045 1.835.127.158.42.64.649 1.072.6 1.13 2.38 4.294 2.652 4.714 1.172 1.81 2.606 4.912 2.606 5.636 0 .919-.61 2.198-3.106 6.51-.871 1.507-2.368 4.27-3.44 6.073-2.873 4.841-2.871 4.827-3.825 5.797-.573.584-14.198.283-15 .05z" style="fill:#f9de81;fill-opacity:1;stroke-width:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%"
+    style="fill:#fff;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1" />
+  <text xml:space="preserve" x="65.379" y="113.23"
+    style="font-size:45.9462px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;stroke-width:1;fill:#56595b;fill-opacity:1">
+    <tspan x="65.379" y="113.23"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;stroke-width:1;fill:#56595b;fill-opacity:1">
+      RAA</tspan>
+  </text>
+  <path
+    d="M32.857 114.534c-.67-.195-1.04-.764-1.294-1.651-.266-1.807.756-2.876 1.576-4.351 1.884-3.72 4.829-8.419 6.44-10.54 1.767 1.558 1.761 1.529 3.127 2.738.116.177-1.441-2.67-2.537-4.5a88.53 88.53 0 0 1-1.557-2.739c-.44-.811-1.028-1.877-1.308-2.368l-.99-1.74a1614.31 1614.31 0 0 0-2.846-4.988c-1.786-3.11-1.968-3.52-1.955-4.41.014-1.08.612-2.026 1.471-2.33.328-.117.114-.394 7.613-.406 4.927-.036 6.532-.374 7.73.818.622.583 1.451 1.928 2.95 4.78.447.852.917 1.677 1.045 1.835.127.158.42.64.649 1.072.6 1.13 2.38 4.294 2.652 4.714 1.172 1.81 2.606 4.912 2.606 5.636 0 .919-.61 2.198-3.106 6.51-.871 1.507-2.368 4.27-3.44 6.073-2.873 4.841-2.871 4.827-3.825 5.797-.573.584-14.198.283-15 .05z"
+    style="fill:#f9de81;fill-opacity:1;stroke-width:1" />
+</svg>

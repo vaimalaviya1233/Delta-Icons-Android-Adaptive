@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><defs><linearGradient id="a" x1="20" x2="172" y1="172" y2="20" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff837d"/><stop offset="1" stop-color="#56595b"/></linearGradient></defs><rect width="152" height="152" x="20" y="20" fill="url(#a)" rx="9.935"/><path fill="#fff" d="m78.214 87.587-9.868-9.868-18.327 18.327 45.998 45.872 18.372-18.372-10.094-10.094-8.278 8.296-26.09-26.09zM113.79 104.41l9.868 9.868 18.327-18.327L95.987 50.08 77.615 68.451 87.71 78.545l8.278-8.296 26.09 26.09z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <defs>
+    <linearGradient id="a" x1="20" x2="172" y1="172" y2="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff837d" />
+      <stop offset="1" stop-color="#56595b" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill=url(#a)" />
+  <path fill="#fff"
+    d="m78.214 87.587-9.868-9.868-18.327 18.327 45.998 45.872 18.372-18.372-10.094-10.094-8.278 8.296-26.09-26.09zM113.79 104.41l9.868 9.868 18.327-18.327L95.987 50.08 77.615 68.451 87.71 78.545l8.278-8.296 26.09 26.09z" />
+</svg>

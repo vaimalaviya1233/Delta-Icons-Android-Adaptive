@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1925" width="128" height="176" x="892.362" y="-184" rx="10.079" ry="10.057" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00679;stroke-opacity:1" transform="rotate(90)"/><circle id="circle1905" cx="56.736" cy="940.349" r="13.417" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:26.6451;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/><path id="path1907" d="M69.014 954.702a18.897 18.897 0 0 1-12.278 4.543 18.897 18.897 0 0 1-12.25-4.522A23.236 30.387 0 0 0 33.5 980.405a23.236 30.387 0 0 0 .414 5.389h45.643a23.236 30.387 0 0 0 .414-5.389 23.236 30.387 0 0 0-10.957-25.703Z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:18.2855;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/><rect id="rect1909" width="66.696" height="9.095" x="91.804" y="931.361" rx="4.547" ry="4.547" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:25.8019;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/><rect id="rect1911" width="66.696" height="9.095" x="91.804" y="945.91" rx="4.547" ry="4.547" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:25.8019;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/><rect id="rect1913" width="66.696" height="9.095" x="91.804" y="960.458" rx="4.547" ry="4.547" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:25.8019;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/><rect id="rect1915" width="32.623" height="9.095" x="91.804" y="975.006" rx="4.547" ry="4.547" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:18.0453;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1925" width="128" height="176" x="892.362" y="-184" ry="10.057"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00679;stroke-opacity:1"
+      transform="rotate(90)" />
+    <circle id="circle1905" cx="56.736" cy="940.349" r="13.417"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:26.6451;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+    <path id="path1907"
+      d="M69.014 954.702a18.897 18.897 0 0 1-12.278 4.543 18.897 18.897 0 0 1-12.25-4.522A23.236 30.387 0 0 0 33.5 980.405a23.236 30.387 0 0 0 .414 5.389h45.643a23.236 30.387 0 0 0 .414-5.389 23.236 30.387 0 0 0-10.957-25.703Z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:18.2855;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+    <rect id="rect1909" width="66.696" height="9.095" x="91.804" y="931.361" rx="4.547" ry="4.547"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:25.8019;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+    <rect id="rect1911" width="66.696" height="9.095" x="91.804" y="945.91" rx="4.547" ry="4.547"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:25.8019;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+    <rect id="rect1913" width="66.696" height="9.095" x="91.804" y="960.458" rx="4.547" ry="4.547"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:25.8019;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+    <rect id="rect1915" width="32.623" height="9.095" x="91.804" y="975.006" rx="4.547" ry="4.547"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:18.0453;stroke-linecap:square;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

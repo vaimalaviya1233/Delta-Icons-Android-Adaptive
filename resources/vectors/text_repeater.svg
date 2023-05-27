@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#9abeff"/><path fill="#728dbe" d="M96 8A88 88 0 0 0 8 96h176A88 88 0 0 0 96 8z"/><text xml:space="preserve" x="64.658" y="82.049" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" font-family="Now" font-size="27.066" font-weight="500"><tspan x="64.658" y="82.049">Text</tspan></text><text xml:space="preserve" x="50.842" y="120.795" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" font-family="Now" font-size="20.216" font-weight="500"><tspan x="50.842" y="120.795" font-weight="300">repeater</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#9abeff" />
+  <path fill="#728dbe" d="M96 8A88 88 0 0 0 8 96h176A88 88 0 0 0 96 8z" /><text xml:space="preserve" x="64.658"
+    y="82.049" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" font-family="Now"
+    font-size="27.066" font-weight="500">
+    <tspan x="64.658" y="82.049">Text</tspan>
+  </text><text xml:space="preserve" x="50.842" y="120.795" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="12" font-family="Now" font-size="20.216" font-weight="500">
+    <tspan x="50.842" y="120.795" font-weight="300">repeater</tspan>
+  </text>
+</svg>

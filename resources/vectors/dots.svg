@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="153" height="153" x="19.5" y="19.5" rx="10" style="fill:#fff;fill-rule:evenodd;stroke:none"/><g transform="translate(-2.068 2.857)"><circle cx="73.211" cy="67.703" r="16.529" style="opacity:1;fill:#96dfd3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00991154;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:150;stroke-opacity:1"/><circle cx="122.925" cy="67.71" r="16.529" style="opacity:1;fill:#98dc9a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00991058;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:150;stroke-opacity:1"/><circle cx="73.888" cy="118.584" r="16.529" style="opacity:1;fill:#f4806d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00991058;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:150;stroke-opacity:1"/><circle cx="122.925" cy="118.575" r="16.529" style="opacity:1;fill:#f8c18c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00991058;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:150;stroke-opacity:1"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" style="fill:#fff;fill-rule:evenodd;stroke:none" />
+  <g transform="translate(-2.068 2.857)">
+    <circle cx="73.211" cy="67.703" r="16.529"
+      style="opacity:1;fill:#96dfd3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00991154;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:150;stroke-opacity:1" />
+    <circle cx="122.925" cy="67.71" r="16.529"
+      style="opacity:1;fill:#98dc9a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00991058;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:150;stroke-opacity:1" />
+    <circle cx="73.888" cy="118.584" r="16.529"
+      style="opacity:1;fill:#f4806d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00991058;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:150;stroke-opacity:1" />
+    <circle cx="122.925" cy="118.575" r="16.529"
+      style="opacity:1;fill:#f8c18c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00991058;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:150;stroke-opacity:1" />
+  </g>
+</svg>

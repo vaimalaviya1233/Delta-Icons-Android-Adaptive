@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:#f9de81;stroke:#b1b5bd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1"/><rect width="10.702" height="9.757" x="111.123" y="91.694" rx="10" style="fill:#f9de81;fill-opacity:1;stroke:#ba6561;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"/><path d="M133.74 105.689c-3.202-1.491-6.158-4.84-8.494-9.626-2.204-4.516-3.19-8.149-3.788-13.967l-.586-5.675-.197-1.892h-1.56c-2.257 0-5.062 2.256-10.248 8.244-7.84 9.05-9.715 10.155-13.777 8.11-1.387-.698-2.61-3.412-2.3-5.105.636-3.482 4.58-7.523 10.161-10.412 5.43-2.81 10.28-4.07 15.73-4.085 1.026-.003 2.061-.13 2.301-.283.24-.152.824-1.424 1.298-2.826.966-2.855 2.992-6.13 4.659-7.533 1.233-1.038 5.156-3.079 7.174-3.732 3.77-1.222 8.346-1.087 11.12.328 2.36 1.204 2.8 2.865 1.167 4.395-1.85 1.734-4.913 2.918-12.882 4.98-8.495 2.197-9.586 2.707-10.085 4.705-.21.847-.016 1.055 2.184 2.342 2.802 1.638 7.819 6.428 10.537 10.06 5.451 7.283 7.554 15.576 5.071 19.993-1.638 2.916-4.083 3.562-7.485 1.979z" style="fill:#9abeff;fill-opacity:1;stroke:none;stroke-width:1"/><text xml:space="preserve" x="43.156" y="123.876" style="font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now"><tspan x="43.156" y="123.876" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#4a4a4a;fill-opacity:1">digi</tspan></text><rect width="10.702" height="8.577" x="69.968" y="92.882" rx="10" style="fill:#f9de81;fill-opacity:1;stroke:#ba6561;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"/><rect width="10.702" height="8.577" x="111.123" y="92.875" rx="10" style="fill:#f9de81;fill-opacity:1;stroke:#ba6561;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"/><text xml:space="preserve" x="42.265" y="84.002" style="font-size:32px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now"><tspan x="42.265" y="84.002" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:32px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#4a4a4a;fill-opacity:1">My</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%"
+    style="fill:#f9de81;stroke:#b1b5bd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1" />
+  <rect width="10.702" height="9.757" x="111.123" y="91.694" rx="10"
+    style="fill:#f9de81;fill-opacity:1;stroke:#ba6561;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+    d="M133.74 105.689c-3.202-1.491-6.158-4.84-8.494-9.626-2.204-4.516-3.19-8.149-3.788-13.967l-.586-5.675-.197-1.892h-1.56c-2.257 0-5.062 2.256-10.248 8.244-7.84 9.05-9.715 10.155-13.777 8.11-1.387-.698-2.61-3.412-2.3-5.105.636-3.482 4.58-7.523 10.161-10.412 5.43-2.81 10.28-4.07 15.73-4.085 1.026-.003 2.061-.13 2.301-.283.24-.152.824-1.424 1.298-2.826.966-2.855 2.992-6.13 4.659-7.533 1.233-1.038 5.156-3.079 7.174-3.732 3.77-1.222 8.346-1.087 11.12.328 2.36 1.204 2.8 2.865 1.167 4.395-1.85 1.734-4.913 2.918-12.882 4.98-8.495 2.197-9.586 2.707-10.085 4.705-.21.847-.016 1.055 2.184 2.342 2.802 1.638 7.819 6.428 10.537 10.06 5.451 7.283 7.554 15.576 5.071 19.993-1.638 2.916-4.083 3.562-7.485 1.979z"
+    style="fill:#9abeff;fill-opacity:1;stroke:none;stroke-width:1" /><text xml:space="preserve" x="43.156" y="123.876"
+    style="font-size:40px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now">
+    <tspan x="43.156" y="123.876"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#4a4a4a;fill-opacity:1">
+      digi</tspan>
+  </text>
+  <rect width="10.702" height="8.577" x="69.968" y="92.882" rx="10"
+    style="fill:#f9de81;fill-opacity:1;stroke:#ba6561;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect width="10.702" height="8.577" x="111.123" y="92.875" rx="10"
+    style="fill:#f9de81;fill-opacity:1;stroke:#ba6561;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" /><text
+    xml:space="preserve" x="42.265" y="84.002"
+    style="font-size:32px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now">
+    <tspan x="42.265" y="84.002"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:32px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#4a4a4a;fill-opacity:1">
+      My</tspan>
+  </text>
+</svg>

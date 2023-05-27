@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><mask id="c"><path id="path5364" fill="#fff" d="M-1200-1200h2400v2400h-2400z"/><circle id="circle5366" r="925"/><path id="path5368" d="m-306-861 36-185h540l36 185"/><path id="path5370" d="m-306-861 36-185h540l36 185" transform="rotate(120)"/><path id="path5372" d="m-306-861 36-185h540l36 185" transform="rotate(240)"/></mask><mask id="mask3040" maskUnits="userSpaceOnUse"><rect id="rect3042" width="105" height="152" x="44" y="20" rx="8.636" style="fill:#fff;stroke-width:.999996"/></mask><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><g id="g25852" transform="translate(155.701 -23.402)"><rect id="rect966" width="128" height="176" x="-123.701" y="31.402" rx="10.079" ry="10.057" style="opacity:.374101;fill:#000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00679;stroke-opacity:1"/><rect id="rect1126" width="128" height="176" x="-123.701" y="31.402" rx="10" style="fill:#56595b;fill-opacity:1;stroke-width:1.18807"/><g id="g1130" mask="url(#mask3040)" style="fill:#b02a3c;fill-opacity:1" transform="matrix(1.1579 0 0 1.1579 -174.648 8.244)"><path id="rect1128" d="M44 20h16v152H44z" style="fill:#ba6561;fill-opacity:1"/></g><path id="path846" d="M-10.174 198.138c4.631 0 4.631-4.631 4.631-4.631V174.98c-4.631 13.894-9.263 18.526-23.158 23.157z" style="fill:#b1b5bd;stroke:none;stroke-width:4.63158px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"/><path id="path846-3" d="M-10.174 40.665c4.631 0 4.631 4.631 4.631 4.631v18.527c-4.631-13.895-9.263-18.527-23.158-23.158Z" style="fill:#b1b5bd;stroke:none;stroke-width:4.63158px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"/><g id="g5412" style="display:inline" transform="matrix(.03599 0 0 .03599 -50.366 120.979)"><g id="g5384" mask="url(#c)" style="fill:#b1b5bd;fill-opacity:1"><circle id="circle5377" cx="0" cy="0" r="984" style="fill:#b1b5bd;fill-opacity:1"/><path id="a" d="m-359-913 36-185h646l36 185" style="fill:#b1b5bd;fill-opacity:1"/><use xlink:href="#a" id="use5380" style="fill:#b1b5bd;fill-opacity:1" transform="rotate(120)"/><use xlink:href="#a" id="use5382" style="fill:#b1b5bd;fill-opacity:1" transform="rotate(-120)"/></g><circle id="circle5386" cx="0" cy="0" r="590.5" fill="none" stroke="#000" stroke-width="119" style="fill:none;fill-opacity:1;stroke:#b1b5bd;stroke-opacity:1"/><path id="b" d="M-40-752v455h-93.5L0-38l133.5-259H40v-455" style="fill:#b1b5bd;fill-opacity:1"/><use xlink:href="#b" id="use5389" style="fill:#ba6561;fill-opacity:1;stroke-width:1.00037;stroke-dasharray:none" transform="rotate(120)"/><use xlink:href="#b" id="use5391" style="fill:#ba6561;fill-opacity:1" transform="rotate(-120)"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="svg16"
+  version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <mask id="c">
+      <path id="path5364" fill="#fff" d="M-1200-1200h2400v2400h-2400z" />
+      <circle id="circle5366" r="925" />
+      <path id="path5368" d="m-306-861 36-185h540l36 185" />
+      <path id="path5370" d="m-306-861 36-185h540l36 185" transform="rotate(120)" />
+      <path id="path5372" d="m-306-861 36-185h540l36 185" transform="rotate(240)" />
+    </mask>
+    <mask id="mask3040" maskUnits="userSpaceOnUse">
+      <rect id="rect3042" width="105" height="152" x="44" y="20" rx="8.636" style="fill:#fff;stroke-width:.999996" />
+    </mask>
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <g id="g25852" transform="translate(155.701 -23.402)">
+    <rect id="rect966" width="128" height="176" x="-123.701" y="31.402" ry="10.057"
+      style="opacity:.374101;fill:#000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00679;stroke-opacity:1" />
+    <rect id="rect1126" width="128" height="176" x="-123.701" y="31.402" rx="10"
+      style="fill:#56595b;fill-opacity:1;stroke-width:1.18807" />
+    <g id="g1130" mask="url(#mask3040)" style="fill:#b02a3c;fill-opacity:1"
+      transform="matrix(1.1579 0 0 1.1579 -174.648 8.244)">
+      <path id="rect1128" d="M44 20h16v152H44z" style="fill:#ba6561;fill-opacity:1" />
+    </g>
+    <path id="path846"
+      d="M-10.174 198.138c4.631 0 4.631-4.631 4.631-4.631V174.98c-4.631 13.894-9.263 18.526-23.158 23.157z"
+      style="fill:#b1b5bd;stroke:none;stroke-width:4.63158px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    <path id="path846-3"
+      d="M-10.174 40.665c4.631 0 4.631 4.631 4.631 4.631v18.527c-4.631-13.895-9.263-18.527-23.158-23.158Z"
+      style="fill:#b1b5bd;stroke:none;stroke-width:4.63158px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    <g id="g5412" style="display:inline" transform="matrix(.03599 0 0 .03599 -50.366 120.979)">
+      <g id="g5384" mask="url(#c)" style="fill:#b1b5bd;fill-opacity:1">
+        <circle id="circle5377" cx="0" cy="0" r="984" style="fill:#b1b5bd;fill-opacity:1" />
+        <path id="a" d="m-359-913 36-185h646l36 185" style="fill:#b1b5bd;fill-opacity:1" />
+        <use xlink:href="#a" id="use5380" style="fill:#b1b5bd;fill-opacity:1" transform="rotate(120)" />
+        <use xlink:href="#a" id="use5382" style="fill:#b1b5bd;fill-opacity:1" transform="rotate(-120)" />
+      </g>
+      <circle id="circle5386" cx="0" cy="0" r="590.5" fill="none" stroke="#000" stroke-width="119"
+        style="fill:none;fill-opacity:1;stroke:#b1b5bd;stroke-opacity:1" />
+      <path id="b" d="M-40-752v455h-93.5L0-38l133.5-259H40v-455" style="fill:#b1b5bd;fill-opacity:1" />
+      <use xlink:href="#b" id="use5389" style="fill:#ba6561;fill-opacity:1;stroke-width:1.00037;stroke-dasharray:none"
+        transform="rotate(120)" />
+      <use xlink:href="#b" id="use5391" style="fill:#ba6561;fill-opacity:1" transform="rotate(-120)" />
+    </g>
+  </g>
+</svg>

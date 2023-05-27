@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1508" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path1448" d="M77.18 928.44c-2.344-.011-4.86.536-7.377 1.881-5.757 3.08-7.665 7.628-8.05 12.748l-2.174 28.976c-.398 5.299.726 8.255 3.14 10.083 4.696 3.398 9.102 2.578 13.264-1.046l6.43-5.851c1.288-1.172 2.308-1.429 5.895-1.429h15.384c3.587 0 4.607.257 5.894 1.429l6.431 5.851c4.162 3.624 8.568 4.444 13.264 1.046 2.414-1.828 3.538-4.784 3.14-10.083l-2.175-28.976c-.384-5.12-2.292-9.668-8.05-12.748-5.75-3.076-11.508-1.976-15.18.42-2.465 1.61-3.08 2.085-4.837 2.085H89.82c-1.758 0-2.372-.475-4.838-2.085-2.065-1.348-4.79-2.286-7.804-2.3z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.436952;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stop-color:#000"/><path id="path1450" d="M77.689 942.918v3.759a1.5 1.5 135 0 1-1.5 1.5h-3.76a1.5 1.5 135 0 0-1.5 1.5v3.18a1.5 1.5 45 0 0 1.5 1.5h3.76a1.5 1.5 45 0 1 1.5 1.5v3.758a1.5 1.5 45 0 0 1.5 1.5h3.18a1.5 1.5 135 0 0 1.5-1.5v-3.759a1.5 1.5 135 0 1 1.5-1.5h3.758a1.5 1.5 135 0 0 1.5-1.5v-3.18a1.5 1.5 45 0 0-1.5-1.5h-3.758a1.5 1.5 45 0 1-1.5-1.5v-3.758a1.5 1.5 45 0 0-1.5-1.5h-3.18a1.5 1.5 135 0 0-1.5 1.5z" style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.450401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stop-color:#000"/><g id="g1456" style="fill:#f8c18c;fill-opacity:1" transform="matrix(.29578 0 0 .32718 60.49 1118.96)"><path id="path1452" d="m184.107-497.5-21.536 12.434v-24.868z" style="color:#000;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke-width:10.2095;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6"/><path id="path1454" d="M160.02-514.354a5.105 5.105 0 0 0-2.553 4.42v24.868c.002 3.928 4.253 6.382 7.656 4.42l21.537-12.434c3.4-1.966 3.4-6.874 0-8.84l-21.537-12.434a5.105 5.105 0 0 0-5.103 0z" style="color:#000;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6"/></g><g id="g1462" style="fill:#f8c18c;fill-opacity:1" transform="matrix(-.29578 0 0 .32718 165.774 1109.962)"><path id="path1458" d="m184.107-497.5-21.536 12.434v-24.868z" style="color:#000;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke-width:10.2095;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6"/><path id="path1460" d="M160.02-514.354a5.105 5.105 0 0 0-2.553 4.42v24.868c.002 3.928 4.253 6.382 7.656 4.42l21.537-12.434c3.4-1.966 3.4-6.874 0-8.84l-21.537-12.434a5.105 5.105 0 0 0-5.103 0z" style="color:#000;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1508" width="100%" height="100%"
+      style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path1448"
+      d="M77.18 928.44c-2.344-.011-4.86.536-7.377 1.881-5.757 3.08-7.665 7.628-8.05 12.748l-2.174 28.976c-.398 5.299.726 8.255 3.14 10.083 4.696 3.398 9.102 2.578 13.264-1.046l6.43-5.851c1.288-1.172 2.308-1.429 5.895-1.429h15.384c3.587 0 4.607.257 5.894 1.429l6.431 5.851c4.162 3.624 8.568 4.444 13.264 1.046 2.414-1.828 3.538-4.784 3.14-10.083l-2.175-28.976c-.384-5.12-2.292-9.668-8.05-12.748-5.75-3.076-11.508-1.976-15.18.42-2.465 1.61-3.08 2.085-4.837 2.085H89.82c-1.758 0-2.372-.475-4.838-2.085-2.065-1.348-4.79-2.286-7.804-2.3z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.436952;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stop-color:#000" />
+    <path id="path1450"
+      d="M77.689 942.918v3.759a1.5 1.5 135 0 1-1.5 1.5h-3.76a1.5 1.5 135 0 0-1.5 1.5v3.18a1.5 1.5 45 0 0 1.5 1.5h3.76a1.5 1.5 45 0 1 1.5 1.5v3.758a1.5 1.5 45 0 0 1.5 1.5h3.18a1.5 1.5 135 0 0 1.5-1.5v-3.759a1.5 1.5 135 0 1 1.5-1.5h3.758a1.5 1.5 135 0 0 1.5-1.5v-3.18a1.5 1.5 45 0 0-1.5-1.5h-3.758a1.5 1.5 45 0 1-1.5-1.5v-3.758a1.5 1.5 45 0 0-1.5-1.5h-3.18a1.5 1.5 135 0 0-1.5 1.5z"
+      style="fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.450401;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stop-color:#000" />
+    <g id="g1456" style="fill:#f8c18c;fill-opacity:1" transform="matrix(.29578 0 0 .32718 60.49 1118.96)">
+      <path id="path1452" d="m184.107-497.5-21.536 12.434v-24.868z"
+        style="color:#000;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke-width:10.2095;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6" />
+      <path id="path1454"
+        d="M160.02-514.354a5.105 5.105 0 0 0-2.553 4.42v24.868c.002 3.928 4.253 6.382 7.656 4.42l21.537-12.434c3.4-1.966 3.4-6.874 0-8.84l-21.537-12.434a5.105 5.105 0 0 0-5.103 0z"
+        style="color:#000;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6" />
+    </g>
+    <g id="g1462" style="fill:#f8c18c;fill-opacity:1" transform="matrix(-.29578 0 0 .32718 165.774 1109.962)">
+      <path id="path1458" d="m184.107-497.5-21.536 12.434v-24.868z"
+        style="color:#000;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke-width:10.2095;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6" />
+      <path id="path1460"
+        d="M160.02-514.354a5.105 5.105 0 0 0-2.553 4.42v24.868c.002 3.928 4.253 6.382 7.656 4.42l21.537-12.434c3.4-1.966 3.4-6.874 0-8.84l-21.537-12.434a5.105 5.105 0 0 0-5.103 0z"
+        style="color:#000;fill:#f8c18c;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

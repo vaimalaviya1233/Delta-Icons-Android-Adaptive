@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="153" height="153" x="19.5" y="19.5" rx="10" style="fill:#54688c;stroke-width:4"/><path d="M56 64v4h4l20 60h4l11.555-43.334L110 128h4l16-60h6v-4h-20v4h10l-12 44-14-44h8v-4H84v4h6l3.3 9.9L84 112 70 68h6v-4H56zM124 116h20v4h-20z" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4"/><path d="M132 108h4v20h-4z" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4"/><style>.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" style="fill:#54688c;stroke-width:4" />
+  <path
+    d="M56 64v4h4l20 60h4l11.555-43.334L110 128h4l16-60h6v-4h-20v4h10l-12 44-14-44h8v-4H84v4h6l3.3 9.9L84 112 70 68h6v-4H56zM124 116h20v4h-20z"
+    style="fill:#fff;paint-order:stroke fill markers;stroke-width:4" />
+  <path d="M132 108h4v20h-4z" style="fill:#fff;paint-order:stroke fill markers;stroke-width:4" />
+  <style>
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

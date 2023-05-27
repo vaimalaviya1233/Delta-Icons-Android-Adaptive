@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#f9de81" rx="9.935"/><text xml:space="preserve" x="47.002" y="109.859" fill="#f9de81" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.953" font-family="Now" font-size="31.498" font-weight="500"><tspan x="47.002" y="109.859"><tspan fill="#56595b">blink</tspan><tspan fill="#98dc9a">it</tspan></tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#f9de81" /><text xml:space="preserve" x="47.002" y="109.859" fill="#f9de81"
+    stroke-linecap="round" stroke-linejoin="round" stroke-width="2.953" font-family="Now" font-size="31.498"
+    font-weight="500">
+    <tspan x="47.002" y="109.859">
+      <tspan fill="#56595b">blink</tspan>
+      <tspan fill="#98dc9a">it</tspan>
+    </tspan>
+  </text>
+</svg>

@@ -1,1 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><rect id="rect6" width="152" height="152" x="20" y="20" class="a" rx="10" style="display:inline;fill:#f9de81;fill-opacity:1;stroke:none;opacity:1"/><path id="rect6-2" d="M30 20c-5.54 0-10 4.46-10 10v74.526c.36-.04.713-.108 1.084-.11H172V30c0-5.54-4.46-10-10-10z" class="a" style="display:inline;opacity:1;isolation:isolate;fill:#fff;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"/><g id="text2895" aria-label="LIJN" style="font-size:38.5248px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;fill:#56595b;stroke-width:.96312" transform="matrix(1.01727 0 -.1915 .98302 0 0)"><path id="path4199" d="M68.524 91.683v-22.49h-7.367v28.894h16.565v-6.404z" style="font-weight:900;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;"/><path id="path4201-3" d="M76.754 89.447h7.368l-.075-20.253H76.68Z" style="font-weight:900;font-size:38.5248px;line-height:1.25;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;;fill:#56595b;stroke-width:.96312"/><path id="path4203" d="M105.533 69.194h-16.71v6.404h9.342v13.966c0 1.396-1.107 2.552-2.456 2.552-1.203 0-2.167-.915-2.36-2.167l-7.27 2.215c.673 3.9 3.948 6.309 9.63 6.309 6.453 0 9.824-3.082 9.824-7.946z" style="font-weight:900;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;"/><path id="path4205" d="M131.2 69.194v17.673l-13.05-17.673h-7.705v28.893h7.368V80.366l13.002 17.721h7.753V69.194z" style="font-weight:900;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;"/></g><text xml:space="preserve" id="text5088" x="59.735" y="66.945" style="font-size:18.4319px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;fill:#56595b;stroke-width:1.12758" transform="skewX(-11.536) scale(1.0255 .97513)"><tspan id="tspan5086" x="59.735" y="66.945" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:18.4319px;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold&quot;;fill:#56595b;stroke-width:1.12758">DE</tspan></text><path id="rect17488" d="m80.096 52.318-2.264 11.893h27.426l2.265-11.893H80.096zm29.388 0-2.263 11.893h21.597l2.266-11.893h-21.6zm23.56 0-2.265 11.893h11.03l2.265-11.893h-11.03zm12.991 0-2.265 11.893h6.334l2.263-11.893h-6.332zm8.295 0-2.266 11.893h4.102l2.266-11.893h-4.102zm6.065 0-2.266 11.893h2.95l2.263-11.893h-2.947zm4.91 0-2.264 11.893h1.475l2.265-11.893h-1.476zm3.44 0-2.266 11.893h1.062l2.266-11.893h-1.063zm3.023 0-2.264 11.893h.318L172 52.777v-.459h-.232zm.232 10.76-.215 1.133H172v-1.133z" style="fill:#728dbe;stroke-width:1.9358"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect id="rect6" width="100%" height="100%" class=" a"
+    style="display:inline;fill:#f9de81;fill-opacity:1;stroke:none;opacity:1" />
+  <path id="rect6-2" d="M30 20c-5.54 0-10 4.46-10 10v74.526c.36-.04.713-.108 1.084-.11H172V30c0-5.54-4.46-10-10-10z"
+    class="a"
+    style="display:inline;opacity:1;isolation:isolate;fill:#fff;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round" />
+  <g id="text2895" aria-label="LIJN"
+    style="font-size:38.5248px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;fill:#56595b;stroke-width:.96312"
+    transform="matrix(1.01727 0 -.1915 .98302 0 0)">
+    <path id="path4199" d="M68.524 91.683v-22.49h-7.367v28.894h16.565v-6.404z"
+      style="font-weight:900;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;" />
+    <path id="path4201-3" d="M76.754 89.447h7.368l-.075-20.253H76.68Z"
+      style="font-weight:900;font-size:38.5248px;line-height:1.25;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;;fill:#56595b;stroke-width:.96312" />
+    <path id="path4203"
+      d="M105.533 69.194h-16.71v6.404h9.342v13.966c0 1.396-1.107 2.552-2.456 2.552-1.203 0-2.167-.915-2.36-2.167l-7.27 2.215c.673 3.9 3.948 6.309 9.63 6.309 6.453 0 9.824-3.082 9.824-7.946z"
+      style="font-weight:900;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;" />
+    <path id="path4205" d="M131.2 69.194v17.673l-13.05-17.673h-7.705v28.893h7.368V80.366l13.002 17.721h7.753V69.194z"
+      style="font-weight:900;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Heavy&quot;" />
+  </g><text xml:space="preserve" id="text5088" x="59.735" y="66.945"
+    style="font-size:18.4319px;line-height:1.25;font-family:&quot;DejaVu Math TeX Gyre&quot;;-inkscape-font-specification:&quot;DejaVu Math TeX Gyre&quot;;fill:#56595b;stroke-width:1.12758"
+    transform="skewX(-11.536) scale(1.0255 .97513)">
+    <tspan id="tspan5086" x="59.735" y="66.945"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:18.4319px;font-family:&quot;Now Alt&quot;;-inkscape-font-specification:&quot;Now Alt Bold&quot;;fill:#56595b;stroke-width:1.12758">
+      DE</tspan>
+  </text>
+  <path id="rect17488"
+    d="m80.096 52.318-2.264 11.893h27.426l2.265-11.893H80.096zm29.388 0-2.263 11.893h21.597l2.266-11.893h-21.6zm23.56 0-2.265 11.893h11.03l2.265-11.893h-11.03zm12.991 0-2.265 11.893h6.334l2.263-11.893h-6.332zm8.295 0-2.266 11.893h4.102l2.266-11.893h-4.102zm6.065 0-2.266 11.893h2.95l2.263-11.893h-2.947zm4.91 0-2.264 11.893h1.475l2.265-11.893h-1.476zm3.44 0-2.266 11.893h1.062l2.266-11.893h-1.063zm3.023 0-2.264 11.893h.318L172 52.777v-.459h-.232zm.232 10.76-.215 1.133H172v-1.133z"
+    style="fill:#728dbe;stroke-width:1.9358" />
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#56595b" rx="9.935"/><g transform="translate(47.405 47.404) scale(2.0248)"><path fill="#8c72bd" stroke="#fff" stroke-width=".494" d="M24 4.5s-2.507-.056-2.757 3.39c0 0-7.285 1.661-7.266 12.001.02 10.845-6.267 8.249-6.904 18.392h33.855c-.637-10.143-6.925-7.547-6.905-18.392.02-10.339-7.265-12.002-7.265-12.002C26.508 4.444 24 4.501 24 4.501z" class="j"/><ellipse cx="24" cy="38.527" fill="#fff" stroke="#fff" stroke-width=".494" class="j" rx="16.948" ry="4.973"/><path fill="#8c72bd" d="M29.976 33.873c0 3.345-2.675 6.056-5.976 6.056s-5.975-2.712-5.975-6.056" class="j"/><path fill="#fff" d="m24 16.39-4.897 6.556h2.335v4.195h5.126v-4.195h2.334z" class="j"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#56595b" />
+  <g transform="translate(47.405 47.404) scale(2.0248)">
+    <path fill="#8c72bd" stroke="#fff" stroke-width=".494"
+      d="M24 4.5s-2.507-.056-2.757 3.39c0 0-7.285 1.661-7.266 12.001.02 10.845-6.267 8.249-6.904 18.392h33.855c-.637-10.143-6.925-7.547-6.905-18.392.02-10.339-7.265-12.002-7.265-12.002C26.508 4.444 24 4.501 24 4.501z"
+      class="j" />
+    <ellipse cx="24" cy="38.527" fill="#fff" stroke="#fff" stroke-width=".494" class="j" rx="16.948" ry="4.973" />
+    <path fill="#8c72bd" d="M29.976 33.873c0 3.345-2.675 6.056-5.976 6.056s-5.975-2.712-5.975-6.056" class="j" />
+    <path fill="#fff" d="m24 16.39-4.897 6.556h2.335v4.195h5.126v-4.195h2.334z" class="j" />
+  </g>
+</svg>

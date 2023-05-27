@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#fff"/><ellipse cx="420.62" cy="347.83" fill="#ccc" rx="11.72" ry="6.126" transform="matrix(.99746 .07128 -.96277 .27031 0 0)"/><path fill="none" stroke="#56595b" stroke-width="10" d="m61.863 94.625 21.96 21.96 54.624-54.624"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" />
+  <ellipse cx="420.62" cy="347.83" fill="#ccc" rx="11.72" ry="6.126"
+    transform="matrix(.99746 .07128 -.96277 .27031 0 0)" />
+  <path fill="none" stroke="#56595b" stroke-width="10" d="m61.863 94.625 21.96 21.96 54.624-54.624" />
+</svg>

@@ -1,1 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><defs><style>.ac{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}</style></defs><rect width="152" height="152" x="20" y="20" fill="#98dc9a" rx="9.935"/><g id="b" transform="translate(38.532 38.532) scale(2.3945)"><circle id="c" cx="19.821" cy="30.877" r=".587" class="ac"/><circle cx="28.293" cy="30.878" r=".587" class="ac"/><circle id="e" cx="19.751" cy="30.926" r="3.81" class="ac"/><path d="M21.04 34.738c.867-.784 1.866-1.143 3.01-1.143 1.085 0 2.138.388 2.985 1.1" class="ac"/><path d="M26.878 34.542a7.56 7.56 0 0 1-14.733-2.11M12.137 20.678v11.624" class="ac"/><path id="i" d="M16.387 22.941a6.149 6.149 0 0 1-4.24-2.505" class="ac"/><path d="M16.49 22.946h15.181" class="ac"/><path id="k" d="M14.75 43.42c.083-1.74.42-3.41.977-4.847" class="ac"/><path d="M14.793 43.5h18.403" class="ac"/><path id="m" d="M21.747 14.096a5.051 5.051 0 0 1-1.883-1.577" class="ac"/><path id="n" d="M19.003 10.564a5.051 5.051 0 0 1 5.18-6.059" class="ac"/><path id="o" d="M17.809 14.867a5.051 5.051 0 0 1 2.282-9.557c.355 0 .536.019.884.093" class="ac"/><path d="M17.831 15.046v5.438" class="ac"/><path id="q" d="M17.901 20.487h8.402" class="ac"/><ellipse id="r" cx="28.255" cy="30.91" class="ac" rx="3.807" ry="3.8"/><path id="s" d="M21.117 34.502c1.01 3.11 3.915 5.188 7.19 5.188 4.069 0 7.407-3.218 7.548-7.278" class="ac"/><path id="t" d="M35.863 20.69v11.593" class="ac"/><path id="u" d="M31.616 22.946a6.145 6.145 0 0 0 4.237-2.499" class="ac"/><path id="v" d="M31.514 22.952H16.346" class="ac"/><path id="w" d="M33.252 43.371c-.083-1.735-.42-3.4-.977-4.834" class="ac"/><path id="x" d="M26.262 14.076a5.044 5.044 0 0 0 1.881-1.573" class="ac"/><path id="y" d="M29.003 10.554a5.042 5.042 0 0 0-4.836-6.047" class="ac"/><path id="z" d="M30.196 14.894a5.037 5.037 0 0 0 2.766-4.494 5.042 5.042 0 0 0-5.046-5.038c-.355 0-.512.038-.859.112" class="ac"/><path id="aa" d="M30.174 15.073v5.423" class="ac"/><path id="ab" d="M30.104 20.499H21.71" class="ac"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <defs>
+    <style>
+      .ac {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#98dc9a" />
+  <g id="b" transform="translate(38.532 38.532) scale(2.3945)">
+    <circle id="c" cx="19.821" cy="30.877" r=".587" class="ac" />
+    <circle cx="28.293" cy="30.878" r=".587" class="ac" />
+    <circle id="e" cx="19.751" cy="30.926" r="3.81" class="ac" />
+    <path d="M21.04 34.738c.867-.784 1.866-1.143 3.01-1.143 1.085 0 2.138.388 2.985 1.1" class="ac" />
+    <path d="M26.878 34.542a7.56 7.56 0 0 1-14.733-2.11M12.137 20.678v11.624" class="ac" />
+    <path id="i" d="M16.387 22.941a6.149 6.149 0 0 1-4.24-2.505" class="ac" />
+    <path d="M16.49 22.946h15.181" class="ac" />
+    <path id="k" d="M14.75 43.42c.083-1.74.42-3.41.977-4.847" class="ac" />
+    <path d="M14.793 43.5h18.403" class="ac" />
+    <path id="m" d="M21.747 14.096a5.051 5.051 0 0 1-1.883-1.577" class="ac" />
+    <path id="n" d="M19.003 10.564a5.051 5.051 0 0 1 5.18-6.059" class="ac" />
+    <path id="o" d="M17.809 14.867a5.051 5.051 0 0 1 2.282-9.557c.355 0 .536.019.884.093" class="ac" />
+    <path d="M17.831 15.046v5.438" class="ac" />
+    <path id="q" d="M17.901 20.487h8.402" class="ac" />
+    <ellipse id="r" cx="28.255" cy="30.91" class="ac" rx="3.807" ry="3.8" />
+    <path id="s" d="M21.117 34.502c1.01 3.11 3.915 5.188 7.19 5.188 4.069 0 7.407-3.218 7.548-7.278" class="ac" />
+    <path id="t" d="M35.863 20.69v11.593" class="ac" />
+    <path id="u" d="M31.616 22.946a6.145 6.145 0 0 0 4.237-2.499" class="ac" />
+    <path id="v" d="M31.514 22.952H16.346" class="ac" />
+    <path id="w" d="M33.252 43.371c-.083-1.735-.42-3.4-.977-4.834" class="ac" />
+    <path id="x" d="M26.262 14.076a5.044 5.044 0 0 0 1.881-1.573" class="ac" />
+    <path id="y" d="M29.003 10.554a5.042 5.042 0 0 0-4.836-6.047" class="ac" />
+    <path id="z"
+      d="M30.196 14.894a5.037 5.037 0 0 0 2.766-4.494 5.042 5.042 0 0 0-5.046-5.038c-.355 0-.512.038-.859.112"
+      class="ac" />
+    <path id="aa" d="M30.174 15.073v5.423" class="ac" />
+    <path id="ab" d="M30.104 20.499H21.71" class="ac" />
+  </g>
+</svg>

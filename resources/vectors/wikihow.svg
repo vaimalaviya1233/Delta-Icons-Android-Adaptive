@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:#98dc9a;opacity:1"/><text xml:space="preserve" x="51.766" y="96.443" style="fill:#71a372;font-family:Now;font-size:44.27px;letter-spacing:0;line-height:1.25;stroke-width:1.1068;word-spacing:0"><tspan x="51.766" y="96.443" style="fill:#71a372;font-family:Now;font-weight:500;stroke-width:1.1068">wiki</tspan></text><text xml:space="preserve" x="48.73" y="131.566" style="fill:#fff;font-family:Now;font-size:41.441px;letter-spacing:0;line-height:1.25;stroke-width:1.036;word-spacing:0"><tspan x="48.73" y="131.566" style="fill:#fff;font-family:Now;font-weight:500;stroke-width:1.036">How</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" style="fill:#98dc9a;opacity:1" /><text xml:space="preserve" x="51.766" y="96.443"
+    style="fill:#71a372;font-family:Now;font-size:44.27px;letter-spacing:0;line-height:1.25;stroke-width:1.1068;word-spacing:0">
+    <tspan x="51.766" y="96.443" style="fill:#71a372;font-family:Now;font-weight:500;stroke-width:1.1068">wiki</tspan>
+  </text><text xml:space="preserve" x="48.73" y="131.566"
+    style="fill:#fff;font-family:Now;font-size:41.441px;letter-spacing:0;line-height:1.25;stroke-width:1.036;word-spacing:0">
+    <tspan x="48.73" y="131.566" style="fill:#fff;font-family:Now;font-weight:500;stroke-width:1.036">How</tspan>
+  </text>
+</svg>

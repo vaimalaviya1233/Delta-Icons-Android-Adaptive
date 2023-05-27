@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" rx="9.935" style="fill:#9abeff"/><path d="M20 96v66.064A9.915 9.915 0 0 0 29.935 172h132.13a9.915 9.915 0 0 0 9.936-9.936V96h-152z" style="fill:#98dc9a;paint-order:stroke fill markers"/><path d="M20 96v32h152V96H20z" style="fill:#73ada4;paint-order:stroke fill markers"/><path d="M64 124c0 4 4 8 8 8h48c4 0 8-4 8-8V92L96 64 64 92v32z" style="fill:#fff"/><path d="M84 104h24v28H84z" style="fill:#73ada4;paint-order:stroke fill markers"/><path d="M96 52 56 86l8 10 32-28 32 28 8-10-40-34z" style="fill:#96dfd3"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" rx="9.935" style="fill:#9abeff" />
+  <path d="M20 96v66.064A9.915 9.915 0 0 0 29.935 172h132.13a9.915 9.915 0 0 0 9.936-9.936V96h-152z"
+    style="fill:#98dc9a;paint-order:stroke fill markers" />
+  <path d="M20 96v32h152V96H20z" style="fill:#73ada4;paint-order:stroke fill markers" />
+  <path d="M64 124c0 4 4 8 8 8h48c4 0 8-4 8-8V92L96 64 64 92v32z" style="fill:#fff" />
+  <path d="M84 104h24v28H84z" style="fill:#73ada4;paint-order:stroke fill markers" />
+  <path d="M96 52 56 86l8 10 32-28 32 28 8-10-40-34z" style="fill:#96dfd3" />
+</svg>

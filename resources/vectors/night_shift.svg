@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle2778" cx="96" cy="956.362" r="88" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke-width:14.8995;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><path id="path2780" d="M33.641 943.593a63.653 63.653 0 0 1 49.855-49.644" style="fill:#000;fill-opacity:0;fill-rule:evenodd;stroke:#f8c18c;stroke-width:20.8845;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000"/><circle id="circle2782" cx="96" cy="956.362" r="54.089" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke-width:9.15793;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle2778" y="860,362"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke-width:14.8995;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+    <path id="path2780" d="M33.641 943.593a63.653 63.653 0 0 1 49.855-49.644"
+      style="fill:#000;fill-opacity:0;fill-rule:evenodd;stroke:#f8c18c;stroke-width:20.8845;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000" />
+    <circle id="circle2782" cx="96" cy="956.362" r="54.089"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke-width:9.15793;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

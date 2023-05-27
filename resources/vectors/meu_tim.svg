@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:#54688c;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1"/><g transform="translate(0 2.369)"><rect width="73" height="14.544" x="59.5" y="-71.544" rx="2.337" ry="2.289" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" transform="scale(1 -1)"/><rect width="73.001" height="14.544" x="59.5" y="-100.632" rx="2.337" ry="2.289" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" transform="scale(1 -1)"/><rect width="73" height="14.544" x="59.5" y="-129.719" rx="2.337" ry="2.289" style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" transform="scale(1 -1)"/><rect width="44.869" height="14.544" x="85.394" y="88.728" rx="0" ry="0" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999999" transform="matrix(0 1 1 0 0 0)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%"
+    style="fill:#54688c;stroke:none;stroke-width:.999958;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1" />
+  <g transform="translate(0 2.369)">
+    <rect width="73" height="14.544" x="59.5" y="-71.544" rx="2.337" ry="2.289"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" transform="scale(1 -1)" />
+    <rect width="73.001" height="14.544" x="59.5" y="-100.632" rx="2.337" ry="2.289"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" transform="scale(1 -1)" />
+    <rect width="73" height="14.544" x="59.5" y="-129.719" rx="2.337" ry="2.289"
+      style="fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1" transform="scale(1 -1)" />
+    <rect width="44.869" height="14.544" x="85.394" y="88.728" rx="0" ry="0"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999999"
+      transform="matrix(0 1 1 0 0 0)" />
+  </g>
+</svg>

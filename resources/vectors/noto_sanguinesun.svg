@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192"><defs><linearGradient id="a"><stop offset="0" style="stop-color:#f8c18c;stop-opacity:1"/><stop offset="1" style="stop-color:#f58f8a;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="168" x2="24" y1="24" y2="168" gradientUnits="userSpaceOnUse"/></defs><rect width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:url(#b);fill-opacity:1;opacity:1"/><path d="M76 120V72l40 48V72" style="fill:none;stroke:#fff;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" style="stop-color:#f8c18c;stop-opacity:1" />
+      <stop offset="1" style="stop-color:#f58f8a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="b" x1="168" x2="24" y1="24" y2="168" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect width="100%" height="100%" style="fill:url(#b);fill-opacity:1;opacity:1" />
+  <path d="M76 120V72l40 48V72"
+    style="fill:none;stroke:#fff;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

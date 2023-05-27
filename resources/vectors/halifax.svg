@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect921" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" id="text991" x="47.063" y="964.785" style="font-weight:700;font-size:22.8744px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.571862"><tspan id="tspan989" x="47.063" y="964.785" style="fill:#fff;fill-opacity:1;stroke-width:.571862">HALIFAX</tspan></text><path id="path1088" d="m67.852 968.12-15.149 15.425a1.63 1.63 0 0 0 1.163 2.771h25.437a9.257 9.257 0 0 0 6.605-2.77l15.148-15.427z" style="fill:#fff;fill-opacity:1;stroke-width:14.0132;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="path1086" d="m106.092 929.18-8.295 8.447 6.852 6.978h19.499l15.148-15.426a1.63 1.63 0 0 0-1.162-2.77h-25.437a9.256 9.256 0 0 0-6.605 2.77z" style="fill:#fff;fill-opacity:1;stroke-width:14.0132;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="path1084" d="m104.649 968.12-6.852 6.977 8.295 8.448a9.256 9.256 0 0 0 6.605 2.771h25.437a1.63 1.63 0 0 0 1.163-2.77l-15.149-15.427z" style="fill:#fff;fill-opacity:1;stroke-width:14.0132;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="path999" d="m52.703 929.18 15.149 15.425h33.204l-15.148-15.426a9.257 9.257 0 0 0-6.605-2.77H53.866a1.63 1.63 0 0 0-1.163 2.77z" style="fill:#fff;fill-opacity:1;stroke-width:14.0132;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect921" y="860,362"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      id="text991" x="47.063" y="964.785"
+      style="font-weight:700;font-size:22.8744px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.571862">
+      <tspan id="tspan989" x="47.063" y="964.785" style="fill:#fff;fill-opacity:1;stroke-width:.571862">HALIFAX</tspan>
+    </text>
+    <path id="path1088"
+      d="m67.852 968.12-15.149 15.425a1.63 1.63 0 0 0 1.163 2.771h25.437a9.257 9.257 0 0 0 6.605-2.77l15.148-15.427z"
+      style="fill:#fff;fill-opacity:1;stroke-width:14.0132;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="path1086"
+      d="m106.092 929.18-8.295 8.447 6.852 6.978h19.499l15.148-15.426a1.63 1.63 0 0 0-1.162-2.77h-25.437a9.256 9.256 0 0 0-6.605 2.77z"
+      style="fill:#fff;fill-opacity:1;stroke-width:14.0132;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="path1084"
+      d="m104.649 968.12-6.852 6.977 8.295 8.448a9.256 9.256 0 0 0 6.605 2.771h25.437a1.63 1.63 0 0 0 1.163-2.77l-15.149-15.427z"
+      style="fill:#fff;fill-opacity:1;stroke-width:14.0132;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="path999"
+      d="m52.703 929.18 15.149 15.425h33.204l-15.148-15.426a9.257 9.257 0 0 0-6.605-2.77H53.866a1.63 1.63 0 0 0-1.163 2.77z"
+      style="fill:#fff;fill-opacity:1;stroke-width:14.0132;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="fill:#ff837d;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><rect width="16" height="16" x="88" y="60" ry="8" style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><rect width="16" height="16" x="64" y="72" ry="8" style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><rect width="16" height="16" x="112" y="72" ry="8" style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><rect width="16" height="16" x="60" y="96" ry="8" style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><rect width="16" height="16" x="76" y="116" ry="8" style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><rect width="16" height="16" x="-132" y="96" ry="8" style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" transform="scale(-1 1)"/><rect width="16" height="16" x="-116" y="116" ry="8" style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" transform="scale(-1 1)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#ff837d;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <rect width="16" height="16" x="88" y="60" ry="8"
+    style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <rect width="16" height="16" x="64" y="72" ry="8"
+    style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <rect width="16" height="16" x="112" y="72" ry="8"
+    style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <rect width="16" height="16" x="60" y="96" ry="8"
+    style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <rect width="16" height="16" x="76" y="116" ry="8"
+    style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <rect width="16" height="16" x="-132" y="96" ry="8"
+    style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+    transform="scale(-1 1)" />
+  <rect width="16" height="16" x="-116" y="116" ry="8"
+    style="opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+    transform="scale(-1 1)" />
+</svg>

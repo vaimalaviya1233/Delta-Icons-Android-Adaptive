@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1948" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path1940" d="M99.287 990.286V973.19c8.354 0 10.302-.705 13.93-3.25 5.292-3.712 7.972-10.086 7.778-16.196-.143-4.53-2.25-9.406-6.599-12.787" style="fill:none;stroke:#fff;stroke-width:5.15274;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"/><path id="path1942" d="M70.995 974.752v-52.313l26.767.034c6.66 0 10.184 4.473 8.232 8.326-1.198 2.363-3.887 4.253-8.789 4.253-4.901 0-8.561.02-12.157 0v12.667l12.714.049c6.66 0 10.184 4.473 8.232 8.326-1.198 2.363-3.887 4.253-8.789 4.253-4.901 0-8.093.02-11.689 0v29.863" style="fill:none;stroke:#fff;stroke-width:5.15274;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1948" width="100%" height="100%"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path1940"
+      d="M99.287 990.286V973.19c8.354 0 10.302-.705 13.93-3.25 5.292-3.712 7.972-10.086 7.778-16.196-.143-4.53-2.25-9.406-6.599-12.787"
+      style="fill:none;stroke:#fff;stroke-width:5.15274;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+    <path id="path1942"
+      d="M70.995 974.752v-52.313l26.767.034c6.66 0 10.184 4.473 8.232 8.326-1.198 2.363-3.887 4.253-8.789 4.253-4.901 0-8.561.02-12.157 0v12.667l12.714.049c6.66 0 10.184 4.473 8.232 8.326-1.198 2.363-3.887 4.253-8.789 4.253-4.901 0-8.093.02-11.689 0v29.863"
+      style="fill:none;stroke:#fff;stroke-width:5.15274;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

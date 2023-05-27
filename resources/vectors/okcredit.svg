@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle2051" cx="96" cy="956.362" r="88" style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="circle600" d="M97.124 919.863c-20.76 0-37.624 16.363-37.624 36.5 0 20.139 16.866 36.498 37.624 36.498 16.175 0 29.925-9.902 35.287-23.83-6.659-.501-11.85-5.955-11.85-12.501h.003c0-6.627 5.275-12.082 11.936-12.585-5.278-14.013-19.116-24.082-35.376-24.082zm-.087 10.488c8.044 0 15.309 3.44 20.24 8.895-4.757 4.194-7.784 10.32-7.784 17.033 0 6.714 3.027 12.922 7.784 17.201-4.931 5.454-12.108 8.895-20.24 8.895-14.788 0-26.813-11.664-26.813-26.012 0-14.35 12.025-26.012 26.813-26.012z" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.520593;stroke-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle2051" y="860,362"
+      style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="circle600"
+      d="M97.124 919.863c-20.76 0-37.624 16.363-37.624 36.5 0 20.139 16.866 36.498 37.624 36.498 16.175 0 29.925-9.902 35.287-23.83-6.659-.501-11.85-5.955-11.85-12.501h.003c0-6.627 5.275-12.082 11.936-12.585-5.278-14.013-19.116-24.082-35.376-24.082zm-.087 10.488c8.044 0 15.309 3.44 20.24 8.895-4.757 4.194-7.784 10.32-7.784 17.033 0 6.714 3.027 12.922 7.784 17.201-4.931 5.454-12.108 8.895-20.24 8.895-14.788 0-26.813-11.664-26.813-26.012 0-14.35 12.025-26.012 26.813-26.012z"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.520593;stroke-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

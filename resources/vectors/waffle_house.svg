@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" fill="#f9de81" class="a"/><text xml:space="preserve" x="80.624" y="96.041" fill="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.25" font-family="Aleo" font-size="41.112" transform="skewX(-15.6)"><tspan x="80.624" y="96.041">W</tspan></text><text xml:space="preserve" x="133.136" y="125.477" fill="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.25" font-family="Aleo" font-size="41.112" transform="skewX(-15.641)"><tspan x="133.136" y="125.477">H</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" fill="#f9de81" class="a" /><text xml:space="preserve" x="80.624" y="96.041"
+    fill="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.25" font-family="Aleo"
+    font-size="41.112" transform="skewX(-15.6)">
+    <tspan x="80.624" y="96.041">W</tspan>
+  </text><text xml:space="preserve" x="133.136" y="125.477" fill="#56595b" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="9.25" font-family="Aleo" font-size="41.112" transform="skewX(-15.641)">
+    <tspan x="133.136" y="125.477">H</tspan>
+  </text>
+</svg>

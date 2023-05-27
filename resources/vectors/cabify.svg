@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#bd9aff" rx="9.935"/><text xml:space="preserve" x="49.378" y="104.653" font-family="Now" font-size="29.333" font-weight="500" style="line-height:1.25"><tspan x="49.378" y="104.653" fill="#fff">cabify</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#bd9aff" /><text xml:space="preserve" x="49.378" y="104.653" font-family="Now"
+    font-size="29.333" font-weight="500" style="line-height:1.25">
+    <tspan x="49.378" y="104.653" fill="#fff">cabify</tspan>
+  </text>
+</svg>

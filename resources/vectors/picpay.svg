@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1006" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path992" d="M72.696 935.976v11.597h10.198c4.199 0 7.398 2.699 7.398 6.598 0 3.999-3.199 6.598-7.398 6.598H72.696v-13.196H59.5v40.964h13.196v-16.87h12.297c10.097 0 17.896-7.498 17.896-17.595 0-9.998-7.799-18.096-17.896-18.096z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:118.039px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.99945"/><rect id="rect994" width="22.616" height="22.616" x="109.884" y="924.187" rx="1" ry="1" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:4.26782;stroke-linecap:square;stop-color:#000"/><rect id="rect996" width="15.077" height="15.077" x="113.653" y="927.957" rx="1" ry="1" style="fill:#97db99;fill-opacity:1;stroke:none;stroke-width:2.84521;stroke-linecap:square;stop-color:#000"/><rect id="rect998" width="8.376" height="8.376" x="117.004" y="931.307" rx="1" ry="1" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.58067;stroke-linecap:square;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1006" width="100%" height="100%"
+      style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path992"
+      d="M72.696 935.976v11.597h10.198c4.199 0 7.398 2.699 7.398 6.598 0 3.999-3.199 6.598-7.398 6.598H72.696v-13.196H59.5v40.964h13.196v-16.87h12.297c10.097 0 17.896-7.498 17.896-17.595 0-9.998-7.799-18.096-17.896-18.096z"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:118.039px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.99945" />
+    <rect id="rect994" width="22.616" height="22.616" x="109.884" y="924.187" rx="1" ry="1"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:4.26782;stroke-linecap:square;stop-color:#000" />
+    <rect id="rect996" width="15.077" height="15.077" x="113.653" y="927.957" rx="1" ry="1"
+      style="fill:#97db99;fill-opacity:1;stroke:none;stroke-width:2.84521;stroke-linecap:square;stop-color:#000" />
+    <rect id="rect998" width="8.376" height="8.376" x="117.004" y="931.307" rx="1" ry="1"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.58067;stroke-linecap:square;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

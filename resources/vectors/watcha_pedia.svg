@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect923" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="opacity:1;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><text xml:space="preserve" id="text927" x="42.939" y="948.071" style="font-weight:700;font-size:23.3805px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.584511"><tspan id="tspan929" x="42.939" y="948.071" style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;fill:#fff;fill-opacity:1;stroke-width:.584511">WATCHA</tspan></text><text xml:space="preserve" id="text935" x="41.122" y="982.423" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38.17px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.954252"><tspan id="tspan933" x="41.122" y="982.423" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#fff;fill-opacity:1;stroke-width:.954252">PEDIA</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect923" width="100%" height="100%"
+      style="opacity:1;fill:#ffb0ac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <text xml:space="preserve" id="text927" x="42.939" y="948.071"
+      style="font-weight:700;font-size:23.3805px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.584511">
+      <tspan id="tspan929" x="42.939" y="948.071"
+        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;fill:#fff;fill-opacity:1;stroke-width:.584511">
+        WATCHA</tspan>
+    </text><text xml:space="preserve" id="text935" x="41.122" y="982.423"
+      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38.17px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.954252">
+      <tspan id="tspan933" x="41.122" y="982.423"
+        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;fill:#fff;fill-opacity:1;stroke-width:.954252">
+        PEDIA</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

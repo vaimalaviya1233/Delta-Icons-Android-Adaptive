@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect966" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path948" d="M96.527 945.275a8.584 8.584 0 0 0-8.583 8.583 8.584 8.584 0 0 0 5.38 7.963l-1.429 11.476h9.265l-1.43-11.477a8.584 8.584 0 0 0 5.38-7.962 8.584 8.584 0 0 0-8.583-8.584z" style="fill:#fff;fill-opacity:1;stroke-width:1.07336;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"/><path id="path937" d="M129.828 943.695v31.844a10.02 10.02 0 0 1-10.02 10.02H73.186" style="fill:none;stroke:#fff;stroke-width:5.3448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path950" d="M62.172 988.275v-57.7a3.453 3.453 0 0 1 3.454-3.454h26.732a3.543 3.543 0 0 1 3.544 3.544 3.02 3.02 0 0 0 3.02 3.02h33.504" style="fill:none;stroke:#fff;stroke-width:5.3448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect966" y="860,362"
+      style="fill:#99bdfe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path948"
+      d="M96.527 945.275a8.584 8.584 0 0 0-8.583 8.583 8.584 8.584 0 0 0 5.38 7.963l-1.429 11.476h9.265l-1.43-11.477a8.584 8.584 0 0 0 5.38-7.962 8.584 8.584 0 0 0-8.583-8.584z"
+      style="fill:#fff;fill-opacity:1;stroke-width:1.07336;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+    <path id="path937" d="M129.828 943.695v31.844a10.02 10.02 0 0 1-10.02 10.02H73.186"
+      style="fill:none;stroke:#fff;stroke-width:5.3448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path id="path950"
+      d="M62.172 988.275v-57.7a3.453 3.453 0 0 1 3.454-3.454h26.732a3.543 3.543 0 0 1 3.544 3.544 3.02 3.02 0 0 0 3.02 3.02h33.504"
+      style="fill:none;stroke:#fff;stroke-width:5.3448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

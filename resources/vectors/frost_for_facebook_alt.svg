@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><circle cx="96" cy="96" r="88" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999999;stroke-opacity:1"/><path d="M96 48.46V96M137.17 72.23 96 96M96 96 54.83 72.23M137.17 119.77 96 96M111.917 86.906V63.188M75.46 126.17 96 114.31M132.457 93.236l-20.54 11.859M111.917 105.095v23.717M96 96l-41.17 23.77M59.543 93.236l20.54 11.859M80.083 105.095v23.717M116.54 65.83 96 77.69M75.46 65.83 96 77.69" style="fill:none;stroke:#99bdfe;stroke-width:4.91998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path d="m132.457 98.764-20.54-11.954L96 96v47.54" style="fill:none;stroke:#fff;stroke-width:4.91998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"/><path d="m59.543 98.764 20.54-11.858M80.083 86.906V63.188M116.54 126.17 96 114.31" style="fill:none;stroke:#fff;stroke-width:4.91998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%"
+    style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999999;stroke-opacity:1" />
+  <path
+    d="M96 48.46V96M137.17 72.23 96 96M96 96 54.83 72.23M137.17 119.77 96 96M111.917 86.906V63.188M75.46 126.17 96 114.31M132.457 93.236l-20.54 11.859M111.917 105.095v23.717M96 96l-41.17 23.77M59.543 93.236l20.54 11.859M80.083 105.095v23.717M116.54 65.83 96 77.69M75.46 65.83 96 77.69"
+    style="fill:none;stroke:#99bdfe;stroke-width:4.91998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path d="m132.457 98.764-20.54-11.954L96 96v47.54"
+    style="fill:none;stroke:#fff;stroke-width:4.91998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+  <path d="m59.543 98.764 20.54-11.858M80.083 86.906V63.188M116.54 126.17 96 114.31"
+    style="fill:none;stroke:#fff;stroke-width:4.91998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

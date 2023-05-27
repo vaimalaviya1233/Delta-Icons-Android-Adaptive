@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#fff"/><path fill="#9abeff" d="m48.254 64.925 58.827 58.827a2.502 2.502 0 0 0 3.539 0l10.963-10.963a7.02 7.02 0 0 0 0-9.926L79.417 60.695a8.544 8.544 0 0 0-6.042-2.502H51.044a3.944 3.944 0 0 0-2.788 6.732z" style="stroke:#56595b;stroke-width:2.4254;stroke-linejoin:round;stroke-opacity:1"/><path fill="#98dc9a" d="M81.787 116.49v29.716a2.644 2.644 0 0 0 4.512 1.87l13.536-13.538a6.381 6.381 0 0 0 0-9.023l-11.667-11.668a3.738 3.738 0 0 0-6.381 2.643z" style="stroke:#56595b;stroke-width:2.4254;stroke-linejoin:round;stroke-opacity:1"/><path fill="#f9de81" d="M126.55 89.783V60.067a2.644 2.644 0 0 0-4.512-1.87l-13.537 13.537a6.381 6.381 0 0 0 0 9.024l11.668 11.667a3.738 3.738 0 0 0 6.381-2.642z" style="stroke:#56595b;stroke-width:2.4254;stroke-linejoin:round;stroke-opacity:1"/><path fill="#ff837d" d="m144.08 65.786-7.783-7.783a1.982 1.982 0 0 0-3.384 1.401v6.382a4.787 4.787 0 0 0 4.786 4.786h4.4a2.804 2.804 0 0 0 1.981-4.787Z" style="stroke:#56595b;stroke-width:2.4254;stroke-linejoin:round;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" />
+  <path fill="#9abeff"
+    d="m48.254 64.925 58.827 58.827a2.502 2.502 0 0 0 3.539 0l10.963-10.963a7.02 7.02 0 0 0 0-9.926L79.417 60.695a8.544 8.544 0 0 0-6.042-2.502H51.044a3.944 3.944 0 0 0-2.788 6.732z"
+    style="stroke:#56595b;stroke-width:2.4254;stroke-linejoin:round;stroke-opacity:1" />
+  <path fill="#98dc9a"
+    d="M81.787 116.49v29.716a2.644 2.644 0 0 0 4.512 1.87l13.536-13.538a6.381 6.381 0 0 0 0-9.023l-11.667-11.668a3.738 3.738 0 0 0-6.381 2.643z"
+    style="stroke:#56595b;stroke-width:2.4254;stroke-linejoin:round;stroke-opacity:1" />
+  <path fill="#f9de81"
+    d="M126.55 89.783V60.067a2.644 2.644 0 0 0-4.512-1.87l-13.537 13.537a6.381 6.381 0 0 0 0 9.024l11.668 11.667a3.738 3.738 0 0 0 6.381-2.642z"
+    style="stroke:#56595b;stroke-width:2.4254;stroke-linejoin:round;stroke-opacity:1" />
+  <path fill="#ff837d"
+    d="m144.08 65.786-7.783-7.783a1.982 1.982 0 0 0-3.384 1.401v6.382a4.787 4.787 0 0 0 4.786 4.786h4.4a2.804 2.804 0 0 0 1.981-4.787Z"
+    style="stroke:#56595b;stroke-width:2.4254;stroke-linejoin:round;stroke-opacity:1" />
+</svg>

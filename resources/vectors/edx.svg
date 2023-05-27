@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect909" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path962" d="m55.1 931.428-8.452 38.206a2.409 2.409 51.237 0 0 2.352 2.93h44.76l-1.932 8.732a2.409 2.409 51.237 0 0 2.352 2.93h38.601a3.736 3.736 141.238 0 0 3.648-2.93l8.923-40.329a2.409 2.409 51.238 0 0-2.352-2.93h-33.24l1.463-6.609a2.409 2.409 51.24 0 0-2.352-2.93H58.748a3.736 3.736 141.237 0 0-3.648 2.93z" style="fill:#73ada4;fill-opacity:1;stroke-width:10.151;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stop-color:#000"/><text xml:space="preserve" id="text966" x="51.631" y="967.572" style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38.7284px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.968208"><tspan id="tspan964" x="51.631" y="967.572" style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium Italic&quot;;fill:#fff;fill-opacity:1;stroke-width:.968208">ed</tspan></text><text xml:space="preserve" id="text972" x="99.099" y="979.193" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:48.1633px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.20408"><tspan id="tspan970" x="99.099" y="979.193" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;fill:#fff;fill-opacity:1;stroke-width:1.20408">X</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect909" width="100%" height="100%"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path962"
+      d="m55.1 931.428-8.452 38.206a2.409 2.409 51.237 0 0 2.352 2.93h44.76l-1.932 8.732a2.409 2.409 51.237 0 0 2.352 2.93h38.601a3.736 3.736 141.238 0 0 3.648-2.93l8.923-40.329a2.409 2.409 51.238 0 0-2.352-2.93h-33.24l1.463-6.609a2.409 2.409 51.24 0 0-2.352-2.93H58.748a3.736 3.736 141.237 0 0-3.648 2.93z"
+      style="fill:#73ada4;fill-opacity:1;stroke-width:10.151;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.5;stop-color:#000" />
+    <text xml:space="preserve" id="text966" x="51.631" y="967.572"
+      style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38.7284px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.968208">
+      <tspan id="tspan964" x="51.631" y="967.572"
+        style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Medium Italic&quot;;fill:#fff;fill-opacity:1;stroke-width:.968208">
+        ed</tspan>
+    </text><text xml:space="preserve" id="text972" x="99.099" y="979.193"
+      style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:48.1633px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.20408">
+      <tspan id="tspan970" x="99.099" y="979.193"
+        style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Now;-inkscape-font-specification:&quot;Now Bold Italic&quot;;fill:#fff;fill-opacity:1;stroke-width:1.20408">
+        X</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

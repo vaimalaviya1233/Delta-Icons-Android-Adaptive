@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#fff" rx="9.935"/><path fill="#fcecdc" d="M104.332 76.721 93.542 114.9a2.323 2.45-90 0 1-4.099 1.041L59.965 87.992a2.323 2.45-90 0 1 1.099-3.886l40.267-10.23a2.45 2.323 0 0 1 3 2.845z"/><path fill="#f8c18c" fill-opacity=".75" d="m129.09 53.289-15.236 56.284a3.425 3.46-90 0 1-5.788 1.535L66.439 69.905a3.425 3.46-90 0 1 1.551-5.73l56.863-15.08a3.46 3.425 0 0 1 4.237 4.194z"/><text xml:space="preserve" x="52.427" y="138.292" fill="#f8c18c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.365" font-family="Now" font-size="15.766" font-weight="500"><tspan x="52.427" y="138.292"><tspan fill="#56595b">my</tspan>BillBook</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#fff" />
+  <path fill="#fcecdc"
+    d="M104.332 76.721 93.542 114.9a2.323 2.45-90 0 1-4.099 1.041L59.965 87.992a2.323 2.45-90 0 1 1.099-3.886l40.267-10.23a2.45 2.323 0 0 1 3 2.845z" />
+  <path fill="#f8c18c" fill-opacity=".75"
+    d="m129.09 53.289-15.236 56.284a3.425 3.46-90 0 1-5.788 1.535L66.439 69.905a3.425 3.46-90 0 1 1.551-5.73l56.863-15.08a3.46 3.425 0 0 1 4.237 4.194z" />
+  <text xml:space="preserve" x="52.427" y="138.292" fill="#f8c18c" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="2.365" font-family="Now" font-size="15.766" font-weight="500">
+    <tspan x="52.427" y="138.292">
+      <tspan fill="#56595b">my</tspan>BillBook
+    </tspan>
+  </text>
+</svg>

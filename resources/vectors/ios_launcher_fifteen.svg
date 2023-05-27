@@ -1,1 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><linearGradient id="linearGradient1008"><stop id="stop1004" offset="0" style="stop-color:#ff837d;stop-opacity:1"/><stop id="stop1010" offset=".612" style="stop-color:#f9de81;stop-opacity:1"/><stop id="stop1006" offset="1" style="stop-color:#99bdfe;stop-opacity:1"/></linearGradient><linearGradient id="linearGradient991"><stop id="stop985" offset="0" style="stop-color:#ff837d;stop-opacity:1"/><stop id="stop993" offset=".558" style="stop-color:#f9de81;stop-opacity:1"/><stop id="stop989" offset="1" style="stop-color:#99bdfe;stop-opacity:1"/></linearGradient><linearGradient id="linearGradient946-7"><stop id="stop964" offset="0" style="stop-color:#99bdfe;stop-opacity:1"/><stop id="stop944" offset="1" style="stop-color:#54688c;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#linearGradient991" id="linearGradient979" x1="54.339" x2="71.107" y1="918.782" y2="970.958" gradientTransform="matrix(.921 0 0 .921 7.584 75.55)" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#linearGradient946-7" id="linearGradient981" x1="104.955" x2="138.752" y1="970.198" y2="998.383" gradientTransform="matrix(.921 0 0 .921 7.584 75.55)" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#linearGradient1008" id="linearGradient1002" x1="117.838" x2="98.363" y1="914.112" y2="947.249" gradientTransform="matrix(.921 0 0 .921 7.584 75.55)" gradientUnits="userSpaceOnUse"/></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect915" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path974" d="M69.71 986.583h6.534v-61.259H59.5v6.535h10.21z" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:88.6842px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:url(#linearGradient979);fill-opacity:1;stroke-width:2.04196"/><path id="path976" d="M112.897 946.05c-4.39 0-8.576 1.328-11.741 3.676l-7.045 4.39 5.718 3.37c2.96-3.064 7.146-4.901 11.74-4.901 7.965 0 14.397 5.717 14.397 14.191 0 7.862-5.514 14.09-15.417 14.09-5.922 0-13.17-2.246-17.97-9.087h-.612l-.817 7.76c4.186 4.9 12.048 7.86 19.603 7.86 13.273 0 21.747-8.882 21.747-20.827 0-11.741-8.27-20.522-19.603-20.522z" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:88.6842px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:url(#linearGradient981);fill-opacity:1;stroke-width:2.04196"/><path id="path995" d="m101.156 949.726 2.246-17.663h25.525v-6.534H97.582l-3.47 28.587Z" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:88.6842px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:url(#linearGradient1002);fill-opacity:1;stroke-width:2.04196"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="192" height="192"
+  version="1.1">
+  <defs id="defs4">
+    <linearGradient id="linearGradient1008">
+      <stop id="stop1004" offset="0" style="stop-color:#ff837d;stop-opacity:1" />
+      <stop id="stop1010" offset=".612" style="stop-color:#f9de81;stop-opacity:1" />
+      <stop id="stop1006" offset="1" style="stop-color:#99bdfe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="linearGradient991">
+      <stop id="stop985" offset="0" style="stop-color:#ff837d;stop-opacity:1" />
+      <stop id="stop993" offset=".558" style="stop-color:#f9de81;stop-opacity:1" />
+      <stop id="stop989" offset="1" style="stop-color:#99bdfe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="linearGradient946-7">
+      <stop id="stop964" offset="0" style="stop-color:#99bdfe;stop-opacity:1" />
+      <stop id="stop944" offset="1" style="stop-color:#54688c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient xlink:href="#linearGradient991" id="linearGradient979" x1="54.339" x2="71.107" y1="918.782"
+      y2="970.958" gradientTransform="matrix(.921 0 0 .921 7.584 75.55)" gradientUnits="userSpaceOnUse" />
+    <linearGradient xlink:href="#linearGradient946-7" id="linearGradient981" x1="104.955" x2="138.752" y1="970.198"
+      y2="998.383" gradientTransform="matrix(.921 0 0 .921 7.584 75.55)" gradientUnits="userSpaceOnUse" />
+    <linearGradient xlink:href="#linearGradient1008" id="linearGradient1002" x1="117.838" x2="98.363" y1="914.112"
+      y2="947.249" gradientTransform="matrix(.921 0 0 .921 7.584 75.55)" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect915" width="100%" height="100%"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path974" d="M69.71 986.583h6.534v-61.259H59.5v6.535h10.21z"
+      style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:88.6842px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:url(#linearGradient979);fill-opacity:1;stroke-width:2.04196" />
+    <path id="path976"
+      d="M112.897 946.05c-4.39 0-8.576 1.328-11.741 3.676l-7.045 4.39 5.718 3.37c2.96-3.064 7.146-4.901 11.74-4.901 7.965 0 14.397 5.717 14.397 14.191 0 7.862-5.514 14.09-15.417 14.09-5.922 0-13.17-2.246-17.97-9.087h-.612l-.817 7.76c4.186 4.9 12.048 7.86 19.603 7.86 13.273 0 21.747-8.882 21.747-20.827 0-11.741-8.27-20.522-19.603-20.522z"
+      style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:88.6842px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:url(#linearGradient981);fill-opacity:1;stroke-width:2.04196" />
+    <path id="path995" d="m101.156 949.726 2.246-17.663h25.525v-6.534H97.582l-3.47 28.587Z"
+      style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:88.6842px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;letter-spacing:0;word-spacing:0;fill:url(#linearGradient1002);fill-opacity:1;stroke-width:2.04196" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

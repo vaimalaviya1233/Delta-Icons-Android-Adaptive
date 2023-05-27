@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1034" width="152" height="152" x="20" y="880.362" rx="9.935" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path1036" d="M20 944.522v49.93h152v-49.93z" style="fill:#ff837d;fill-opacity:1;stroke-width:4.11508;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="path1038" d="M20 994.453v27.974a9.914 9.914 0 0 0 9.935 9.935h132.13a9.914 9.914 0 0 0 9.935-9.935v-27.974z" style="fill:#fff;fill-opacity:1;stroke-width:4.11508;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><text xml:space="preserve" id="text1042" x="65.458" y="922.817" style="font-weight:700;font-size:37.303px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.932579"><tspan id="tspan1040" x="65.458" y="922.817" style="stroke-width:.932579">sky</tspan></text><text xml:space="preserve" id="text1046" x="54.784" y="975.136" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.8961px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.697402"><tspan id="tspan1044" x="54.784" y="975.136" style="stroke-width:.697402">sports</tspan></text><text xml:space="preserve" id="text1065" x="52.639" y="1020.381" style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.8961px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#708cbd;fill-opacity:1;stroke-width:.697402"><tspan id="tspan1063" x="52.639" y="1020.381" style="fill:#708cbd;fill-opacity:1;stroke-width:.697402">scores</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1034" width="100%" height="100%" rx=" 9.935"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path1036" d="M20 944.522v49.93h152v-49.93z"
+      style="fill:#ff837d;fill-opacity:1;stroke-width:4.11508;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="path1038"
+      d="M20 994.453v27.974a9.914 9.914 0 0 0 9.935 9.935h132.13a9.914 9.914 0 0 0 9.935-9.935v-27.974z"
+      style="fill:#fff;fill-opacity:1;stroke-width:4.11508;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <text xml:space="preserve" id="text1042" x="65.458" y="922.817"
+      style="font-weight:700;font-size:37.303px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.932579">
+      <tspan id="tspan1040" x="65.458" y="922.817" style="stroke-width:.932579">sky</tspan>
+    </text><text xml:space="preserve" id="text1046" x="54.784" y="975.136"
+      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.8961px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.697402">
+      <tspan id="tspan1044" x="54.784" y="975.136" style="stroke-width:.697402">sports</tspan>
+    </text><text xml:space="preserve" id="text1065" x="52.639" y="1020.381"
+      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.8961px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Medium&quot;;letter-spacing:0;word-spacing:0;fill:#708cbd;fill-opacity:1;stroke-width:.697402">
+      <tspan id="tspan1063" x="52.639" y="1020.381" style="fill:#708cbd;fill-opacity:1;stroke-width:.697402">scores
+      </tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

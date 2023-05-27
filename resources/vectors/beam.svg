@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="153" height="153" x="19.5" y="19.5" opacity=".63" rx="10" style="fill:#8c72bd;stroke:#b1b5bd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1"/><text xml:space="preserve" x="35.92" y="115.413" style="font-size:42.6667px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;stroke-width:1"><tspan x="35.92" y="115.413" style="font-size:42.6667px;fill:#fff;fill-opacity:1;stroke-width:1">beam</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" opacity=".63" rx="10"
+    style="fill:#8c72bd;stroke:#b1b5bd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;opacity:1" />
+  <text xml:space="preserve" x="35.92" y="115.413"
+    style="font-size:42.6667px;line-height:1.25;font-family:Now;-inkscape-font-specification:Now;stroke-width:1">
+    <tspan x="35.92" y="115.413" style="font-size:42.6667px;fill:#fff;fill-opacity:1;stroke-width:1">beam</tspan>
+  </text>
+</svg>

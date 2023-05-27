@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath935" clipPathUnits="userSpaceOnUse"><rect id="rect937" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="opacity:1;fill:#56595b;fill-opacity:.475219;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect929" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><rect id="rect931" width="195" height="65" x="1.75" y="858.612" clip-path="url(#clipPath935)" rx="10" ry="10" style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><text xml:space="preserve" id="text941" x="51.054" y="916.685" style="font-weight:700;font-size:20.1948px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#56595b;fill-opacity:1;stroke-width:.50487"><tspan id="tspan939" x="51.054" y="916.685" style="fill:#56595b;fill-opacity:1;stroke-width:.50487">CAMPUS</tspan></text><g id="g1012" transform="translate(-.08)"><circle id="path943" cx="96.643" cy="939.079" r="4.325" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.15321;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><circle id="circle945" cx="84.33" cy="987.767" r="4.7" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.25321;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><circle id="circle949" cx="109.768" cy="954.423" r="3.325" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.886542;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><circle id="circle951" cx="118.768" cy="969.173" r="3.325" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.886542;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><circle id="circle953" cx="73.393" cy="969.173" r="3.325" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.886542;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><circle id="circle955" cx="96.673" cy="1010.011" r="3.325" style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.886542;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000"/><path id="path957" d="m87.41 994.103 6.008 11.104" style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path959" d="m101.025 943.552 5.654 6.685" style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path961" d="m92.289 943.427-15.67 20.935" style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path963" d="m116.241 974.615-16.716 30.622" style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path967" d="m78.93 969.267 34.384-.187" style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath935" clipPathUnits="userSpaceOnUse">
+      <rect id="rect937" width="100%" height="100%"
+        style="opacity:1;fill:#56595b;fill-opacity:.475219;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect929" width="100%" height="100%"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <rect id="rect931" width="195" height="65" x="1.75" y="858.612" clip-path="url(#clipPath935)" rx="10" ry="10"
+      style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+    <text xml:space="preserve" id="text941" x="51.054" y="916.685"
+      style="font-weight:700;font-size:20.1948px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#56595b;fill-opacity:1;stroke-width:.50487">
+      <tspan id="tspan939" x="51.054" y="916.685" style="fill:#56595b;fill-opacity:1;stroke-width:.50487">CAMPUS</tspan>
+    </text>
+    <g id="g1012" transform="translate(-.08)">
+      <circle id="path943" cx="96.643" cy="939.079" r="4.325"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.15321;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+      <circle id="circle945" cx="84.33" cy="987.767" r="4.7"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.25321;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+      <circle id="circle949" cx="109.768" cy="954.423" r="3.325"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.886542;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+      <circle id="circle951" cx="118.768" cy="969.173" r="3.325"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.886542;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+      <circle id="circle953" cx="73.393" cy="969.173" r="3.325"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.886542;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+      <circle id="circle955" cx="96.673" cy="1010.011" r="3.325"
+        style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.886542;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:6;stop-color:#000" />
+      <path id="path957" d="m87.41 994.103 6.008 11.104"
+        style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path id="path959" d="m101.025 943.552 5.654 6.685"
+        style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path id="path961" d="m92.289 943.427-15.67 20.935"
+        style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path id="path963" d="m116.241 974.615-16.716 30.622"
+        style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path id="path967" d="m78.93 969.267 34.384-.187"
+        style="opacity:1;fill:none;stroke:#fff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

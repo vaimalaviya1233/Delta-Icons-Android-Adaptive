@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="153" height="153" x="19.5" y="19.5" rx="10" style="opacity:1;fill:#ba6561;stroke-width:4"/><circle cx="58" cy="82" r="6" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"/><circle cx="58" cy="98" r="6" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"/><circle cx="58" cy="114" r="6" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"/><rect width="24" height="12" x="68" y="76" ry="6" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"/><rect width="48" height="12" x="68" y="92" ry="6" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"/><rect width="72" height="12" x="68" y="108" ry="6" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" style="opacity:1;fill:#ba6561;stroke-width:4" />
+  <circle cx="58" cy="82" r="6"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers" />
+  <circle cx="58" cy="98" r="6"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers" />
+  <circle cx="58" cy="114" r="6"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers" />
+  <rect width="24" height="12" x="68" y="76" ry="6"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers" />
+  <rect width="48" height="12" x="68" y="92" ry="6"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers" />
+  <rect width="72" height="12" x="68" y="108" ry="6"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers" />
+</svg>

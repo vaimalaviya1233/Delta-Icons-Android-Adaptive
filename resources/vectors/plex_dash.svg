@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" style="display:inline;opacity:1" transform="translate(0 -860.362)"><rect id="rect948" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/></g><g id="layer3" style="opacity:1"><path id="path14001" d="m58.625 99.656 14.406-.031 10.761 18.02 22.981-39.767 10.43 18.068 16.734.054v-3.266l-14.718.047L106.75 71l-22.813 39.75-8.75-14.781-16.562.093z" style="fill:#f8c18c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><g id="g16098" style="fill:#979797;stroke:none"><path id="path16011" d="M94.125 88.562 80.937 65.5l16.125.125 5.5 8.437z" style="fill:#979797;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><path id="path16013" d="m106.75 82.25 8.5 14.125-17.688 30.188H81.25z" style="fill:#979797;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" style="display:inline;opacity:1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect948" y="860,362"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+  </g>
+  <g id="layer3" style="opacity:1">
+    <path id="path14001"
+      d="m58.625 99.656 14.406-.031 10.761 18.02 22.981-39.767 10.43 18.068 16.734.054v-3.266l-14.718.047L106.75 71l-22.813 39.75-8.75-14.781-16.562.093z"
+      style="fill:#f8c18c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g id="g16098" style="fill:#979797;stroke:none">
+      <path id="path16011" d="M94.125 88.562 80.937 65.5l16.125.125 5.5 8.437z"
+        style="fill:#979797;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path id="path16013" d="m106.75 82.25 8.5 14.125-17.688 30.188H81.25z"
+        style="fill:#979797;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

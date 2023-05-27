@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192"><path d="M164.5 21.5c0-5.519-4.481-10-10-10h-133c-5.519 0-10 4.481-10 10v133c0 5.519 4.481 10 10 10h133c5.519 0 10-4.481 10-10v-133Z" style="fill:#fff" transform="translate(8 8)"/><path d="M38.078 71.224h128.155v52.596H38.078z" style="fill:#ff837d" transform="matrix(.61801 0 0 .6959 39.61 28.134)"/><text x="53.283" y="123.821" style="font-family:&quot;Now-Bold&quot;,&quot;Now&quot;;font-weight:700;font-size:72.055px;fill:#fff" transform="translate(38.673 36.66) scale(.57951)">Car</text><text x="16.512" y="123.821" style="font-family:&quot;Now-Bold&quot;,&quot;Now&quot;;font-weight:700;font-size:72.055px;fill:#4a4a4a" transform="matrix(.55174 0 0 .55174 38.194 40.446)">i</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" style="fill:#fff" />
+  <path d="M38.078 71.224h128.155v52.596H38.078z" style="fill:#ff837d"
+    transform="matrix(.61801 0 0 .6959 39.61 28.134)" /><text x="53.283" y="123.821"
+    style="font-family:&quot;Now-Bold&quot;,&quot;Now&quot;;font-weight:700;font-size:72.055px;fill:#fff"
+    transform="translate(38.673 36.66) scale(.57951)">Car</text><text x="16.512" y="123.821"
+    style="font-family:&quot;Now-Bold&quot;,&quot;Now&quot;;font-weight:700;font-size:72.055px;fill:#4a4a4a"
+    transform="matrix(.55174 0 0 .55174 38.194 40.446)">i</text>
+</svg>

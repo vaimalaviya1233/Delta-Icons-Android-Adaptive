@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#728dbe" rx="9.935"/><ellipse cx="103.86" cy="109.14" fill="#96dfd3" rx="27.224" ry="22.246"/><ellipse cx="115.47" cy="85.942" fill="#96dfd3" rx="11.706" ry="8.072" transform="matrix(.99005 -.14073 -.14644 .98922 0 0)"/><ellipse cx="27.308" cy="97.804" fill="#96dfd3" rx="10.304" ry="13.393" transform="matrix(.91717 -.3985 .48394 .8751 0 0)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#728dbe" />
+  <ellipse cx="103.86" cy="109.14" fill="#96dfd3" rx="27.224" ry="22.246" />
+  <ellipse cx="115.47" cy="85.942" fill="#96dfd3" rx="11.706" ry="8.072"
+    transform="matrix(.99005 -.14073 -.14644 .98922 0 0)" />
+  <ellipse cx="27.308" cy="97.804" fill="#96dfd3" rx="10.304" ry="13.393"
+    transform="matrix(.91717 -.3985 .48394 .8751 0 0)" />
+</svg>

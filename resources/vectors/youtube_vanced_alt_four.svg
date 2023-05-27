@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="fill:#56595b"/><path d="M68.941 120.563 95.56 73.474l26.619 47.089" style="fill:none;stroke:#fff;stroke-width:8.02px" transform="matrix(0 .95745 -.78007 0 175.853 4.506)"/><path d="M91.763 80.191c.864-1.528 2.282-2.439 3.797-2.439 1.515 0 2.934.911 3.797 2.439l17.788 31.467c.98 1.734 1.095 3.993.298 5.863-.798 1.87-2.375 3.042-4.095 3.042H77.772c-1.719 0-3.297-1.172-4.094-3.042-.798-1.87-.683-4.129.297-5.863l17.788-31.467Z" style="fill:#ff837d" transform="matrix(0 .54785 -.44636 0 135.75 43.647)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+  viewBox="0 0 192 192">
+  <rect width="100%" height="100%" style="fill:#56595b" />
+  <path d="M68.941 120.563 95.56 73.474l26.619 47.089" style="fill:none;stroke:#fff;stroke-width:8.02px"
+    transform="matrix(0 .95745 -.78007 0 175.853 4.506)" />
+  <path
+    d="M91.763 80.191c.864-1.528 2.282-2.439 3.797-2.439 1.515 0 2.934.911 3.797 2.439l17.788 31.467c.98 1.734 1.095 3.993.298 5.863-.798 1.87-2.375 3.042-4.095 3.042H77.772c-1.719 0-3.297-1.172-4.094-3.042-.798-1.87-.683-4.129.297-5.863l17.788-31.467Z"
+    style="fill:#ff837d" transform="matrix(0 .54785 -.44636 0 135.75 43.647)" />
+</svg>

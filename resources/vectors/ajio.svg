@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle921" cx="96" cy="956.362" r="88" style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path934" d="M95.814 8a88 88 0 0 0-22.601 3.002l-48.95 135.967a88 88 0 0 0 31.26 27.168l7.623-23.283h65.708l7.625 23.285a88 88 0 0 0 31.257-27.168L118.787 11.002A88 88 0 0 0 96 8h-.186zM96 48.773l22.586 69.813H73.414L96 48.773z" style="font-weight:700;font-size:234.667px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;opacity:1;stroke-width:5.86665;fill:#fff;fill-opacity:1" transform="translate(0 860.362)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle921" y="860,362"
+      style="fill:#54688c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path934"
+      d="M95.814 8a88 88 0 0 0-22.601 3.002l-48.95 135.967a88 88 0 0 0 31.26 27.168l7.623-23.283h65.708l7.625 23.285a88 88 0 0 0 31.257-27.168L118.787 11.002A88 88 0 0 0 96 8h-.186zM96 48.773l22.586 69.813H73.414L96 48.773z"
+      style="font-weight:700;font-size:234.667px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;opacity:1;stroke-width:5.86665;fill:#fff;fill-opacity:1"
+      transform="translate(0 860.362)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

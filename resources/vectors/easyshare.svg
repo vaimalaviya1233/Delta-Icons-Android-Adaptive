@@ -1,1 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192"><defs><linearGradient id="c"><stop offset="0" style="stop-color:#728dbe;stop-opacity:1"/><stop offset="1" style="stop-color:#728dbe;stop-opacity:0"/></linearGradient><linearGradient id="b"><stop offset="0" style="stop-color:#fff;stop-opacity:1"/><stop offset="1" style="stop-color:#fff;stop-opacity:0"/></linearGradient><linearGradient id="a"><stop offset="0" style="stop-color:#fff;stop-opacity:1"/><stop offset="1" style="stop-color:#9abeff;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#a" id="d" x1="112" x2="112" y1="76" y2="116" gradientTransform="translate(-4)" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#a" id="e" x1="112" x2="112" y1="76" y2="116" gradientTransform="translate(-32 -192)" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#b" id="g" x1="108" x2="120" y1="92" y2="92" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#b" id="i" x1="108" x2="120" y1="92" y2="92" gradientTransform="rotate(180 96 96)" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#c" id="h" x1="84" x2="112" y1="104" y2="104" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#c" id="f" x1="84" x2="112" y1="104" y2="104" gradientTransform="rotate(180 96.036 96)" gradientUnits="userSpaceOnUse"/></defs><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#9abeff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><rect width="52" height="40" x="84" y="76" ry="19.928" style="opacity:1;vector-effect:none;fill:url(#d);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><rect width="52" height="40" x="56" y="-116" ry="19.928" style="opacity:1;vector-effect:none;fill:url(#e);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" transform="scale(1 -1)"/><path d="M88.072 76A19.884 19.884 0 0 1 108 95.928V96H56v-.072A19.884 19.884 0 0 1 75.928 76Z" style="opacity:1;vector-effect:none;fill:url(#f);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M103.928 76A19.884 19.884 0 0 0 84 95.928V96h52v-.072A19.884 19.884 0 0 0 116.072 76h-12.144z" style="opacity:1;vector-effect:none;fill:url(#g);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M104 116a19.884 19.884 0 0 1-19.928-19.928V96h52v.072A19.884 19.884 0 0 1 116.145 116Z" style="opacity:1;vector-effect:none;fill:url(#h);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M88.072 116A19.884 19.884 0 0 0 108 96.072V96H56v.072A19.884 19.884 0 0 0 75.928 116Z" style="opacity:1;vector-effect:none;fill:url(#i);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="c">
+      <stop offset="0" style="stop-color:#728dbe;stop-opacity:1" />
+      <stop offset="1" style="stop-color:#728dbe;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" style="stop-color:#fff;stop-opacity:1" />
+      <stop offset="1" style="stop-color:#fff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" style="stop-color:#fff;stop-opacity:1" />
+      <stop offset="1" style="stop-color:#9abeff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="d" x1="112" x2="112" y1="76" y2="116" gradientTransform="translate(-4)"
+      gradientUnits="userSpaceOnUse" />
+    <linearGradient xlink:href="#a" id="e" x1="112" x2="112" y1="76" y2="116" gradientTransform="translate(-32 -192)"
+      gradientUnits="userSpaceOnUse" />
+    <linearGradient xlink:href="#b" id="g" x1="108" x2="120" y1="92" y2="92" gradientUnits="userSpaceOnUse" />
+    <linearGradient xlink:href="#b" id="i" x1="108" x2="120" y1="92" y2="92" gradientTransform="rotate(180 96 96)"
+      gradientUnits="userSpaceOnUse" />
+    <linearGradient xlink:href="#c" id="h" x1="84" x2="112" y1="104" y2="104" gradientUnits="userSpaceOnUse" />
+    <linearGradient xlink:href="#c" id="f" x1="84" x2="112" y1="104" y2="104" gradientTransform="rotate(180 96.036 96)"
+      gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect width="100%" height="100%"
+    style="fill:#9abeff;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <rect width="52" height="40" x="84" y="76" ry="19.928"
+    style="opacity:1;vector-effect:none;fill:url(#d);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <rect width="52" height="40" x="56" y="-116" ry="19.928"
+    style="opacity:1;vector-effect:none;fill:url(#e);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"
+    transform="scale(1 -1)" />
+  <path d="M88.072 76A19.884 19.884 0 0 1 108 95.928V96H56v-.072A19.884 19.884 0 0 1 75.928 76Z"
+    style="opacity:1;vector-effect:none;fill:url(#f);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M103.928 76A19.884 19.884 0 0 0 84 95.928V96h52v-.072A19.884 19.884 0 0 0 116.072 76h-12.144z"
+    style="opacity:1;vector-effect:none;fill:url(#g);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M104 116a19.884 19.884 0 0 1-19.928-19.928V96h52v.072A19.884 19.884 0 0 1 116.145 116Z"
+    style="opacity:1;vector-effect:none;fill:url(#h);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M88.072 116A19.884 19.884 0 0 0 108 96.072V96H56v.072A19.884 19.884 0 0 0 75.928 116Z"
+    style="opacity:1;vector-effect:none;fill:url(#i);fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+</svg>

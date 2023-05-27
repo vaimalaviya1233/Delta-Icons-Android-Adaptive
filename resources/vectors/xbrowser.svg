@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><g transform="translate(0 -860.362)"><rect width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none"/><rect width="24.151" height="82.049" x="-624.737" y="1149.282" rx="1.795" ry="1.795" style="fill:#9abefe;fill-opacity:1;stroke-width:1.2009;stroke-linecap:round" transform="skewX(36.538) scale(1 .80346)"/><rect width="24.151" height="82.049" x="-816.737" y="1149.282" rx="1.795" ry="1.795" style="fill:#9abefe;fill-opacity:1;stroke-width:1.2009;stroke-linecap:round" transform="skewX(36.538) scale(1 -.80346)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <g transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" x="19.5" y="879.862" rx="10"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect width="24.151" height="82.049" x="-624.737" y="1149.282" rx="1.795" ry="1.795"
+      style="fill:#9abefe;fill-opacity:1;stroke-width:1.2009;stroke-linecap:round"
+      transform="skewX(36.538) scale(1 .80346)" />
+    <rect width="24.151" height="82.049" x="-816.737" y="1149.282" rx="1.795" ry="1.795"
+      style="fill:#9abefe;fill-opacity:1;stroke-width:1.2009;stroke-linecap:round"
+      transform="skewX(36.538) scale(1 -.80346)" />
+  </g>
+</svg>

@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><defs><style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round}</style></defs><circle cx="96" cy="96" r="88" fill="#bd9aff"/><circle cx="96" cy="96" r="55.265" fill="none" stroke="#fff" stroke-width="8"/><circle cx="96" cy="96" r="20.597" fill="#8c72bd" stroke="#fff" stroke-width="8"/><path fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" d="M30.129 43.877 96 96.105"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#bd9aff" />
+  <circle cx="96" cy="96" r="55.265" fill="none" stroke="#fff" stroke-width="8" />
+  <circle cx="96" cy="96" r="20.597" fill="#8c72bd" stroke="#fff" stroke-width="8" />
+  <path fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"
+    d="M30.129 43.877 96 96.105" />
+</svg>

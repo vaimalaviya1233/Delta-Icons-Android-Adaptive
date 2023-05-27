@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg16" version="1.1" viewBox="0 0 192 192"><defs id="defs4"><clipPath id="clipPath1185" clipPathUnits="userSpaceOnUse"><path id="lpe_path-effect1193" d="M3 27h64.149v138H3Zm205 69a24 24 0 0 0-24-24 24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24zM32 96A24 24 0 0 0 8 72a24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24Z" class="powerclip"/></clipPath><clipPath id="clipPath1185-3" clipPathUnits="userSpaceOnUse"><path id="lpe_path-effect1193-3" d="M3 27h186v138H3Zm205 69a24 24 0 0 0-24-24 24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24zM32 96A24 24 0 0 0 8 72a24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24Z" class="powerclip"/></clipPath><clipPath id="clipath_lpe_path-effect1193-5" clipPathUnits="userSpaceOnUse"><path id="lpe_path-effect1193-5" d="M57.149 27H189v138H57.149ZM208 96a24 24 0 0 0-24-24 24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24zM32 96A24 24 0 0 0 8 72a24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24Z" class="powerclip"/></clipPath><mask id="mask433" maskUnits="userSpaceOnUse"><rect id="rect435" width="54.149" height="128" x="8" y="32" rx="0" ry="0" style="fill:#fff;stroke-width:24"/></mask><mask id="mask441" maskUnits="userSpaceOnUse"><rect id="rect443" width="121.851" height="128" x="62.149" y="32" rx="0" ry="0" style="fill:#fff;stroke-width:24"/></mask><style id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><rect id="rect14" width="176" height="128" x="8" y="32" class="a" clip-path="url(#clipPath1185)" mask="url(#mask433)" rx="10" style="stroke:none;fill:#98dc9a;opacity:1"/><path id="rect14-6" d="M18 32h156c5.54 0 10 4.46 10 10v108c0 5.54-4.46 10-10 10H18c-5.54 0-10-4.46-10-10V42c0-5.54 4.46-10 10-10Z" class="a" clip-path="url(#clipath_lpe_path-effect1193-5)" mask="url(#mask441)" style="isolation:isolate;fill:#fff;stroke:none;stroke-linecap:round;stroke-linejoin:round;opacity:1"/><text xml:space="preserve" id="text1813" x="121.171" y="143.75" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:25.0421px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;text-align:center;text-anchor:middle;opacity:1;fill:#56595b;stroke-width:24"><tspan id="tspan1811" x="121.171" y="143.75" style="stroke-width:24">PRESTO</tspan></text><path id="path3100" d="M61 160V32" style="fill:#98dc9a;stroke:#fff;stroke-width:4;stroke-dasharray:none"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg16" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4">
+    <clipPath id="clipPath1185" clipPathUnits="userSpaceOnUse">
+      <path id="lpe_path-effect1193"
+        d="M3 27h64.149v138H3Zm205 69a24 24 0 0 0-24-24 24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24zM32 96A24 24 0 0 0 8 72a24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24Z"
+        class="powerclip" />
+    </clipPath>
+    <clipPath id="clipPath1185-3" clipPathUnits="userSpaceOnUse">
+      <path id="lpe_path-effect1193-3"
+        d="M3 27h186v138H3Zm205 69a24 24 0 0 0-24-24 24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24zM32 96A24 24 0 0 0 8 72a24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24Z"
+        class="powerclip" />
+    </clipPath>
+    <clipPath id="clipath_lpe_path-effect1193-5" clipPathUnits="userSpaceOnUse">
+      <path id="lpe_path-effect1193-5"
+        d="M57.149 27H189v138H57.149ZM208 96a24 24 0 0 0-24-24 24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24zM32 96A24 24 0 0 0 8 72a24 24 0 0 0-24 24 24 24 0 0 0 24 24 24 24 0 0 0 24-24Z"
+        class="powerclip" />
+    </clipPath>
+    <mask id="mask433" maskUnits="userSpaceOnUse">
+      <rect id="rect435" width="54.149" height="128" x="8" y="32" rx="0" ry="0" style="fill:#fff;stroke-width:24" />
+    </mask>
+    <mask id="mask441" maskUnits="userSpaceOnUse">
+      <rect id="rect443" width="121.851" height="128" x="62.149" y="32" rx="0" ry="0"
+        style="fill:#fff;stroke-width:24" />
+    </mask>
+    <style id="style2">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect id="rect14" rect height="100%" width="100%" class="a" clip-path="url(#clipPath1185)" mask="url(#mask433)"
+    style="stroke:none;fill:#98dc9a;opacity:1" />
+  <path id="rect14-6"
+    d="M18 32h156c5.54 0 10 4.46 10 10v108c0 5.54-4.46 10-10 10H18c-5.54 0-10-4.46-10-10V42c0-5.54 4.46-10 10-10Z"
+    class="a" clip-path="url(#clipath_lpe_path-effect1193-5)" mask="url(#mask441)"
+    style="isolation:isolate;fill:#fff;stroke:none;stroke-linecap:round;stroke-linejoin:round;opacity:1" /><text
+    xml:space="preserve" id="text1813" x="121.171" y="143.75"
+    style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:25.0421px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;text-align:center;text-anchor:middle;opacity:1;fill:#56595b;stroke-width:24">
+    <tspan id="tspan1811" x="121.171" y="143.75" style="stroke-width:24">PRESTO</tspan>
+  </text>
+  <path id="path3100" d="M61 160V32" style="fill:#98dc9a;stroke:#fff;stroke-width:4;stroke-dasharray:none" />
+</svg>

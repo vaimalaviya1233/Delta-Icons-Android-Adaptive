@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#f8c18c" rx="9.935"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.035" d="M86.384 138.05a41.887 40.01 0 0 1-25.022-36.624 41.887 40.01 0 0 1 41.887-40.01 41.887 40.01 0 0 1 27.389 9.738"/><path fill="#fff" d="M98.243 59.683v-3.04h11.442v3.219z"/><rect width="26.281" height="6.57" x="91.003" y="50.431" fill="#fff" rx="3.622" ry="3.263"/><text xml:space="preserve" x="89.127" y="139.667" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10.05" font-family="Now" font-size="71.468" font-weight="bold"><tspan x="89.127" y="139.667">7</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#f8c18c" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.035"
+    d="M86.384 138.05a41.887 40.01 0 0 1-25.022-36.624 41.887 40.01 0 0 1 41.887-40.01 41.887 40.01 0 0 1 27.389 9.738" />
+  <path fill="#fff" d="M98.243 59.683v-3.04h11.442v3.219z" />
+  <rect width="26.281" height="6.57" x="91.003" y="50.431" fill="#fff" rx="3.622" ry="3.263" /><text
+    xml:space="preserve" x="89.127" y="139.667" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width="10.05" font-family="Now" font-size="71.468" font-weight="bold">
+    <tspan x="89.127" y="139.667">7</tspan>
+  </text>
+</svg>

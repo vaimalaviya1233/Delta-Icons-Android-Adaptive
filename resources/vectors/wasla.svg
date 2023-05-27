@@ -15,6 +15,8 @@
       }
     </style>
   </defs>
-  <rect class="cls-1" x="8" y="32" width="176" height="128" rx="10" ry="10"/>
-  <text class="cls-2" transform="translate(41.23 106.2)"><tspan x="0" y="0">wasla</tspan></text>
+  <rect class="cls-1" width="100%" height="100%" />
+  <text class="cls-2" transform="translate(41.23 106.2)">
+    <tspan x="0" y="0">wasla</tspan>
+  </text>
 </svg>

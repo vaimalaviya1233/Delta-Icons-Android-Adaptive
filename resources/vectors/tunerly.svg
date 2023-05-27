@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg867" version="1.1" viewBox="0 0 192 192"><defs id="defs855"><style id="style853">.a{isolation:isolate;opacity:.63;fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}</style></defs><rect id="rect857" width="152" height="152" x="20" y="20" class="a" rx="10" style="stroke:none;fill:#728dbe;opacity:1"/><path id="path1002" d="M61.013 78.506V96A17.494 17.494 0 0 0 96 96a17.494 17.494 0 0 1 34.987 0v17.494" class="a" style="opacity:1;stroke:#fff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg867" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs855">
+    <style id="style853">
+      .a {
+        isolation: isolate;
+        opacity: .63;
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round
+      }
+    </style>
+  </defs>
+  <rect id="rect857" width="100%" height="100%" class=" a" style="stroke:none;fill:#728dbe;opacity:1" />
+  <path id="path1002" d="M61.013 78.506V96A17.494 17.494 0 0 0 96 96a17.494 17.494 0 0 1 34.987 0v17.494" class="a"
+    style="opacity:1;stroke:#fff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>

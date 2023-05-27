@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192"><defs><clipPath id="e"><rect width="152" height="152" x="20" y="20" fill="#728dbe" class="a" rx="10"/></clipPath><clipPath id="d"><rect width="152" height="152" x="20" y="20" fill="#728dbe" class="a" rx="10"/></clipPath><clipPath id="c"><rect width="152" height="152" x="20" y="20" fill="#728dbe" class="a" rx="10"/></clipPath><clipPath id="b"><rect width="152" height="152" x="20" y="20" fill="#728dbe" class="a" rx="10"/></clipPath><clipPath id="a"><rect width="152" height="152" x="20" y="20" fill="#728dbe" class="a" rx="10"/></clipPath></defs><rect width="152" height="152" x="20" y="20" fill="#728dbe" class="a" rx="10"/><path fill="#fff" d="M70 20v50.383h49.699V120H172V30c0-5.54-4.46-10-10-10H70z" class="a" clip-path="url(#a)"/><path fill="#728dbe" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M70 10.08v169.99" clip-path="url(#b)"/><path fill="#728dbe" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M119.7 7.5V192" clip-path="url(#c)"/><path fill="#728dbe" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M13.23 120h167.43" clip-path="url(#d)"/><path fill="#728dbe" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" d="M15.12 70h164.95" clip-path="url(#e)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 192 192">
+  <defs>
+    <clipPath id="e">
+      <rect width="100%" height="100%" class="a" %%" fill="#728dbe" />
+    </clipPath>
+    <clipPath id="d">
+      <rect width="100%" height="100%" class="a" %%" fill="#728dbe" />
+    </clipPath>
+    <clipPath id="c">
+      <rect width="100%" height="100%" class="a" %%" fill="#728dbe" />
+    </clipPath>
+    <clipPath id="b">
+      <rect width="100%" height="100%" class="a" %%" fill="#728dbe" />
+    </clipPath>
+    <clipPath id="a">
+      <rect width="100%" height="100%" class="a" %%" fill="#728dbe" />
+    </clipPath>
+  </defs>
+  <rect width="100%" height="100%" class="a" %%" fill="#728dbe" />
+  <path fill="#fff" d="M70 20v50.383h49.699V120H172V30c0-5.54-4.46-10-10-10H70z" class="a" clip-path="url(#a)" />
+  <path fill="#728dbe" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M70 10.08v169.99" clip-path="url(#b)" />
+  <path fill="#728dbe" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M119.7 7.5V192" clip-path="url(#c)" />
+  <path fill="#728dbe" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M13.23 120h167.43" clip-path="url(#d)" />
+  <path fill="#728dbe" stroke="#56595b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"
+    d="M15.12 70h164.95" clip-path="url(#e)" />
+</svg>

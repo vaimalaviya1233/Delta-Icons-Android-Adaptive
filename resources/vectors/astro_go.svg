@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#ff837d" rx="9.935"/><path fill="#fff" d="M78.708 80.318s7.855-2.557 11.935-2.854c7.915-.576 15.78 1.938 23.714 2.127 6.935.166 10.456-1.513 14.529-3.424 0 0-2.754 4.36-6.85 5.137-9.245 1.754-18.825-.322-28.124-1.713-5.017-.75-15.204.727-15.204.727z"/><text xml:space="preserve" x="76.537" y="75.828" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".83" font-family="Now" font-size="22.14"><tspan x="76.537" y="75.828">astro</tspan></text><text xml:space="preserve" x="50.071" y="131.526" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".83" font-family="Now" font-size="53.135"><tspan x="50.071" y="131.526" font-weight="bold">GO</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#ff837d" />
+  <path fill="#fff"
+    d="M78.708 80.318s7.855-2.557 11.935-2.854c7.915-.576 15.78 1.938 23.714 2.127 6.935.166 10.456-1.513 14.529-3.424 0 0-2.754 4.36-6.85 5.137-9.245 1.754-18.825-.322-28.124-1.713-5.017-.75-15.204.727-15.204.727z" />
+  <text xml:space="preserve" x="76.537" y="75.828" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width=".83" font-family="Now" font-size="22.14">
+    <tspan x="76.537" y="75.828">astro</tspan>
+  </text><text xml:space="preserve" x="50.071" y="131.526" fill="#fff" stroke-linecap="round" stroke-linejoin="round"
+    stroke-width=".83" font-family="Now" font-size="53.135">
+    <tspan x="50.071" y="131.526" font-weight="bold">GO</tspan>
+  </text>
+</svg>

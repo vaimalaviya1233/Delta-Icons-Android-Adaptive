@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><defs><linearGradient id="a" x1="168" x2="24" y1="168" y2="24" gradientUnits="userSpaceOnUse"><stop offset="0" style="stop-color:#728dbe"/><stop offset=".065" style="stop-color:#ff837d"/><stop offset=".219" style="stop-color:#bd9aff"/><stop offset=".389" style="stop-color:#98dc9a"/><stop offset=".583" style="stop-color:#96dfd3"/><stop offset=".778" style="stop-color:#96dfd3"/><stop offset=".917" style="stop-color:#9abeff"/><stop offset="1" style="stop-color:#728dbe"/></linearGradient></defs><rect width="152" height="152" x="20" y="20" opacity=".63" rx="9.935" style="fill:url(#a);opacity:1"/><path d="M60 96c-.296 22.004 19.87 35.821 36 36 15.401.17 29.717-6.996 33.902-21.272 1.995-6.805-2.894-9.274-4.629-7.489-2.953 3.038-10.131 8.902-17.207 7.764-7.28-1.17-15.965-7.737-16.157-15.108-.208-7.961 4.626-17.214 16.577-17.207 2.424.001 5.134 2.824 5.036 5.246-.165 4.1-5.721 3.543-5.036 6.085.369 1.368 2.39 1.806 3.987 1.47 5.084-1.072 10.973-1.319 11.33-10.703.5-13.067-13.905-20.746-24.76-21.194C77.685 58.712 60.24 78.206 60 96z" style="fill:#fff"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <defs>
+    <linearGradient id="a" x1="168" x2="24" y1="168" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#728dbe" />
+      <stop offset=".065" style="stop-color:#ff837d" />
+      <stop offset=".219" style="stop-color:#bd9aff" />
+      <stop offset=".389" style="stop-color:#98dc9a" />
+      <stop offset=".583" style="stop-color:#96dfd3" />
+      <stop offset=".778" style="stop-color:#96dfd3" />
+      <stop offset=".917" style="stop-color:#9abeff" />
+      <stop offset="1" style="stop-color:#728dbe" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" style="fill:url(#a);opacity:1" />
+  <path
+    d="M60 96c-.296 22.004 19.87 35.821 36 36 15.401.17 29.717-6.996 33.902-21.272 1.995-6.805-2.894-9.274-4.629-7.489-2.953 3.038-10.131 8.902-17.207 7.764-7.28-1.17-15.965-7.737-16.157-15.108-.208-7.961 4.626-17.214 16.577-17.207 2.424.001 5.134 2.824 5.036 5.246-.165 4.1-5.721 3.543-5.036 6.085.369 1.368 2.39 1.806 3.987 1.47 5.084-1.072 10.973-1.319 11.33-10.703.5-13.067-13.905-20.746-24.76-21.194C77.685 58.712 60.24 78.206 60 96z"
+    style="fill:#fff" />
+</svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" fill="#9abeff" class="a" rx="10"/><g><rect width="76.52" height="65.621" x="57.74" y="63.19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.576" ry="1.891"/><rect width="72.674" height="57.853" x="60.266" y="65.724" fill="#9abeff" ry="0"/><path fill="#fff" d="M58.51 119.19h8.343l23.328-23.328 17.95 17.949 17.673-23.822 8.456 6.015.863 32.476-11.405 1.029h-64.11l-1.647-4.83z"/><circle cx="76.184" cy="81.422" r="9.331" fill="#fff"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%" class="a" %%" fill="#9abeff" />
+  <g>
+    <rect width="76.52" height="65.621" x="57.74" y="63.19" fill="none" stroke="#fff" stroke-linecap="round"
+      stroke-linejoin="round" stroke-width="5.576" ry="1.891" />
+    <rect width="72.674" height="57.853" x="60.266" y="65.724" fill="#9abeff" ry="0" />
+    <path fill="#fff"
+      d="M58.51 119.19h8.343l23.328-23.328 17.95 17.949 17.673-23.822 8.456 6.015.863 32.476-11.405 1.029h-64.11l-1.647-4.83z" />
+    <circle cx="76.184" cy="81.422" r="9.331" fill="#fff" />
+  </g>
+</svg>

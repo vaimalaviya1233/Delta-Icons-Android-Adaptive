@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1048" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="rect940" d="M121.543 922.301h8.957a2 2 45 0 1 2 2v37.434a2 2 135 0 1-2 2h-8.957a2 2 45 0 1-2-2V924.3a2 2 135 0 1 2-2z" style="fill:#708cbd;fill-opacity:1;stroke-width:.117195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="rect942" d="M100.929 922.301h8.957a2 2 45 0 1 2 2v37.434a2 2 135 0 1-2 2h-8.957a2 2 45 0 1-2-2V924.3a2 2 135 0 1 2-2z" style="fill:#708cbd;fill-opacity:1;stroke-width:.117195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="rect944" d="M67.113 925.662h8.957a2 2 45 0 1 2 2v34.073a2 2 135 0 1-2 2h-8.957a2 2 45 0 1-2-2v-34.073a2 2 135 0 1 2-2z" style="fill:#708cbd;fill-opacity:1;stroke-width:.112341;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><path id="rect946" d="m122.23 898.578-34.201 34.201a1.96 1.96.592 0 1-2.799-.028l-16.486-17.182a1.884 1.884 179.469 0 0-2.742.025l-5.144 5.565a2.273 2.273 91.414 0 0-.074 3.002l24.547 29.332a1.698 1.698.4 0 0 2.589.018l41.21-47.869a2.182 2.182 88.22 0 0-.091-2.947l-3.998-4.1a1.975 1.975.357 0 0-2.811-.017z" style="fill:#99bdfe;fill-opacity:1;stroke-width:.117195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/><text xml:space="preserve" id="text952" x="59.303" y="1003.343" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40.7253px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#82858b;fill-opacity:1;stroke-width:1.01813"><tspan id="tspan950" x="59.303" y="1003.343" style="fill:#82858b;fill-opacity:1;stroke-width:1.01813">Pay</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect1048" y="860,362"
+      style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="rect940"
+      d="M121.543 922.301h8.957a2 2 45 0 1 2 2v37.434a2 2 135 0 1-2 2h-8.957a2 2 45 0 1-2-2V924.3a2 2 135 0 1 2-2z"
+      style="fill:#708cbd;fill-opacity:1;stroke-width:.117195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="rect942"
+      d="M100.929 922.301h8.957a2 2 45 0 1 2 2v37.434a2 2 135 0 1-2 2h-8.957a2 2 45 0 1-2-2V924.3a2 2 135 0 1 2-2z"
+      style="fill:#708cbd;fill-opacity:1;stroke-width:.117195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="rect944"
+      d="M67.113 925.662h8.957a2 2 45 0 1 2 2v34.073a2 2 135 0 1-2 2h-8.957a2 2 45 0 1-2-2v-34.073a2 2 135 0 1 2-2z"
+      style="fill:#708cbd;fill-opacity:1;stroke-width:.112341;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <path id="rect946"
+      d="m122.23 898.578-34.201 34.201a1.96 1.96.592 0 1-2.799-.028l-16.486-17.182a1.884 1.884 179.469 0 0-2.742.025l-5.144 5.565a2.273 2.273 91.414 0 0-.074 3.002l24.547 29.332a1.698 1.698.4 0 0 2.589.018l41.21-47.869a2.182 2.182 88.22 0 0-.091-2.947l-3.998-4.1a1.975 1.975.357 0 0-2.811-.017z"
+      style="fill:#99bdfe;fill-opacity:1;stroke-width:.117195;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" />
+    <text xml:space="preserve" id="text952" x="59.303" y="1003.343"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40.7253px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#82858b;fill-opacity:1;stroke-width:1.01813">
+      <tspan id="tspan950" x="59.303" y="1003.343" style="fill:#82858b;fill-opacity:1;stroke-width:1.01813">Pay</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

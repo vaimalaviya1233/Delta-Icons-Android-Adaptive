@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg4714" version="1.1" viewBox="0 0 192 192"><defs id="defs4702"><style id="style4700">.a{isolation:isolate;opacity:.63;fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}</style></defs><circle id="circle4706" cx="96" cy="96" r="88" class="a" style="opacity:1;stroke:none;fill:#f9de81"/><path id="path4849" d="m46.956 108.575 13.833 21.026h25.503C69.768 97.358 72.56 62.348 96 62.4c23.44.05 25.905 34.909 9.758 67.202h25.453l13.833-21.026" class="a" style="opacity:1;stroke:#56595b;stroke-width:6.79747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4714" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs4702">
+    <style id="style4700">
+      .a {
+        isolation: isolate;
+        opacity: .63;
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" id="circle4706" class="a" style="opacity:1;stroke:none;fill:#f9de81" />
+  <path id="path4849"
+    d="m46.956 108.575 13.833 21.026h25.503C69.768 97.358 72.56 62.348 96 62.4c23.44.05 25.905 34.909 9.758 67.202h25.453l13.833-21.026"
+    class="a"
+    style="opacity:1;stroke:#56595b;stroke-width:6.79747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

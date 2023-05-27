@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><clipPath id="clipPath1012" clipPathUnits="userSpaceOnUse"><rect id="rect1014" width="360" height="360" x="734.179" y="179.362" rx="23.529" ry="23.529" style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993465;stroke-opacity:1"/></clipPath><clipPath id="clipPath1016" clipPathUnits="userSpaceOnUse"><rect id="rect1018" width="360" height="360" x="734.179" y="179.362" rx="23.529" ry="23.529" style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993465;stroke-opacity:1" transform="rotate(-21.949)"/></clipPath><clipPath id="clipPath1020" clipPathUnits="userSpaceOnUse"><rect id="rect1022" width="360" height="360" x="734.179" y="179.362" rx="23.529" ry="23.529" style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993465;stroke-opacity:1"/></clipPath></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1030" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="rect941" d="M999.044-270.36h357.646V87.286H999.044z" clip-path="url(#clipPath1016)" style="fill:#f58f8a;fill-opacity:1;stroke:none;stroke-width:18.9473;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000" transform="rotate(21.948 -2219.676 -345.426) scale(.42222)"/><path id="path943" d="m844.201 405.693-176.776 150.26V292.202s107.48-5.303 176.776 113.49z" clip-path="url(#clipPath1012)" style="fill:#54688c;fill-opacity:1;stroke:none;stroke-width:2.36842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" transform="translate(-289.987 804.631) scale(.42222)"/><text xml:space="preserve" id="text939" x="776.851" y="409.59" clip-path="url(#clipPath1020)" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:118.706px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.36841" transform="translate(-289.987 804.631) scale(.42222)"><tspan id="tspan937" x="776.851" y="409.59" style="fill:#fff;fill-opacity:1;stroke-width:2.36841">Jobs</tspan></text></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <clipPath id="clipPath1012" clipPathUnits="userSpaceOnUse">
+      <rect id="rect1014" width="360" height="360" x="734.179" y="179.362" rx="23.529" ry="23.529"
+        style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993465;stroke-opacity:1" />
+    </clipPath>
+    <clipPath id="clipPath1016" clipPathUnits="userSpaceOnUse">
+      <rect id="rect1018" width="360" height="360" x="734.179" y="179.362" rx="23.529" ry="23.529"
+        style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993465;stroke-opacity:1"
+        transform="rotate(-21.949)" />
+    </clipPath>
+    <clipPath id="clipPath1020" clipPathUnits="userSpaceOnUse">
+      <rect id="rect1022" width="360" height="360" x="734.179" y="179.362" rx="23.529" ry="23.529"
+        style="opacity:1;fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993465;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1030" width="100%" height="100%"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="rect941" d="M999.044-270.36h357.646V87.286H999.044z" clip-path="url(#clipPath1016)"
+      style="fill:#f58f8a;fill-opacity:1;stroke:none;stroke-width:18.9473;stroke-dashoffset:6;paint-order:stroke fill markers;stop-color:#000"
+      transform="rotate(21.948 -2219.676 -345.426) scale(.42222)" />
+    <path id="path943" d="m844.201 405.693-176.776 150.26V292.202s107.48-5.303 176.776 113.49z"
+      clip-path="url(#clipPath1012)"
+      style="fill:#54688c;fill-opacity:1;stroke:none;stroke-width:2.36842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+      transform="translate(-289.987 804.631) scale(.42222)" /><text xml:space="preserve" id="text939" x="776.851"
+      y="409.59" clip-path="url(#clipPath1020)"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:118.706px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:2.36841"
+      transform="translate(-289.987 804.631) scale(.42222)">
+      <tspan id="tspan937" x="776.851" y="409.59" style="fill:#fff;fill-opacity:1;stroke-width:2.36841">Jobs</tspan>
+    </text>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

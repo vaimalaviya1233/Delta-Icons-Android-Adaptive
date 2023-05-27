@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="opacity:1;fill:#fff;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M28.915 20H64.87v152H28.915C23.976 172 20 167.48 20 161.867V30.133C20 24.52 23.976 20 28.915 20Z" style="opacity:1;fill:#ababff;stroke-width:.00359237;fill-opacity:1"/><text xml:space="preserve" x="97.827" y="122.18" style="font-size:71.8248px;font-family:Bold;-inkscape-font-specification:&quot;Bold, &quot;;text-align:center;text-anchor:middle;fill:#83868c;stroke:none;stroke-width:.00131365"><tspan x="97.827" y="122.18" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:71.8248px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#83868c;stroke-width:.00131365">X</tspan></text><text xml:space="preserve" x="144.577" y="110.819" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:58.7666px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;text-align:center;text-anchor:middle;fill:#83868c;stroke-width:.00277638"><tspan x="144.577" y="110.819" style="stroke-width:.00277638">=</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="opacity:1;fill:#fff;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path d="M28.915 20H64.87v152H28.915C23.976 172 20 167.48 20 161.867V30.133C20 24.52 23.976 20 28.915 20Z"
+    style="opacity:1;fill:#ababff;stroke-width:.00359237;fill-opacity:1" /><text xml:space="preserve" x="97.827"
+    y="122.18"
+    style="font-size:71.8248px;font-family:Bold;-inkscape-font-specification:&quot;Bold, &quot;;text-align:center;text-anchor:middle;fill:#83868c;stroke:none;stroke-width:.00131365">
+    <tspan x="97.827" y="122.18"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:71.8248px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;fill:#83868c;stroke-width:.00131365">
+      X</tspan>
+  </text><text xml:space="preserve" x="144.577" y="110.819"
+    style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:58.7666px;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;text-align:center;text-anchor:middle;fill:#83868c;stroke-width:.00277638">
+    <tspan x="144.577" y="110.819" style="stroke-width:.00277638">=</tspan>
+  </text>
+</svg>

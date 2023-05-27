@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#8c72bd" rx="9.935"/><text xml:space="preserve" x="75.972" y="82.992" font-family="Now" font-size="29.333" font-weight="300" style="line-height:1.25"><tspan x="75.972" y="82.992" fill="#fff">my</tspan></text><text xml:space="preserve" x="46" y="123.648" font-family="Now" font-size="32" font-weight="300" style="line-height:1.25"><tspan x="46" y="123.648" fill="#fff" font-weight="normal">UPMC</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#8c72bd" /><text xml:space="preserve" x="75.972" y="82.992" font-family="Now"
+    font-size="29.333" font-weight="300" style="line-height:1.25">
+    <tspan x="75.972" y="82.992" fill="#fff">my</tspan>
+  </text><text xml:space="preserve" x="46" y="123.648" font-family="Now" font-size="32" font-weight="300"
+    style="line-height:1.25">
+    <tspan x="46" y="123.648" fill="#fff" font-weight="normal">UPMC</tspan>
+  </text>
+</svg>

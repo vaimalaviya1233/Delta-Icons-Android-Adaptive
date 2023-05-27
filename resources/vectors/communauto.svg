@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle994" cx="96" cy="956.362" r="88" style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path958" d="M113.821 956.609c0 7.892-5.18 14.057-13.318 14.057-7.891 0-13.317-6.165-13.317-14.057s5.179-14.058 13.317-14.058c8.139 0 13.318 6.166 13.318 14.058m-18.497 0c0 3.7 1.973 6.659 5.426 6.659 3.453 0 5.426-2.96 5.426-6.66 0-3.699-1.973-6.658-5.426-6.658-3.453 0-5.426 2.96-5.426 6.659" class="st0" style="fill:#fff;fill-opacity:1;stroke-width:2.46622"/><path id="path964" d="M100.75 978.558a22.104 22.104 0 0 1-22.196-22.196 22.104 22.104 0 0 1 22.196-22.196c4.932 0 9.372 1.48 12.824 4.193v-16.277c-3.946-1.48-8.385-2.22-12.824-2.22-20.223 0-36.5 16.277-36.5 36.5s16.277 36.5 36.5 36.5c4.44 0 8.878-.74 12.824-2.22v-16.03c-3.452 2.22-7.892 3.946-12.824 3.946" class="st0" style="fill:#fff;fill-opacity:1;stroke-width:2.46622"/></g><style id="style853" type="text/css">.st0{fill:#8bc53f}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle994" y="860,362"
+      style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path958"
+      d="M113.821 956.609c0 7.892-5.18 14.057-13.318 14.057-7.891 0-13.317-6.165-13.317-14.057s5.179-14.058 13.317-14.058c8.139 0 13.318 6.166 13.318 14.058m-18.497 0c0 3.7 1.973 6.659 5.426 6.659 3.453 0 5.426-2.96 5.426-6.66 0-3.699-1.973-6.658-5.426-6.658-3.453 0-5.426 2.96-5.426 6.659"
+      class="st0" style="fill:#fff;fill-opacity:1;stroke-width:2.46622" />
+    <path id="path964"
+      d="M100.75 978.558a22.104 22.104 0 0 1-22.196-22.196 22.104 22.104 0 0 1 22.196-22.196c4.932 0 9.372 1.48 12.824 4.193v-16.277c-3.946-1.48-8.385-2.22-12.824-2.22-20.223 0-36.5 16.277-36.5 36.5s16.277 36.5 36.5 36.5c4.44 0 8.878-.74 12.824-2.22v-16.03c-3.452 2.22-7.892 3.946-12.824 3.946"
+      class="st0" style="fill:#fff;fill-opacity:1;stroke-width:2.46622" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #8bc53f
+    }
+  </style>
+</svg>

@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg889" version="1.1" viewBox="0 0 192 192"><defs id="defs877"><style id="style875">.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10}</style></defs><circle id="circle881" cx="96" cy="96" r="88" style="fill:#ff837d;opacity:1;stroke:none;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><g id="g1209" style="fill:#fff;stroke:none" transform="matrix(2.093 0 0 2.093 45.768 45.769)"><path id="path1199" d="m34.65 15.16 2.73-3.52a1 1 0 0 0-.05-1.31C26.39-1.22 5.74 5.76 5.12 23.3a.4.4 0 0 1-.08.23.44.44 0 0 1-.37.21H2.74a.25.25 0 0 0-.19.4l5.55 7.18a.26.26 0 0 0 .39 0l5.56-7.17a.25.25 0 0 0-.2-.4h-1.93a.41.41 0 0 1-.32-.15v-.06a.42.42 0 0 1-.1-.28 12.51 12.51 0 0 1 21.67-8 1 1 0 0 0 1.48-.1z" class="cls-1" style="fill:#fff;stroke:none"/><path id="path1201" d="m13.35 32.84-2.73 3.52a1 1 0 0 0 .05 1.31c10.94 11.55 31.59 4.57 32.21-13a.4.4 0 0 1 .08-.23.44.44 0 0 1 .37-.21h1.93a.25.25 0 0 0 .19-.4l-5.55-7.15a.26.26 0 0 0-.39 0L34 23.85a.25.25 0 0 0 .2.4h1.93a.41.41 0 0 1 .32.15v.06a.42.42 0 0 1 .1.28 12.51 12.51 0 0 1-21.67 8 1 1 0 0 0-1.53.1z" class="cls-1" style="fill:#ccc;stroke:none"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg889" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs877">
+    <style id="style875">
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" id="circle881"
+    style="fill:#ff837d;opacity:1;stroke:none;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <g id="g1209" style="fill:#fff;stroke:none" transform="matrix(2.093 0 0 2.093 45.768 45.769)">
+    <path id="path1199"
+      d="m34.65 15.16 2.73-3.52a1 1 0 0 0-.05-1.31C26.39-1.22 5.74 5.76 5.12 23.3a.4.4 0 0 1-.08.23.44.44 0 0 1-.37.21H2.74a.25.25 0 0 0-.19.4l5.55 7.18a.26.26 0 0 0 .39 0l5.56-7.17a.25.25 0 0 0-.2-.4h-1.93a.41.41 0 0 1-.32-.15v-.06a.42.42 0 0 1-.1-.28 12.51 12.51 0 0 1 21.67-8 1 1 0 0 0 1.48-.1z"
+      class="cls-1" style="fill:#fff;stroke:none" />
+    <path id="path1201"
+      d="m13.35 32.84-2.73 3.52a1 1 0 0 0 .05 1.31c10.94 11.55 31.59 4.57 32.21-13a.4.4 0 0 1 .08-.23.44.44 0 0 1 .37-.21h1.93a.25.25 0 0 0 .19-.4l-5.55-7.15a.26.26 0 0 0-.39 0L34 23.85a.25.25 0 0 0 .2.4h1.93a.41.41 0 0 1 .32.15v.06a.42.42 0 0 1 .1.28 12.51 12.51 0 0 1-21.67 8 1 1 0 0 0-1.53.1z"
+      class="cls-1" style="fill:#ccc;stroke:none" />
+  </g>
+</svg>

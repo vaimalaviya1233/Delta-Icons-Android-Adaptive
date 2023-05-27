@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="fill:#73ada4;opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><text xml:space="preserve" x="74.939" y="120.234" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:65.98522186px;line-height:1.25;font-family:Aleo;-inkscape-font-specification:Aleo;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.64963055"><tspan x="74.939" y="120.234" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Aleo;-inkscape-font-specification:&quot;Aleo Bold&quot;;fill:#fff;stroke-width:1.64963055">T</tspan></text><path d="M68 44v8H52v16h-8V52s0-8 8-8h16zM124 44v8h16v16h8V52s0-8-8-8h-16zM68 148v-8H52v-16h-8v16s0 8 8 8h16zM124 148v-8h16v-16h8v16s0 8-8 8h-16z" style="fill:#fff"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#73ada4;opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" /><text
+    xml:space="preserve" x="74.939" y="120.234"
+    style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:65.98522186px;line-height:1.25;font-family:Aleo;-inkscape-font-specification:Aleo;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.64963055">
+    <tspan x="74.939" y="120.234"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Aleo;-inkscape-font-specification:&quot;Aleo Bold&quot;;fill:#fff;stroke-width:1.64963055">
+      T</tspan>
+  </text>
+  <path
+    d="M68 44v8H52v16h-8V52s0-8 8-8h16zM124 44v8h16v16h8V52s0-8-8-8h-16zM68 148v-8H52v-16h-8v16s0 8 8 8h16zM124 148v-8h16v-16h8v16s0 8-8 8h-16z"
+    style="fill:#fff" />
+</svg>

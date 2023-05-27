@@ -1,1 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><defs id="defs4"><style id="style929">.cls-1{fill:#63b335}.cls-2{fill:#e5b735}.cls-3{fill:#c51c2e}.cls-4{fill:#4c9f37}.cls-5{fill:#3f7f45}.cls-6{fill:#fcc310}.cls-7{fill:#e8422e}.cls-8{fill:#f59d2d}.cls-9{fill:#1896d4}.cls-10{fill:#a31b43}.cls-11{fill:#2ebce0}.cls-12{fill:#ed6930}.cls-13{fill:#e6243c}.cls-14{fill:#de1868}.cls-15{fill:#1a496a}.cls-16{fill:#c99a2d}.cls-17{fill:#02699e}.st0{fill:#fff}</style></defs><g id="layer1" transform="translate(0 -860.362)"><rect id="rect929" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path931" d="M119.224 986.672a38.488 38.488 0 0 1-43.16 2.23 38.488 38.488 0 0 1-18.023-39.279 38.488 38.488 0 0 1 29.836-31.265" style="opacity:.546539;fill:none;stroke:#70a270;stroke-width:8.02425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000"/><path id="path933" d="M103.662 918.262a38.488 38.488 0 0 1 27.272 21.56 38.488 38.488 0 0 1-1.23 34.745" style="opacity:.546539;fill:none;stroke:#70a270;stroke-width:8.02425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000"/><path id="path935" d="M86.159 941.377c-5.312-.038-10.31 4.11-11.096 9.395-.92 4.839 1.56 9.45 4.29 13.255 3.743 5.132 8.874 8.984 14.196 12.365.932.592 2.462.595 3.395.004 6.516-4.125 12.788-9.08 16.478-15.982 2.093-3.58 2.983-8.086 1.325-12.012-2.039-5.287-8.742-8.646-14.047-6.194-2.271 1.055-4.135 2.879-5.455 4.986-1.954-3.126-5.253-5.776-9.086-5.818z" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.23498px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <defs id="defs4">
+    <style id="style929">
+      .cls-1 {
+        fill: #63b335
+      }
+
+      .cls-2 {
+        fill: #e5b735
+      }
+
+      .cls-3 {
+        fill: #c51c2e
+      }
+
+      .cls-4 {
+        fill: #4c9f37
+      }
+
+      .cls-5 {
+        fill: #3f7f45
+      }
+
+      .cls-6 {
+        fill: #fcc310
+      }
+
+      .cls-7 {
+        fill: #e8422e
+      }
+
+      .cls-8 {
+        fill: #f59d2d
+      }
+
+      .cls-9 {
+        fill: #1896d4
+      }
+
+      .cls-10 {
+        fill: #a31b43
+      }
+
+      .cls-11 {
+        fill: #2ebce0
+      }
+
+      .cls-12 {
+        fill: #ed6930
+      }
+
+      .cls-13 {
+        fill: #e6243c
+      }
+
+      .cls-14 {
+        fill: #de1868
+      }
+
+      .cls-15 {
+        fill: #1a496a
+      }
+
+      .cls-16 {
+        fill: #c99a2d
+      }
+
+      .cls-17 {
+        fill: #02699e
+      }
+
+      .st0 {
+        fill: #fff
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect929" width="100%" height="100%"
+      style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path931"
+      d="M119.224 986.672a38.488 38.488 0 0 1-43.16 2.23 38.488 38.488 0 0 1-18.023-39.279 38.488 38.488 0 0 1 29.836-31.265"
+      style="opacity:.546539;fill:none;stroke:#70a270;stroke-width:8.02425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000" />
+    <path id="path933" d="M103.662 918.262a38.488 38.488 0 0 1 27.272 21.56 38.488 38.488 0 0 1-1.23 34.745"
+      style="opacity:.546539;fill:none;stroke:#70a270;stroke-width:8.02425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000" />
+    <path id="path935"
+      d="M86.159 941.377c-5.312-.038-10.31 4.11-11.096 9.395-.92 4.839 1.56 9.45 4.29 13.255 3.743 5.132 8.874 8.984 14.196 12.365.932.592 2.462.595 3.395.004 6.516-4.125 12.788-9.08 16.478-15.982 2.093-3.58 2.983-8.086 1.325-12.012-2.039-5.287-8.742-8.646-14.047-6.194-2.271 1.055-4.135 2.879-5.455 4.986-1.954-3.126-5.253-5.776-9.086-5.818z"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:1.23498px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

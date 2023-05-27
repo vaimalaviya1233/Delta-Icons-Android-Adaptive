@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><circle cx="96" cy="96" r="88" style="fill:#56595b;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M92 116v67.8a88 88 0 0 0 4 .2 88 88 0 0 0 4-.143V116h-8z" style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers"/><path d="M64.799 114c6.207 10.773 17.825 18 31.201 18 13.376 0 24.994-7.227 31.201-18L96 112Z" style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.5;paint-order:stroke fill markers"/><path d="M60 96c0 6.568 1.75 12.71 4.799 18H127.2A35.926 35.926 0 0 0 132 96l-36-4Z" style="opacity:1;vector-effect:none;fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.5;paint-order:stroke fill markers"/><path d="M64.799 78A35.926 35.926 0 0 0 60 96h72c0-6.568-1.75-12.71-4.799-18L96 76Z" style="opacity:1;vector-effect:none;fill:#96dfd3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.5;paint-order:stroke fill markers"/><path d="M96 60c-13.376 0-24.994 7.227-31.201 18H127.2C120.994 67.227 109.376 60 96 60z" style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.5;paint-order:stroke fill markers"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="fill:#56595b;stroke:none;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path d="M92 116v67.8a88 88 0 0 0 4 .2 88 88 0 0 0 4-.143V116h-8z"
+    style="opacity:1;vector-effect:none;fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:stroke fill markers" />
+  <path d="M64.799 114c6.207 10.773 17.825 18 31.201 18 13.376 0 24.994-7.227 31.201-18L96 112Z"
+    style="opacity:1;vector-effect:none;fill:#ff837d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.5;paint-order:stroke fill markers" />
+  <path d="M60 96c0 6.568 1.75 12.71 4.799 18H127.2A35.926 35.926 0 0 0 132 96l-36-4Z"
+    style="opacity:1;vector-effect:none;fill:#f9de81;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.5;paint-order:stroke fill markers" />
+  <path d="M64.799 78A35.926 35.926 0 0 0 60 96h72c0-6.568-1.75-12.71-4.799-18L96 76Z"
+    style="opacity:1;vector-effect:none;fill:#96dfd3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.5;paint-order:stroke fill markers" />
+  <path d="M96 60c-13.376 0-24.994 7.227-31.201 18H127.2C120.994 67.227 109.376 60 96 60z"
+    style="opacity:1;vector-effect:none;fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.5;paint-order:stroke fill markers" />
+</svg>

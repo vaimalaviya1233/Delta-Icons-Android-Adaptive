@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect939" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path941" d="M74.126 956.134c2.572-1.372 4.229-3.771 4.229-7.371 0-6.057-4.571-9.542-10.342-9.542H53.5v34.282h15.827c5.714 0 10.17-3.314 10.17-9.37 0-4.171-2.17-6.742-5.37-8zm-3.314-6.571c0 2-1.656 3.714-3.713 3.714h-6.057v-7.37H67.1c2.057 0 3.713 1.599 3.713 3.656zm-2.57 17.255h-7.2v-7.37h7.2a3.706 3.706 0 0 1 3.713 3.713c0 2.057-1.6 3.657-3.714 3.657z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:50.5607px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.14274"/><path id="path943" d="M79.157 973.503H90.47c9.428 0 17.141-7.656 17.141-17.14 0-9.486-7.713-17.142-17.141-17.142H79.157Zm7.542-6.685v-20.912h3.714c5.428 0 9.656 4.514 9.656 10.456 0 5.942-4.228 10.456-9.656 10.456z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:50.5607px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.14274"/><path id="path945" d="M120.902 973.96c9.77 0 17.598-7.885 17.598-17.598s-7.828-17.598-17.598-17.598c-9.713 0-17.598 7.885-17.598 17.598s7.885 17.598 17.598 17.598zm0-7.37c-5.771 0-10.17-4.457-10.17-10.228 0-5.77 4.399-10.227 10.17-10.227 5.828 0 10.227 4.456 10.227 10.227s-4.4 10.228-10.227 10.228z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:50.5607px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.14274"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect939" width="100%" height="100%"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path941"
+      d="M74.126 956.134c2.572-1.372 4.229-3.771 4.229-7.371 0-6.057-4.571-9.542-10.342-9.542H53.5v34.282h15.827c5.714 0 10.17-3.314 10.17-9.37 0-4.171-2.17-6.742-5.37-8zm-3.314-6.571c0 2-1.656 3.714-3.713 3.714h-6.057v-7.37H67.1c2.057 0 3.713 1.599 3.713 3.656zm-2.57 17.255h-7.2v-7.37h7.2a3.706 3.706 0 0 1 3.713 3.713c0 2.057-1.6 3.657-3.714 3.657z"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:50.5607px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.14274" />
+    <path id="path943"
+      d="M79.157 973.503H90.47c9.428 0 17.141-7.656 17.141-17.14 0-9.486-7.713-17.142-17.141-17.142H79.157Zm7.542-6.685v-20.912h3.714c5.428 0 9.656 4.514 9.656 10.456 0 5.942-4.228 10.456-9.656 10.456z"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:50.5607px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:1.14274" />
+    <path id="path945"
+      d="M120.902 973.96c9.77 0 17.598-7.885 17.598-17.598s-7.828-17.598-17.598-17.598c-9.713 0-17.598 7.885-17.598 17.598s7.885 17.598 17.598 17.598zm0-7.37c-5.771 0-10.17-4.457-10.17-10.228 0-5.77 4.399-10.227 10.17-10.227 5.828 0 10.227 4.456 10.227 10.227s-4.4 10.228-10.227 10.228z"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:50.5607px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.14274" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

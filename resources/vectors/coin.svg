@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle951" cx="96" cy="956.362" r="88" style="fill:#575a5c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><circle id="path985" cx="94.097" cy="956.362" r="33.038" style="fill:none;fill-opacity:.994394;stroke:#fe827c;stroke-width:3.11717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"/><path id="circle1001" d="M106.435 928.28a28.082 28.082 0 0 0-27.951 28.083 28.082 28.082 0 0 0 28.08 28.082 28.082 28.082 0 0 0 5.914-.63 33.038 33.038 0 0 0 14.657-27.452 33.038 33.038 0 0 0-14.656-27.453 28.082 28.082 0 0 0-5.914-.63 28.082 28.082 0 0 0-.13 0z" style="fill:none;fill-opacity:.994394;stroke:#fe827c;stroke-width:3.11717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"/><path id="circle1003" d="M117.027 932.577a23.87 23.87 0 0 0-21.863 23.786 23.87 23.87 0 0 0 21.862 23.784 33.038 33.038 0 0 0 10.109-23.784 33.038 33.038 0 0 0-10.108-23.786z" style="fill:none;fill-opacity:.994394;stroke:#fe827c;stroke-width:3.11717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"/><path id="circle1005" d="M121.886 938.496a20.29 20.29 0 0 0-10.673 17.867 20.29 20.29 0 0 0 10.675 17.865 33.038 33.038 0 0 0 5.247-17.865 33.038 33.038 0 0 0-5.249-17.867z" style="fill:none;fill-opacity:.994394;stroke:#fe827c;stroke-width:3.11717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"/><path id="path1025" d="m305.917 796.143-21.622-3.223-17.115 13.602 3.222-21.622-13.602-17.115 21.623 3.222 17.115-13.602-3.223 21.623z" style="fill:#4c4c4c;fill-opacity:1;stroke:#fe827c;stroke-width:7.70866;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" transform="rotate(-29.999 1271.586 615.023) scale(.40437)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle951" y="860,362"
+      style="fill:#575a5c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <circle id="path985" cx="94.097" cy="956.362" r="33.038"
+      style="fill:none;fill-opacity:.994394;stroke:#fe827c;stroke-width:3.11717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" />
+    <path id="circle1001"
+      d="M106.435 928.28a28.082 28.082 0 0 0-27.951 28.083 28.082 28.082 0 0 0 28.08 28.082 28.082 28.082 0 0 0 5.914-.63 33.038 33.038 0 0 0 14.657-27.452 33.038 33.038 0 0 0-14.656-27.453 28.082 28.082 0 0 0-5.914-.63 28.082 28.082 0 0 0-.13 0z"
+      style="fill:none;fill-opacity:.994394;stroke:#fe827c;stroke-width:3.11717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" />
+    <path id="circle1003"
+      d="M117.027 932.577a23.87 23.87 0 0 0-21.863 23.786 23.87 23.87 0 0 0 21.862 23.784 33.038 33.038 0 0 0 10.109-23.784 33.038 33.038 0 0 0-10.108-23.786z"
+      style="fill:none;fill-opacity:.994394;stroke:#fe827c;stroke-width:3.11717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" />
+    <path id="circle1005"
+      d="M121.886 938.496a20.29 20.29 0 0 0-10.673 17.867 20.29 20.29 0 0 0 10.675 17.865 33.038 33.038 0 0 0 5.247-17.865 33.038 33.038 0 0 0-5.249-17.867z"
+      style="fill:none;fill-opacity:.994394;stroke:#fe827c;stroke-width:3.11717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" />
+    <path id="path1025"
+      d="m305.917 796.143-21.622-3.223-17.115 13.602 3.222-21.622-13.602-17.115 21.623 3.222 17.115-13.602-3.223 21.623z"
+      style="fill:#4c4c4c;fill-opacity:1;stroke:#fe827c;stroke-width:7.70866;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000"
+      transform="rotate(-29.999 1271.586 615.023) scale(.40437)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

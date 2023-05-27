@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><defs><path id="a" d="M333.443 760.289h161.058v128.637H333.443z"/></defs><g transform="translate(0 -860.362)"><rect width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#575a5c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40px;line-height:1.25;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;letter-spacing:0;word-spacing:0;white-space:pre;shape-inside:url(#a);fill:#dff3df;fill-opacity:1" transform="matrix(.8118 0 0 .8118 -212.631 340.827)"><tspan x="333.443" y="794.911"><tspan style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;fill:#fff;fill-opacity:1">NRC</tspan></tspan></text><path d="M67.447 951.86c-2.146-.085-3.903-.67-5.276-1.759a10.524 10.524 0 0 1-1.096-1.093c-.557-.699-.936-1.378-1.188-2.132-.777-2.322-.377-5.367 1.144-8.71 1.302-2.862 3.312-5.7 6.818-9.631.516-.579 2.054-2.27 2.064-2.27a6.4 6.4 0 0 1-.186.32c-.911 1.523-1.691 3.317-2.116 4.87-.683 2.491-.6 4.63.241 6.288.58 1.142 1.575 2.131 2.694 2.678 1.96.957 4.827 1.036 8.33.232.24-.056 12.19-3.22 26.552-7.03 14.363-3.81 26.117-6.926 26.119-6.923.004.003-33.37 14.244-50.694 21.632-2.744 1.17-3.478 1.466-4.767 1.917-3.298 1.155-6.251 1.706-8.639 1.611z" style="fill:#fff;fill-opacity:1;stroke-width:.367077"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <defs>
+    <path id="a" d="M333.443 760.289h161.058v128.637H333.443z" />
+  </defs>
+  <g transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" x="19.5" y="879.862" rx="10"
+      style="fill:#575a5c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" /><text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:40px;line-height:1.25;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;letter-spacing:0;word-spacing:0;white-space:pre;shape-inside:url(#a);fill:#dff3df;fill-opacity:1"
+      transform="matrix(.8118 0 0 .8118 -212.631 340.827)">
+      <tspan x="333.443" y="794.911">
+        <tspan
+          style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:now;-inkscape-font-specification:&quot;now Bold&quot;;fill:#fff;fill-opacity:1">
+          NRC</tspan>
+      </tspan>
+    </text>
+    <path
+      d="M67.447 951.86c-2.146-.085-3.903-.67-5.276-1.759a10.524 10.524 0 0 1-1.096-1.093c-.557-.699-.936-1.378-1.188-2.132-.777-2.322-.377-5.367 1.144-8.71 1.302-2.862 3.312-5.7 6.818-9.631.516-.579 2.054-2.27 2.064-2.27a6.4 6.4 0 0 1-.186.32c-.911 1.523-1.691 3.317-2.116 4.87-.683 2.491-.6 4.63.241 6.288.58 1.142 1.575 2.131 2.694 2.678 1.96.957 4.827 1.036 8.33.232.24-.056 12.19-3.22 26.552-7.03 14.363-3.81 26.117-6.926 26.119-6.923.004.003-33.37 14.244-50.694 21.632-2.744 1.17-3.478 1.466-4.767 1.917-3.298 1.155-6.251 1.706-8.639 1.611z"
+      style="fill:#fff;fill-opacity:1;stroke-width:.367077" />
+  </g>
+</svg>

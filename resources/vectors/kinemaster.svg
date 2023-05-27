@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect887" width="153" height="153" x="19.5" y="879.862" rx="10" style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999996;stroke-opacity:1"/><circle id="circle959" cx="96" cy="956.362" r="36.5" style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.414773;stroke-opacity:1"/><text xml:space="preserve" id="text942" x="82.978" y="969.851" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:35.9826px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:.899564;fill:#fe837e;fill-opacity:1"><tspan id="tspan940" x="82.978" y="969.851" style="stroke-width:.899564;fill:#fe837e;fill-opacity:1">K</tspan></text><circle id="circle963" cx="95.735" cy="928.559" r="4.411" style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1"/><circle id="circle965" cx="940.976" cy="166.903" r="4.411" style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1" transform="rotate(72.58)"/><circle id="circle967" cx="484.419" cy="-857.819" r="4.411" style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1" transform="rotate(143.985)"/><circle id="circle969" cx="-647.798" cy="-737.932" r="4.411" style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1" transform="rotate(-143.373)"/><circle id="circle971" cx="-877.063" cy="365.917" r="4.411" style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1" transform="rotate(-71.55)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <<rect width="100%" height="100%" id="rect887" y="860,362"
+      style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.999996;stroke-opacity:1" />
+    <circle id="circle959" cx="96" cy="956.362" r="36.5"
+      style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.414773;stroke-opacity:1" /><text
+      xml:space="preserve" id="text942" x="82.978" y="969.851"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:35.9826px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;stroke-width:.899564;fill:#fe837e;fill-opacity:1">
+      <tspan id="tspan940" x="82.978" y="969.851" style="stroke-width:.899564;fill:#fe837e;fill-opacity:1">K</tspan>
+    </text>
+    <circle id="circle963" cx="95.735" cy="928.559" r="4.411"
+      style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1" />
+    <circle id="circle965" cx="940.976" cy="166.903" r="4.411"
+      style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1"
+      transform="rotate(72.58)" />
+    <circle id="circle967" cx="484.419" cy="-857.819" r="4.411"
+      style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1"
+      transform="rotate(143.985)" />
+    <circle id="circle969" cx="-647.798" cy="-737.932" r="4.411"
+      style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1"
+      transform="rotate(-143.373)" />
+    <circle id="circle971" cx="-877.063" cy="365.917" r="4.411"
+      style="fill:#fe837e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.0501272;stroke-opacity:1"
+      transform="rotate(-71.55)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

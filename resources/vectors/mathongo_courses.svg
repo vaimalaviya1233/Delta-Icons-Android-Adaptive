@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#9abeff" rx="9.935"/><rect width="66.096" height="10.863" x="-79.482" y="106.24" fill="#fff" rx="4.445" ry="5.431" transform="rotate(-60)"/><rect width="42.075" height="10.863" x="-44.751" y="125.67" fill="#fff" rx="4.359" ry="5.431" transform="rotate(-60)"/><rect width="66.096" height="10.863" x="-56.761" y="145.1" fill="#fff" rx="4.445" ry="5.431" transform="rotate(-60)"/><circle cx="-37.636" cy="173.48" r="6.349" fill="#fff" transform="rotate(-60)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#9abeff" />
+  <rect width="66.096" height="10.863" x="-79.482" y="106.24" fill="#fff" rx="4.445" ry="5.431"
+    transform="rotate(-60)" />
+  <rect width="42.075" height="10.863" x="-44.751" y="125.67" fill="#fff" rx="4.359" ry="5.431"
+    transform="rotate(-60)" />
+  <rect width="66.096" height="10.863" x="-56.761" y="145.1" fill="#fff" rx="4.445" ry="5.431"
+    transform="rotate(-60)" />
+  <circle cx="-37.636" cy="173.48" r="6.349" fill="#fff" transform="rotate(-60)" />
+</svg>

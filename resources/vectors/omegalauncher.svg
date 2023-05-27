@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg867" version="1.1" viewBox="0 0 192 192"><defs id="defs855"><style id="style853">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:.63}</style></defs><circle id="circle859" cx="96" cy="96" r="88" class="a" style="fill:#9abeff;opacity:1;stroke:none"/><path id="path1042" d="M128.19 124.601v3.5a4.406 4.399 0 0 1-4.406 4.399h-14.192a4.406 4.399 0 0 1-4.406-4.399v-4.604a4.368 4.361 0 0 1 2.812-4.08 31.196 31.147 0 0 0 20.191-28.845C128.19 73.407 113.774 59.5 96 59.5S63.81 73.407 63.81 90.572a31.196 31.147 0 0 0 20.192 28.844 4.368 4.361 0 0 1 2.812 4.08v4.605a4.406 4.399 0 0 1-4.406 4.399H68.216a4.406 4.399 0 0 1-4.405-4.399v-3.5" class="a" style="opacity:1;stroke:#56595b;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg867" version="1.1" viewBox="0 0 192 192">
+  <defs id="defs855">
+    <style id="style853">
+      .a {
+        fill: none;
+        stroke: #b1b5bd;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        isolation: isolate;
+        opacity: .63
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" id="circle859" class="a" style="fill:#9abeff;opacity:1;stroke:none" />
+  <path id="path1042"
+    d="M128.19 124.601v3.5a4.406 4.399 0 0 1-4.406 4.399h-14.192a4.406 4.399 0 0 1-4.406-4.399v-4.604a4.368 4.361 0 0 1 2.812-4.08 31.196 31.147 0 0 0 20.191-28.845C128.19 73.407 113.774 59.5 96 59.5S63.81 73.407 63.81 90.572a31.196 31.147 0 0 0 20.192 28.844 4.368 4.361 0 0 1 2.812 4.08v4.605a4.406 4.399 0 0 1-4.406 4.399H68.216a4.406 4.399 0 0 1-4.405-4.399v-3.5"
+    class="a"
+    style="opacity:1;stroke:#56595b;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

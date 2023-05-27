@@ -1,1 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1308" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><g id="g1423" transform="matrix(.96075 0 0 .96075 3.768 37.534)"><g id="g1369" transform="translate(-11.636 722.702) scale(.24252)"><circle id="circle1351" cx="-102.526" cy="1000.822" r="101.962" data-name="Ellipse 53" style="fill:#56595b;fill-opacity:1;stroke-width:2.95919" transform="rotate(-22.5)"/><circle id="circle1353" cx="-780.17" cy="635.171" r="95.561" data-name="Ellipse 54" style="fill:#56595b;fill-opacity:1;stroke-width:2.95919" transform="rotate(-67.5)"/><circle id="circle1355" cx="288.273" cy="950.083" r="84.781" fill="#c4d165" data-name="Ellipse 55" style="fill:#97db99;fill-opacity:1;stroke-width:2.95919"/><circle id="circle1357" cx="288.273" cy="950.083" r="84.781" fill="#c4d165" data-name="Ellipse 55" style="fill:#f9de81;fill-opacity:.5;stroke-width:2.95919"/><path id="path1359" d="M288.273 1036.997a87.95 87.95 0 1 1 87.92-87.98 88.003 88.003 0 0 1-87.92 87.98zm0-169.5a81.582 81.582 0 1 0 81.579 81.58 81.694 81.694 0 0 0-81.579-81.582z" data-name="Path 13113" style="fill:#56595b;fill-opacity:1;stroke-width:2.95919"/><circle id="circle1361" cx="274.054" cy="988.889" r="70.325" fill="#8bcdc8" data-name="Ellipse 56" style="fill:#96dfd3;fill-opacity:1;stroke-width:2.95919"/><path id="path1363" d="M274.164 1062.47a73.571 73.571 0 1 1 71.804-58.178 73.628 73.628 0 0 1-71.804 58.178zm-.119-140.766a67.135 67.135 0 1 0 65.694 81.224 67.123 67.123 0 0 0-65.694-81.224z" data-name="Path 13114" style="fill:#56595b;fill-opacity:1;stroke-width:2.95919"/><circle id="circle1365" cx="335.49" cy="991.849" r="43.663" fill="#e0c947" data-name="Ellipse 57" style="fill:#f9de81;fill-opacity:1;stroke-width:2.95919"/><path id="path1367" d="M335.49 1038.713a46.862 46.862 0 1 1 46.865-46.852 46.927 46.927 0 0 1-46.865 46.852zm0-87.328a40.464 40.464 0 1 0 40.467 40.476 40.482 40.482 0 0 0-40.467-40.476z" data-name="Path 13115" style="fill:#56595b;fill-opacity:1;stroke-width:2.95919"/></g><text xml:space="preserve" id="text1373" x="90.862" y="952.451" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:27.0269px;line-height:1.25;font-family:Now,Lightitalic;-inkscape-font-specification:&quot;Now, Lightitalic Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.675671"><tspan id="tspan1371" x="90.862" y="952.451" style="fill:#fff;fill-opacity:1;stroke-width:.675671">Pag</tspan></text><text xml:space="preserve" id="text1377" x="86.154" y="980.858" style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:27.0269px;line-height:1.25;font-family:Now,Lightitalic;-inkscape-font-specification:&quot;Now, Lightitalic Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.675671"><tspan id="tspan1375" x="86.154" y="980.858" style="fill:#fff;fill-opacity:1;stroke-width:.675671">Bank</tspan></text></g></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1308" width="100%" height="100%"
+      style="fill:#97db99;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <g id="g1423" transform="matrix(.96075 0 0 .96075 3.768 37.534)">
+      <g id="g1369" transform="translate(-11.636 722.702) scale(.24252)">
+        <circle id="circle1351" cx="-102.526" cy="1000.822" r="101.962" data-name="Ellipse 53"
+          style="fill:#56595b;fill-opacity:1;stroke-width:2.95919" transform="rotate(-22.5)" />
+        <circle id="circle1353" cx="-780.17" cy="635.171" r="95.561" data-name="Ellipse 54"
+          style="fill:#56595b;fill-opacity:1;stroke-width:2.95919" transform="rotate(-67.5)" />
+        <circle id="circle1355" cx="288.273" cy="950.083" r="84.781" fill="#c4d165" data-name="Ellipse 55"
+          style="fill:#97db99;fill-opacity:1;stroke-width:2.95919" />
+        <circle id="circle1357" cx="288.273" cy="950.083" r="84.781" fill="#c4d165" data-name="Ellipse 55"
+          style="fill:#f9de81;fill-opacity:.5;stroke-width:2.95919" />
+        <path id="path1359"
+          d="M288.273 1036.997a87.95 87.95 0 1 1 87.92-87.98 88.003 88.003 0 0 1-87.92 87.98zm0-169.5a81.582 81.582 0 1 0 81.579 81.58 81.694 81.694 0 0 0-81.579-81.582z"
+          data-name="Path 13113" style="fill:#56595b;fill-opacity:1;stroke-width:2.95919" />
+        <circle id="circle1361" cx="274.054" cy="988.889" r="70.325" fill="#8bcdc8" data-name="Ellipse 56"
+          style="fill:#96dfd3;fill-opacity:1;stroke-width:2.95919" />
+        <path id="path1363"
+          d="M274.164 1062.47a73.571 73.571 0 1 1 71.804-58.178 73.628 73.628 0 0 1-71.804 58.178zm-.119-140.766a67.135 67.135 0 1 0 65.694 81.224 67.123 67.123 0 0 0-65.694-81.224z"
+          data-name="Path 13114" style="fill:#56595b;fill-opacity:1;stroke-width:2.95919" />
+        <circle id="circle1365" cx="335.49" cy="991.849" r="43.663" fill="#e0c947" data-name="Ellipse 57"
+          style="fill:#f9de81;fill-opacity:1;stroke-width:2.95919" />
+        <path id="path1367"
+          d="M335.49 1038.713a46.862 46.862 0 1 1 46.865-46.852 46.927 46.927 0 0 1-46.865 46.852zm0-87.328a40.464 40.464 0 1 0 40.467 40.476 40.482 40.482 0 0 0-40.467-40.476z"
+          data-name="Path 13115" style="fill:#56595b;fill-opacity:1;stroke-width:2.95919" />
+      </g><text xml:space="preserve" id="text1373" x="90.862" y="952.451"
+        style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:27.0269px;line-height:1.25;font-family:Now,Lightitalic;-inkscape-font-specification:&quot;Now, Lightitalic Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.675671">
+        <tspan id="tspan1371" x="90.862" y="952.451" style="fill:#fff;fill-opacity:1;stroke-width:.675671">Pag</tspan>
+      </text><text xml:space="preserve" id="text1377" x="86.154" y="980.858"
+        style="font-style:italic;font-variant:normal;font-weight:700;font-stretch:normal;font-size:27.0269px;line-height:1.25;font-family:Now,Lightitalic;-inkscape-font-specification:&quot;Now, Lightitalic Bold Italic&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.675671">
+        <tspan id="tspan1375" x="86.154" y="980.858" style="fill:#fff;fill-opacity:1;stroke-width:.675671">Bank</tspan>
+      </text>
+    </g>
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

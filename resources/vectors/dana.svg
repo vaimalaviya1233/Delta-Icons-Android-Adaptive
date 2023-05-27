@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><circle id="circle947" cx="96" cy="956.362" r="88" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"/><path id="path973" d="M93.36 977.181c20.188-10.246 32.467-5.916 37.067-2.697 1.356.949 2.073.8 2.073-.882v-33.376c0-1.682-.717-4.26-2.073-5.208-4.6-3.22-16.879-7.55-37.067 2.697-14.859 7.54-26.387 3.268-31.288.608-1.477-.801-2.572-.262-2.572 1.42v33.375c0 1.682 1.095 3.87 2.572 4.672 4.901 2.66 16.43 6.932 31.288-.609z" style="fill:#99bdfe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect width="100%" height="100%" id="circle947" y="860,362"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1" />
+    <path id="path973"
+      d="M93.36 977.181c20.188-10.246 32.467-5.916 37.067-2.697 1.356.949 2.073.8 2.073-.882v-33.376c0-1.682-.717-4.26-2.073-5.208-4.6-3.22-16.879-7.55-37.067 2.697-14.859 7.54-26.387 3.268-31.288.608-1.477-.801-2.572-.262-2.572 1.42v33.375c0 1.682 1.095 3.87 2.572 4.672 4.901 2.66 16.43 6.932 31.288-.609z"
+      style="fill:#99bdfe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

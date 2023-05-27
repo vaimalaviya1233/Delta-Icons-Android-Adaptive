@@ -1,1 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect2298" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path2260" d="m-72.832-458.922 93.701 54.099v108.196l-93.701 54.099-93.701-54.099v-108.196z" style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fff;stroke-width:20.227;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000" transform="matrix(.28013 0 0 .28013 116.402 1054.589)"/><circle id="circle2262" cx="96" cy="986.286" r="6.576" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000"/><circle id="circle2264" cx="96" cy="952.514" r="6.577" style="fill:#96dfd3;fill-opacity:1;fill-rule:evenodd;stroke-width:.476574;stroke-dashoffset:6;stop-color:#000"/><path id="rect2266" d="M93.167 956.282h5.666v10.404h-5.666z" style="fill:#96dfd3;fill-opacity:1;fill-rule:evenodd;stroke-width:1.06636;stroke-dashoffset:6;stop-color:#000"/><circle id="circle2268" cx="876.234" cy="365.118" r="6.576" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000" transform="rotate(60)"/><circle id="circle2270" cx="876.234" cy="424.967" r="6.576" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000" transform="rotate(60)"/><circle id="circle2272" cx="780.234" cy="-591.244" r="6.576" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000" transform="rotate(120)"/><circle id="circle2274" cx="780.234" cy="-531.395" r="6.576" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000" transform="rotate(120)"/><circle id="circle2276" cx="96" cy="926.438" r="6.576" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect2298" width="100%" height="100%"
+      style="fill:#708cbd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path2260" d="m-72.832-458.922 93.701 54.099v108.196l-93.701 54.099-93.701-54.099v-108.196z"
+      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fff;stroke-width:20.227;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1;stop-color:#000"
+      transform="matrix(.28013 0 0 .28013 116.402 1054.589)" />
+    <circle id="circle2262" cx="96" cy="986.286" r="6.576"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000" />
+    <circle id="circle2264" cx="96" cy="952.514" r="6.577"
+      style="fill:#96dfd3;fill-opacity:1;fill-rule:evenodd;stroke-width:.476574;stroke-dashoffset:6;stop-color:#000" />
+    <path id="rect2266" d="M93.167 956.282h5.666v10.404h-5.666z"
+      style="fill:#96dfd3;fill-opacity:1;fill-rule:evenodd;stroke-width:1.06636;stroke-dashoffset:6;stop-color:#000" />
+    <circle id="circle2268" cx="876.234" cy="365.118" r="6.576"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000"
+      transform="rotate(60)" />
+    <circle id="circle2270" cx="876.234" cy="424.967" r="6.576"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000"
+      transform="rotate(60)" />
+    <circle id="circle2272" cx="780.234" cy="-591.244" r="6.576"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000"
+      transform="rotate(120)" />
+    <circle id="circle2274" cx="780.234" cy="-531.395" r="6.576"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000"
+      transform="rotate(120)" />
+    <circle id="circle2276" cx="96" cy="926.438" r="6.576"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke-width:.476509;stroke-dashoffset:6;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

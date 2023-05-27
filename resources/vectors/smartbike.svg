@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192"><circle cx="96" cy="96" r="88" fill="#ff837d"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.445" d="M102.63 113.87c2.538 2.497 5.192 5.115 6.741 6.665 7.276 7.275 19.071 7.275 26.347 0 7.276-7.276 7.276-19.071 0-26.346-7.275-7.276-19.07-7.276-26.347 0-2.606 2.606-8.342 8.24-11.384 11.226v0M97.986 105.41 96 107.358v0M75.305 89.666a18.686 18.686 0 0 0-5.849-.937 18.57 18.57 0 0 0-13.173 5.456c-7.275 7.275-7.275 19.07 0 26.346 7.276 7.275 19.071 7.275 26.347 0 3.638-3.638 13.371-13.173 13.371-13.173v0"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.445" d="m72.664 104.36 16.113-11.529L76.97 81.024M116.56 70.054H85.862l32.643 34.171"/><ellipse cx="73.289" cy="76.974" fill="#fff" rx="6.598" ry="6.502"/><ellipse cx="122.05" cy="70.306" fill="#fff" rx="6.598" ry="6.502"/><ellipse cx="122.32" cy="107.26" fill="#fff" rx="6.598" ry="6.502"/><ellipse cx="68.289" cy="108.23" fill="#fff" rx="6.598" ry="6.502"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="192" height="192">
+  <rect width="100%" height="100%" fill="#ff837d" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.445"
+    d="M102.63 113.87c2.538 2.497 5.192 5.115 6.741 6.665 7.276 7.275 19.071 7.275 26.347 0 7.276-7.276 7.276-19.071 0-26.346-7.275-7.276-19.07-7.276-26.347 0-2.606 2.606-8.342 8.24-11.384 11.226v0M97.986 105.41 96 107.358v0M75.305 89.666a18.686 18.686 0 0 0-5.849-.937 18.57 18.57 0 0 0-13.173 5.456c-7.275 7.275-7.275 19.07 0 26.346 7.276 7.275 19.071 7.275 26.347 0 3.638-3.638 13.371-13.173 13.371-13.173v0" />
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.445"
+    d="m72.664 104.36 16.113-11.529L76.97 81.024M116.56 70.054H85.862l32.643 34.171" />
+  <ellipse cx="73.289" cy="76.974" fill="#fff" rx="6.598" ry="6.502" />
+  <ellipse cx="122.05" cy="70.306" fill="#fff" rx="6.598" ry="6.502" />
+  <ellipse cx="122.32" cy="107.26" fill="#fff" rx="6.598" ry="6.502" />
+  <ellipse cx="68.289" cy="108.23" fill="#fff" rx="6.598" ry="6.502" />
+</svg>

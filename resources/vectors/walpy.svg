@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect929" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><path id="path925" d="M95.501 929.365s-36.645 50.551-30.777 52.616c8.464 2.977 40.43-45.248 40.387-32.522-.02 6.188-16.229 40.179-7.128 32.615 7.409-6.157 15.967-19.914 17.795-13.714 2.048 6.948.599 13.525 12.144 15" style="fill:none;fill-opacity:0;stroke:#fff;stroke-width:9.156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect929" width="100%" height="100%"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <path id="path925"
+      d="M95.501 929.365s-36.645 50.551-30.777 52.616c8.464 2.977 40.43-45.248 40.387-32.522-.02 6.188-16.229 40.179-7.128 32.615 7.409-6.157 15.967-19.914 17.795-13.714 2.048 6.948.599 13.525 12.144 15"
+      style="fill:none;fill-opacity:0;stroke:#fff;stroke-width:9.156;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><rect width="152" height="152" x="20" y="20" rx="10" style="stroke:none;fill:#fff;fill-opacity:1;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate"/><path d="M93.515 135.512c-4.928-24.815-34.406-37.31-64.782-22.643 15.672 15.816 46.135 20.845 64.782 22.643zM98.041 136.003c6.112-25.267 36.223-38.184 64.936-22.81-11.023 11.743-49.022 21.571-64.936 22.81z" style="fill:#71a372;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><path d="M114.645 56.082C94.893 67.562 84.46 99.245 92.1 122.962c1.94-6.66 4.349-14.316 5.43-15.185 1.943-1.562 2.743-1.028 2.872 1.184.064 1.094-1.299 8.657-2.693 16.023 16.032-10.055 29.925-55.794 16.936-68.902zM57.45 63.736c-.069 22.964 13.694 40.119 27.425 48.496.07-11.847.98-20.53 4.453-29.556-7.243-9.474-17.363-17.272-31.879-18.94Z" style="opacity:1;fill:#71a372;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="100%" height="100%"
+    style="stroke:none;fill:#fff;fill-opacity:1;opacity:1;stroke-linecap:round;stroke-linejoin:round;isolation:isolate" />
+  <path
+    d="M93.515 135.512c-4.928-24.815-34.406-37.31-64.782-22.643 15.672 15.816 46.135 20.845 64.782 22.643zM98.041 136.003c6.112-25.267 36.223-38.184 64.936-22.81-11.023 11.743-49.022 21.571-64.936 22.81z"
+    style="fill:#71a372;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+    d="M114.645 56.082C94.893 67.562 84.46 99.245 92.1 122.962c1.94-6.66 4.349-14.316 5.43-15.185 1.943-1.562 2.743-1.028 2.872 1.184.064 1.094-1.299 8.657-2.693 16.023 16.032-10.055 29.925-55.794 16.936-68.902zM57.45 63.736c-.069 22.964 13.694 40.119 27.425 48.496.07-11.847.98-20.53 4.453-29.556-7.243-9.474-17.363-17.272-31.879-18.94Z"
+    style="opacity:1;fill:#71a372;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

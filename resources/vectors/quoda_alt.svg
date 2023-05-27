@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192"><g transform="translate(8 8)"><circle cx="88" cy="88" r="88" style="fill:#73ada4"/><path d="m118.836 120.919-16.349 16.349-13.52-13.521 16.303-16.302 13.566 13.474Z" style="fill:#fff" transform="translate(-8 -8)"/><path d="M144.491 144.815a3.85 3.85 0 0 1-3.85 3.85H61.688a3.85 3.85 0 0 1-3.849-3.85V73.784h24.532v50.348h58.27a3.85 3.85 0 0 1 3.85 3.849v16.834Z" style="fill:#96dfd3" transform="rotate(45 76.301 96.099) scale(.77939)"/><path d="M144.491 144.815a3.85 3.85 0 0 1-3.85 3.85H61.688a3.85 3.85 0 0 1-3.849-3.85V94.36h24.532v29.772h58.27a3.85 3.85 0 0 1 3.85 3.849v16.834Z" style="fill:#fff" transform="rotate(-135 84.645 83.154) scale(.77939)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 192 192">
+  <g>
+    <rect width="100%" height="100%" style="fill:#73ada4" />
+    <path d="m118.836 120.919-16.349 16.349-13.52-13.521 16.303-16.302 13.566 13.474Z" style="fill:#fff"
+      transform="translate(-8 -8)" />
+    <path
+      d="M144.491 144.815a3.85 3.85 0 0 1-3.85 3.85H61.688a3.85 3.85 0 0 1-3.849-3.85V73.784h24.532v50.348h58.27a3.85 3.85 0 0 1 3.85 3.849v16.834Z"
+      style="fill:#96dfd3" transform="rotate(45 76.301 96.099) scale(.77939)" />
+    <path
+      d="M144.491 144.815a3.85 3.85 0 0 1-3.85 3.85H61.688a3.85 3.85 0 0 1-3.849-3.85V94.36h24.532v29.772h58.27a3.85 3.85 0 0 1 3.85 3.849v16.834Z"
+      style="fill:#fff" transform="rotate(-135 84.645 83.154) scale(.77939)" />
+  </g>
+</svg>

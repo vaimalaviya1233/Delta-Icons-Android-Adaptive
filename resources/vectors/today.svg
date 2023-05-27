@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192"><rect width="152" height="152" x="20" y="20" fill="#ff837d" rx="9.935"/><text xml:space="preserve" x="41.773" y="107.013" font-family="Now" font-size="37.333" font-weight="500" style="line-height:1.25"><tspan x="41.773" y="107.013" fill="#fff">today</tspan></text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192">
+  <rect width="100%" height="100%" fill="#ff837d" /><text xml:space="preserve" x="41.773" y="107.013" font-family="Now"
+    font-size="37.333" font-weight="500" style="line-height:1.25">
+    <tspan x="41.773" y="107.013" fill="#fff">today</tspan>
+  </text>
+</svg>

@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1146" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><rect id="rect1148" width="85" height="42.886" x="53.5" y="934.919" rx="21.443" ry="21.443" style="fill:#fff;fill-opacity:1;stroke-width:9.03817;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"/><rect id="rect1150" width="5.972" height="18.536" x="73.816" y="947.482" rx="2.986" ry="2.986" style="fill:#8c72bd;fill-opacity:1;stroke-width:7.4689;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"/><rect id="rect1152" width="5.972" height="18.536" x="953.763" y="-86.069" rx="2.986" ry="2.986" style="fill:#8c72bd;fill-opacity:1;stroke-width:7.4689;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" transform="rotate(90)"/><rect id="rect1154" width="30.45" height="11.04" x="-612.026" y="750.434" rx="5.52" ry="5.52" style="fill:#bd9aff;fill-opacity:1;stroke-width:7.56684;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" transform="rotate(-45)"/><rect id="rect1156" width="30.45" height="11.04" x="-612.026" y="750.434" rx="5.52" ry="5.52" style="fill:#fff;fill-opacity:.5;stroke-width:7.56684;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" transform="rotate(-45)"/><circle id="circle1158" cx="105.314" cy="963.766" r="5.81" style="fill:#bd9aff;fill-opacity:1;stroke-width:7.77722;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"/><circle id="circle1160" cx="119.762" cy="949.318" r="5.81" style="fill:#8c72bd;fill-opacity:1;stroke-width:7.77722;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1146" width="100%" height="100%"
+      style="fill:#8c72bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <rect id="rect1148" width="85" height="42.886" x="53.5" y="934.919" rx="21.443" ry="21.443"
+      style="fill:#fff;fill-opacity:1;stroke-width:9.03817;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" />
+    <rect id="rect1150" width="5.972" height="18.536" x="73.816" y="947.482" rx="2.986" ry="2.986"
+      style="fill:#8c72bd;fill-opacity:1;stroke-width:7.4689;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" />
+    <rect id="rect1152" width="5.972" height="18.536" x="953.763" y="-86.069" rx="2.986" ry="2.986"
+      style="fill:#8c72bd;fill-opacity:1;stroke-width:7.4689;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"
+      transform="rotate(90)" />
+    <rect id="rect1154" width="30.45" height="11.04" x="-612.026" y="750.434" rx="5.52" ry="5.52"
+      style="fill:#bd9aff;fill-opacity:1;stroke-width:7.56684;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"
+      transform="rotate(-45)" />
+    <rect id="rect1156" width="30.45" height="11.04" x="-612.026" y="750.434" rx="5.52" ry="5.52"
+      style="fill:#fff;fill-opacity:.5;stroke-width:7.56684;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000"
+      transform="rotate(-45)" />
+    <circle id="circle1158" cx="105.314" cy="963.766" r="5.81"
+      style="fill:#bd9aff;fill-opacity:1;stroke-width:7.77722;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" />
+    <circle id="circle1160" cx="119.762" cy="949.318" r="5.81"
+      style="fill:#8c72bd;fill-opacity:1;stroke-width:7.77722;stroke-linecap:square;stroke-linejoin:bevel;stop-color:#000" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

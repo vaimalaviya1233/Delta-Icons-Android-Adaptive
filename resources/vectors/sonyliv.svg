@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect923" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993469;stroke-opacity:1"/><text xml:space="preserve" id="text927" x="52.241" y="926.674" style="font-weight:700;font-size:29.1602px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.729008"><tspan id="tspan925" x="52.241" y="926.674" style="fill:#fff;fill-opacity:1;stroke-width:.729008">SONY</tspan></text><path id="path939" d="M20 916.439v105.989a9.912 9.912 0 0 0 9.934 9.934h132.132a9.912 9.912 0 0 0 9.934-9.934v-26.142c-1.274-12.417-11.378-39.924-76-39.924s-74.726-27.506-76-39.923z" style="fill:#bd9aff;fill-opacity:1;stroke:none;stroke-width:.917779px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/><path id="path1090" d="M59.037 1024.744h9.526v-50.978h-9.526z" style="font-weight:700;font-size:54.7791px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.48842"/><path id="path1092" d="M82.256 989.99c2.828 0 5.21-2.382 5.21-5.21 0-2.903-2.382-5.21-5.21-5.21s-5.21 2.307-5.21 5.21c0 2.828 2.382 5.21 5.21 5.21zm-4.763 34.754h9.452v-29.769h-9.452z" style="font-weight:700;font-size:54.7791px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.48842"/><path id="path1019" d="m118.954 979.105-5.069 15.87-6.252 19.574-4.348-13.455a8.837 8.837 0 0 0-8.409-6.12h-1.493a1.488 1.488 0 0 0-1.381 2.04l9.547 23.866a6.147 6.147 0 0 0 5.707 3.864h.074a6.967 6.967 0 0 0 6.457-4.351l19.024-46.97a2.072 2.072 0 0 0-1.92-2.85h-.256a12.262 12.262 0 0 0-11.681 8.532z" style="font-weight:700;font-size:54.7791px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.48842"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect923" width="100%" height="100%"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993469;stroke-opacity:1" /><text
+      xml:space="preserve" id="text927" x="52.241" y="926.674"
+      style="font-weight:700;font-size:29.1602px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#fff;fill-opacity:1;stroke-width:.729008">
+      <tspan id="tspan925" x="52.241" y="926.674" style="fill:#fff;fill-opacity:1;stroke-width:.729008">SONY</tspan>
+    </text>
+    <path id="path939"
+      d="M20 916.439v105.989a9.912 9.912 0 0 0 9.934 9.934h132.132a9.912 9.912 0 0 0 9.934-9.934v-26.142c-1.274-12.417-11.378-39.924-76-39.924s-74.726-27.506-76-39.923z"
+      style="fill:#bd9aff;fill-opacity:1;stroke:none;stroke-width:.917779px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path id="path1090" d="M59.037 1024.744h9.526v-50.978h-9.526z"
+      style="font-weight:700;font-size:54.7791px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.48842" />
+    <path id="path1092"
+      d="M82.256 989.99c2.828 0 5.21-2.382 5.21-5.21 0-2.903-2.382-5.21-5.21-5.21s-5.21 2.307-5.21 5.21c0 2.828 2.382 5.21 5.21 5.21zm-4.763 34.754h9.452v-29.769h-9.452z"
+      style="font-weight:700;font-size:54.7791px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.48842" />
+    <path id="path1019"
+      d="m118.954 979.105-5.069 15.87-6.252 19.574-4.348-13.455a8.837 8.837 0 0 0-8.409-6.12h-1.493a1.488 1.488 0 0 0-1.381 2.04l9.547 23.866a6.147 6.147 0 0 0 5.707 3.864h.074a6.967 6.967 0 0 0 6.457-4.351l19.024-46.97a2.072 2.072 0 0 0-1.92-2.85h-.256a12.262 12.262 0 0 0-11.681 8.532z"
+      style="font-weight:700;font-size:54.7791px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#f9de81;fill-opacity:1;stroke-width:1.48842" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

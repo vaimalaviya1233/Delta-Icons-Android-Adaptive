@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect981" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><text xml:space="preserve" id="text939" x="65.592" y="971.415" style="font-weight:900;font-size:40.1405px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;letter-spacing:-6.22178px;word-spacing:0;fill:#99bdfe;fill-opacity:1;stroke-width:1.00352"><tspan id="tspan937" x="65.592" y="971.415" style="fill:#99bdfe;fill-opacity:1;stroke-width:1.00352">MAG</tspan></text><path id="path960" d="M54.806 940.908c-9.561 0-16.306 6.227-16.306 15.492s6.67 15.416 16.603 15.416c5.267 0 9.402-1.799 12.09-4.78l-6.244-5.509c-.943 2.043-2.99 3.249-5.995 3.249-4.298 0-6.522-2.595-6.893-6.82h22.681v-1.63c0-9.266-6.374-15.418-15.936-15.418zm.148 7.263c3.188 0 5.04 1.484 6.004 4.078H48.654c.964-2.52 2.965-4.078 6.3-4.078z" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:67.9063px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#99bdfe;fill-opacity:1;stroke-width:1.48241"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect981" width="100%" height="100%"
+      style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" /><text
+      xml:space="preserve" id="text939" x="65.592" y="971.415"
+      style="font-weight:900;font-size:40.1405px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Heavy&quot;;letter-spacing:-6.22178px;word-spacing:0;fill:#99bdfe;fill-opacity:1;stroke-width:1.00352">
+      <tspan id="tspan937" x="65.592" y="971.415" style="fill:#99bdfe;fill-opacity:1;stroke-width:1.00352">MAG</tspan>
+    </text>
+    <path id="path960"
+      d="M54.806 940.908c-9.561 0-16.306 6.227-16.306 15.492s6.67 15.416 16.603 15.416c5.267 0 9.402-1.799 12.09-4.78l-6.244-5.509c-.943 2.043-2.99 3.249-5.995 3.249-4.298 0-6.522-2.595-6.893-6.82h22.681v-1.63c0-9.266-6.374-15.418-15.936-15.418zm.148 7.263c3.188 0 5.04 1.484 6.004 4.078H48.654c.964-2.52 2.965-4.078 6.3-4.078z"
+      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:67.9063px;line-height:1.25;font-family:Now;-inkscape-font-specification:&quot;Now Bold&quot;;letter-spacing:0;word-spacing:0;fill:#99bdfe;fill-opacity:1;stroke-width:1.48241" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>

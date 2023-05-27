@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1"><g id="layer1" transform="translate(0 -860.362)"><rect id="rect1003" width="152" height="152" x="20" y="880.362" rx="9.935" ry="9.935" style="fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1"/><circle id="circle969" cx="96" cy="956.362" r="45.268" style="fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.720285;stroke-opacity:1"/><path id="circle989" d="M95.906 917.69a45.268 45.268 0 0 0-45.053 41.969A45.268 45.268 0 0 0 96 1001.63a45.268 45.268 0 0 0 45.147-41.971A45.268 45.268 0 0 0 96 917.69a45.268 45.268 0 0 0-.094 0z" style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.720567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><path id="path925" d="M81.155 967.249s3.662 6.247 14.845 6.247c11.182 0 14.888-6.116 14.845-6.247" style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:5.22;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"/><ellipse id="path1049" cx="319.091" cy="893.1" rx="3.493" ry="4.586" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:4.02226;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000" transform="rotate(15)"/><ellipse id="ellipse1053" cx="133.633" cy="942.794" rx="3.493" ry="4.586" style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:4.02226;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000" transform="scale(-1 1) rotate(15)"/></g><style id="style853" type="text/css">.st0{fill:#fff}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="192" height="192" version="1.1">
+  <g id="layer1" transform="translate(0 -860.362)">
+    <rect id="rect1003" width="100%" height="100%"
+      style="fill:#d3b69a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.993464;stroke-opacity:1" />
+    <circle id="circle969" cx="96" cy="956.362" r="45.268"
+      style="fill:#8e6f60;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.720285;stroke-opacity:1" />
+    <path id="circle989"
+      d="M95.906 917.69a45.268 45.268 0 0 0-45.053 41.969A45.268 45.268 0 0 0 96 1001.63a45.268 45.268 0 0 0 45.147-41.971A45.268 45.268 0 0 0 96 917.69a45.268 45.268 0 0 0-.094 0z"
+      style="fill:#56595b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.720567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path id="path925" d="M81.155 967.249s3.662 6.247 14.845 6.247c11.182 0 14.888-6.116 14.845-6.247"
+      style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:5.22;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <ellipse id="path1049" cx="319.091" cy="893.1" rx="3.493" ry="4.586"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:4.02226;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000"
+      transform="rotate(15)" />
+    <ellipse id="ellipse1053" cx="133.633" cy="942.794" rx="3.493" ry="4.586"
+      style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:4.02226;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000"
+      transform="scale(-1 1) rotate(15)" />
+  </g>
+  <style id="style853" type="text/css">
+    .st0 {
+      fill: #fff
+    }
+  </style>
+</svg>
