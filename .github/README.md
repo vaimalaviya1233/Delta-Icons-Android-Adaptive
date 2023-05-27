@@ -9,6 +9,8 @@
 
 ## Installation
 
+During WIP stage the manual compilation via Android Studio is necessary
+
 <!-- <p align="center">
   <a href="https://github.com/Delta-Icons/android/releases/latest">
     <img src="https://img.shields.io/github/v/release/Delta-Icons/android?labelColor=56595b&color=a6c6ff&logo=github&logoColor=ffffff&label=release&style=for-the-badge"/>
