@@ -4,7 +4,58 @@
 	<!--Please avoid automatically sorting categories to keep the current order in place-->
 
 	<category title="New" />
+	<item drawable="_0h_h1" />
+	<item drawable="_0h_n0" />
+	<item drawable="_1_second_everyday" />
+	<item drawable="_8bitme" />
+	<item drawable="angry_birds" />
+	<item drawable="aosp_browser" />
+	<item drawable="aosp_keyboard" />
 	<item drawable="aosp_mail" />
+	<item drawable="bendy_and_the_ink_machine" />
+	<item drawable="black_desert_mobile" />
+	<item drawable="browser" />
+	<item drawable="camera" />
+	<item drawable="chrome" />
+	<item drawable="danganronpa" />
+	<item drawable="delta" />
+	<item drawable="duckduckgo" />
+	<item drawable="duolingo" />
+	<item drawable="easyrpg" />
+	<item drawable="facebook" />
+	<item drawable="fancade" />
+	<item drawable="folder_blue" />
+	<item drawable="garage_bad_dream_adventure" />
+	<item drawable="hago" />
+	<item drawable="icedrive" />
+	<item drawable="jetaudio" />
+	<item drawable="kanade" />
+	<item drawable="king_of_theives" />
+	<item drawable="larnu" />
+	<item drawable="last_fm" />
+	<item drawable="lynx_launcher" />
+	<item drawable="mastodon" />
+	<item drawable="nekogramx" />
+	<item drawable="ooni_probe" />
+	<item drawable="phone" />
+	<item drawable="quick_calculation" />
+	<item drawable="radiant" />
+	<item drawable="robotek" />
+	<item drawable="rooms_of_doom" />
+	<item drawable="schildichat" />
+	<item drawable="spotify" />
+	<item drawable="truist" />
+	<item drawable="twitter" />
+	<item drawable="twitter_lite" />
+	<item drawable="vysor" />
+	<item drawable="wallcanic_walls" />
+	<item drawable="world_of_goo" />
+	<item drawable="xash_three_d_fwgs" />
+	<item drawable="xenowerk" />
+	<item drawable="xposed_installer" />
+	<item drawable="yubo" />
+	<item drawable="zee5" />
+	<item drawable="zoysii" />
 
 	<category title="Alts" />
 	<item drawable="aosp_mail" />
@@ -13,92 +64,117 @@
 	<item drawable="aosp_mail" />
 
 	<category title="Folders" />
-	<item drawable="aosp_mail" />
+	<item drawable="folder_blue" />
 
 	<category title="Google" />
-	<item drawable="aosp_mail" />
+	<item drawable="chrome" />
 
 	<category title="System" />
+	<item drawable="aosp_browser" />
+	<item drawable="aosp_keyboard" />
 	<item drawable="aosp_mail" />
+	<item drawable="browser" />
+	<item drawable="camera" />
+	<item drawable="phone" />
 
 	<category title="#" />
-	<item drawable="aosp_mail" />
+	<item drawable="_0h_h1" />
+	<item drawable="_0h_n0" />
+	<item drawable="_1_second_everyday" />
+	<item drawable="_8bitme" />
 
 	<category title="A" />
-	<item drawable="aosp_mail" />
+	<item drawable="angry_birds" />
 
 	<category title="B" />
-	<item drawable="aosp_mail" />
+	<item drawable="bendy_and_the_ink_machine" />
+	<item drawable="black_desert_mobile" />
 
 	<category title="C" />
 	<item drawable="aosp_mail" />
 
 	<category title="D" />
+	<item drawable="danganronpa" />
+	<item drawable="delta" />
 	<item drawable="duckduckgo" />
+	<item drawable="duolingo" />
 
 	<category title="E" />
-	<item drawable="aosp_mail" />
+	<item drawable="easyrpg" />
 
 	<category title="F" />
-	<item drawable="aosp_mail" />
+	<item drawable="facebook" />
+	<item drawable="fancade" />
 
 	<category title="G" />
-	<item drawable="aosp_mail" />
+	<item drawable="garage_bad_dream_adventure" />
 
 	<category title="H" />
-	<item drawable="aosp_mail" />
+	<item drawable="hago" />
 
 	<category title="I" />
-	<item drawable="aosp_mail" />
+	<item drawable="icedrive" />
 
 	<category title="J" />
-	<item drawable="aosp_mail" />
+	<item drawable="jetaudio" />
 
 	<category title="K" />
-	<item drawable="aosp_mail" />
+	<item drawable="kanade" />
+	<item drawable="king_of_theives" />
 
 	<category title="L" />
-	<item drawable="aosp_mail" />
+	<item drawable="larnu" />
+	<item drawable="last_fm" />
+	<item drawable="lynx_launcher" />
 
 	<category title="M" />
-	<item drawable="aosp_mail" />
+	<item drawable="mastodon" />
 
 	<category title="N" />
-	<item drawable="aosp_mail" />
+	<item drawable="nekogramx" />
 
 	<category title="O" />
-	<item drawable="aosp_mail" />
+	<item drawable="ooni_probe" />
 
 	<category title="P" />
 	<item drawable="aosp_mail" />
 
 	<category title="Q" />
-	<item drawable="aosp_mail" />
+	<item drawable="quick_calculation" />
 
 	<category title="R" />
-	<item drawable="aosp_mail" />
+	<item drawable="radiant" />
+	<item drawable="robotek" />
+	<item drawable="rooms_of_doom" />
 
 	<category title="S" />
-	<item drawable="aosp_mail" />
+	<item drawable="schildichat" />
+	<item drawable="spotify" />
 
 	<category title="T" />
-	<item drawable="aosp_mail" />
+	<item drawable="truist" />
+	<item drawable="twitter" />
+	<item drawable="twitter_lite" />
 
 	<category title="U" />
 	<item drawable="aosp_mail" />
 
 	<category title="V" />
-	<item drawable="aosp_mail" />
+	<item drawable="vysor" />
 
 	<category title="W" />
-	<item drawable="aosp_mail" />
+	<item drawable="wallcanic_walls" />
+	<item drawable="world_of_goo" />
 
 	<category title="X" />
-	<item drawable="aosp_mail" />
+	<item drawable="xash_three_d_fwgs" />
+	<item drawable="xenowerk" />
+	<item drawable="xposed_installer" />
 
 	<category title="Y" />
-	<item drawable="aosp_mail" />
+	<item drawable="yubo" />
 
 	<category title="Z" />
-	<item drawable="aosp_mail" />
+	<item drawable="zee5" />
+	<item drawable="zoysii" />
 </resources>
