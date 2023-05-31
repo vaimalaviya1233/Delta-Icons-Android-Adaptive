@@ -6,7 +6,7 @@
     <packageName>website.leifs.delta.adaptive</packageName>
     <versionName>1.1.2</versionName>
     <versionCode>112</versionCode>
-    <themeName>Delta</themeName>
+    <themeName>Delta Adaptive</themeName>
 
     <!-- Default Component Color -->
     <themePointColor>#4A4A4A</themePointColor>

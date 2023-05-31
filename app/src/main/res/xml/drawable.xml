@@ -4,61 +4,16 @@
 	<!--Please avoid automatically sorting categories to keep the current order in place-->
 
 	<category title="New" />
-	<item drawable="_0h_h1" />
-	<item drawable="_0h_n0" />
-	<item drawable="_1_second_everyday" />
-	<item drawable="_8bitme" />
-	<item drawable="angry_birds" />
-	<item drawable="aosp_browser" />
-	<item drawable="aosp_keyboard" />
-	<item drawable="aosp_mail" />
-	<item drawable="bendy_and_the_ink_machine" />
-	<item drawable="black_desert_mobile" />
-	<item drawable="browser" />
-	<item drawable="camera" />
-	<item drawable="chrome" />
-	<item drawable="danganronpa" />
 	<item drawable="delta" />
-	<item drawable="duckduckgo" />
-	<item drawable="duolingo" />
-	<item drawable="easyrpg" />
-	<item drawable="facebook" />
-	<item drawable="fancade" />
-	<item drawable="folder_blue" />
-	<item drawable="garage_bad_dream_adventure" />
-	<item drawable="hago" />
-	<item drawable="icedrive" />
-	<item drawable="jetaudio" />
-	<item drawable="kanade" />
-	<item drawable="king_of_theives" />
-	<item drawable="larnu" />
-	<item drawable="last_fm" />
-	<item drawable="lynx_launcher" />
-	<item drawable="mastodon" />
-	<item drawable="nekogramx" />
-	<item drawable="ooni_probe" />
-	<item drawable="phone" />
-	<item drawable="quick_calculation" />
-	<item drawable="radiant" />
-	<item drawable="robotek" />
-	<item drawable="rooms_of_doom" />
-	<item drawable="schildichat" />
-	<item drawable="spotify" />
-	<item drawable="truist" />
-	<item drawable="twitter" />
-	<item drawable="twitter_lite" />
-	<item drawable="vysor" />
-	<item drawable="wallcanic_walls" />
-	<item drawable="world_of_goo" />
-	<item drawable="xash_three_d_fwgs" />
-	<item drawable="xenowerk" />
-	<item drawable="xposed_installer" />
-	<item drawable="yubo" />
-	<item drawable="zee5" />
-	<item drawable="zoysii" />
 
 	<category title="Alts" />
-	<item drawable="aosp_mail" />
+	<item drawable="_1password_alt_1" />
+	<item drawable="bromite_alt_1" />
+	<item drawable="music_alt_1" />
+	<item drawable="music_alt_2" />
+	<item drawable="music_alt_3" />
+	<item drawable="music_alt_4" />
+	<item drawable="music_alt_5" />
 
 	<category title="Calendar" />
 	<item drawable="aosp_mail" />
@@ -75,20 +30,58 @@
 	<item drawable="aosp_mail" />
 	<item drawable="browser" />
 	<item drawable="camera" />
+	<item drawable="music" />
 	<item drawable="phone" />
 
 	<category title="#" />
 	<item drawable="_0h_h1" />
 	<item drawable="_0h_n0" />
 	<item drawable="_1_second_everyday" />
+	<item drawable="_1by1" />
+	<item drawable="_1dm" />
+	<item drawable="_1dm_plus" />
+	<item drawable="_1gallery" />
+	<item drawable="_1list" />
+	<item drawable="_1lyrics" />
+	<item drawable="_1money" />
+	<item drawable="_1more_music" />
+	<item drawable="_1password" />
+	<item drawable="_1tap_cleaner" />
+	<item drawable="_1weather" />
+	<item drawable="_1xbet" />
+	<item drawable="_2_3_4_player_mini_games" />
+	<item drawable="_2_player_games" />
+	<item drawable="_2b" />
+	<item drawable="_2do" />
+	<item drawable="_2ememain" />
+	<item drawable="_2fas" />
+	<item drawable="_2gis" />
+	<item drawable="_3c_aio_toolbox" />
+	<item drawable="_3c_app_manager" />
+	<item drawable="_3c_task_manager" />
+	<item drawable="_3d_compass_plus" />
+	<item drawable="_3d_geeks" />
+	<item drawable="_3d_geeks_premium" />
+	<item drawable="_3d_model_viewer" />
+	<item drawable="_3d_pinball_space_cadet" />
+	<item drawable="_3dlut_mobile" />
+	<item drawable="_3dmark" />
 	<item drawable="_8bitme" />
+	<item drawable="_8vim_keyboard" />
+	<item drawable="_10_bit_clock_widget" />
+	<item drawable="_1010" />
+	<item drawable="_1010_color" />
+	<item drawable="_1010_klooni" />
 
 	<category title="A" />
+	<item drawable="aliucord" />
 	<item drawable="angry_birds" />
 
 	<category title="B" />
 	<item drawable="bendy_and_the_ink_machine" />
 	<item drawable="black_desert_mobile" />
+	<item drawable="bluecord" />
+	<item drawable="bromite" />
 
 	<category title="C" />
 	<item drawable="aosp_mail" />
@@ -96,11 +89,13 @@
 	<category title="D" />
 	<item drawable="danganronpa" />
 	<item drawable="delta" />
+	<item drawable="discord" />
 	<item drawable="duckduckgo" />
 	<item drawable="duolingo" />
 
 	<category title="E" />
 	<item drawable="easyrpg" />
+	<item drawable="edem_rf" />
 
 	<category title="F" />
 	<item drawable="facebook" />
@@ -108,6 +103,8 @@
 
 	<category title="G" />
 	<item drawable="garage_bad_dream_adventure" />
+	<item drawable="gcstar" />
+	<item drawable="gcstar_scanner" />
 
 	<category title="H" />
 	<item drawable="hago" />
@@ -116,11 +113,14 @@
 	<item drawable="icedrive" />
 
 	<category title="J" />
+	<item drawable="jelly_defense" />
 	<item drawable="jetaudio" />
 
 	<category title="K" />
 	<item drawable="kanade" />
 	<item drawable="king_of_theives" />
+	<item drawable="kleptocats" />
+	<item drawable="kleptocats_2" />
 
 	<category title="L" />
 	<item drawable="larnu" />
@@ -129,9 +129,14 @@
 
 	<category title="M" />
 	<item drawable="mastodon" />
+	<item drawable="microtrip" />
+	<item drawable="mimo" />
+	<item drawable="mystic_mansion" />
 
 	<category title="N" />
 	<item drawable="nekogramx" />
+	<item drawable="newpipe" />
+	<item drawable="newpipe_legacy" />
 
 	<category title="O" />
 	<item drawable="ooni_probe" />
@@ -157,9 +162,10 @@
 	<item drawable="twitter_lite" />
 
 	<category title="U" />
-	<item drawable="aosp_mail" />
+	<item drawable="ubank" />
 
 	<category title="V" />
+	<item drawable="vendetta" />
 	<item drawable="vysor" />
 
 	<category title="W" />
@@ -176,5 +182,7 @@
 
 	<category title="Z" />
 	<item drawable="zee5" />
+	<item drawable="zorbi" />
 	<item drawable="zoysii" />
+	<item drawable="zulip" />
 </resources>

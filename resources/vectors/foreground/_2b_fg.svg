@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 272 272"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="_2b_fg.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="272"
+   height="272">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview18"
+     showgrid="true"
+     inkscape:zoom="2.9945397"
+     inkscape:cx="36.204625"
+     inkscape:cy="208.78711"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid827"
+       spacingx="4"
+       spacingy="4" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+    <style
+       id="style818">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #f8c18c;
+      }
+
+      .cls-3 {
+        fill: #56595b;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <polygon
+     style="fill:#ffffff"
+     class="cls-1"
+     points="94.45,111.17 48.5,111.17 48.5,88.38 84.84,88.38 84.74,85.09 48.5,85.09 48.5,75.57 94.45,75.57 94.45,97.83 58.11,97.83 58.11,101.29 94.45,101.29 "
+     id="polygon824"
+     transform="translate(40,40)" />
+  <polygon
+     style="fill:#ffffff"
+     class="cls-1"
+     points="133.07,118.31 48.5,118.31 48.5,113.73 137,113.73 "
+     id="polygon826"
+     transform="translate(40,40)" />
+  <path
+     style="fill:#f8c18c"
+     inkscape:connector-curvature="0"
+     class="cls-2"
+     d="m 176.64,115.57 h -39.06 v 35.6 h 41.17 l 4.75,-4.85 v -24.15 l -6.86,-6.59 z m -29.38,9.52 h 22.79 v 3.02 h -22.79 z m 26.82,16.2 h -26.82 v -3.45 h 26.82 z"
+     id="path828" />
+</svg>
