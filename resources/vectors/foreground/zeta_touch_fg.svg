@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 272 272"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="zeta_touch.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="272"
+   height="272">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview18"
+     showgrid="true"
+     inkscape:zoom="14.359021"
+     inkscape:cx="116.49825"
+     inkscape:cy="139.11512"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid827"
+       spacingx="4"
+       spacingy="4" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.a{fill:none;stroke:#b1b5bd;stroke-linecap:round;stroke-linejoin:round;isolation:isolate;opacity:0.63;}</style>
+  </defs>
+  <path
+     style="fill:#f8c18c;stroke-width:0.51024908"
+     inkscape:connector-curvature="0"
+     d="m 148.64035,143.99502 c -1.17867,17.52706 -6.12299,30.68128 -12.06739,30.68128 -6.81182,0 -12.33272,-17.34847 -12.33272,-38.7279 0,-21.37944 5.5209,-38.727911 12.31231,-38.727911 a 4.6738818,4.6738818 0 0 1 2.6533,0.908244 6.8526454,6.8526454 0 1 0 5.68417,-3.000265 6.7403906,6.7403906 0 0 0 -1.25011,0.117357 c -2.14305,-2.668603 -4.53611,-4.19935 -7.08736,-4.19935 -9.2151,0 -16.70045,20.103815 -16.70045,44.901925 0,24.7981 7.48535,44.90192 16.70045,44.90192 8.16399,0 15.00132,-15.81773 16.44023,-36.67161 a 16.552481,16.552481 0 0 1 -4.35243,-0.18369 z"
+     id="path818" />
+  <path
+     style="fill:#f8c18c;stroke-width:0.51024908"
+     inkscape:connector-curvature="0"
+     d="m 123.36261,142.49999 c -14.59312,-9.78657 -23.507174,-20.65488 -20.54263,-25.79309 3.40847,-5.89848 21.18555,-2.01038 39.70759,8.67424 18.52204,10.68461 30.77822,24.14498 27.37486,30.04346 a 4.6993942,4.6993942 0 0 1 -2.11243,1.842 6.8577479,6.8577479 0 1 0 -0.23982,6.39853 7.1434874,7.1434874 0 0 0 0.51025,-1.13786 c 3.40847,-0.51025 5.91379,-1.82669 7.17411,-4.01566 4.59224,-7.9956 -9.04672,-24.53278 -30.52311,-36.93183 -21.47638,-12.39905 -42.6211,-15.95549 -47.238858,-7.95988 -4.081993,7.09246 6.189318,20.8947 23.542898,32.5743 a 16.327971,16.327971 0 0 1 2.34714,-3.69421 z"
+     id="path820" />
+  <path
+     style="fill:#f8c18c;stroke-width:0.51024908"
+     inkscape:connector-curvature="0"
+     d="m 137.29751,121.35527 c 15.7667,-7.74558 29.63527,-10.0315 32.60492,-4.89329 3.38806,5.89848 -8.85792,19.34865 -27.37486,30.04347 -18.51694,10.69482 -36.29912,14.58292 -39.70759,8.67423 a 4.6687793,4.6687793 0 0 1 -0.53576,-2.75024 6.8577479,6.8577479 0 1 0 -5.423947,-3.40846 7.0618475,7.0618475 0 0 0 0.724554,1.0205 c -1.260315,3.20436 -1.37257,6.03624 -0.112255,8.22521 4.617758,7.9956 25.772678,4.42896 47.249068,-7.97009 21.47638,-12.39905 35.14085,-28.93623 30.5231,-36.93183 -4.08199,-7.09246 -21.18554,-5.10249 -39.97802,4.08199 a 16.557583,16.557583 0 0 1 2.03079,3.90851 z"
+     id="path822" />
+  <circle
+     style="fill:#ffffff;stroke-width:0.51024908"
+     cx="136.0423"
+     cy="135.94839"
+     r="9.0671263"
+     id="circle824" />
+</svg>

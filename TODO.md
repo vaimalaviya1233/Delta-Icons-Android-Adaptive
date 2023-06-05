@@ -43,6 +43,6 @@ Ported Icons
 - [ ] W
 - [ ] X
 - [ ] Y
-- [ ] Z
+- [x] Z
 
 - [ ] Check main repo one last time for new icons before release
