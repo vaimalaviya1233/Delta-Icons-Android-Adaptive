@@ -15,6 +15,7 @@
 	<item drawable="music_alt_3" />
 	<item drawable="music_alt_4" />
 	<item drawable="music_alt_5" />
+	<item drawable="zello_alt_1" />
 
 	<category title="Calendar" />
 	<item drawable="aosp_mail" />
