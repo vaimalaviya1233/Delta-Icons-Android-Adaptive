@@ -67,6 +67,19 @@ dependencies {
      * If you've missed some versions you've to also follow update guide for those versions
      */
 
-	playImplementation 'com.github.zixpo:candybar:3.17.3'
+	playImplementation 'com.github.zixpo:candybar:3.17.5'
 	fossImplementation 'com.github.Donnnno:candybar-foss:3.17.3'
+}
+task copyXMLs{
+	['appfilter.xml', 'drawable.xml'].each {file ->
+		copy {
+			from "$projectDir/src/main/res/xml/$file"
+			into "$projectDir/src/main/assets/"
+		}
+	}
+}
+tasks.whenTaskAdded { task ->
+	if (task.name == 'assembleDebug' || task.name == 'assembleRelease') {
+		task.dependsOn copyXMLs
+	}
 }
