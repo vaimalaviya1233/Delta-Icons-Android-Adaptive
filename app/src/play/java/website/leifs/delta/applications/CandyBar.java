@@ -1,10 +1,17 @@
 package website.leifs.delta.adaptive.applications;
 
 import androidx.annotation.NonNull;
+import website.leifs.delta.adaptive.R;
 import candybar.lib.applications.CandyBarApplication;
 
 public class CandyBar extends CandyBarApplication {
-
+    
+    @NonNull
+    @Override
+    public Class<?> getDrawableClass() {
+        return R.drawable.class;
+    }
+    
     @NonNull
     @Override
     public Configuration onInit() {
